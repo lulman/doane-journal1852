@@ -135,9 +135,7 @@
             <p><a name="view"/>Text on this page is derived from the TEI Header element of the
                edition's XML source document, SSCoxJournal.xml.</p>
             <hr/>
-            <p>&#x2192; Link to the <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_reading"
-                  >text of the journal</a>
+            <p>&#x2192; Link to the text of the journal coming soon.
             </p>
          </body>
       </html>
@@ -154,9 +152,9 @@
       <hr/>
       <a name="source"/>
       <h2>About the Source Document</h2>
-      <p>Title: "<xsl:value-of select="tei:titleStmt/tei:title"/>" <br/>Author: <xsl:value-of
-         select="tei:titleStmt/tei:author"/>
-         <br/>Extent: <xsl:value-of select="tei:extent"/>
+      <p>Title: "<xsl:value-of select="//tei:biblFull/tei:titleStmt/tei:title"/>" <br/>Author: <xsl:value-of
+         select="//tei:biblFull/tei:titleStmt/tei:author"/>
+         <br/>Extent: <xsl:value-of select="//tei:biblFull/tei:extent"/>
       </p>
          <xsl:apply-templates/>
       <p>
@@ -281,12 +279,9 @@
    </xsl:template>
    <xsl:template match="tei:name">
       <xsl:apply-templates/>
-      <br/>
    </xsl:template>
    <xsl:template match="tei:name[@type='ship']">
-      <i>
-         <xsl:apply-templates/>
-      </i>
+      <i><xsl:apply-templates/></i>
    </xsl:template>
    <xsl:template match="tei:foreign">
       <i>
@@ -333,7 +328,37 @@
    </xsl:template>
    <xsl:template match="tei:title[@level='a']">"<xsl:apply-templates/>"</xsl:template>
    <xsl:template match="tei:title[@level='m']"><cite><xsl:apply-templates/></cite></xsl:template>   
-   
+   <xsl:template match="tei:date">
+      <xsl:apply-templates/>
+   </xsl:template>
+
+   <!-- LINK OR EMBED IMAGES AND OTHER NON-TEXTUAL MATERIALS -->
+   <xsl:template match="tei:figure[@rend='link']"> 
+      <a>
+         <xsl:attribute name="HREF">
+            <xsl:value-of select="tei:graphic/@url"/>
+         </xsl:attribute>
+         <xsl:attribute name="alt">
+            <xsl:value-of select="tei:figDesc"/>
+         </xsl:attribute>
+         <xsl:attribute name="target">blank</xsl:attribute>
+         <xsl:value-of select="tei:head"/>
+      </a></xsl:template>
+   <xsl:template match="tei:figure[@rend='embed']">
+      <div class="fl_img_right">
+         <img>
+            <xsl:attribute name="src">
+               <xsl:value-of select="tei:graphic/@url"/>
+            </xsl:attribute>
+            <xsl:attribute name="alt">
+               <xsl:value-of select="tei:figDesc"/>
+            </xsl:attribute>
+         </img>
+         <br/>
+         <xsl:value-of select="tei:head"/>
+      </div>
+   </xsl:template> 
+  
    <!-- Suppress some unused elements in the XML file. -->
    <xsl:template match="tei:text"/>
    <xsl:template match="tei:editor"/>
@@ -345,6 +370,5 @@
    <xsl:template match="tei:idno"/>
    <xsl:template match="tei:publisher"/>
    <xsl:template match="tei:pubPlace"/>
-   <xsl:template match="tei:date"/>
    <xsl:template match="tei:availability/tei:p[@xml:id='CreativeCommons']"/>
 </xsl:stylesheet>
