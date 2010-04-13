@@ -2315,12 +2315,13 @@
                    to <add place="below"><choice><sic>Westard</sic><corr>Westward</corr></choice></add>.
                 </p>
               </div>
+       </div>
            <pb facs="a/ab2dcb19-0b23-4766-8d8a-d42664d73c49"/>
            <pb facs="f/f0b3df70-9376-4000-b205-ae5a23a6256c"/>
-
    <!-- Dawn Lunsford's section begins here. -->
    
            <pb facs="/0/044b2a40-c549-4a71-81c1-b2b5355bc738"/>
+       <div type="voyage" xml:id="NY2Peru">
            <div type="Entry" xml:id="Doane18520805a">
               <dateline> <placeName ref="#NYC">New York Harbour</placeName> <date when="1852-08-05"> Thursday August 5</date></dateline>
             <lb/>
@@ -2906,7 +2907,7 @@
          <lb/>along side A Gentleman came on Board and 
          <lb/>Introduce <choice><orig>himselfe</orig><reg>himself</reg></choice> as <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Taber</persName>
          <pb facs="/2/2b75602c-86d6-4605-8727-77f2697764a5"/>
-         <lb/><name type="ship">Ship Thomas Dickerson</name> of <placeName>New Bedford</placeName>
+         <lb/><name type="ship">Ship Thomas Dickerson</name> of <placeName ref="#NB">New Bedford</placeName>
          <lb/>and found he was a near Neighbor to us
          <lb/>he said <said direct="false" aloud="true">he had some thing in boat if
             <lb/>we would accept of them we were welcome
@@ -3782,20 +3783,39 @@
             <lb/><said aloud="true" direct="false">he did and he would come out when he
                <lb/>pleased</said> then he was put in his room and slates
             <lb/>nailed <choice><sic>acroosed</sic><corr>acrossed</corr></choice> the door to prevent his coming
-            <lb/>out and a watch <choice><sic>keept</sic><corr>kept</corr></choice> over him <choice><sic>throught</sic><corr>throughout</corr></choice> the
+            <lb/>out and a watch <choice><sic>keept</sic><corr>kept</corr></choice> over him 
+            <choice><sic>throught</sic><corr>throughout</corr></choice> the
             <lb/>night
          </p>
-      </div>    
+      </div>
+      <div type="Entry" xml:id="Doane18530111a">
+         <lb/><dateline><date when="1853-01-11"></date><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 11th</dateline>
+         <p>
+            <lb/>This morning <rs ref="#END">father</rs> has been on
+            <lb/>shore to see what can be done with Calvine
+            <lb/>The american <choice><sic>Council</sic><corr>Consul</corr></choice> says he can be discharged
+            <lb/>without a cents wages and keept in Irons on
+            <lb/>board the vessel untill we leave or he can
+            <lb/>put him in Prison. has been on board of
+            <lb/>the American <choice><sic>Manawar</sic><corr>man-of-war</corr></choice>, 
+            The <choice><sic>Captian</sic><corr>Captain</corr></choice> says he will
+            <lb/>take him if he was willing to go but he could
+            <lb/>not <choice><orig>oblidge</orig><reg>oblige</reg></choice> him to go Father gave him his
+            <lb/>choice whether to go in Prison or go on board of
+            <lb/>the <choice><sic>Manawar</sic><corr>man-of-war</corr></choice> he chose the latter they have
+         </p>
+      </div>      
    </div>
-     </div>
+</div>
    </body>
       <back>
          <div type="editorial">
             <head>Places Mentioned in the Text</head>
             <listPlace>
                <place type="coordinates" xml:id="NCHorn">
-                  <placeName>[Ship's position]</placeName>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <placeName>[Ship's position on 20 Nov. 1852]</placeName>
+                  <desc>Doane records this position on the outbound leg of the voyage from New York
+                     to Peru during a period of fair winds after three weeks of gale.</desc>
                   <location><geo>-50.32 -79.21</geo></location>
                </place>
             </listPlace>
@@ -3810,14 +3830,17 @@
                   <placeName>New Bedford</placeName>
                   <country>United States of America</country>
                   <region>Massachusetts</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc>Home port of the ship Thomas Dickerson, which the Commonwealth met at
+                     sea on 3 Oct. 1852.</desc>
                   <location><geo>41.6667 -70.9167</geo></location>
                </place>
                <place type="nation" xml:id="CV">
                   <placeName>Cape Verdes</placeName>
                   <country>Cape Verdes</country>
                   <region>Africa</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc>One of the ports of call of the ship Thomas Dickerson, which the
+                     Commonwealth met at sea on 3 Oct. 1852. The Cape Verde islands lie about 450 km. off the west coast
+                     of Africa in the mid-Atlantic Ocean.</desc>
                   <location><geo>16.0000 -24.0000</geo></location>
                </place>
                <place type="inhabited-place" xml:id="Provincetown" source="#TGN">
