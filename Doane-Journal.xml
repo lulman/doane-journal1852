@@ -1,13 +1,10 @@
 <?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
-<!-- A sample change to the sample change that was already made -->   
-<!-- Annie's sample change -->
 <!--
       The type attribute in teiHeader element above indicates that the header provides 
       enough information to create a bibliographic record that complies with the 
       Anglo-American Cataloguing Rules, 2nd ed. (1978; rev. 1988).
 -->
-   <!-- oh hai, here is mah coment for teh journal testin -->
    <teiHeader type="AACR2">
       <!--
          The  file description tagged <fileDesc>, contains "a full bibliographical description 
