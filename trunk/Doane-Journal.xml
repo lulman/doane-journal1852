@@ -1,6 +1,7 @@
 <?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
-   <!--
+<!-- A sample change -->   
+<!--
       The type attribute in teiHeader element above indicates that the header provides 
       enough information to create a bibliographic record that complies with the 
       Anglo-American Cataloguing Rules, 2nd ed. (1978; rev. 1988).
@@ -1121,6 +1122,7 @@
                   <education>PhD, The Pennsylvania State University (1985)</education>
                   <occupation>College Professor</occupation>
                   <nationality>U.S.A.</nationality>
+                  <note type="biographical">Biographical note about H. Lewis Ulman</note>
                </person>
                <person xml:id="ASM">
                   <persName >Mendenhall, Annie S.</persName>
