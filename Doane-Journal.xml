@@ -1348,7 +1348,8 @@
             </p>
          </div>
          <div type="Entry" xml:id="Doane18520211a">
-            <lb/><dateline><date when="1852-02-11">Wendesday 11</date>.</dateline>
+            <!-- Cate is testing out the nifty SVN :) -->
+            <lb/> <dateline><date when="1852-02-11">Wendesday 11</date>.</dateline>
             <p>
                This is much the same weather as
                <lb/><add place="above" rend="caret">yesterday</add> <choice><abbr>altho</abbr><expan>although</expan></choice>
