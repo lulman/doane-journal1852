@@ -1109,6 +1109,14 @@
                   <persName>W.H. Foster</persName>
                   <occupation>Ship Builder</occupation>
                </person>
+               <person xml:id="Crawford">
+                  <persName>Captain Crawford</persName>
+                  <occupation>Ship's Captain</occupation>
+               </person>
+               <person xml:id="White">
+                  <persName>Captain White</persName>
+                  <occupation>Ship's Captain</occupation>
+               </person>
             </listPerson>
             <listPerson type="editors">
                <person xml:id="HLU">
@@ -3790,8 +3798,9 @@
             <lb/>night
          </p>
       </div>
+      <!-- Currently working from this point forward: HLU. -->
       <div type="Entry" xml:id="Doane18530111a">
-         <lb/><dateline><date when="1853-01-11"></date><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 11th</dateline>
+         <lb/><dateline><date when="1853-01-11"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 11th</date></dateline>
          <p>
             <lb/>This morning <rs ref="#END">father</rs> has been on
             <lb/>shore to see what can be done with Calvine
@@ -3818,6 +3827,20 @@
             <lb/>and several old basket and <unclear/> which was
             <lb/><choice><sic>there</sic><corr>their</corr></choice> furniture and a mat they sat on
          </p>
+      </div> 
+      <div type="Entry" xml:id="Doane18530113a">
+         <lb/><dateline><date when="1853-01-13">Thursday 13th</date></dateline>
+         <p>
+            <lb/>A very <choice><orig>pleasent</orig><reg>pleasant</reg></choice> day
+            <persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice> Craw<seg type="softhyphen">-
+            <lb/></seg>ford</persName> of the Ship <name type="ship">Ottawa</name> has been on board an
+            <lb/>Englishman. The English Ship <name type="ship">David</name> has arrived
+            <lb/>from <placeName ref="#Cardiff">Cardiff</placeName> passage 180 days after dinner an
+            <lb/>American <persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice> 
+            <add place="above">White</add></persName> came on board the only
+            <choice><abbr>amican</abbr><expan>American</expan></choice>
+            <lb/>there is here
+         </p>
       </div>      
    </div>
 </div>
@@ -3826,6 +3849,12 @@
          <div type="editorial">
             <head>Places Mentioned in the Text</head>
             <listPlace>
+               <place type="city" xml:id="Cardiff">
+                  <placeName>Cardiff</placeName>
+                  <country>United Kingdom</country>
+                  <desc>A city on the Bristol Channel, Wales.</desc>
+                  <location><geo>51.5000 -3.1667</geo></location>
+               </place>
                <place type="coordinates" xml:id="NCHorn">
                   <placeName>[Ship's position on 20 Nov. 1852]</placeName>
                   <desc>Doane records this position on the outbound leg of the voyage from New York
