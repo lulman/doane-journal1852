@@ -3841,6 +3841,38 @@
             <choice><abbr>amican</abbr><expan>American</expan></choice>
             <lb/>there is here
          </p>
+      </div>
+      <div type="Entry" xml:id="Doane18530114a">
+            <lb/><dateline><date when="1853-01-14">Friday 14th</date>,</dateline><p>
+            <choice><orig>Pleasent</orig><reg>Pleasant</reg></choice> day 
+            <persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice> 
+            White</persName> and our<seg type="softhyphen">-
+            <lb/></seg>selves took our <choice><sic>sails</sic><corr>sail</corr></choice> boat and went sailing
+            <lb/>sailed <choice><sic>closed</sic><corr>close</corr></choice> in to the town 
+            landed on a beach
+            <lb/>went up to a house got some
+            <choice><sic>Coanuts</sic><corr>Coconuts</corr></choice> and
+            <lb/>shells walked back in the woods but saw
+            <pb facs="/0/002bcd0c-d459-4f8f-b051-215e5df09d62"/>
+            <lb/>nothing
+         </p>
+      </div>
+      <div type="Entry" xml:id="Doane18530116">
+         <lb/><dateline><date when="1853-01-16">Sunday 16th</date></dateline>
+         <p>
+            <lb/>This morning First and Second
+            <lb/>Mates and some of the Crew have gone on shore
+            <lb/><persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice> 
+            White</persName> has been on board and taken
+            <lb/>dinner with us, This afternoon the Second Mate
+            <lb/>has been on board and quite drunk came off
+            <lb/>in a Canoe and fell overboard twice coming
+            <lb/>off changed his <choice><sic>cloths</sic><corr>clothes</corr></choice>
+            and went on shore again
+            <lb/>sent the boat on shore at night to get the
+            <lb/>men only 4 came out of eight and <choice><abbr>neith</abbr><expan>neither</expan></choice> of
+            <lb/>the Mates.
+         </p>
       </div>      
    </div>
 </div>
