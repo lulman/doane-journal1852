@@ -521,10 +521,8 @@
                            <sic>to to</sic>
                            <corr>to </corr>
                         </choice>us, as we have been out forty three days, and  have seen nothing
-                        but sky and water, and a  great deal of <choice>
-                           <orig>ruff </orig>
-                           <reg>rough </reg>
-                        </choice>weather." <persName ref="#HS">Springer</persName> identifies this
+                        but sky and water, and a  great deal of <distinct type="archaicorthography"><choice><orig>ruff </orig><reg>rough </reg>
+                        </choice></distinct>weather." <persName ref="#HS">Springer</persName> identifies this
                         "longing for other women" as a primary trope in the captain's wives journals
                         that comprise his study. Imagine the relief even further into <persName
                            ref="#LAD">her</persName> voyage, when the <persName ref="#LAD #ATD"
@@ -581,10 +579,9 @@
                         pity. When her father upbraids a sailor for asking for more potatoes with
                         his beef on March 3, 1852, Doane "is most sorry for them." She learns to respect
                         the practical hardships of seafaring for these working men during a harsh
-                        storm on November 10, <q rend="block">the  poor sailors <choice>
-                              <orig>looke beatten</orig>
-                              <reg>look beaten</reg>
-                           </choice> and tired out and they have to be out on Deck <choice>
+                        storm on November 10, <q rend="block">the  poor sailors <distinct type="archaicorthography"><choice>
+                           <orig>looke</orig><reg>look</reg></choice></distinct> <choice><sic>beatten</sic><corr>beaten</corr></choice>
+                            and tired out and they have to be out on Deck <choice>
                               <sic>weathre</sic>
                               <corr>weather</corr>
                            </choice> it  all and the sea is washing over us I pity  them. I wish the
@@ -621,9 +618,9 @@
                         first entries upon arriving in <placeName ref=
                            "#Marseille">Marseille </placeName>focus on food and lodging. She carefully describes 
                         their boarding house, and provides long lists of what was served to them at mealtimes: 
-                        <q rend="block">I will now tell you what we had for dinner, beef soup <orig>
-                           rost </orig>turkey, <orig>rost </orig>beef, boiled lamb, stew<supplied reason="omitted" resp="ed">ed 
-                           </supplied>chickens, potatoes, and <orig>spinage</orig>, for <sic>desert </sic>pie, 
+                        <q rend="block">I will now tell you what we had for dinner, beef soup <distinct type="archaicorthography"><choice><orig>
+                           rost </orig><reg>roast</reg></choice></distinct>turkey, <distinct type="archaicorthography"><choice><orig>rost </orig><reg>roast </reg></choice></distinct>beef, boiled lamb, stew<supplied reason="omitted" resp="ed">ed 
+                           </supplied>chickens, potatoes, and <distinct type="archaicorthography"><choice><orig>spinage</orig><reg>spinach</reg></choice></distinct>, for <choice><sic>desert </sic><corr>dessert</corr></choice>pie, 
                            oranges, apples, pears, figs, for tea we had preserved beef, boiled ham, fresh 
                            pork, white bread, butter, olives, stew<supplied reason="omitted" resp="ed">ed 
                            </supplied>pears, frosted cake, and then the fruit <add place="above">as </add>
@@ -651,7 +648,7 @@
                         at sea when she wistfully observes women on-board a passing ship: <q>"we saw there
                            were two ladies on board, which was quite a party <sic>to to </sic>us, 
                            as we have been out forty three days, and have seen nothing but 
-                           sky and water, and a great deal of <orig>ruff </orig>
+                           sky and water, and a great deal of <distinct type="archaicorthography"><choice><orig>ruff </orig><reg>rough</reg></choice></distinct>
                            weather" </q>(21 March 1852).</p>
                      <p>Whether or not <persName ref="#LAD">Doane</persName> 
                         did think of herself as a young holiday-maker in France,
@@ -1307,7 +1304,7 @@
                in protest <bibl><ref target="#Quarantine"><title level="a">Barring Out Epidemics</title></ref></bibl></note> It has commenced 
                <lb/>raining very hard therefore there is no telling
                <lb/>when we shall get to sea. The Pilot is on 
-               <lb/>board and will remain <choice><orig>untill</orig><reg>until</reg></choice> we leave 
+               <lb/>board and will remain <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> we leave 
                <lb/>the harbor, Two of the sailors are drunk 
                <lb/>and have gone below.
             </p>
@@ -1319,7 +1316,7 @@
                <lb/>we got under way with a fresh breeze 
                <lb/>from the <choice><sic>Westard</sic><corr>Westward</corr></choice> which is fair for us The 
                <lb/>Pilot left at eleven oclock, I took my 
-               <lb/>book and lead <choice><orig>pincel</orig><reg>pencil</reg></choice> and sat down to 
+               <lb/>book and lead <distinct type="archaicorthography"><choice><orig>pincel</orig><reg>pencil</reg></choice></distinct> and sat down to 
                <lb/>write my journal the <term target="#Mate">first mate</term> came along 
                <lb/>and says <said aloud="true" direct="true">here is a gold pencil and pen 
                <lb/>which I will give you it will be much 
@@ -1335,7 +1332,7 @@
                <lb/>sat down and <add place="above" rend="caret">went</add>
                to work on some fancy work but
                <lb/>did not remain so long before the wind came
-               <lb/>ahead and made it very <choice><orig>ruff</orig><reg>rough</reg></choice>
+               <lb/>ahead and made it very <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>
                yesterday I was                
                <lb/>seasick and unable to write.
             </p>
@@ -1363,10 +1360,10 @@
                <lb/><add place="above" rend="caret">yesterday</add> <choice><abbr>altho</abbr><expan>although</expan></choice>
                the wind is fair we are sailing seven miles
                <lb/>and a half an hour, last night it was a very
-               <lb/><choice><orig>ruff</orig><reg>rough</reg></choice> and tedious with
+               <lb/><distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct> and tedious with
                a heavy wind and squalls,
                <lb/>and a number of dishes broken, I think we shall
-               <lb/>have another <choice><orig>ruff</orig><reg>rough</reg></choice> night,
+               <lb/>have another <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct> night,
                my time <add place="above" rend="caret">is occupied</add> in reading I
                <lb/>have not been on deck today, they are now
                <lb/>taking in some sail, it commences breezing,
@@ -1381,12 +1378,12 @@
                almost a gale, thursday
                <lb/>at half past eight oclock in the evening we hove
                <lb/><choice><sic>too</sic><corr>to</corr></choice> and remain so 
-               <choice><orig>untill</orig><reg>until</reg></choice> morning, friday morning
+               <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> morning, friday morning
                <lb/>at six oclock lost our stern boat and davits
                <lb/>and a number of things in the boat such as
                <lb/>cabbages fish beef and a rocking chair,
-               <lb/><rs ref="#ATD">mother</rs> and <choice><orig>myselfe</orig><reg>myself</reg></choice> were a little seasick,
-               <lb/>have not been <choice><orig>untill</orig><reg>until</reg></choice> today.
+               <lb/><rs ref="#ATD">mother</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> were a little seasick,
+               <lb/>have not been <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> today.
             </p>
          </div>
          <div type="Entry" xml:id="Doane18520215a">
@@ -1400,7 +1397,7 @@
                <lb/>to heave <choice><sic>too</sic><corr>to</corr></choice> soon, 
                if it does not subside, we
                <lb/>have now been out eight days and have
-               <lb/>had not a <choice><orig>pleasent</orig><reg>pleasant</reg></choice> day as yet, which is
+               <lb/>had not a <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day as yet, which is
                <lb/>very <choice><sic>discourageing</sic><corr>discouraging</corr></choice>, 
                the poor sailors are keep
                <lb/>wet, all the time as there is a heavy sea,
@@ -1415,7 +1412,7 @@
          <div type="Entry" xml:id="Doane18520216a">
             <lb/><dateline><date when="1852-02-16">Monday 16</date></dateline>
             <p>
-               This is quite a <choice><orig>pleasent</orig><reg>pleasant</reg></choice> day we
+               This is quite a <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day we
                <lb/>have laid <choice><sic>too</sic><corr>to</corr></choice> under small piece of sail
                <lb/>all night, and this morning at eight
                <lb/>oclock we set sail with a fair wind, I
@@ -1447,10 +1444,10 @@
             <p>
                The wind is just so we can
                <lb/>lay our course, with a very head sea and
-               <lb/><choice><orig>unpleasent</orig><reg>unpleasant</reg></choice> weather with rain squalls, we are
+               <lb/><distinct type="archaicorthography"><choice><orig>unpleasent</orig><reg>unpleasant</reg></choice></distinct> weather with rain squalls, we are
                <lb/>one hundred miles south of the <geogName ref="#GBank">Grand bank</geogName>,
-               <lb/>we cannot expect very <choice><orig>pleasent</orig><reg>pleasant</reg></choice> weather so
-               <lb/>far north, this morning saw a <choice><orig>Brigg</orig><reg>brig</reg></choice> standing
+               <lb/>we cannot expect very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> weather so
+               <lb/>far north, this morning saw a <distinct type="archaicorthography"><choice><orig>Brigg</orig><reg>brig</reg></choice></distinct> standing
           <pb facs="/8/8c49aa94-af5e-4fd1-a01f-1c482c3e73c4"/>
                <lb/>north, I have just been making bread,
             </p>
@@ -1472,7 +1469,7 @@
             <p>This is a wet foggy morning, but
                <lb/>what wind there is is fair, yesterday the wind
                <lb/>was asouth as <choice><sic>useaul</sic><corr>usual</corr></choice>
-               and very <choice><orig>ruff</orig><reg>rough</reg></choice>, last night
+               and very <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>, last night
                <lb/>at two oclock we hove <choice><sic>too</sic><corr>to</corr></choice> 
                <choice><sic>agian</sic><corr>again</corr></choice>, which make
                <lb/>three times, it is now raining, <rs ref="#ATD">mother</rs> has
@@ -1488,7 +1485,7 @@
                <lb/>squall, and change of wind, and with
                <lb/>it a whirlwind, which just cleared our
                <lb/>stern, there was great confusion, <rs ref="#ATD">mother</rs> and
-               <lb/><choice><orig>myselfe</orig><reg>myself</reg></choice> did not see it, 
+               <lb/><distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> did not see it, 
                <choice><sic>supposeing</sic><corr>supposing</corr></choice> it to be
                <lb/>nothing more than a squall, we are now
             <pb facs="/7/7260e0fe-0e92-4d8d-8516-18faac57bda9"/>
@@ -1500,7 +1497,7 @@
          <div type="Entry" xml:id="Doane18520223a">
             <lb/><dateline><date when="1852-02-23">Monday 23</date></dateline>
             <p>The wind has been fair all day,
-               <lb/><choice><orig>untill</orig><reg>until</reg></choice> now and what there is is ahead for
+               <lb/><distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> now and what there is is ahead for
                <lb/>us, <rs ref="#ATD">mother</rs> is reading , we have made but very
                <lb/>little progress this two or three days past.
             </p>
@@ -1509,8 +1506,8 @@
             <lb/><dateline><date when="1852-02-24">
                <choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 24</date></dateline>
             <p>This has been a calm day and not
-               <lb/>any wind to speak <choice><orig>off</orig><reg>of</reg> 
-               </choice>, <rs ref="#ATD">mother</rs> and <choice><orig>myselfe</orig><reg>myself</reg></choice>
+               <lb/>any wind to speak <choice><sic>off</sic><corr>of</corr> 
+               </choice>, <rs ref="#ATD">mother</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct>
                <lb/>have been busy cutting a dress, after dinner
                <lb/>the steward came in and says 
                <said aloud="true" direct="true">now, <rs ref="#END">Captain</rs>
@@ -1531,7 +1528,7 @@
                <lb/>the north quite smooth, so I have been at work
                <lb/>we are within a short distance from the <placeName ref="#Azores">Western
                <lb/>Islands</placeName>, which is more than 
-               <choice><orig>halfe</orig><reg>half</reg></choice> ways to
+               <distinct type="archaicorthography"><choice><orig>halfe</orig><reg>half</reg></choice></distinct> ways to
                <lb/><placeName ref="#Gibraltar">Gibraltar</placeName>, they have just sung out 
                <said aloud="true" direct="true">Porpoises</said>,
                <pb facs="/f/f935bf4f-dbe8-4f0a-9012-571aa6ad7a35"/>
@@ -1554,13 +1551,13 @@
                <lb/>go our course, we are under closed reefed top<seg>
                <lb/></seg>sails, yesterday the wind was ahead also. We
                <lb/>have passed the <placeName ref="#Azores">Western Island</placeName>. it is rather
-               <lb/><choice><orig>ruff</orig><reg>rough</reg></choice>.
+               <lb/><distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>.
             </p>
          </div>
          <div type="Entry" xml:id="Doane18520301a">
             <lb/><dateline><date when="1852-03-01">Monday March 1</date>.</dateline>
             <p>The wind is ahead, which
-               <lb/>is not very <choice><orig>pleasent</orig><reg>pleasant</reg></choice>, 
+               <lb/>is not very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>, 
                the wind has been ahead
                <lb/>for three days. Today we have been making a
                <lb/>chair out of a barrel, it is growing quite
@@ -1571,7 +1568,7 @@
          </div>
          <div type="Entry" xml:id="Doane18520302a">
             <lb/><dateline><date when="1852-03-02"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 2</date></dateline>
-            <p>This has been a <choice><orig>pleasent</orig><reg>pleasant</reg></choice> day, this
+            <p>This has been a <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day, this
                <lb/>more<add place="above">ing</add> the wind was ahead,
                but since dinner
                <lb/>it has changed so we can lay our course, we are
@@ -1588,7 +1585,7 @@
                <lb/>been cleaning the <unclear cert="low" reason="unfamiliar word">petions</unclear> in the cabin and I
                <lb/>have been washing out some pocket handker<seg type="softhyphen">-
                <lb/></seg>chiefs, It is very 
-               <choice><orig>pleasent</orig><reg>pleasant</reg></choice>, have seen two
+               <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>, have seen two
                <lb/>vessel <choice><sic>stering</sic><corr>steering</corr></choice> north, 
                came close to them they
                <lb/>are now out of sight, There is but very little
@@ -1597,8 +1594,8 @@
          </div>
          <div type="Entry" xml:id="Doane18520304a">
             <lb/><dateline><date when="1852-03-04">Thursday. 4</date></dateline>
-            <p>The weather still continues <choice><orig>plea<seg type="softhyphen">-
-               <lb/></seg>sent</orig><reg>plea<seg type="softhyphen">-<lb/></seg>sant</reg></choice> 
+            <p>The weather still continues <distinct type="archaicorthography"><choice><orig>plea<seg type="softhyphen">-
+               <lb/></seg>sent</orig><reg>plea<seg type="softhyphen">-<lb/></seg>sant</reg></choice></distinct> 
                and fair wind <choice><abbr>altho</abbr><expan>although</expan></choice> not much, have
                <lb/>been becalm nearly all night, but
                <add place="above" rend="caret">this</add> afternoon
@@ -1666,12 +1663,12 @@
                <lb/>quite smart, the mate 
                <unclear cert="low"><choice><abbr>ored</abbr><expan>ordered</expan></choice></unclear> 
                the man he had
-               <lb/>the <choice><orig>troble</orig><reg>trouble</reg></choice> with 
+               <lb/>the <distinct type="archaicorthography"><choice><orig>troble</orig><reg>trouble</reg></choice></distinct> with 
                     yesterday, to go and scrape the
                <lb/>mast, he said <said aloud="true" direct="false">he could not not do it</said>, then
                <lb/><rs ref="#END">the Captian</rs> called him aft and told him
                <lb/><said aloud="true" direct="false">to stand there 
-                  <choice><orig>untill</orig><reg>until</reg></choice> he was willing to obey
+                  <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> he was willing to obey
                <lb/>orders</said>, at noon saw a turkle in the water threw
                <lb/>the harpoon but did not succeed in getting
                <lb/>him, there are five vessels in sight.
@@ -1682,7 +1679,7 @@
             <p>It still continues calm last
                <lb/>night the sailor came to the Captain and
                <lb/>said <said aloud="true" direct="false">he wanted to got to work</said> so he went to
-               <lb/>work, I hope we shall have no more <choice><orig>troble</orig><reg>trouble</reg></choice>
+               <lb/>work, I hope we shall have no more <distinct type="archaicorthography"><choice><orig>troble</orig><reg>trouble</reg></choice></distinct>
                <pb facs="/6/6db542b6-7896-4ad1-9c4a-9275bd361f72"/>
                <lb/>for it is very disagreeable, I have been draw<seg type="softhyphen">
                <lb/></seg>ing a pattern to work a pair of cloth slippers,
@@ -1698,7 +1695,7 @@
            <div type="Entry" xml:id="Doane18520312a">
                  <lb/><dateline><date when="1852-03-12">Friday 12 </date></dateline><p>We have been beating with a head
                  <lb/>wind all the morning, but at two oclock
-                 <lb/><choice><sic>halled </sic><corr>hauled </corr></choice>round the yards, <add place="above"><choice><orig>sot </orig><reg>set </reg></choice></add>studding sails with
+                 <lb/><choice><sic>halled </sic><corr>hauled </corr></choice>round the yards, <add place="above"><distinct type="archaicorthography"><choice><orig>sot </orig><reg>set </reg></choice></distinct></add>studding sails with
                  <lb/>a fair wind, and we are now sailing pleas<seg type="softhyphen">-
                  <lb/></seg><choice><sic>ently </sic><corr>antly </corr></choice>through the <geogName ref="#SGib">Straits</geogName>, we are now abreast
                  <lb/>of the town of <placeName ref="#Tarifa">Tarifa</placeName>, there are four vessel
@@ -1718,8 +1715,8 @@
                  <lb/>last night at ten oclock passed <placeName ref="#Gibralter">Gibralter, </placeName>there
                  <lb/>are quite a number of vessel in sight, <rs ref="#ATD">mother</rs> is
                  <lb/>quite unwell with a sick headache, it is so
-                 <lb/><choice><orig>ruff </orig><reg>rough </reg></choice>it is enough to make any one ache,
-                 <lb/>I hardly know where I am <choice><orig>myselfe </orig><reg>myself </reg></choice><choice><sic>somtime</sic><corr>sometimes</corr></choice>,
+                 <lb/><distinct type="archaicorthography"><choice><orig>ruff </orig><reg>rough </reg></choice></distinct>it is enough to make any one ache,
+                 <lb/>I hardly know where I am <distinct type="archaicorthography"><choice><orig>myselfe </orig><reg>myself </reg></choice></distinct><choice><sic>somtime</sic><corr>sometimes</corr></choice>,
                  <lb/>have had a rain shower, the wind is subsid<seg type="softhyphen">-
                  <lb/></seg>ing, so they are making more sail, I have
                  <lb/>been <choice><sic>busey </sic><corr>busy </corr></choice>reading, we are now close to a
@@ -1779,7 +1776,7 @@
                  <lb/>changed last night, have tacked ship several
                  <lb/>times this morning, I noticed one of the chicken  
                  <lb/>was lame, and when <add place="above">we </add>caught them to put them
-                 <lb/>in the hen coop, we found the rats had <choice><orig>eat </orig><reg>eaten </reg></choice>all
+                 <lb/>in the hen coop, we found the rats had <distinct type="archaicorthography"><choice><orig>eat </orig><reg>eaten </reg></choice></distinct>all
                  <lb/>her toes nails off, we have any <choice><sic>quanity </sic><corr>quantity </corr></choice>of them,
                  <lb/>the sailors says there is one all white in the fore<seg type="softhyphen">
                  <lb/></seg>castle, we have just passed an <choice><sic>english</sic><corr>English</corr></choice> brigg
@@ -1787,7 +1784,7 @@
                  <lb/>two ladies on board, which was quite a party <choice><sic>to
                  <lb/>to </sic><corr>to </corr></choice>us, as we have been out forty three days, and
                  <lb/>have seen nothing but sky and water, and a
-                 <lb/>great deal of <choice><orig>ruff </orig><reg>rough </reg></choice>weather, the wind is increasin<seg type="softhyphen">
+                 <lb/>great deal of <distinct type="archaicorthography"><choice><orig>ruff </orig><reg>rough </reg></choice></distinct>weather, the wind is increasin<seg type="softhyphen">
                  <lb/></seg>g, the <rs ref="#END"><choice><sic>Captian </sic><corr>Captain </corr></choice></rs><choice><sic>say </sic><corr>says </corr></choice><said aloud="true" direct="false">we shall have a <choice><sic>windey </sic><corr>windy </corr></choice>
                  <lb/>night,</said>
               </p>
@@ -1827,8 +1824,8 @@
            <div type="Entry" xml:id="Doane18520328a">
                  <lb/><dateline><date when="1852-03-28">Sunday 28</date>. </dateline><p>There is not much wind as <choice><sic>useal</sic><corr>usual</corr></choice>,                 
                  <lb/>she merely lays her course, about <sic>oclock </sic>a spanish
-                 <lb/>steamer came close to us, <choice><orig>sot </orig><reg>set </reg></choice>her <choice><sic>colars</sic><corr>colors</corr></choice>, and we
-                 <lb/><choice><orig>sot </orig><reg>set </reg></choice>ours, she is nearly out of sight, we have tacked
+                 <lb/>steamer came close to us, <distinct type="archaicorthography"><choice><orig>sot </orig><reg>set </reg></choice></distinct>her <choice><sic>colars</sic><corr>colors</corr></choice>, and we
+                 <lb/><distinct type="archaicorthography"><choice><orig>sot </orig><reg>set </reg></choice></distinct>ours, she is nearly out of sight, we have tacked
                  <lb/>ship twice, I have been reading, and out on deck
                  <lb/>most of the day, as it was too <choice><sic>pleasent </sic><corr>pleasant </corr></choice>to stay in the
                  <lb/>house, 
@@ -1845,11 +1842,11 @@
                  <lb/>a long passage, and I am quite tired. We have
                  <lb/>a <choice><sic>funey </sic><corr>funny </corr></choice>steward, hardly know what to think
                  <lb/>of him, sometimes he is all the time talking,
-                 <lb/>and laughing, to <choice><orig>himselfe</orig><reg>himself</reg></choice>, he has buried his
+                 <lb/>and laughing, to <distinct type="archaicorthography"><choice><orig>himselfe</orig><reg>himself</reg></choice></distinct>, he has buried his
                  <lb/>wife, and <rs ref="#ATD">mother</rs> thinks that is some <supplied reason="omitted" resp="ed">of</supplied>the <choice><sic>corse </sic><corr>cause </corr></choice>
                  <lb/>of it, today he has been cleaning the <unclear cert="high">petion </unclear>in
                  <lb/>the cabin, and <choice><sic>puting </sic><corr>putting </corr></choice> down the state room
-                 <lb/>carpets, while <rs ref="#ATD">mother </rs>and <choice><orig>myselfe </orig><reg>myself </reg></choice>have been wa<seg type="softhyphen">
+                 <lb/>carpets, while <rs ref="#ATD">mother </rs>and <distinct type="archaicorthography"><choice><orig>myselfe </orig><reg>myself </reg></choice></distinct>have been wa<seg type="softhyphen">
                  <lb/></seg>shing out some stockings, and <rs ref="#END">father</rs> has been
                  <lb/>making out a manifest of the stores he has on
                  <lb/>board, I hope when I write again we shall be
@@ -1912,8 +1909,8 @@
                  <lb/>passengers left yesterday morning. I will now
                  <pb facs="/2/2b4a45ce-6cb4-40d0-a734-d5e5ac76b754"/>
                  <lb/>tell you what we had for dinner, beef soup
-                 <lb/><choice><orig>rost </orig><reg>roast </reg></choice>turkey, <choice><orig>rost </orig><reg>roast </reg></choice>beef, boiled lamb, stew<supplied reason="omitted" resp="ed">ed</supplied>chickens,
-                 <lb/>potatoes, and <choice><orig>spinage</orig><reg>spinach</reg></choice>, for desert pie, oranges, apples,
+                 <lb/><distinct type="archaicorthography"><choice><orig>rost </orig><reg>roast </reg></choice></distinct>turkey, <distinct type="archaicorthography"><choice><orig>rost </orig><reg>roast </reg></choice></distinct>beef, boiled lamb, stew<supplied reason="omitted" resp="ed">ed</supplied>chickens,
+                 <lb/>potatoes, and <distinct type="archaicorthography"><choice><orig>spinage</orig><reg>spinach</reg></choice></distinct>, for desert pie, oranges, apples,
                  <lb/>pears, figs, for tea we had preserved beef, boiled
                  <lb/>ham, fresh pork, white bread, butter, olives, stew<supplied reason="omitted" resp="ed">ed</supplied>
                  <lb/>pears, frosted cake, and then the fruit <add place="above">as </add>we had
@@ -1921,7 +1918,7 @@
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520402a">
-                 <lb/><dateline><date when="1852-04-02">Friday 2</date>. </dateline><p>This morning we <choice><orig>eat </orig><reg>ate </reg></choice>breakfast at
+                 <lb/><dateline><date when="1852-04-02">Friday 2</date>. </dateline><p>This morning we <distinct type="archaicorthography"><choice><orig>eat </orig><reg>ate </reg></choice></distinct>breakfast at
                  <lb/>half past seven, <add place="above">had </add>boiled beef, stew<supplied reason="omitted" resp="ed">ed</supplied>chicken, <choice><sic>frid </sic><corr>fried </corr></choice>
                  <lb/>pork, <choice><sic>frid </sic><corr>fried </corr></choice>potatoes, bread, and butter, and <unclear cert="low">&amp; </unclear>this
                  <lb/>afternoon, we have been out <choice><sic>shoping </sic><corr>shopping </corr></choice>bought a
@@ -1990,7 +1987,7 @@
                  <lb/>it the gout, and order<supplied reason="omitted" resp="ed">ed</supplied>a bread and milk <choice><sic>poltist</sic><corr>poultice</corr></choice>,
                  <lb/>and said <said aloud="true" direct="false">it would soon be better</said>, I have just
                  <lb/>been out to ride, to a <choice><sic>beautifull </sic><corr>beautiful </corr></choice>garden, enjoyed
-                 <lb/><choice><orig>myselfe </orig><reg>myself </reg></choice>very much.
+                 <lb/><distinct type="archaicorthography"><choice><orig>myselfe </orig><reg>myself </reg></choice></distinct>very much.
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520413a">
@@ -2020,7 +2017,7 @@
             <div type="Entry" xml:id="Doane18520416a">
              <lb/><dateline><date when="1852-04-16">Friday 16</date></dateline><p> This morning the doctor has been
                  <lb/>and say <rs ref="#END">father</rs> came rid down to the vessel,
-                 <lb/>think we shall go on board, and stop <choice><orig>untill</orig><reg>until</reg></choice> his
+                 <lb/>think we shall go on board, and stop <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> his
                  <lb/>foot is better, as he cannot go and come, and
                  <lb/><persName>Mrs Eliott</persName> goes on board of the ship today,
                  <lb/>also as they leave on Sunday, we lay along
@@ -2032,11 +2029,11 @@
              <lb/><dateline><date when="1852-04-17">Saturday 17</date>.</dateline><p> This morning after breakfast,
                  <lb/>our first officer went on shore, and when he
                  <lb/>came back, he said <name><choice><sic>Captian</sic><corr>Captain</corr></choice> Eliott</name> was in
-                 <lb/>prison, in a few <choice><orig>minuts</orig><reg>minutes</reg></choice> <persName>Mrs Eliott</persName> sent for
+                 <lb/>prison, in a few <distinct type="archaicorthography"><choice><orig>minuts</orig><reg>minutes</reg></choice></distinct> <persName>Mrs Eliott</persName> sent for
                  <lb/>us to come on board, we went and found <persName>Mrs
                  <lb/>Eliott</persName> crying, it appears his cook and steward
                  <lb/>got to fighting on the wharf, he stepped up
-                 <lb/>to <choice><orig>seperate</orig><reg>separate</reg></choice> them, and the <choice><sic>Captian</sic><corr>Captain</corr></choice>and steward
+                 <lb/>to <distinct type="archaicorthography"><choice><orig>seperate</orig><reg>separate</reg></choice></distinct> them, and the <choice><sic>Captian</sic><corr>Captain</corr></choice>and steward
                  <lb/>was carried off to prison.
               </p>
            </div>
@@ -2061,7 +2058,7 @@
                  <lb/>see <persName>Mrs Eliott</persName> off, but <add place="above" rend="caret">they</add> are not going as the
                  <lb/>wind <choice><sic>bew</sic><corr>blew</corr></choice>so hard, the steamboat would not
                  <lb/>take them out, this afternoon we have been
-                 <lb/>on board again, stop <choice><orig>untill</orig><reg>until</reg></choice> night.
+                 <lb/>on board again, stop <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> night.
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520422a">
@@ -2090,7 +2087,7 @@
                   <lb/>on board with us, as we <choice><sic>loave</sic><corr>leave</corr></choice> early in,
                   <lb/>we went out on deck played on the
                   <lb/><choice><sic>accordeon</sic><corr>accordion</corr></choice>, had some cake as we were
-                  <lb/>not allowed a light, they stopped <choice><orig>untill</orig><reg>until</reg></choice>
+                  <lb/>not allowed a light, they stopped <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct>
                   <lb/>eleven oclock.
                </p>
             </div>
@@ -2099,7 +2096,7 @@
                   <lb/>all hands were called to hall out of the dock,
                   <lb/>while halling out some of the men happened
                   <lb/>to see our cat on board of the bark that we
-                  <lb/><choice><orig>layed</orig><reg>laid</reg></choice> along side of, they put her in a boat,
+                  <lb/><distinct type="archaicorthography"><choice><orig>layed</orig><reg>laid</reg></choice></distinct> along side of, they put her in a boat,
                   <lb/>then in a basket, and then passed her up,
                   <lb/>at half past seven the steamboat made fast
                   <lb/>to us, and we are now <choice><sic>biding</sic><corr>bidding</corr></choice>farewell to
@@ -2117,7 +2114,7 @@
                  <lb/>we lost two of our fowls, a hen and rooster,
                  <lb/>they were out on deck, and got <choice><sic>frieghten</sic><corr>frightened</corr></choice>
                  <lb/>over board, and could not get them, this morn<seg type="softhyphen">-
-                 <lb/></seg>ing there a <choice><orig>brigg</orig><reg>brig</reg></choice> ahead of us could just 
+                 <lb/></seg>ing there a <distinct type="archaicorthography"><choice><orig>brigg</orig><reg>brig</reg></choice></distinct> ahead of us could just 
                  <lb/>see her, we have come up with her and past 
                  <lb/>her.        
               </p>
@@ -2126,7 +2123,7 @@
              <lb/><dateline><date when="1852-05-05">Wednesday 5</date></dateline><p>
                  <lb/>It is quite <choice><sic>pleasent</sic><corr>pleasant</corr></choice>, <choice><abbr>altho</abbr><expan>although</expan></choice> a head
                  <lb/>wind, since dinner the wind has increased, 
-                 <lb/>and it is quite <choice><orig>ruff</orig><reg>rough</reg></choice>, have tacked ship several
+                 <lb/>and it is quite <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>, have tacked ship several
                  <lb/>times, the land of <placeName ref="#Palos">Cape Palos</placeName> is in sight, 
                  <lb/>this afternoon when they last tacked ship, one
                  <lb/>of the men, was on top of the house and when
@@ -2149,7 +2146,7 @@
              <lb/><dateline><date when="1852-05-09">Sunday 9</date>.</dateline><p> We are beating with a head
         <pb facs="/e/ec262601-0e44-446c-af3b-28382d3695a6"/>
                   <lb/>there are four vessel in sight bound the
-                  <lb/>same way we are, it is rather <choice><orig>ruff</orig><reg>rough</reg></choice>.
+                  <lb/>same way we are, it is rather <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>.
                </p>
             </div>
             <div type="Entry" xml:id="Doane18520512a">
@@ -2174,7 +2171,7 @@
                <lb/>this forenoon I have made four lemon pies,
                <lb/>at 12 oclock, left the land with a strong
                <lb/>breeze, going nine miles an hour, <rs ref="#ATD">mother</rs> has
-               <lb/><choice><orig>layed</orig><reg>laid</reg></choice> down as she has a sore throat, they are
+               <lb/><distinct type="archaicorthography"><choice><orig>layed</orig><reg>laid</reg></choice></distinct> down as she has a sore throat, they are
                <lb/>bracing the yards, the wind is canting <del rend="erased">ing</del>
                <lb/>ahead some.
             </p> 
@@ -2184,19 +2181,19 @@
               <lb/><dateline><date when="1852-05-15">Saturday 15</date></dateline><p> We have a fair wind, quite a
                <lb/>little breeze, this morning I have been wash<seg type="softhyphen">-
                <lb/></seg>ing and ironing out some pocket handkerchief,
-               <lb/>steward is making <choice><orig>preperation</orig><reg>preparation</reg></choice> for it is <rs ref="#ATD">mothers</rs> 
+               <lb/>steward is making <distinct type="archaicorthography"><choice><orig>preperation</orig><reg>preparation</reg></choice></distinct> for it is <rs ref="#ATD">mothers</rs> 
                <lb/>birth day tomorrow, this afternoon they caught
-               <lb/>a <choice><orig>beniter</orig><reg cert="low">bonito</reg></choice> with the grains, there are several
+               <lb/>a <choice><sic>beniter</sic><corr cert="low">bonito</corr></choice> with the grains, there are several
                <lb/>vessel in sight.
             </p>
             </div>
              <div type="Entry" xml:id="Doane18520516a">
               <lb/><dateline><date when="1852-05-16">Sunday 16</date></dateline><p> I will now tell you what has
                   <lb/><choice><sic>occured</sic><corr>occurred</corr></choice> this day, <rs ref="#ATD">mother</rs> <add place="above" rend="caret">is</add> forty two years of age
-                  <lb/>at eight oclock the <choice><sic>colars</sic><corr>colors</corr></choice> were <choice><orig>sot</orig><reg>set</reg></choice>, for
+                  <lb/>at eight oclock the <choice><sic>colars</sic><corr>colors</corr></choice> were <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct>, for
                   <lb/>dinner we had boiled beef, and pork, preserved
-                  <lb/>beef, potatoes, <choice><sic>pickels</sic><corr>pickles</corr></choice>, <choice><orig>punkin</orig><reg>pumpkin</reg></choice> pie, sugar cake,
-                  <lb/>nuts, <choice><orig>raisens</orig><reg>raisins</reg></choice>, prunes, wine, lemon aid, our
+                  <lb/>beef, potatoes, <choice><sic>pickels</sic><corr>pickles</corr></choice>, punkin pie, sugar cake,
+                  <lb/>nuts, <distinct type="archaicorthography"><choice><orig>raisens</orig><reg>raisins</reg></choice></distinct>, prunes, wine, lemon aid, our
                   <lb/>sailor had a plum pudding, at three oclock
                   <lb/>the steward call them all aft, and gave them
                   <lb/>some wine and cake, they all wished <rs ref="#ATD">mother</rs> 
@@ -2225,13 +2222,13 @@
             <div type="Entry" xml:id="Doane18520526a">
                <lb/><dateline><date when="1852-05-26">Wednesday 26</date>.</dateline><p> The wind still continues fair
                <lb/>this morning there was a schooner in sight bound
-               <lb/>north, we came up with each other, she <choice><orig>sot</orig><reg>set</reg></choice> her
-               <lb/> <choice><sic>colars</sic><corr>colors</corr></choice>, and we <choice><orig>sot</orig><reg>set</reg></choice> our, after she took in her <choice><sic>colars</sic><corr>colors</corr></choice>,
+               <lb/>north, we came up with each other, she <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> her
+               <lb/> <choice><sic>colars</sic><corr>colors</corr></choice>, and we <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> our, after she took in her <choice><sic>colars</sic><corr>colors</corr></choice>,
                <lb/>we saw a boat coming for us, we backed our
                <lb/>main yards, and sails, it was an american
                <lb/><choice><sic>waleman</sic><corr>whaleman</corr></choice>, the boat came along, asked a few
                <lb/>question, and <choice><sic>past</sic><corr>passed</corr></choice> up four letter <add place="above" rend="caret">one</add> for the Cap<seg type="softhyphen">-
-               <lb/></seg>tain, he did not open it <choice><orig>untill</orig><reg>until</reg></choice> after the boat <add place="above" rend="caret">had gone</add>
+               <lb/></seg>tain, he did not open it <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> after the boat <add place="above" rend="caret">had gone</add>
                <lb/>he found the <choice><sic>Captian</sic><corr>Captain</corr></choice> had sent for a few
                <lb/>potatoes as he had one man sick with the
                <lb/>scurvy, we then hailed the boat and they came
@@ -2300,7 +2297,7 @@
                <lb/><dateline><date when="1852-06-16">Wednesday 16</date></dateline><p> We have a head wind and
                <lb/>blowing quite hard have tacked ship
                <lb/>several times today the steward is making
-               <lb/><choice><orig>preperation</orig><reg>preparation</reg></choice> to go in to <placeName>New York</placeName> today he is 
+               <lb/><distinct type="archaicorthography"><choice><orig>preperation</orig><reg>preparation</reg></choice></distinct> to go in to <placeName>New York</placeName> today he is 
                <lb/>cleaning the paint in the state rooms                  
              </p>
             </div>
@@ -2408,7 +2405,7 @@
                  <lb/>came on board last night<unclear reason="faded">,</unclear> he is about
                  <lb/>half drunk has been so <choice><sic>sence</sic><corr>since</corr></choice> he has been
                  <lb/>on board. They are now furling the sails we
-                 <lb/>shall <choice><orig>remaine</orig><reg>remain</reg></choice> here <choice><sic>untill</sic><corr>until</corr></choice> morning.
+                 <lb/>shall <distinct type="archaicorthography"><choice><orig>remaine</orig><reg>remain</reg></choice></distinct> here <choice><sic>untill</sic><corr>until</corr></choice> morning.
               </p>
            </div>
               <div type="Entry" xml:id="Doane18520807a">
@@ -2417,7 +2414,7 @@
                  <lb/>This morning at 5 oclock AM all
                  <lb/>hands were called to heave up the anchor and
                  <lb/>we proceed on our way for an hour when thick
-                 <lb/><choice><orig>fogg</orig><reg>fog</reg></choice> set in and we were oblige to anchor
+                 <lb/><distinct type="archaicorthography"><choice><orig>fogg</orig><reg>fog</reg></choice></distinct> set in and we were oblige to anchor
                  </p>
               </div>
            <div type="Entry" xml:id="Doane18520808a">
@@ -2466,7 +2463,7 @@
               <p>
                  <lb/><gap reason="cancelled"/>The wind is the
           <pb facs="/8/8e46ab84-c607-4527-92f5-02681f012b64"/>
-                 <lb/>same we are going 8 miles an hour rather <choice><orig>ruff</orig><reg>rough</reg></choice>
+                 <lb/>same we are going 8 miles an hour rather <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>
                  <lb/>This morning exchanged signal with an Amer<seg type="softhyphen">&#x2014;
                  <lb/></seg>ican Ship bound to the Westward. The sick
                  <lb/><rs type="person" ref="SickSailor">sailor</rs> is out on deck today for the first time
@@ -2483,7 +2480,7 @@
                  <lb/>Wind S'SE fair going 10
                  <lb/>miles an hour had a rain shower today I
                  <lb/>have been playing on the Piano today for the
-                 <lb/>first time since <choice><sic>Tusday</sic><corr>Tuesday</corr></choice> as it has been <choice><orig>ruff</orig><reg>rough</reg></choice>
+                 <lb/>first time since <choice><sic>Tusday</sic><corr>Tuesday</corr></choice> as it has been <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>
                  <lb/>and it was with much difficulty we could
                  <lb/>sit. the <rs type="person" ref="#SickSailor">sick sailor</rs> is gaining he is out on
                  <lb/>deck to work
@@ -2525,8 +2522,8 @@
               <dateline><lb/><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 12 oclock M <date when="1852-08-17">Augt 17th</date></dateline>
               <p>
                  <lb/>This morning I awoke and heard
-                 <lb/>an <choice><sic>un<unclear>e</unclear>ausl</sic><corr>unusual</corr></choice> noise on deck I dressed my<seg type="softhyphen">&#x2014;
-                 <lb/></seg><choice><orig>selfe</orig><reg>self</reg></choice> and run up to the door to see what it
+                 <lb/>an <choice><sic>un<unclear>e</unclear>ausl</sic><corr>unusual</corr></choice> noise on deck I dressed <distinct type="archaicorthography"><choice><orig>my<seg type="softhyphen">&#x2014;
+                 <lb/></seg>selfe</orig><reg>self</reg></choice></distinct> and run up to the door to see what it
                  <lb/>was and saw we had a very heavy squall
                  <lb/>it has been squally all night at 3 oclock
                  <lb/>in the night <choice><sic>carryed</sic><corr>carried</corr></choice> away a Studding sails
@@ -2580,7 +2577,7 @@
                  <lb/>have now come up with her, she is close to us.
                  <lb/>She has a large whale along side. Today <rs type="person" ref="END">father</rs>
                  <lb/>struck a very large Dolphin but did not succeed
-                 <lb/>in getting him on board, <rs type="person" ref="#ATD">mother</rs> and <choice><orig>myselfe</orig><reg>myself</reg></choice> have
+                 <lb/>in getting him on board, <rs type="person" ref="#ATD">mother</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> have
                  <lb/>been making fruit Cake
               </p>
            </div>
@@ -2652,7 +2649,7 @@
       <p>
          <lb/>The wind has subsided and it
          <lb/>has become quite smooth, <rs ref="#ATD">mother</rs> and
-         <lb/><choice><orig>myselfe</orig><reg>myself</reg></choice> have been out on deck most of the
+         <lb/><distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> have been out on deck most of the
          <lb/>day as <rs ref="#END">father</rs> is painting a carpet for the
          <lb/>entry on top the house
       </p>
@@ -2724,7 +2721,7 @@
          <lb/>nor the first Mate but father happened to
          <lb/>wake up just before she struck us and found
          <lb/>he had not taken in any of Studding sails
-         <lb/><choice><orig>carryed</orig><reg>carried</reg></choice> away one and tore a Number of the
+         <lb/><distinct type="archaicorthography"><choice><orig>carryed</orig><reg>carried</reg></choice></distinct> away one and tore a Number of the
          <lb/>other sails, The rain and carrying away of the
          <lb/>Studding sail awoke me, I jumped out out of
          <lb/>bed very much frighten put on my dress and
@@ -2739,7 +2736,7 @@
          <lb/>running high. <rs ref="#END">father</rs> sing out to the tip top
          <lb/>of his voice so as to be heard <said direct="false" aloud="true">to let go every
             <lb/>thing</said>, It was soon over, This is the second
-         <lb/>time the Second Mate has <choice><orig>carryed</orig><reg>carried</reg></choice> Studding
+         <lb/>time the Second Mate has <distinct type="archaicorthography"><choice><orig>carryed</orig><reg>carried</reg></choice></distinct> Studding
          <lb/>sails, Think he is not much experienced
          <lb/>This morning when I arose I went out on 
          <lb/>deck the first thing to <add place="above">see</add> the sails. <choice><sic>unpleasant</sic><corr>unpleasant</corr></choice>
@@ -2775,8 +2772,8 @@
          <lb/>officer and he appears very Ugly and wants
          <lb/>to have his own way, <rs ref="#END">father</rs> has threatened
          <lb/>to put him off Duty he has a very bad
-         <lb/>disposition <choice><orig>Revengefull</orig><reg>revengeful</reg></choice> I am most afraid of
-         <lb/>him <choice><orig>myselfe</orig><reg>myself</reg></choice>, We have a little <choice><sic>Colered</sic><reg>colored</reg></choice>
+         <lb/>disposition <distinct type="archaicorthography"><choice><orig>Revengefull</orig><reg>revengeful</reg></choice></distinct> I am most afraid of
+         <lb/>him <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct>, We have a little <choice><sic>Colered</sic><reg>colored</reg></choice>
          <lb/>Boy in the Cabin, and the Mate thinks he
          <lb/>has told father some things which has caused
          <lb/>the trouble and he is down on him. The Boy
@@ -2784,7 +2781,7 @@
          <lb/>he went to last night he went to the Cook
          <lb/>and asked him for his Boyeknife The Cook
          <lb/>asks him <said direct="false" aloud="true">what he wanted it for</said> he said <said direct="false" aloud="true">he
-            <lb/>was going to <choice><orig>carryed</orig><reg>carried</reg></choice> it to bed with him
+            <lb/>was going to <distinct type="archaicorthography"><choice><orig>carryed</orig><reg>carried</reg></choice></distinct> it to bed with him
             <pb facs="/e/eb6112cb-6bd9-4fb4-ac54-f382eafa6d71"/>
             <lb/>and if the Mate touches me in the night
             <lb/>I will cut him with this knife if I am
@@ -2821,7 +2818,7 @@
          <lb/>Wind which is fair for us and we are
          <lb/>sailing along <choice><sic>pleasently</sic><corr>pleasantly</corr></choice> with Studding sails
          <pb facs="/d/ddfe8c1d-ec6c-4812-b3f2-c17f0cc36c4f"/>
-         <lb/><choice><orig>sot</orig><reg>set</reg></choice> one of the sailors is sick has sent in for
+         <lb/><distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> one of the sailors is sick has sent in for
          <lb/> some <choice><sic>medicene</sic><corr>medicine</corr></choice>, all hands variously employ<seg type="softhyphen">-
             <lb/></seg>ed in Ship Duty
       </p>
@@ -2833,8 +2830,8 @@
          <lb/>The sailor that <choice><sic>accquainted</sic><corr>acquainted</corr></choice> with Music has
          <lb/>been down in the Cabin showing me for two
          <lb/>hours, 6 oclock this morning saw a vessel
-         <lb/>on the Lee <choice><orig>Beem</orig><reg>Beam</reg></choice>, and when I arose we could
-         <lb/>her very plainly. a <choice><orig>Brigg</orig><reg>Brig</reg></choice> at 10 oclock left
+         <lb/>on the Lee <distinct type="archaicorthography"><choice><orig>Beem</orig><reg>Beam</reg></choice></distinct>, and when I arose we could
+         <lb/>her very plainly. a <distinct type="archaicorthography"><choice><orig>Brigg</orig><reg>Brig</reg></choice></distinct> at 10 oclock left
          <lb/>her out of sight astern seen one Ship 
       </p>
    </div>
@@ -2842,11 +2839,11 @@
       <lb/><dateline><date when="1852-09-21">Wednesday 12 oclock M <choice><sic>Augt</sic><corr>Sept</corr></choice> <choice><sic>21th</sic><corr>21st</corr></choice></date></dateline>
       <p>
          <lb/>This have been a very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>
-         <lb/>day <rs ref="#ATD">mother</rs> and <choice><orig>myselfe</orig><reg>myself</reg></choice> have been washing
+         <lb/>day <rs ref="#ATD">mother</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> have been washing
          <lb/>out a few pocket handkerchief. Two hours 
          <lb/>in a day I practise on the Piano, 6 oclock
          <lb/>this morning first Mate jumped from off the
-         <lb/>house and in doing <choice><orig>sprant</orig><reg>sprained</reg></choice> his Ankle very
+         <lb/>house and in doing <choice><sic>sprant</sic><corr>sprained</corr></choice> his Ankle very
          <lb/>bad so he cannot bear step on it this after<seg type="softhyphen">-
             <lb/></seg>noon <rs ref="#END">father</rs> has bound it up with Wormwood
          <lb/>and Rum he says <said direct="false" aloud="true">it is very painfull</said>
@@ -2857,10 +2854,10 @@
       <p>
          <lb/>This morning I arose at 6 oclock
          <pb facs="/3/325f3448-3c39-4494-8e34-6032d6eba7f2"/>
-         <lb/>and went to <choice><sic>practtiseing</sic><corr>practicing</corr></choice> <choice><orig>untill</orig><reg>until</reg></choice> 8 oclock
+         <lb/>and went to <choice><sic>practtiseing</sic><corr>practicing</corr></choice> <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> 8 oclock
          <lb/>which is our breakfast time.  We have a
          <lb/>Carpenter on board he has a house by him<seg type="softhyphen">-
-         <lb/></seg>selfe forward of the <choice><orig>Gally</orig><reg>Galley</reg></choice>, We did not like
+         <lb/></seg>selfe forward of the <distinct type="archaicorthography"><choice><orig>Gally</orig><reg>Galley</reg></choice></distinct>, We did not like
          <lb/>to have him to eat in the Cabin he being a
          <lb/>Foreigner and not knowing what he was
          <lb/>therefore he took his meals in his house.
@@ -2879,10 +2876,10 @@
    <div type="Entry" xml:id="Doane18520930a">
       <lb/><dateline><date when="1852-09-30">Thursday 12 oclock M <choice><sic>Augt</sic><corr>Sept</corr></choice> 30th</date></dateline>
       <p>
-         <lb/>This has been a <choice><orig>busey</orig><reg>busy</reg></choice> day been
+         <lb/>This has been a <choice><sic>busey</sic><corr>busy</corr></choice> day been
          <lb/>having the Store room painted in the lower
          <lb/>Cabin and also the water Closet, and
-         <lb/><rs ref="#ATD">Mother</rs> and <choice><orig>myselfe</orig><reg>myself</reg></choice> have been doing 
+         <lb/><rs ref="#ATD">Mother</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> have been doing 
          <lb/>over some Current Jelly they are now
          <pb facs="/2/2b196d15-aaa3-4d44-b29a-a30d4f058a30"/>
          <lb/>painting some in the Pantry. I have
@@ -2903,8 +2900,8 @@
          <lb/>I have been busy cleaning out the lower
          <lb/>Cabin It has been very warm There is
          <lb/>a Ship in Sight to the leeward of us we are
-         <lb/>come up with each other <rs ref="#END">father</rs> has just <choice><orig>sot</orig><reg>set</reg></choice>
-         <lb/>his <choice><sic>colars</sic><corr>colors</corr></choice> She <choice><orig>sot</orig><reg>set</reg></choice> hers she is an Ameri<seg type="softhyphen">-
+         <lb/>come up with each other <rs ref="#END">father</rs> has just <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct>
+         <lb/>his <choice><sic>colars</sic><corr>colors</corr></choice> She <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> hers she is an Ameri<seg type="softhyphen">-
             <lb/></seg>can Whaler She is luffing down to us and
          <lb/>is quite close to us,
       </p>
@@ -2915,7 +2912,7 @@
          <lb/>Last night at dusk
          <lb/>saw a Boat coming from the Ship came
          <lb/>along side A Gentleman came on Board and 
-         <lb/>Introduce <choice><orig>himselfe</orig><reg>himself</reg></choice> as <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Taber</persName>
+         <lb/>Introduce <distinct type="archaicorthography"><choice><orig>himselfe</orig><reg>himself</reg></choice></distinct> as <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Taber</persName>
          <pb facs="/2/2b75602c-86d6-4605-8727-77f2697764a5"/>
          <lb/><name type="ship">Ship Thomas Dickerson</name> of <placeName ref="#NB">New Bedford</placeName>
          <lb/>and found he was a near Neighbor to us
@@ -2954,7 +2951,7 @@
    <div type="Entry" xml:id="Doane18521004">
       <lb/> <dateline><date when= "1852-10-04">Monday 12 oclock M Oct 4th</date></dateline>
       <p><lb/>We have had a 
-         <lb/><choice><orig>ruff</orig><corr>rough</corr></choice> night been lying Reefed Topsails had it
+         <lb/><distinct type="archaicorthography"><choice><orig>ruff</orig><corr>rough</corr></choice></distinct> night been lying Reefed Topsails had it
          <lb/>Windy and Squally this morning could just see
          <lb/>Ship astern But she has been rapidly approach
          <lb/>us has come up with us and is quite near
@@ -2966,11 +2963,11 @@
    </div>
    <div type="Entry" xml:id="Doane18521006a">
       <lb/><dateline><date when="1852-10-06">Wednesday 12 oclock M Oct 6th</date></dateline> 
-      <lb/><p>We have had a <choice><sic>stronge</sic><orig>strong</orig></choice> Breeze
-         <lb/><choice><sic>carryed</sic><corr>carried</corr></choice> <choice><sic>Stodding</sic><corr>Studding</corr></choice> sail <choice><orig>untill</orig><reg>until</reg></choice> two oclock PM
+      <lb/><p>We have had a <distinct type="archaicorthography"><choice><sic>stronge</sic><orig>strong</orig></choice></distinct> Breeze
+         <lb/><choice><sic>carryed</sic><corr>carried</corr></choice> <choice><sic>Stodding</sic><corr>Studding</corr></choice> sail <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> two oclock PM
          <lb/>had some rain in the night and this morning
          <lb/>it has been raining and blowing quite hard
-         <lb/>The Barometer is falling which <choice><orig>signifys</orig><corr>signifies</corr></choice> a storm,
+         <lb/>The Barometer is falling which <choice><sic>signifys</sic><corr>signifies</corr></choice> a storm,
          <lb/>could not get the Sun it being thick 
          <lb/>but by Dead Reckoning We are in the <geogName>Lati<seg type="softhyphen">-
             <lb/></seg>tude of 24=00 Longitude 38=67</geogName> South of the
@@ -2992,7 +2989,7 @@
          <lb/>secured and down come two pails of water
          <lb/>I think wetting Carpet Transom <choice><sic>Chusion</sic><corr>Cushion</corr></choice>
          <lb/>Piano Covering Table Covering then we had work 
-         <lb/><choice><orig>enought</orig><corr>enough</corr></choice> called the Steward and we man<seg type="softhyphen">   
+         <lb/><distinct type="archaicorthography"><choice><orig>enought</orig><corr>enough</corr></choice></distinct> called the Steward and we man<seg type="softhyphen">   
             <lb/></seg>aged to get the Carpet <choice><sic>Rool</sic><corr>Roll</corr></choice> up and 8 oclock 
          <lb/>called the Steward to secure the Sofas, and 
          <lb/>called the Carpenter to secure the Chonom<seg type="softhyphen">-
@@ -3007,7 +3004,7 @@
          <lb/>rained torrents filled our empty Casks in a 
          <lb/>short time, <rs ref="#END">father</rs> was up most of the night
          <lb/>and <rs ref="#ATD">Mother</rs> Steward and
-         <choice><orig>myselfe</orig><reg>myself</reg></choice> had as much
+         <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> had as much
          <lb/>as we could do to look after the things in the 
          <lb/>Cabins every thing given away, and the vessel 
          <lb/><choice><corr>rooling</corr><corr>rolling</corr></choice> very <choice><sic>heavey</sic><corr>heavy</corr></choice>.
@@ -3018,7 +3015,7 @@
       <lb/><dateline><date when="1852-10-11">Monday 12 oclock M Oct 11th</date></dateline>
       <p>
          <lb/>First of the last twenty
-         <lb/>hours moderate and quite <choice><orig>pleasent</orig><reg>pleasant</reg></choice> <choice><orig>untill</orig><reg>until</reg></choice> this
+         <lb/>hours moderate and quite <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> this
          <lb/>morning when it commenced <choice><sic><unclear cert="high">breszing</unclear></sic><corr>breezing</corr></choice> so they
          <lb/>put Double reef in the foretopsail one in the 
          <lb/>Main and <unclear cert="medium">furled</unclear> the Mizzen Topsail, there
@@ -3066,8 +3063,8 @@
          <lb/>make him he jumped up quick I can tell
          <pb facs="/a/a565b975-2a4d-4801-8ae4-0fbf9923d9cf"/>
          <lb/>you and went about his work, one Ship in 
-         <lb/>sight to Leeward of us. She <choice><orig>sot</orig><reg>set</reg></choice> her <choice><sic>Colars</sic><corr>Colors</corr></choice> and
-         <lb/>we also <choice><orig>sot</orig><reg>set</reg></choice> our in return. an American could 
+         <lb/>sight to Leeward of us. She <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> her <choice><sic>Colars</sic><corr>Colors</corr></choice> and
+         <lb/>we also <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> our in return. an American could 
          <lb/>not <choice><sic>mak</sic><corr>make</corr></choice> out her Name,
       </p>
    </div>
@@ -3077,15 +3074,15 @@
       <p>
          <lb/>Fair wind last night
          <lb/><rs ref="#END">Father</rs> and the <rs ref="#SecondMate">Second Mate </rs>had some 
-         <choice><orig>ruff</orig><reg>rough</reg></choice> 
+         <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct> 
          <lb/>words, <rs ref="#END">Father</rs> <unclear cert="medium" reason="irregular letter form"><choice><sic>ored</sic></choice></unclear> him to go over the side and 
          <lb/>see to the scraping of some Barnacle. he went
-         <lb/>over and went to scraping <choice><orig>himselfe</orig><corr>himself</corr></choice> and when
+         <lb/>over and went to scraping <distinct type="archaicorthography"><choice><orig>himselfe</orig><corr>himself</corr></choice></distinct> and when
          <lb/>he came on board he told he would not <choice><sic>scrap</sic><corr>scrape</corr></choice>
          <lb/>of Barnacle it was not his place in the hearing
          <lb/>of <rs ref="#END">Father</rs>, which made he very mad and <unclear cert="high"><choice><sic>load</sic><corr>loud</corr></choice></unclear>
          <lb/>talk, <rs ref="#END">Father</rs> told him he need not do anything
-         <lb/>more on  board the vessel <choice><orig>untill</orig><reg>until</reg></choice> he was willing
+         <lb/>more on  board the vessel <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> he was willing
          <lb/>to obey Orders. he went in his room did not
          <lb/>come to the table to  <choice><sic>suppur</sic><corr>supper</corr></choice>. and did not st-
          <lb/>and his watch, this morning <rs ref="#END">father</rs> called 
@@ -3109,7 +3106,7 @@
          <lb/>Pigs yesterday I have been busy sewing as
          <lb/>usual, The wind is increasing has the appe<seg type="softhyphen">-
             <lb/></seg>arance of a Storm I hope not as it is very 
-         <lb/> <choice><orig>unpleasent</orig><reg>unpleasant</reg></choice>,
+         <lb/><distinct type="archaicorthography"><choice><orig>unpleasent</orig><reg>unpleasant</reg></choice></distinct>,
       </p>
    </div>
    <div type="Entry" xml:id="Doane18521017a"> 
@@ -3153,11 +3150,11 @@
          <lb/>all hands were called to reef Topsails, as it
          <lb/>was blowing very hard and raining a <choice><sic>heavey</sic><corr>heavy</corr></choice>
          <lb/>sea <rs ref="#END">Father</rs> was up most of night and <rs ref="#ATD">Mother</rs>
-         <lb/>came up and <choice><sic>layed</sic><corr>laid</corr></choice> on the Sofa <choice><orig>untill</orig><reg>until</reg></choice> he
+         <lb/>came up and <choice><sic>layed</sic><corr>laid</corr></choice> on the Sofa <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> he
          <lb/>came in. <persName ref="#2ndMate">Mr. Turner</persName> is better so he is
          <pb facs="/f/f792eb51-0e97-4495-9841-0e7a9f12879a"/>
          <lb/>attending to his Duty <choice><abbr>altho</abbr><expan>athough</expan></choice> he is quite lame
-         <lb/>this morning set more sail. <choice><orig>Untill</orig><reg>Until</reg></choice> 10 oclock
+         <lb/>this morning set more sail. <distinct type="archaicorthography"><choice><orig>Untill</orig><reg>Until</reg></choice></distinct> 10 oclock
          <lb/>when all hands were called to take in sail
          <lb/>carried away Jib before they got it in, I shall
          <lb/>be glad when we get around <placeName ref="#CHorn">Cape Horn</placeName> I
@@ -3171,13 +3168,13 @@
    <div type="Entry" xml:id="Doane18521028a">
       <lb/><dateline><date when="1852-10-28">Thursday 12 o clock M Oct 28th</date></dateline><p>
          <lb/>Fair wind fresh breeze
-         <lb/>sailing along <choice><orig>pleasently</orig><reg>pleasantly</reg></choice> 8 miles an hour a 
+         <lb/>sailing along <distinct type="archaicorthography"><choice><orig>pleasently</orig><reg>pleasantly</reg></choice></distinct> 8 miles an hour a 
          <lb/>School of Sperm Whales in sight we have had
          <lb/>a good breeze all night, This morning a
          <lb/>Bark in sight to Leeward standing the same
          <lb/>way we are rapidly approaching her this has
-         <lb/>been a very <choice><orig>pleasent</orig><corr>pleasant</corr></choice> day see the Sun set clear
-         <lb/>the evenings is very <choice><orig>pleasent</orig><corr>pleasant</corr></choice> as the Twilight
+         <lb/>been a very <distinct type="archaicorthography"><choice><orig>pleasent</orig><corr>pleasant</corr></choice></distinct> day see the Sun set clear
+         <lb/>the evenings is very <distinct type="archaicorthography"><choice><orig>pleasent</orig><corr>pleasant</corr></choice></distinct> as the Twilight
          <lb/>is long It is light nearly 3 hours after the 
          <lb/>Sun sets <geogName ref="#OFalkland2">Latitude 53=48 Longitude 63=40</geogName>
       </p></div>
@@ -3200,7 +3197,7 @@
          <lb/>very high and mountainous and we can see
          <lb/>the snow laying on the mountains The Ship
          <lb/>is fast approaching us she is now abreast has 
-         <lb/><choice><orig>sot</orig><reg>set</reg></choice> her <choice><sic>Colars</sic><corr>Colors</corr></choice>. 12 oclock Land bearing W of
+         <lb/><distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> her <choice><sic>Colars</sic><corr>Colors</corr></choice>. 12 oclock Land bearing W of
          <lb/>us
       </p></div>
    <div type="Entry" xml:id="Doane18521030a">
@@ -3224,7 +3221,7 @@
       </p></div>
    <div type="Entry" xml:id="Doane18521031a">
       <lb/><dateline><date when="1852-10-31">Sunday 12 oclock M Oct 31.<unclear cert="high">th</unclear></date></dateline>
-      <p><lb/>It is still <choice><orig>pleasent</orig><reg>pleasant</reg></choice> and
+      <p><lb/>It is still <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> and
          <lb/>a fair wind little did I think we should
          <lb/>see such weather as this <choice><abbr>altho</abbr><expan>athough</expan></choice> there is time
          <lb/><choice><sic>enought</sic><corr>enough</corr></choice> yet the Ship is still in sight which
@@ -3248,7 +3245,7 @@
          <lb/>2 oclock AM Sung out <said aloud="true" direct="true">Land Oh</said>. <choice><sic>Its</sic><corr>It</corr></choice> is
          <lb/><placeName ref="#CHorn">Cape Horn</placeName>. The long dreaded Place It is pleas<seg type="softhyphen">-
             <lb/></seg><choice><sic>ent</sic><corr>ant</corr></choice>, <choice><abbr>altho</abbr></choice> quite cold, The Ship <name type="ship">Damascus</name> is close
-         <lb/>to us <rs ref="#END">Father</rs> and <choice><orig>myselfe</orig><reg>myself</reg></choice> were busy work up the
+         <lb/>to us <rs ref="#END">Father</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> were busy work up the
          <lb/> Longitude when <rs type="person">the first officer</rs> came to the
          <lb/> door and says the Wind had headed the Ship
          <lb/> off and she was braced Sharped. <rs ref="#END">Father</rs> went
@@ -3265,7 +3262,7 @@
          <lb/>in Company with the other day At 8 oclock
          <pb facs="/c/c693f1ea-3689-4fb7-92a0-5eea51f64595" /> 
          <lb/>called all hands to Topsails <rs ref="#END">Father</rs> stopped on 
-         <lb/>deck <choice><orig>untill</orig><reg>until</reg></choice> 11 oclock and when he went below
+         <lb/>deck <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> 11 oclock and when he went below
          <lb/>he gave strict order if it blew fresh to call him
          <lb/>at 1 oclock shipped a <choice><sic>heavey</sic><corr>heavy</corr></choice> sea which poured
          <lb/>down in the lower Cabin <choice><abbr>altho</abbr></choice> the Skylights were
@@ -3290,7 +3287,7 @@
             <lb/>Longitude 68=30 South</geogName> We are in company with
          <lb/>several Ship last night just at dusk came
          <lb/>close to a Bark standing on the other tack
-         <lb/><rs ref="#ATD">Mother</rs> and <choice><orig>myselfe</orig><reg>myself</reg></choice> went out on deck to
+         <lb/><rs ref="#ATD">Mother</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> went out on deck to
          <pb facs="/b/bb67e411-2ce4-49bc-bfd2-499fafe2b178"/>
          <lb/>her but the wind blew so hard and it being
          <lb/>cold we did not stop long, had a very tedious
@@ -3302,7 +3299,7 @@
       <lb/><dateline><date when="1852-11-08"><lb/>Monday 10 oclock M Nov 8.</date></dateline>
       <p><lb/>Wind ahead beating
          <lb/>which is <choice><sic>Discourageing</sic><corr>discouraging</corr></choice> at 1 oclock called all 
-         <lb/>hands to <choice><orig>tacke</orig></choice> Ship they had just got her
+         <lb/>hands to <distinct type="archaicorthography"><choice><orig>tacke</orig><reg>tack</reg></choice></distinct> Ship they had just got her
          <lb/>up before the wind when a heavy Squall came
          <lb/>and the wind blowing a <choice><sic>Huricane</sic><corr>Hurricane</corr></choice> they 
          <lb/>took in sail as fast as Possible took in all
@@ -3334,9 +3331,9 @@
          <lb/>reply was <said aloud="true" direct="true">no</said> I then came in and got an old<del rend="overwritten">oll</del>
          <lb/>pair of stocking and made a pair and <rs ref="#END">father</rs>
          <lb/>had an old pair which he gave me and I
-         <lb/>gave them to them they seemed very <choice><orig>thankfull</orig><reg>thankful</reg></choice>
+         <lb/>gave them to them they seemed very <distinct type="archaicorthography"><choice><orig>thankfull</orig><reg>thankful</reg></choice></distinct>
          <lb/>for them there is one sailor instead instead of
-         <lb/>wearing his stocking on his feet he <choice><orig>waars</orig><reg>wears</reg></choice> them 
+         <lb/>wearing his stocking on his feet he <choice><sic>waars</sic><corr>wears</corr></choice> them 
          <lb/>on his hands for mitten The Ship is ab<supplied>r</supplied>east of 
          <lb/>us all the sail she has set is the three Topsails
          <lb/><choice><sic>firled</sic><corr>furled</corr></choice> and a Spanker.
@@ -3349,12 +3346,12 @@
          <lb/>have been beating <geogName ref="#OCHorn">off Cape Horn</geogName> have not
          <lb/>made but 200 miles towards our <rs ref="#ChinchaI">place of
          <lb/>Destination</rs> have had continual Gales of Wind
-         <lb/>from the <choice><orig>Westard</orig><reg>Westward</reg></choice> which is ahead, and the
-         <lb/>poor sailor <choice><orig>looke beatten</orig><reg>look beaten</reg></choice> and tired out and 
+         <lb/>from the <choice><sic>Westard</sic><corr>Westward</corr></choice> which is ahead, and the
+         <lb/>poor sailor <distinct type="archaicorthography"><choice><orig>looke</orig><reg>look</reg></choice></distinct> <choice><sic>beatten</sic><corr>beaten</corr></choice> and tired out and 
          <lb/>they have to be out on Deck and <choice><sic>weathre</sic><corr>weather</corr></choice> it
          <lb/>all and the sea is washing over us I pity
          <lb/>them. I wish the Wind would come fair
-         <lb/>and <choice><orig>lets</orig><reg>let</reg></choice> us go along as we have some
+         <lb/>and <choice><sic>lets</sic><corr>let</corr></choice> us go along as we have some
          <lb/>distance to go yet.
       </p>
    </div>
@@ -3371,7 +3368,7 @@
          <lb/></seg>tains high and often breaking upon us
          <lb/>At 11 oclock Shipped a heavy sea which
          <pb facs="/f/fee922ce-4af3-4239-85fb-e67c2d268fff" />
-         <lb/>carryed away Monkey Rail <choice><orig>foward</orig><reg>forward</reg></choice> and
+         <lb/>carryed away Monkey Rail <choice><sic>foward</sic><corr>forward</corr></choice> and
          <lb/>stove in the fore Hatch House breaking in
          <lb/>the forecastle Windows and filling it with
          <lb/>water also staving in the <choice><sic>Gally</sic><corr>Galley</corr></choice> windows and
@@ -3403,10 +3400,10 @@
          <lb/>that was more than he did</said>. he gave <rs ref="#END">Father</rs>
          <lb/>a very saucy reply and from that it lead on
          <lb/>to a long talk and almost came to blows
-         <lb/><rs ref="#ATD">Mother</rs> and <choice><orig>myselfe</orig><reg>myself</reg></choice> ran out on deck
+         <lb/><rs ref="#ATD">Mother</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> ran out on deck
          <lb/>very much <choice><sic>frieghten</sic><corr>frightened</corr></choice>. I never heard a
          <lb/>man talk so insulting he told <rs ref="#END">Father</rs> he
-         <lb/>should try to get along <choice><orig>untill</orig><reg>until</reg></choice> we got in
+         <lb/>should try to get along <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> we got in
          <lb/>then he should make <rs ref="#END"><choice><sic>Fathe</sic><corr>Father</corr></choice></rs> all the troub<seg type="softhyphen">-
          <lb/>le</seg> he could, he also said if <rs ref="#ATD"><choice><sic>mothe</sic><corr>mother</corr></choice></rs> had
          <lb/>not been on board she would have been
@@ -3434,7 +3431,7 @@
          <lb/>Fit caused by <choice><sic>excitment</sic><corr>excitement</corr></choice> she soon came
          <lb/>out <choice><sic>off</sic><corr>of</corr></choice> <choice><sic>out</sic><corr>it</corr></choice> but her head pains her very
          <lb/>much. The weather is very bad. The wind
-         <lb/>blowing a g<add place="above">a</add>le from the <choice><orig>Westard</orig><reg>Westward</reg></choice>. We are
+         <lb/>blowing a g<add place="above">a</add>le from the <choice><sic>Westard</sic><corr>Westward</corr></choice>. We are
          <lb/>Hove too <rs ref="#ATD">Mother</rs> is better
       </p>
    </div>
@@ -3474,7 +3471,7 @@
          <lb/>It is smooth.
          <lb/>The Mate is some better, This morning Fair
          <lb/>wind sent up the Royal yard and sent the
-         <lb/>sail and <choice><orig>sot</orig><reg>set</reg></choice> Studding Sails It <choice><sic>seemes</sic><corr>seems</corr></choice> new
+         <lb/>sail and <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> Studding Sails It <choice><sic>seemes</sic><corr>seems</corr></choice> new
          <lb/>to us to have a Fair wind as it has been three
          <lb/>weeks that we have had it blowing a Gale
          <lb/>of wind and ahead I hope we have got
@@ -3503,7 +3500,7 @@
       <p>
          <lb/>Throughout out
          <lb/>these 24 hours fresh breezes Stormy weather
-         <lb/>and <choice><orig>heavey</orig><reg>heavy</reg></choice> sea at two oclock AM kill the 
+         <lb/>and <choice><sic>heavey</sic><corr>heavy</corr></choice> sea at two oclock AM kill the 
          <lb/>large Pig after it was dressed weight 200
          <lb/>pounds
       </p>
@@ -3519,9 +3516,9 @@
          <pb facs="/5/5068dc4e-50ae-4a0d-aa2f-9972bcee3435" />
          <lb/>two ordinary sailors cleaning Muskets I
          <lb/>have been Practicing on the Piano as it has
-         <lb/>been three week <choice><orig>sence</orig><reg>since</reg></choice> it was opened as we
+         <lb/>been three week <distinct type="archaicorthography"><choice><orig>sence</orig><reg>since</reg></choice></distinct> it was opened as we
          <lb/>have been in bad weather all the time and
-         <lb/>was not able to sit and <choice><orig>Practis</orig><reg>practice</reg></choice> this morn<seg type="softhyphen">-
+         <lb/>was not able to sit and <distinct type="archaicorthography"><choice><orig>Practis</orig><reg>practice</reg></choice></distinct> this morn<seg type="softhyphen">-
             
             <lb/>ing</seg> one of my kittens had a Fit she was
          <lb/>very stiff and her eyes set. I thought she
@@ -3536,7 +3533,7 @@
       <lb/><dateline><date when="1852-11-27">Saturday 12 oclock M November 27the</date></dateline>
       <p>
          <lb/>Wind the same
-         <lb/>and <choice><orig>pleasent</orig><reg>pleasant</reg></choice> quite warm. The Cook has been
+         <lb/>and <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> quite warm. The Cook has been
          <lb/>cleaning the Paint in the lower Cabin. This
          <lb/>morning took down the Cabin Stove, We are
          <lb/>now abreast of <placeName ref="#Talcahuano"><choice><sic>Talcahuana</sic><corr>Talcahuano</corr></choice></placeName>
@@ -3563,7 +3560,7 @@
       <lb/><dateline><date when="1852-12-07"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice>12 oclock M Dec 7the</date></dateline>
       <p>
          <lb/>The last week
-         <lb/>have been becalm <choice><orig>untill</orig><reg>until</reg></choice> yesterday when we
+         <lb/>have been becalm <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> yesterday when we
          <lb/>took the South East Trade wind which is Fair
          <lb/>for us At 8 oclock AM saw a Ship to the Lee<seg type="softhyphen">-
             <lb/>ward</seg> of us standing the same way, <rs ref="#END">Father</rs>
@@ -3585,7 +3582,7 @@
       <lb/><dateline><date when="1852-12-16">Thursday 12 oclock M Dec 16th</date></dateline>
       <p>
          <lb/>Fair wind and
-         <lb/><choice><orig>pleasent</orig><reg>pleasant</reg></choice> weather going 7 miles an hour very
+         <lb/><distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> weather going 7 miles an hour very
          <lb/>smooth sailing you would think you were in a 
          <lb/>house it is so smooth This morning shortly after
          <lb/>breakfast <rs ref="#END">Father</rs> ordered the First Mate to do some
@@ -3614,7 +3611,7 @@
       <lb/><dateline><date when="1852-12-23">Thursday 12 oclock M Dec 23th</date></dateline>
       <p>
          <lb/>Fair wind first part
-         <lb/>of the day <choice><orig>pleasent</orig><reg>pleasant</reg></choice> <choice><sic>lettar</sic><corr>later</corr></choice> thick and <choice><sic>rainey</sic><corr>rainy</corr></choice>. Two Ships
+         <lb/>of the day <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> <choice><sic>lettar</sic><corr>later</corr></choice> thick and <choice><sic>rainey</sic><corr>rainy</corr></choice>. Two Ships
          <lb/>in sight one ahead <choice><sic>stering</sic><corr>steering</corr></choice> the same way as we are
          <lb/>think she must be bound to the same <rs ref="#Acapulco">Port</rs> The
          <lb/>other Ship is coming towards, We are 600 miles from
@@ -3644,10 +3641,10 @@
             <lb/>give him some molasses as he had none.</said> <rs ref="#END">Father</rs>
          <lb/>told him <said aloud="true" direct="false"><rs ref="#END">he</rs> saw the molasses that had <choice><sic>alowed</sic><corr>allowed</corr></choice> <unclear cert="medium">him</unclear>
             <lb/>and if he had none <rs ref="#END">he</rs> could not help it</said> he went
-         <lb/>off muttering to <choice><orig>himselfe</orig><reg>himself</reg></choice> told <rs ref="#END">Father</rs> <said aloud="true" direct="false">if <rs ref="#END">he</rs> would not
+         <lb/>off muttering to <distinct type="archaicorthography"><choice><orig>himselfe</orig><reg>himself</reg></choice></distinct> told <rs ref="#END">Father</rs> <said aloud="true" direct="false">if <rs ref="#END">he</rs> would not
             <lb/><add place="above" rend="caret">give</add> him any he would steal it.</said> <rs ref="#END">Father</rs> then put
          <lb/>him in irons and told him <said aloud="true" direct="false">he could remain
-            <lb/>there <choice><orig>untill</orig><reg>until</reg></choice> he would come to him and <!--  -->asay he
+            <lb/>there <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> he would come to him and <!--  -->asay he
             <lb/>was sorry for what he had said and would try
             <lb/>to do better for the future and eat what was allow<seg type="softhyphen">
                <lb/></seg>ed him.</said>
@@ -3697,7 +3694,7 @@
          <lb/>said <said aloud="true" direct="false">he was sorry for what he had said but the
             <lb/>sailors put him up to it said he should be on
             <pb facs="/4/4954db2f-f7cf-437a-a8d0-13f501f48100"/>
-            <lb/>his guard and not speak for no one but <choice><orig>himselfe</orig><reg>himself</reg></choice></said>
+            <lb/>his guard and not speak for no one but <distinct type="archaicorthography"><choice><orig>himselfe</orig><reg>himself</reg></choice></distinct></said>
          <lb/>then the Irons were taken off and he went about 
          <lb/>his work <rs ref="#END">Father</rs> and the Carpenter have caught 
          <lb/>several small fish had them cook for supper they
@@ -3709,7 +3706,7 @@
    <div type="Entry" xml:id="Doane18530103a">
       <lb/><dateline><date when="1853-01-03">Monday 12 oclock M Jan 3the</date></dateline>
       <p>
-         <lb/>At 2 PM <choice><orig>sot</orig><reg>set</reg></choice>
+         <lb/>At 2 PM <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct>
          <lb/>Studding with a fair wind. This morning soon
          <lb/>after breakfast I went out on deck and the men
          <lb/>were over the side scraping the vessel when the
@@ -3757,7 +3754,7 @@
       <p><lb/>Fair wind and 
          <pb facs="/a/a91bd78c-c4a7-48b2-afa8-57f7a24adaab"/>
          <lb/>a fresh breeze sailing along with studding sails
-         <lb/><choice><orig>sot</orig><reg>set</reg></choice> close in by the land at 2 oclock AM one
+         <lb/><distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> close in by the land at 2 oclock AM one
          <lb/>of the large Steamers passed us bound to <placeName ref="#SF">San Fran<seg type="softhyphen">
             <lb/></seg><choice><sic>sisco</sic><corr>cisco</corr></choice></placeName> she was loaded with passengers a strong
          <lb/>breeze throughout the night. and this morning 
@@ -3782,7 +3779,7 @@
             <lb/>This morning
             <lb/>before sunrise <rs ref="#END">father</rs> went on shore to see about
             <lb/>the marketing when <rs ref="#END">he</rs> returned brought off
-            <lb/>some Eggs Potatoes <choice><orig>Punkins</orig><reg>Pumpkins</reg></choice> fresh meat and
+            <lb/>some Eggs Potatoes Punkins fresh meat and
             <lb/>&amp; after breakfast hove up the anchor and
             <pb facs="/b/b304bc8a-3c80-4cc1-a46b-d5a9ade6f408"/>
             <lb/><choice><sic>halled</sic><corr>hauled</corr></choice> along side of an old Hulk where we
@@ -3811,7 +3808,7 @@
             <lb/>the American <choice><sic>Manawar</sic><corr>man-of-war</corr></choice>, 
             The <choice><sic>Captian</sic><corr>Captain</corr></choice> says he will
             <lb/>take him if he was willing to go but he could
-            <lb/>not <choice><orig>oblidge</orig><reg>oblige</reg></choice> him to go Father gave him his
+            <lb/>not <distinct type="archaicorthography"><choice><orig>oblidge</orig><reg>oblige</reg></choice></distinct> him to go Father gave him his
             <lb/>choice whether to go in Prison or go on board of
             <lb/>the <choice><sic>Manawar</sic><corr>man-of-war</corr></choice> he chose the latter they have
             <pb facs="/f/f1ea7fd7-95c8-4700-aff4-0bdb6e7f7c83"/>
@@ -3822,8 +3819,8 @@
             trees they asked
             <lb/>us to walk in and take some seats we did
             <lb/>so, had no house lived there under the trees
-            <lb/>had a few broken dishes on a <choice><orig>barrel<gap reason="cancelled"
-               unit="chars" extent="1"></gap>l</orig><reg>barrel</reg></choice> a chest
+            <lb/>had a few broken dishes on a <distinct type="archaicorthography"><choice><orig>barrel<gap reason="cancelled"
+               unit="chars" extent="1"></gap>l</orig><reg>barrel</reg></choice></distinct> a chest
             <lb/>and several old basket and <unclear/> which was
             <lb/><choice><sic>there</sic><corr>their</corr></choice> furniture and a mat they sat on
          </p>
@@ -3831,7 +3828,7 @@
       <div type="Entry" xml:id="Doane18530113a">
          <lb/><dateline><date when="1853-01-13">Thursday 13th</date></dateline>
          <p>
-            <lb/>A very <choice><orig>pleasent</orig><reg>pleasant</reg></choice> day
+            <lb/>A very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day
             <persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice> Craw<seg type="softhyphen">-
             <lb/></seg>ford</persName> of the Ship <name type="ship">Ottawa</name> has been on board an
             <lb/>Englishman. The English Ship <name type="ship">David</name> has arrived
@@ -3844,7 +3841,7 @@
       </div>
       <div type="Entry" xml:id="Doane18530114a">
             <lb/><dateline><date when="1853-01-14">Friday 14th</date>,</dateline><p>
-            <choice><orig>Pleasent</orig><reg>Pleasant</reg></choice> day 
+            <distinct type="archaicorthography"><choice><orig>Pleasent</orig><reg>Pleasant</reg></choice></distinct> day 
             <persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice> 
             White</persName> and our<seg type="softhyphen">-
             <lb/></seg>selves took our <choice><sic>sails</sic><corr>sail</corr></choice> boat and went sailing
