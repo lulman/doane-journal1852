@@ -2523,8 +2523,10 @@
               <dateline><lb/><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 12 oclock M <date when="1852-08-17">Augt 17th</date></dateline>
               <p>
                  <lb/>This morning I awoke and heard
-                 <lb/>an <choice><sic>un<unclear>e</unclear>ausl</sic><corr>unusual</corr></choice> noise on deck I dressed <distinct type="archaicorthography"><choice><orig>my<seg type="softhyphen">&#x2014;
-                 <lb/></seg>selfe</orig><reg>self</reg></choice></distinct> and run up to the door to see what it
+                 <lb/>an <choice><sic>un<unclear>e</unclear>ausl</sic><corr>unusual</corr></choice>
+                 noise on deck I dressed <distinct type="archaicorthography"><choice><orig>my<seg type="softhyphen">-
+                    <lb/></seg>selfe</orig><reg>my<seg type="softhyphen">-
+                       <lb/></seg>self</reg></choice></distinct> and run up to the door to see what it
                  <lb/>was and saw we had a very heavy squall
                  <lb/>it has been squally all night at 3 oclock
                  <lb/>in the night <choice><sic>carryed</sic><corr>carried</corr></choice> away a Studding sails
@@ -2990,7 +2992,7 @@
          <lb/>secured and down come two pails of water
          <lb/>I think wetting Carpet Transom <choice><sic>Chusion</sic><corr>Cushion</corr></choice>
          <lb/>Piano Covering Table Covering then we had work 
-         <lb/><distinct type="archaicorthography"><choice><orig>enought</orig><corr>enough</corr></choice></distinct> called the Steward and we man<seg type="softhyphen">   
+         <lb/><distinct type="archaicorthography"><choice><orig>enought</orig><reg>enough</reg></choice></distinct> called the Steward and we man<seg type="softhyphen">   
             <lb/></seg>aged to get the Carpet <choice><sic>Rool</sic><corr>Roll</corr></choice> up and 8 oclock 
          <lb/>called the Steward to secure the Sofas, and 
          <lb/>called the Carpenter to secure the Chonom<seg type="softhyphen">-
@@ -3341,7 +3343,7 @@
       </p>   
    </div><pb facs="/5/587e18e9-3f9e-465c-a4a7-ee6000e37d4e" />
    <div type="Entry" xml:id="Doane18521110a"> 
-      <lb/><dateline> <date when="1852-11-10">Wednesday 12 oclock M Nov 10th</date></dateline>
+      <lb/><dateline><date when="1852-11-10">Wednesday 12 oclock M Nov 10th</date></dateline>
       <p>
          <lb/>This is 11 days we
          <lb/>have been beating <geogName ref="#OCHorn">off Cape Horn</geogName> have not
