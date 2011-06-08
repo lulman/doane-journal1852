@@ -28,6 +28,20 @@
    <xsl:template match="/">
       <html>
          <head>
+            <!-- Populate meta element with keywords -->
+            <xsl:element name="meta">
+               <xsl:attribute name="name">keywords</xsl:attribute>
+               <xsl:attribute name="content">
+                  <xsl:for-each select="//tei:keywords[@scheme='#LCSH']/tei:term">
+                     <xsl:choose>
+                        <xsl:when test="current()=//tei:keywords[@scheme='#LCSH']/tei:term[1]">
+                           <xsl:apply-templates/>
+                        </xsl:when>
+                        <xsl:otherwise>, <xsl:apply-templates/></xsl:otherwise>
+                     </xsl:choose>
+                  </xsl:for-each>
+               </xsl:attribute>
+            </xsl:element>
             <!-- Grab title from the fileDesc element of the TEI header. -->
             <title>
                <xsl:value-of select="//tei:fileDesc/tei:titleStmt/tei:title"/>
@@ -128,18 +142,16 @@
             </span><br/> A Personal Journal of Louisa A. Doane (1835– )</p>
             <hr/>
             <p align="center">
-               <a href="http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneJournalMarkup.cfm" target="self"
+               <a href="http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/default.cfm" target="self"
                   >Project Web Site</a> | <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_edintro"
+                     href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-EdintroP5"
                   target="self"> Ed. Intro</a> || <strong>Views</strong>: Reading (current/<a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_reading#view"
+                     href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-ReadingP5#view"
                   >about</a>) | <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_diplomatic"
+                     href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-DiplomaticP5"
                   target="self"> Diplomatic</a> | <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_splitview"
-                  target="self"> MS Image/Text</a> | <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_audio"
-                  target="self"> Audio</a>
+                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-SplitviewP5"
+                  target="self"> MS Image/Text</a>
                <br/><br/><strong>This edition is still being developed. Please do not cite until
                   this notice is removed.</strong>
             </p>
@@ -195,15 +207,15 @@
                the manuscript are not reported; rather, lines wrap in the browser's window. Page
                breaks are not reported. Paragraph breaks follow those in the manuscript. Spelling,
                punctuation, capitalization, and abbreviations are reported as they appear in the
-               manuscript. Text highlighted by Cox with an underscore is underscored in this view.
-               Text canceled by Cox is suppressed. Text added by Cox between lines or in the margins
+               manuscript. Text highlighted by Doane with an underscore is underscored in this view.
+               Text canceled by Doane is suppressed. Text added by Doane between lines or in the margins
                is silently incorporated into the text. All material added by the editor is
                surrounded by square brackets: uncertain readings are enclosed in square brackets and
                followed by a question mark, and text supplied by the editor for clarity is set in
                italics and surrounded by square brackets. Gaps in the manuscript (e.g., from tears)
                are indicated by elipses enclosed by square brackets. Links to notes and external
                materials are colored and underlined. Finally, the background consists of a tiled
-               detail from a page of Cox's journal.</p>
+               detail from a page of Doane's journal.</p>
             <hr/>
             <!-- Insert link to home page, creation date, and licensing statement.-->
             <p align="left">
