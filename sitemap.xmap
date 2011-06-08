@@ -69,6 +69,30 @@
       <map:serialize/>
     </map:match>
     
+    <map:match pattern="*.Doane-EdintroP5">
+      <map:generate src="doane/content/xml/{1}.xml"/>
+      <map:transform src="doane/style/xsl/Doane-EdintroP5.xsl"/>
+      <map:serialize type="html"/>
+    </map:match>
+    
+    <map:match pattern="*.Doane-ReadingP5">
+      <map:generate src="doane/content/xml/{1}.xml"/>
+      <map:transform src="doane/style/xsl/Doane-ReadingP5.xsl"/>
+      <map:serialize type="html"/>
+    </map:match>
+    
+    <map:match pattern="*.Doane-DiplomaticP5">
+      <map:generate src="doane/content/xml/{1}.xml"/>
+      <map:transform src="doane/style/xsl/Doane-DiplomaticP5.xsl"/>
+      <map:serialize type="html"/>
+    </map:match>
+    
+    <map:match pattern="*.Doane-SplitviewP5">
+      <map:generate src="doane/content/xml/{1}.xml"/>
+      <map:transform src="doane/style/xsl/Doane-SplitviewP5.xsl"/>
+      <map:serialize type="html"/>
+    </map:match>
+    
     <map:match pattern="*.SSC_edintro">
       <map:generate src="cox/content/xml/{1}.xml"/>
       <map:transform src="cox/style/xsl/SSCox_edintro.xsl"/>
