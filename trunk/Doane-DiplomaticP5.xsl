@@ -28,6 +28,20 @@
    <xsl:template match="/">
       <html>
          <head>
+            <!-- Populate meta element with keywords -->
+            <xsl:element name="meta">
+               <xsl:attribute name="name">keywords</xsl:attribute>
+               <xsl:attribute name="content">
+                  <xsl:for-each select="//tei:keywords[@scheme='#LCSH']/tei:term">
+                     <xsl:choose>
+                        <xsl:when test="current()=//tei:keywords[@scheme='#LCSH']/tei:term[1]">
+                           <xsl:apply-templates/>
+                        </xsl:when>
+                        <xsl:otherwise>, <xsl:apply-templates/></xsl:otherwise>
+                     </xsl:choose>
+                  </xsl:for-each>
+               </xsl:attribute>
+            </xsl:element>
             <!-- Grab title from the fileDesc element of the TEI header. -->
             <title>
                <xsl:value-of select="//tei:fileDesc/tei:titleStmt/tei:title"/>
@@ -129,18 +143,16 @@
             </span><br/> A Personal Journal of Louisa A. Doane (1835– )</p>
             <hr/>
             <p align="center">
-               <a href="http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneJournalMarkup.cfm" target="self"
+               <a href="http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/default.cfm" target="self"
                   >Project Web Site</a> | <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_edintro"
-                  target="self"> Ed. Intro</a> || <strong>Views</strong>: Reading (current/<a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_reading#view"
-                  >about</a>) | <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_diplomatic"
-                  target="self"> Diplomatic</a> | <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_splitview"
-                  target="self"> MS Image/Text</a> | <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_audio"
-                  target="self"> Audio</a>
+                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-EdintroP5"
+                  target="self"> Ed. Intro</a> || <strong>Views</strong>: <a
+                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-ReadingP5"
+                  >Reading</a>) | Diplomatic (current/<a
+                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-DiplomaticP5#view"
+                  target="self">about</a> | <a
+                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-SplitviewP5"
+                  target="self"> MS Image/Text</a>
                <br/><br/><strong>This edition is still being developed. Please do not cite until
                   this notice is removed.</strong>
             </p>
@@ -192,19 +204,21 @@
             <p>
                <strong>About this View of the Journal</strong>
             </p>
-            <p><a name="view"/>The text of the journal is organized by daily entries. Line breaks in
-               the manuscript are not reported; rather, lines wrap in the browser's window. Page
-               breaks are not reported. Paragraph breaks follow those in the manuscript. Spelling,
-               punctuation, capitalization, and abbreviations are reported as they appear in the
-               manuscript. Text highlighted by Cox with an underscore is underscored in this view.
-               Text canceled by Cox is suppressed. Text added by Cox between lines or in the margins
-               is silently incorporated into the text. All material added by the editor is
-               surrounded by square brackets: uncertain readings are enclosed in square brackets and
-               followed by a question mark, and text supplied by the editor for clarity is set in
-               italics and surrounded by square brackets. Gaps in the manuscript (e.g., from tears)
-               are indicated by elipses enclosed by square brackets. Links to notes and external
-               materials are colored and underlined. Finally, the background consists of a tiled
-               detail from a page of Cox's journal.</p>
+            <p><a name="view"/>The text of the journal is organized by manuscript pages. Line breaks
+               and page breaks reflect those in the manuscript; paragraph breaks are not reported.
+               Spelling, punctuation, capitalization, and abbreviations are reported as they appear
+               in the manuscript. Text highlighted by Doane with an underscore is underscored in
+               this view. Recoverable text canceled by Doane is reported in red, strikethrough text;
+               unrecoverable text canceled by Cox is reported with an ellipsis in red, strikethrough
+               text. Text added by Cox between lines is reported between arrows (↑ ↓) indicating the
+               position of the addition; text added in the margin is reported between pipes (|). All
+               material added by the editor is surrounded by square brackets: uncertain readings are
+               enclosed in square brackets and followed by a question mark, errors in the manuscript
+               are indicated by sic, and text supplied by the editors for clarity is set in italics.
+               Gaps in the manuscript (e.g., tears) are noted by ellipses within square brackets.
+               Links to explanatory notes are numbered, colored, and underlined; links to textual
+               annotations are lettered, colored, and underlined. Finally, the background consists
+               of a tiled detail from a page of Doane's journal.</p>
             <hr/>
             <!-- Insert link to home page, creation date, and licensing statement.-->
             <p align="left">
@@ -407,21 +421,26 @@
          (<xsl:value-of select="@extent"/> <xsl:value-of select="@unit"/>)</em>]
    </xsl:template>
 
-   <!-- Editorial emendations -->
-    <xsl:template match="tei:supplied"> [<i>
-         <xsl:apply-templates/>
-    </i>] </xsl:template>
+   <!-- Editorial emendations: supplied text. -->
+    <xsl:template match="tei:supplied">[<i><xsl:apply-templates/></i>]</xsl:template>
 
    <!-- Additions by the author or another hand. -->
-    <xsl:template match="tei:add">
-      <xsl:apply-templates/>
+    <xsl:template match="tei:add[@place='above']">
+       &#x2191;<xsl:apply-templates/>&#x2193;
     </xsl:template>
+   <xsl:template match="tei:add[@place='below']">
+      &#x2193;<xsl:apply-templates/>&#x2191;
+   </xsl:template>
    
    <!-- Recoverable cancellations by the author or another hand -->
-    <xsl:template match="tei:del"/>
+    <xsl:template match="tei:del">
+       <span class="cancel">
+          <xsl:apply-templates/>
+       </span>
+    </xsl:template>
    
    <!-- Unclear passages. -->
-    <xsl:template match="tei:unclear"> [<xsl:apply-templates/>?] </xsl:template>
+    <xsl:template match="tei:unclear">[<xsl:apply-templates/>?]</xsl:template>
    
    <!-- Nonstandard or erroneous text for which you have encoded a correct or regularized alternative. -->
    <xsl:template match="tei:choice/tei:orig">
