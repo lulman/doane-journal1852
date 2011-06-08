@@ -17,6 +17,20 @@
    <xsl:template match="tei:teiHeader">
       <html>
          <head>
+            <!-- Populate meta element with keywords -->
+            <xsl:element name="meta">
+               <xsl:attribute name="name">keywords</xsl:attribute>
+               <xsl:attribute name="content">
+                  <xsl:for-each select="//tei:keywords[@scheme='#LCSH']/tei:term">
+                     <xsl:choose>
+                        <xsl:when test="current()=//tei:keywords[@scheme='#LCSH']/tei:term[1]">
+                           <xsl:apply-templates/>
+                        </xsl:when>
+                        <xsl:otherwise>, <xsl:apply-templates/></xsl:otherwise>
+                     </xsl:choose>
+                  </xsl:for-each>
+               </xsl:attribute>
+            </xsl:element>
             <title>
                <xsl:value-of select="tei:fileDesc/tei:titleStmt/tei:title"/>
             </title>
@@ -135,7 +149,7 @@
             <p><a name="view"/>Text on this page is derived from the TEI Header element of the
                edition's XML source document, SSCoxJournal.xml.</p>
             <hr/>
-            <p>&#x2192; Link to the text of the journal coming soon.
+            <p>&#x2192; <a href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-ReadingP5">Link to the text of the journal</a>.
             </p>
          </body>
       </html>
