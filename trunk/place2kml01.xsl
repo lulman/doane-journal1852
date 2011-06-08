@@ -64,7 +64,7 @@
                      
                     <xsl:text>.<![CDATA[<br/><br/>]]>First mention in Doane journal:</xsl:text>
                     <xsl:variable name="reftag" select="concat('#',@xml:id)"></xsl:variable>
-                     <![CDATA[<br/>]]>http://www.osu.edu/<xsl:text>#</xsl:text><xsl:value-of
+                     <![CDATA[<br/>]]>http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-ReadingP5<xsl:text>#</xsl:text><xsl:value-of
                        select="/tei:TEI/tei:text/tei:body//tei:*[(name()='geogName' or
                        name()='placeName' or name()='rs') and @ref=$reftag][1]/ancestor::tei:div[1][@type='Entry']/@xml:id"/>
                     <![CDATA[<br/>]]> 
