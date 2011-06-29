@@ -1812,6 +1812,8 @@
             changes made during the development of the electronic text" (TEI P4X, ch. 5).
             Add additional changes at the top of the list.
          -->
+         <change when="2011-06-07" who="#HLU">Updated XML and XSL files to reflect work done by 
+         students in English 569 SP11 at The Ohio State University.</change>
          <change when="2010-01-12" who="#HLU">Created the TEI file.</change>
 
       </revisionDesc>
@@ -4452,7 +4454,7 @@
             <lb/>the Mates.
          </p>
       </div>
-      <!-- 043a-044a missing here -->
+      <!-- Part of 044a missing here: Pick up at daily entry for Monday 17th -->
       <!-- Rachel Cross's section starts here -->
       <pb/>
       <div type="Entry" xml:id="Doane18530117">
@@ -4549,19 +4551,19 @@
             <lb/>of it and would give it a push then there
             <lb/>were 7 more children around the place
       <!-- Rachel Cross's section ends here -->           
+      <!-- 046a-047a missing here. Pick up at page break in middle of paragraph. -->
          </p>
       </div>
-      <!-- 046a-047a missing here -->
-      
+      <!-- Note that the following opening div tag must be completed. -->
+      <div>
+         <p>     
       <!-- Chloe Goodhart's section starts here -->
       <pb facs="/4/44de1c39-6e35-40aa-836d-eb5bb763b8dc"/>
-      <div>
-         <p>
-            <lb/>[SCANS 046A THROUGH 047A NOT YET TRANSCRIBED]
             <lb/>and took them on shore and put them <choice><sic>Prisn</sic><corr>Prison</corr></choice>
             <lb/><rs ref="#ATD">mother</rs> is better the fever still keeps off have
             <lb/>every reason to <choice><sic>belive</sic><corr>believe</corr></choice> it has broke
-         </p></div>
+         </p>
+      </div>
       <div type="Entry" xml:id="Doane18530202a">
          <lb/><dateline><date when="1853-02-02">Wednesday Feb 2</date></dateline>
          <p>
@@ -5720,12 +5722,13 @@
           </div>
       <!-- Elizabeth Snowden's section ends here -->
       
-      <!-- 065b- 066b missing -->
-      
+      <!-- 065b- 066b missing. Pick up with page break and new div on 065b. -->
+      <!-- The following opening div tag begins on 066b. -->
+             
+          <div>
+             <p>    
       <!-- Devan Toncler's section starts here -->
           <pb facs="/6/6fab4c2a-2e6a-477c-a2ae-32a0e62925f6"/>
-          <div>
-             <p>
                 <lb/>and looped up which formed a very handsome
                 <lb/><choice><sic>Chanderleir</sic><corr>Chandelier</corr></choice> and the lights around the Sides
                 <lb/>Here we took the arm of the <rs><choice><sic>Captian</sic><corr>Captain</corr></choice></rs> of the
@@ -5903,16 +5906,20 @@
                    <lb/>Comer</persName> looked up and <choice><sic>Wafed</sic><corr>Waved</corr></choice> his Hand<seg type="softhyphen">
                       <lb/></seg>Kerchief. We went unto the dry Good Store<ptr type="noteAnchor" target="DGS"/><note resp="ed" xml:id="dgs">Stores available at ship ports. These stores provided goods that were most likely very appealling to women, like Louisa Doane, who have been on board a ship with mostly male company. These stores sold china, silk, patterns for clothing, and many other items that would be appealling to females far from home.<bibl><ref target="TSB">"The Sewing Bird"</ref></bibl></note>
                 <lb/>where there were a few Booth Shows and it
-                <lb/>Gave us some very nice <unclear cert="low" reason="handwriting">wine</unclear>
+                <lb/>Gave us some very nice <unclear cert="low" reason="handwriting">Wine</unclear>
+      <!-- Keisha Trott's section ends here -->
+                
+      <!-- PAGES 070a THROUGH 071a HAVE NOT YET BEEN TRANSCRIBED -->
+      <!-- The following div and p tags are placeholders for elements that should appear on those
+         pages. -->
+                
              </p>
           </div>
-      <!-- Keisha Trott's section ends here -->
-      <!-- PAGES 070a THROUGH 071a HAVE NOT YET BEEN TRANSCRIBED -->
+             <div>               
+                <p>
+                   
       <!-- Alexandria Veeley's section starts here -->
              <pb facs="/7/7a9bf7de-bf70-4a70-9712-486ab397831f"/>
-             <div>
-                
-                <p>
                    <lb/>side of in his sail Boats with a number of
                    <lb/>other <persName><choice><sic>Captians</sic><corr>Captains</corr></choice> Lowell</persName> and when the<choice><sic>Captians</sic><corr>Captains</corr></choice>
                    <lb/>left us they all got into his Boat and whe<seg type="softhyphen">
@@ -5998,6 +6005,8 @@
                    <lb/>I heard <persName>Mr Brown</persName> talking singing and
                    <lb/>laughing I knew He was drunk. The   
                    <!-- Alexandria Veeley's section ends here -->
+                   
+                   <!-- Pages 073a through 078b remain to be transcribed. -->
            </p>
          </div>
        </div>
