@@ -121,11 +121,11 @@
             <p class="links">[ <a href="#source">About the Source Document</a> | <a href="#edition"
                   >About the Electronic Edition</a> | <a href="#revision">Revision History</a> | <a
                   href="#view">About this Editorial Introduction</a> | <a
-                  href="http://people.cohums.ohio-state.edu/ulman1/SSCoxJournal/">Project Web
+                     href="http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/default.cfm">Project Web
                   site</a>] 
                <br/><br/><xsl:element name="a">
                   <xsl:attribute name="href"
-                     >http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/SSCoxJournal.SSC_reading</xsl:attribute>
+                     >http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-ReadingP5</xsl:attribute>
                   <strong>Link to the Text of the Journal</strong>
                </xsl:element>
                <br/><br/><strong>This edition is still being developed. Please do not cite until
