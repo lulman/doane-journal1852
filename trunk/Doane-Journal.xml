@@ -1538,6 +1538,10 @@
                   <persName>Captain Lowell</persName>
                   <occupation>Ship's Captain</occupation>
                </person>
+               <person xml:id="Cavenagh">
+                  <persName>Mr. Cavenagh</persName>
+                  <occupation>Second Mate</occupation>
+               </person>
             </listPerson>
             <listPerson type="editors">
                <person xml:id="HLU">
@@ -4454,12 +4458,21 @@
             <lb/>the Mates.
          </p>
       </div>
-      <!-- Part of 044a missing here: Pick up at daily entry for Monday 17th -->
-      <!-- Rachel Cross's section starts here -->
-      <pb/>
+      <!-- 44a transcribed -->
       <div type="Entry" xml:id="Doane18530117">
-         <lb/><dateline><date when= "1853-01-17"></date></dateline>
+         <lb/><dateline><date when= "1853-01-17">Monday 17th</date></dateline>
          <p>
+            <lb/>This morning soon after breakfast
+            <lb/>the Mate came on board and when the boat
+            <lb/>returned from Marketing the Second Mate and
+            <lb/>the rest of the crew came on board all drunk
+            <lb/>bad to hilt two in <choice><sic>ther</sic><corr>their number</corr></choice> could not stand and the 
+            <lb/>second wanted to go to <choice><sic>frighen</sic><corr>fighting</corr></choice> with the men 
+            <lb/>talked very <choice><sic>sauciy</sic><corr>saucy</corr></choice> to <rs ref="#END">Father</rs> he was put in
+            <lb/>his room and shot the door this afternoon
+            <lb/><rs ref="#END">father</rs> has discharged <persName ref="#Cavenagh">Mr. Cavenagh</persName> while         
+      <!-- Rachel Cross's section starts here -->
+           <pb/>
             <lb/>he was gone on shore the second mate got on
             <lb/>shore in some Canoes and was not seen
             <lb/>at night the boat was sent after him but he
@@ -4551,12 +4564,88 @@
             <lb/>of it and would give it a push then there
             <lb/>were 7 more children around the place
       <!-- Rachel Cross's section ends here -->           
-      <!-- 046a-047a missing here. Pick up at page break in middle of paragraph. -->
+      <!-- 046a-047a Transcribed. -->
+            <pb/>
+            <lb/>there was one very pretty interesting little
+            <lb/>girl then we returned on board but before
+            <lb/>we got to Ship we saw a boat coming <del rend="erased">t</del>
+            <lb/>towards us it was our Consignee and his
+            <lb/>friends there was a Priest 6 ladys and a
+            <lb/>number of Gentleman they came unexpected
+            <lb/>some played on the Piano. after tea they
+            <lb/>went out on the greater deck sing and played on the <choice><sic>accordaon</sic><corr>accordion</corr></choice> they was very much
+            <lb/>pleased with the Piano said it was a beau<seg type="softhyphen">-
+            <lb/></seg>tifull one the old Priest was much of
+            <lb/>a gentleman drank several toast to us, It
+            <lb/>was amusing <add place="above">to see</add> the Priest at the supper table
+            <lb/>he did not say much as it was as much
+            <lb/>as he could do to put in and eat for life
+            <lb/>and when any one spoke to him he would
+            <lb/><choice><sic>nood</sic><corr>nod</corr></choice> his head could not speak as his
+            <lb/>mouth was full
          </p>
       </div>
+      <div type="Entry" xml:id="Doane18530128a">
+         <lb/><dateline><date when="1853-01-28">Friday 28</date></dateline>
+         <p>
+            <lb/>This morning at one o'clock the
+            <lb/>wind <choice><sic>commeced</sic><corr>commenced</corr></choice> blowing and it increased
+            <lb/>to a perfect gale the <name type="ship">Ship Ottawa Bark
+            <pb/>
+            <lb/>Lochibo</name> <choice><sic>draged</sic><corr>dragged</corr></choice> ashore and the brigg <choice><sic>draged</sic><corr>dragged</corr></choice>
+            <lb/>on rock which lay in the Harbor we <choice><sic>draged</sic><corr>dragged</corr></choice>
+            <lb/>untill we had only one foot of water <choice><sic>escpecting</sic><corr>expecting</corr></choice> 
+            <lb/><choice><sic>evey</sic><corr>every</corr></choice> minute to go on shore but at ten o'clock
+            <lb/>the wind abated and it was very warm
+            <lb/>indeed the Thermometer stood <add place="above">at</add> 90 in the shade
+            <lb/>after they got the Ship secured. <rs ref="#END">father</rs> took
+            <lb/>the boat and 4 men and went on board
+            <lb/>of <persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice> White</persName> and helped him get <choice><sic>offt</sic><corr>off</corr></choice>
+            <lb/>of the rocks while he was gone <rs ref="#ATD">mother</rs> was
+            <lb/>taken with a high fever very sudden when
+            <lb/>he returned he gave her a sweet and med<seg type="softhyphen">-
+            <lb/></seg>icine but it did not appear to help her
+            <lb/>and a high fever. and <rs ref="#END">father</rs> sent for the
+            <lb/>Doctor he came on board said she had
+            <lb/>the Panama fever left medicine for her
+            <lb/>to take I was up most of the night
+         </p>
+      </div>
+      <div type="Entry" xml:id="Doane18530130a">
+         <lb/><dateline><date when="1853-01-30">Sunday 30</date></dateline>
+         <p>
+            <lb/>This morning two of the sailors came
+            <lb/>to <rs ref="#END">father</rs> and wanted to go on shore, <rs ref="#END">father</rs> told
+            <lb/>them they could not go as they had all been
+            <lb/>on shore and they could go no more <del rend="overwritten">s</del>where
+            <pb/>
+            <lb/>by they gave him a very saucy answer and
+            <lb/>went to go forward <rs ref="#END">father</rs> them and asked 
+            <lb/>them what they meant and then they talk
+            <lb/>very saucy and went forward again <rs ref="#END">father</rs>
+            <lb/>called them aft to put the Trous on they
+            <lb/>said they would not come, then <rs ref="#END">father</rs>
+            <lb/>sent on shore for the Counsul he came off and took the names of the sailor said
+            <lb/>he would send the <choice><sic>Captian</sic><corr>Captain</corr></choice> of the Port of
+            <lb/>in the morning and put them in Prison
+            <lb/>at three o'clock in the afternoon sent for
+            <lb/>the Doctor as <rs ref="#ATD">mother</rs> was very sick and 
+            <lb/>quite deaf he said he thought the fever
+            <lb/>was broke as the deafness was a good
+            <lb/><choice><sic>sine</sic><corr>sign</corr></choice>
+         </p>
+      </div>
+            
       <!-- Note that the following opening div tag must be completed. -->
-      <div>
+      <div type="Entry" xml:id="Doane18530131a">
+         <lb/><dateline><date when="1853-01-31">Monday 31</date></dateline>
          <p>     
+            <lb/>This morning all hands were
+            <lb/>called to go to work and seven of them
+            <lb/>refused to go to work said they would do
+            <lb/>no more work on board of the Ship <rs ref="#END">father</rs>
+            <lb/>sent on shore for the <choice><sic>Captian</sic><corr>Captain</corr></choice> of the 
+            <lb/>Port he came of with 8 men armed
       <!-- Chloe Goodhart's section starts here -->
       <pb facs="/4/44de1c39-6e35-40aa-836d-eb5bb763b8dc"/>
             <lb/>and took them on shore and put them <choice><sic>Prisn</sic><corr>Prison</corr></choice>
