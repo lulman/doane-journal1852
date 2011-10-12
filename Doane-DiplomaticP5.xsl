@@ -145,13 +145,13 @@
             <p align="center">
                <a href="http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/default.cfm" target="self"
                   >Project Web Site</a> | <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-EdintroP5"
+                  href="DoaneJournal-EdIntro.html"
                   target="self"> Ed. Intro</a> || <strong>Views</strong>: <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-ReadingP5"
+                  href="DoaneJournal-Reading.html"
                   >Reading</a>) | Diplomatic (current/<a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-DiplomaticP5#view"
+                  href="#view"
                   target="self">about</a> | <a
-                  href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-SplitviewP5"
+                  href="DoaneJournal-Splitview.html"
                   target="self"> MS Image/Text</a>
                <br/><br/><strong>This edition is still being developed. Please do not cite until
                   this notice is removed.</strong>

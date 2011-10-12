@@ -125,7 +125,7 @@
                   site</a>] 
                <br/><br/><xsl:element name="a">
                   <xsl:attribute name="href"
-                     >http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-ReadingP5</xsl:attribute>
+                     >DoaneJournal-Reading.html</xsl:attribute>
                   <strong>Link to the Text of the Journal</strong>
                </xsl:element>
                <br/><br/><strong>This edition is still being developed. Please do not cite until
@@ -147,9 +147,9 @@
                <strong>About this Editorial Introduction</strong>
             </p>
             <p><a name="view"/>Text on this page is derived from the TEI Header element of the
-               edition's XML source document, SSCoxJournal.xml.</p>
+               edition's XML source document, Doane-Journal.xml.</p>
             <hr/>
-            <p>&#x2192; <a href="http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-ReadingP5">Link to the text of the journal</a>.
+            <p>&#x2192; <a href="DoaneJournal-Reading.html">Link to the text of the journal</a>.
             </p>
          </body>
       </html>
