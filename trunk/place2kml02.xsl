@@ -64,7 +64,8 @@
                      
                     <xsl:text><![CDATA[<br/><br/>]]>Click to view the: </xsl:text>
                     <xsl:variable name="reftag" select="concat('#',@xml:id)"></xsl:variable>
-                     <xsl:element name="a"><xsl:attribute name="href">http://suse1.cohums.ohio-state.edu/tomcat/cocoon/eng569/Doane-Journal.Doane-ReadingP5<xsl:text>#</xsl:text><xsl:value-of
+                     <xsl:element name="a"><xsl:attribute
+                       name="href">http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneHTMLViews/DoaneJournal-Reading.html<xsl:text>#</xsl:text><xsl:value-of
                        select="/tei:TEI/tei:text/tei:body//tei:*[(name()='geogName' or
                        name()='placeName' or name()='rs') and
                        @ref=$reftag][1]/ancestor::tei:div[1][@type='Entry']/@xml:id"/></xsl:attribute>First
