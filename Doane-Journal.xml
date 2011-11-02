@@ -2121,7 +2121,7 @@
                <said aloud="true" direct="true">Porpoises</said>,
                <!-- Proofread to this point on 12 October 2011. -->
                <pb facs="/f/f935bf4f-dbe8-4f0a-9012-571aa6ad7a35"/>
-               <lb/>and they are preparing thy the harpoon, th<supplied reason="omitted" resp="#HLU">e</supplied>y are
+               <lb/>and they are preparing <choice><sic>thy</sic><corr></corr></choice> the harpoon, th<supplied reason="omitted" resp="#HLU">e</supplied>y are
                <lb/>going to try <supplied reason="omitted" resp="#HLU">to</supplied> catch some,
             </p>
          </div>
@@ -2137,7 +2137,7 @@
          <div type="Entry" xml:id="Doane18520228a">
             <lb/><dateline><date when="1852-02-28">Saturday 28</date></dateline>
             <p>The wind is ahead so we cannot
-               <lb/>go our course, we are under closed reefed top<seg>
+               <lb/>go our course, we are under closed reefed top<seg type="softhyphen">
                <lb/></seg>sails, yesterday the wind was ahead also. We
                <lb/>have passed the <placeName ref="#Azores">Western Island</placeName>. it is rather
                <lb/><distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>.
@@ -2152,16 +2152,16 @@
                <lb/>chair out of a barrel, it is growing quite
                <lb/>moderate, I think we shall have a change
                <lb/>of wind soon, we have a sailor sick, has
-               <lb/>not been on deck since Saturday,
+               <lb/>not been on deck <choice><sic>sence</sic><corr>since</corr></choice> saturday,
             </p>
          </div>
          <div type="Entry" xml:id="Doane18520302a">
             <lb/><dateline><date when="1852-03-02"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 2</date></dateline>
             <p>This has been a <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day, this
-               <lb/>more<add place="above">ing</add> the wind was ahead,
-               but since dinner
+               <lb/><choice><sic>more</sic><corr>morn</corr></choice><add place="above">ing</add> the wind was ahead,
+               but <choice><sic>sence</sic><corr>since</corr></choice> dinner
                <lb/>it has changed so we can lay our course, we are
-               <lb/>going seven miles an a half an hour, <del rend="strikethrough">I have</del>
+               <lb/>going seven miles and a half an hour, <del rend="strikethrough">I have</del>
             </p>
          </div>
          <pb facs="/1/1f7ab6af-ca04-4e64-ad48-bfdc3580ceb9"/>
@@ -2171,7 +2171,9 @@
                <lb/>wind, this has been a <choice><sic>busey</sic><corr>busy</corr></choice> 
                day with us; <rs ref="#ATD">mother</rs>
                <lb/>has been <choice><sic>makeing</sic><corr>making</corr></choice> mince pies, Steward has
-               <lb/>been cleaning the <unclear cert="low" reason="unfamiliar word">petions</unclear> in the cabin and I
+               <lb/>been cleaning the <choice><sic><unclear cert="low" reason="possible
+                  misspelling">petions</unclear></sic><corr cert="medium">partitions</corr></choice>
+               in the cabin. and I
                <lb/>have been washing out some pocket handker<seg type="softhyphen">-
                <lb/></seg>chiefs, It is very 
                <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>, have seen two
@@ -2182,7 +2184,7 @@
             </p>
          </div>
          <div type="Entry" xml:id="Doane18520304a">
-            <lb/><dateline><date when="1852-03-04">Thursday. 4</date></dateline>
+            <lb/><dateline><date when="1852-03-04">Thursday 4</date></dateline>
             <p>The weather still continues <distinct type="archaicorthography"><choice><orig>plea<seg type="softhyphen">-
                <lb/></seg>sent</orig><reg>plea<seg type="softhyphen">-<lb/></seg>sant</reg></choice></distinct> 
                and fair wind <choice><abbr>altho</abbr><expan>although</expan></choice> not much, have
@@ -2195,7 +2197,7 @@
                <lb/>she went under some of the water casks,
                <lb/>but we think she must have gone overboard,
                <lb/>as we have looked for her and she is not to
-               <lb/>be found, I felt loth to part with here, as she
+               <lb/>be found, I felt loth to part with her, as she
                <lb/>was an old sailor, she had been to <placeName ref="#Canton">Canton</placeName>
                <lb/>and back,
             </p>
@@ -2205,8 +2207,8 @@
             <lb/><dateline><date when="1852-03-07">Sunday 7</date>.</dateline>
             <p>We have a fair wind quite a fresh
                <lb/>breeze, so we are under close reefed topsails, have
-               <lb/>passed a number of vessel, there are two in sight—
-               <lb/>now bound the other way. they have just sung
+               <lb/>passed a number of vessel, there are two in sight
+               <lb/>now bound the other way, they have just sung
                <lb/>out <said aloud="true" direct="true">Land Oh</said>, It is 
                the <placeName ref="#StVincent">Cape St Vincent</placeName>,
                <lb/><rs ref="#ATD">mother</rs> has a sick headache has not been up
@@ -2224,11 +2226,13 @@
                <lb/>stood off from the land, while we sat at
                <lb/>the dinner table we saw all the sailors
                <lb/>coming aft, the head one came up to the
-               <lb/>door with a pair of potatoes in his hand says
-               <lb/><said aloud="true" direct="true">Captian, I want to speak with you if you
-               <lb/>please</said>, he says <said aloud="true" direct="true">Captian do you think these
-               <lb/>is potatoes enough for six men, these were nearly
-               <lb/>half a peck</said>, the Captian said 
+               <lb/>door with a pan of potatoes in his hand say,
+               <lb/><said aloud="true" direct="true"><choice><sic>Captian</sic><corr>Captain</corr></choice>, I want to speak with you if you
+                  <lb/>please</said>, he says <said aloud="true"
+                     direct="true"><choice><sic>Captian</sic><corr>Captain</corr></choice> do you
+                     think there
+               <lb/>is potatoes enough for six men, there were nearly
+                     <lb/>half a peck</said>, the <choice><sic>Captian</sic><corr>Captain</corr></choice> said 
                <said aloud="true" direct="true">if you are not
                <lb/>satisfied with what there is pass in your pan
                <lb/>and go without any</said>, and away the poor
@@ -2236,29 +2240,30 @@
                <lb/>fellows marched backed, and had to eat
                <lb/>their beef without any potatoes, I was most
                <lb/>sorry for them, about two oclock while I was
-               <lb/>busily engaged in reading, I heard an usuea<seg type="softhyphen">
-               <lb/></seg>l noise<del rend="overstrike">y</del> on deck, by the
+               <lb/>busily engaged in reading, I heard an <choice><sic>usuea<seg type="softhyphen">
+               <lb/></seg>l</sic><corr>unusual</corr></choice> noise<del rend="overstrike">y</del> on deck, by the
                time I got to the door,
-               <lb/>the second mate was up to the Captian, and
-               <lb/>says <said aloud="true" direct="false">the first officer and one of sailors are
-               <lb/>fighting, he part them, the sailor disobeyed
+               <lb/>the second mate runs up to the <choice><sic>Captian</sic><corr>Captain</corr></choice>, and
+               <lb/>says <said aloud="true" direct="false">the first officer and one of
+                  <supplied reason="omitted word" resp="ed">the</supplied> sailors are
+               <lb/>fighting, he part<supplied reason="tense" resp="ed">ed</supplied> them, the sailor disobeyed
                <lb/>the mates orders</said>,
             </p>
          </div>
          <div type="Entry" xml:id="Doane18520309a">
             <lb/><dateline><date when="1852-03-09"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 9</date></dateline>
             <p>We have been lying becalm all
-               <lb/>night and today, which is too bad, <rs ref="#ATD">mother</rs> is
+               <lb/>night and today, which is too bad, <rs ref="#ATD"><choice><sic>mothe</sic><corr>mother</corr></choice></rs> is
                <lb/>quite smart, the mate 
                <unclear cert="low"><choice><abbr>ored</abbr><expan>ordered</expan></choice></unclear> 
                the man he had
                <lb/>the <distinct type="archaicorthography"><choice><orig>troble</orig><reg>trouble</reg></choice></distinct> with 
-                    yesterday, to go and scrape the
+                    yesterday, to go and <choice><sic>scrap</sic><corr>scrape</corr></choice> the
                <lb/>mast, he said <said aloud="true" direct="false">he could not not do it</said>, then
-               <lb/><rs ref="#END">the Captian</rs> called him aft and told him
+               <lb/><rs ref="#END">the <choice><sic>Captian</sic><corr>Captain</corr></choice></rs> called him aft and told him
                <lb/><said aloud="true" direct="false">to stand there 
                   <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> he was willing to obey
-               <lb/>orders</said>, at noon saw a turkle in the water threw
+               <lb/>orders</said>, at noon saw a turkle in the water throw
                <lb/>the harpoon but did not succeed in getting
                <lb/>him, there are five vessels in sight.
             </p>
@@ -2267,8 +2272,9 @@
             <lb/><dateline><date when="1852-03-10">Wednesday 10</date>.</dateline>
             <p>It still continues calm last
                <lb/>night the sailor came to the Captain and
-               <lb/>said <said aloud="true" direct="false">he wanted to got to work</said> so he went to
+               <lb/>said <said aloud="true" direct="false">he wanted to go to work</said> so he went to
                <lb/>work, I hope we shall have no more <distinct type="archaicorthography"><choice><orig>troble</orig><reg>trouble</reg></choice></distinct>
+    <!-- Proofread to this point 2 November 2011. HLU and Chloe Goodhart. -->
                <pb facs="/6/6db542b6-7896-4ad1-9c4a-9275bd361f72"/>
                <lb/>for it is very disagreeable, I have been draw<seg type="softhyphen">
                <lb/></seg>ing a pattern to work a pair of cloth slippers,
