@@ -2449,31 +2449,34 @@
                  <lb/><dateline><date when="1852-03-29">Monday 29</date>. </dateline><p>We have had a fair wind all day,
                  <lb/>and a fresh breeze, we are going 7 miles an
                     
-                    <!-- Proofread to this point 9 January 2012. HLU & CG -->
+                    <!-- Proofread to this point 10 January 2012. HLU & CG -->
                     
                  <pb facs="/7/7d06be79-02cc-4ae1-b626-cef6fe5569ea"/>
                  <lb/>hour, if this wind continues we shall get <rs ref="#Marseille">there </rs>
                  <lb/>tomorrow morning, we are I suppose about one
                  <lb/>hundred miles from <rs ref="#Marseille">there</rs>, Oh dear I hope we
                  <lb/>shall, for this is fifty two days at sea which is
-                 <lb/>a long passage, and I am quite tired. We have
+                 <lb/>a long passage, and I am quite tired, We have
                  <lb/>a <choice><sic>funey </sic><corr>funny </corr></choice>steward, hardly know what to think
                  <lb/>of him, sometimes he is all the time talking,
                  <lb/>and laughing, to <distinct type="archaicorthography"><choice><orig>himselfe</orig><reg>himself</reg></choice></distinct>, he has buried his
-                 <lb/>wife, and <rs ref="#ATD">mother</rs> thinks that is some <supplied reason="omitted" resp="ed">of</supplied>the <choice><sic>corse </sic><corr>cause </corr></choice>
-                 <lb/>of it, today he has been cleaning the <unclear cert="high">petion </unclear>in
+                 <lb/>wife, and <rs ref="#ATD">mother</rs> thinks that is some <supplied
+                    reason="omitted" resp="ed">of</supplied>the <unclear cert="high">corse</unclear>
+                 <lb/>of it, today he has been cleaning the <unclear cert="high">petion </unclear> in
                  <lb/>the cabin, and <choice><sic>puting </sic><corr>putting </corr></choice> down the state room
                  <lb/>carpets, while <rs ref="#ATD">mother </rs>and <distinct
                     type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> have been wa<seg type="softhyphen">
                  <lb/></seg>shing out some stockings, and <rs ref="#END">father</rs> has been
                  <lb/>making out a manifest of the stores he has on
                  <lb/>board, I hope when I write again we shall be
-                 <lb/>safe in the harbor of <placeName ref="#Marseille"><choice><sic>Marseilles</sic><corr>Marseille</corr></choice></placeName>.
+                 <lb/>safe in the harbor of <placeName
+                    ref="#Marseille"><choice><sic>Marseilles</sic><corr>Marseille</corr></choice></placeName>,
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520331a">
                  <lb/><dateline><date when="1852-03-31">Wednesday 31</date>. </dateline><p>We are now in the harbor of <placeName ref="#Marseille"><choice><sic>Mar<seg type="softhyphen">-
-                 <lb/>s</seg>eilles</sic><corr>Marseille</corr></choice></placeName><ptr type="noteAnchor" target="#MH"/><note resp="ed" xml:id="MH">
+                    <lb/></seg>eilles</sic><corr><seg type="softhyphen">-
+                       <lb/></seg>Marseille</corr></choice></placeName><ptr type="noteAnchor" target="#MH"/><note resp="ed" xml:id="MH">
                     Doane's entry, with its references to the harbor's <q>"beautiful entrance," </q>and views of the city, is very unlike
                     Murray's description. Commenting on the layout of the city, rising on hills around the port, he says the following:
                     <q>"From this disposition of the ground, the port becomes the sewer of the city, the receptacle of all its
@@ -2486,9 +2489,11 @@
                  <lb/>anchor, where we now lay, as soon as we came in
                  <lb/>sight of the fort, we had to put out the fire
                  <lb/>lights, it has a <choice><sic>beautifull </sic><corr>beautiful </corr></choice><choice><sic>entriance</sic><corr>entrance</corr></choice>, this morning
-                 <lb/>arose very early, and went on deck to see
+                 <lb/>arose very early<unclear reason="smudged">,</unclear> and went on deck to see
                  <pb facs="/4/41db7732-18a0-429c-8602-9d0f810af462"/>
-                 <lb/>the <rs ref="#Marseille">City</rs>, the <rs ref="#END"><choice><sic>Captian </sic><corr>Captain </corr></choice></rs>went on shore, <gap reason="overwritten" unit="chars" extent="1"></gap>has gone
+                 <lb/>the <rs ref="#Marseille">City</rs>, the <rs ref="#END"><choice><sic>Captian
+                 </sic><corr>Captain </corr></choice></rs>went on shore, <del rend="overwritten"
+                    unit="chars" extent="1">t</del>has gone
                  <lb/>to enter and get a <choice><sic>premit</sic><corr>permit</corr></choice><ptr type="noteAnchor" target="#Consigne"/>
                     <note resp="ed" xml:id="Consigne">Murray provides this information: <q>"near the harbour mouth, is the <foreign xml:lang="Fre">
                     Consigne</foreign>, or health office, where every thing relating to quarantine is transacted, and whence the permission
@@ -2499,8 +2504,8 @@
                  <lb/>came back and several Gentlemen with him,
                  <lb/>to get the manifest of the cargo and stores, then
                  <lb/><add place="above" rend="caret">the </add>sailors rowed the pilot on shore, at half past six
-                 <lb/>the <rs ref="#END"><choice><sic>Captian </sic><corr>Captain </corr></choice></rs>went on shore to see about a cook<supplied reason="omitted" resp="ed">-
-                 <lb/></supplied>house, as we are not allowed to have any fire
+                 <lb/>the <rs ref="#END"><choice><sic>Captian </sic><corr>Captain </corr></choice></rs>went on shore to see about a cook
+                 <lb/>house, as we are not allowed to have any fire
                  <lb/>or light, and the steward carried some coffee
                  <lb/>with him for breakfast, they charge four <choice><sic>frances </sic><corr>francs </corr></choice>
                  <lb/>a day, which is eighty cent, they find the <choice><sic>fuil </sic><corr>fuel </corr></choice>,
@@ -2510,36 +2515,41 @@
            </div>
            <div type="Entry" xml:id="Doane18520401a">
                  <lb/><dateline><date when="1852-04-01">Thursday. April 1</date>. </dateline><p>This morning, we came on shore
-                 <lb/>to board <choice><sic>to </sic><corr cert="medium">at an </corr></choice>American hotel, it is kept by a widow
-                 <lb/>lady, she is french, <choice><abbr>altho </abbr><expan>although </expan></choice> she had been in <choice><sic>New<seg type="softhyphen">-
-                 <lb/></seg>York </sic><corr>New York </corr></choice>a number of years and could speak very
-                 <lb/>good <choice><sic>english </sic><corr>English </corr></choice><ptr type="noteAnchor" target="#AH"/><note resp="ed" xml:id="AH">In spite of Joseph Kirkland's 
+                 <lb/>to board to an American hotel. it is kept by a widow
+                 <lb/>lady, she is french. <choice><abbr>altho </abbr><expan>although </expan></choice> she had been in New<choice><sic><seg type="softhyphen">-
+                 <lb/></seg></sic><corr><lb/></corr></choice> York a number of years and could speak very
+                 <lb/>good <choice><sic>english </sic><corr>English </corr></choice>.<ptr type="noteAnchor" target="#AH"/><note resp="ed" xml:id="AH">In spite of Joseph Kirkland's 
                     criticism of American hotels, it seems hardly surprising that Doane's family chose to stay in a hotel catering specifically for Americans if beliefs such 
                     as those presented in Murray's <title level="m">A Handbook for Travellers in France </title>were prevalent: <q>
                     "The character of the people [in the Provence] appear influenced by the fiery sun, and soil which looks as though
                     it never cooled. Their fervid temperament knows no control or moderation; ferocious in disposition, they are led
                     by very slight religious or political excitement, on sudden impulses, to the committal of murders, assassinations,
-                    and other acts of violence unknown in the North" <bibl><ref target="#Murray">(430)</ref></bibl></q></note>. It happened we <choice><sic>feel </sic><corr cert="high">fell </corr></choice> in with a
+                    and other acts of violence unknown in the North" <bibl><ref target="#Murray">(430)</ref></bibl></q></note>
+                    It happened we <choice><sic>feel </sic><corr cert="high">fell </corr></choice> in with a
                  <lb/><persName ref="#Eliott"><choice><sic>Captian </sic><corr>Captain </corr></choice>Eliott</persName> and his family an old acquaintan<seg type="softhyphen">
                  <lb/></seg>ce of ours which makes it very <choice><sic>pleasent </sic><corr>pleasant </corr></choice>for
                  <lb/>us, the house is stone and all the floors and
                  <lb/>stairs. there is no one here but <persName ref="#Eliott"><choice><sic>Captian </sic><corr>Captain </corr></choice>Eliott</persName>
-                 <lb/>besides ourselves, a <choice><sic>Captian </sic><corr>Captain </corr></choice>and three <choice><sic>ladys </sic><corr>lady</corr></choice>-
-                 <lb/>passengers left yesterday morning. I will now
+                 <lb/>besides ourselves, a <choice><sic>Captian </sic><corr>Captain</corr></choice>and three ladys—
+                 <lb/>passengers left yesterday morning, I will now
                  <pb facs="/2/2b4a45ce-6cb4-40d0-a734-d5e5ac76b754"/>
                  <lb/>tell you what we had for dinner, beef soup
                  <lb/><distinct type="archaicorthography"><choice><orig>rost </orig><reg>roast </reg></choice></distinct>turkey, <distinct type="archaicorthography"><choice><orig>rost </orig><reg>roast </reg></choice></distinct>beef, boiled lamb, stew<supplied reason="omitted" resp="ed">ed</supplied>chickens,
-                 <lb/>potatoes, and <distinct type="archaicorthography"><choice><orig>spinage</orig><reg>spinach</reg></choice></distinct>, for desert pie, oranges, apples,
-                 <lb/>pears, figs, for tea we had preserved beef, boiled
-                 <lb/>ham, fresh pork, white bread, butter, olives, stew<supplied reason="omitted" resp="ed">ed</supplied>
-                 <lb/>pears, frosted cake, and then the fruit <add place="above">as </add>we had
-                 <lb/>at dinner think, we shall like <supplied reason="omitted" resp="ed" cert="medium">it</supplied>very much.
+                 <lb/>potatoes, and <distinct
+                    type="archaicorthography"><choice><orig>spinage</orig><reg>spinach</reg></choice></distinct>,
+                    for <choice><sic>desert</sic><corr>dessert</corr></choice> pie, oranges, apples,
+                 <lb/>pears, figs, for tea we had preserved beef. boiled
+                 <lb/>ham, fresh pork. white bread. butter. olives. stew<supplied reason="omitted" resp="ed">ed</supplied>
+                 <lb/>pears. frosted cake. and then the fruit <add place="above" rend="caret">as </add>we had
+                 <lb/>at dinner think. we shall like <supplied reason="omitted" resp="ed" cert="medium">it</supplied>very much.
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520402a">
-                 <lb/><dateline><date when="1852-04-02">Friday 2</date>. </dateline><p>This morning we <distinct type="archaicorthography"><choice><orig>eat </orig><reg>ate </reg></choice></distinct>breakfast at
-                 <lb/>half past seven, <add place="above">had </add>boiled beef, stew<supplied reason="omitted" resp="ed">ed</supplied>chicken, <choice><sic>frid </sic><corr>fried </corr></choice>
-                 <lb/>pork, <choice><sic>frid </sic><corr>fried </corr></choice>potatoes, bread, and butter, and <unclear cert="low">&amp; </unclear>this
+                 <lb/><dateline><date when="1852-04-02">Friday 2</date> </dateline><p>This morning we <distinct type="archaicorthography"><choice><orig>eat </orig><reg>ate </reg></choice></distinct>breakfast at
+                 <lb/>half past seven, <add place="above">had </add>boiled beef, stew<supplied
+                    reason="omitted" resp="ed">ed</supplied> chicken, <choice><sic>frid </sic><corr>fried </corr></choice>
+                 <lb/>pork, <choice><sic>frid </sic><corr>fried </corr></choice>potatoes, bread, and
+                    butter, and <gap reason="illegible" unit="chars" extent="1"></gap> this
                  <lb/>afternoon, we have been out <choice><sic>shoping </sic><corr>shopping </corr></choice>bought a
                  <lb/>number of things, some things are very cheap,
                  <lb/>and some very dear,
@@ -2552,10 +2562,11 @@
                  <lb/>when rich people die, they hire all <choice><sic>Orphans </sic><corr>Orphan </corr></choice>
                  <lb/>children, sisters of charity, all the people out of
                  <lb/>the poor house, to go in the procession, the
-                 <lb/>hearse looked like one of <del rend="overwritten" cert="low">ameri</del> our carriages <choice><abbr>altho </abbr><expan>although </expan></choice>
+                 <lb/>hearse looked like one of <del rend="overwritten" cert="low">a carr</del>our carriages <choice><abbr>altho </abbr><expan>although </expan></choice>
                  <lb/>open it was trimmed with gold gilt fringe,
                  <lb/>then all around the hearse <choice><sic>was </sic><corr>were </corr></choice>little girls,
                  <lb/>all the sisters of charity had candles burning
+                 <!-- Proofread to this point 12 Jan. 2012. HLU & CG. -->    
                  <pb facs="/6/6e1b4e1e-9963-4803-8b30-4233f86ae35e"/>
                  <lb/>in <choice><sic>theirs </sic><corr>their </corr></choice>hands, then the friends followed, this
                  <lb/>afternoon I have been out to ride, went into
