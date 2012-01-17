@@ -2570,27 +2570,29 @@
                  <pb facs="/6/6e1b4e1e-9963-4803-8b30-4233f86ae35e"/>
                  <lb/>in <choice><sic>theirs </sic><corr>their </corr></choice>hands, then the friends followed, this
                  <lb/>afternoon I have been out to ride, went into
-                 <lb/>a garden about two miles from here.
+                    <!-- How to indicate this mark of punctuation? -->
+                 <lb/>a garden. about two miles from here.
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520406a">
                  <lb/><dateline><date when="1852-04-06"><choice><sic>Tusday </sic><corr>Tuesday </corr></choice>6 </date></dateline><p>Today I have been to a dentist to
                  <lb/>have my teeth filled, he first <choice><sic>claned </sic><corr>cleaned </corr></choice>my teeth,
-                 <lb/>took all the tarter off. he said <said aloud="true" direct="false">I <add place="above">had </add>one tooth that
+                 <lb/>took all the <choice><sic>tarter</sic><corr>tartar</corr></choice> off. he
+                    said <said aloud="true" direct="false">I <add place="above" rend="caret">had </add>one tooth that
                  <lb/>must be filled, and two that the nerve must be
                  <lb/>killed, they <choice><sic>was </sic><corr>were </corr></choice>too far gone to <supplied reason="omitted" resp="ed">be</supplied> filled, but he could
                  <lb/>kill the nerve so they would never trouble me,</said>
-                 <lb/>he then put in the stuff which kills the nerves,
-                 <lb/>and <add place="above">said </add><said aloud="true" direct="false">I must <unclear>let </unclear>it be <choice><sic>untill </sic><corr>until </corr></choice>tomorrow, when I
+                 <lb/>he then put in the stuff which kills the nerves.
+                 <lb/>and <add place="above" rend="caret">said </add><said aloud="true" direct="false">I must let it be <choice><sic>untill </sic><corr>until </corr></choice>tomorrow, when I
                  <lb/>am to go again,</said> from there we went to walk
                  <lb/>in a short time we came home, I happen<supplied reason="omitted" resp="ed">ed</supplied>to
                  <lb/>be looking out of the window, and saw another
                  <lb/><choice><sic>funerel </sic><corr>funeral </corr></choice>pass, something similar to the other, only
                  <lb/>the body was carried on a <choice><sic>bear </sic><corr>bier </corr></choice> which was part
-                 <lb/>black velvet and white lace, it was a young
+                 <lb/><choice><sic>bleack</sic><corr>black</corr></choice> velvet and white lace, it was a young
                  <lb/>man, on the top of the <choice><sic>bear </sic><corr>bier </corr></choice> was a very hand<seg type="softhyphen">
                  <lb/></seg>some bunch of flowers, it was carried by six
-                 <lb/>men.
+                 <lb/>men,
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520407a">
@@ -2603,8 +2605,8 @@
                     in Spain in 1823, but its destination is now changed to that of celebrating <q>'all the glories of France'</q>"
                     <bibl><ref target="#Murray">(476)</ref></bibl>.</q></note>,
                  <pb facs="/4/4297a7e3-de6b-4077-a149-5b9233ab2fd1"/>
-                 <lb/>and on the sides were <choice><sic>beuatifull </sic><corr>beautiful </corr></choice>engravings,
-                 <lb/>then we returned home.
+                 <lb/>and on the sides were <choice><sic>bueatifull </sic><corr>beautiful </corr></choice>engravings,
+                 <lb/>then we returned home,
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520411a">
@@ -2614,32 +2616,39 @@
                  <lb/>this morning it was better, so he went on board
                  <lb/>the vessel, and when he returned it was much
                  <lb/>worse, so we sent for the doctor, he pronounced
-                 <lb/>it the gout, and order<supplied reason="omitted" resp="ed">ed</supplied>a bread and milk <choice><sic>poltist</sic><corr>poultice</corr></choice>,
+                 <lb/>it the gout, and order<supplied reason="omitted" resp="ed">ed</supplied>a
+                    bread and milk <choice><sic>poltest</sic><corr>poultice</corr></choice>,
                  <lb/>and said <said aloud="true" direct="false">it would soon be better</said>, I have just
                  <lb/>been out to ride, to a <choice><sic>beautifull </sic><corr>beautiful </corr></choice>garden, enjoyed
                  <lb/><distinct
-                    type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> very much.
+                    type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct>
+                    very much,
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520413a">
-                 <lb/><dateline><date when="1852-04-13"><choice><sic>Tusday </sic><corr>Tuesday </corr></choice>. 13</date></dateline><p> <rs ref="#END">Father </rs>is getting better, <choice><abbr>altho </abbr><expan>although </expan></choice>last <supplied reason="omitted" resp="ed" cert="low">night</supplied><del rend="overwritten" cert="medium">t</del>he
+                 <lb/><dateline><date when="1852-04-13"><choice><sic>Tusday </sic><corr>Tuesday </corr></choice>. 13</date></dateline><p> <rs ref="#END">Father </rs>is getting better, 
+                    <choice><abbr>altho </abbr><expan>although </expan></choice>last <supplied
+                       reason="omitted" resp="ed" cert="low">night</supplied><del rend="overwritten"
+                          cert="medium">it</del>he
                  <lb/>was very bad, so we had sent for the doctor,
                  <lb/>he said <said aloud="true" direct="false"><rs ref="#END">he</rs> must continue the <choice><sic>poltis</sic><corr>poultice</corr></choice>, and
                  <lb/>bath his foot in herbs, and if it was not better
-                 <lb/>this morning, he should apply Leeches,</said> but it is
+                 <lb/>this morning, he should apply Leeches.</said> but it is
                  <lb/>much better.
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520414a">
                  <lb/><dateline><date when="1852-04-14">Wednesday 14</date>. </dateline><p>Yesterday afternoon I went out shop<seg type="softhyphen">
-                 <lb/></seg><choice><sic>ing</sic><corr>ping</corr></choice>, and while I was <add place="above">out </add>I was taken with a severe
+                 <lb/></seg><choice><sic>ing</sic><corr>ping</corr></choice>, and while I was <add
+                    place="above" rend="caret">out </add>I was taken with a severe
                  <lb/>pain in my head, I came home went to bed,
                  <lb/>and when the doctor came to <rs ref="#END">father</rs>, he came
+                    <!-- Supplied or abbreviation for "ored"? -->
                  <lb/>in to me, said <said aloud="true" direct="false">I was <supplied reason="omitted" resp="ed">a</supplied> little feverish, or<supplied reason="omitted" resp="ed" cert="medium">der</supplied>ed a
                  <pb facs="/3/371b1e13-e829-4547-a629-caf768a964e9"/>
                  <lb/>sweet, and to drink some herb tea,</said> and today
                  <lb/>I feel as well as <choice><sic>euasl</sic><corr>usual</corr></choice>, and <rs ref="#END">father </rs>is gaining
-                 <lb/>also.
+                 <lb/>also,
               </p>
            </div>
    
@@ -2653,7 +2662,7 @@
                  <lb/><persName>Mrs Eliott</persName> goes on board of the ship today,
                  <lb/>also as they leave on Sunday, we lay along
                  <lb/>side of each other so we can go on board,
-                 <lb/>which makes it very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>.
+                 <lb/>which makes it very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>,
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520417a">
@@ -2661,16 +2670,19 @@
                  <lb/>our first officer went on shore, and when he
                  <lb/>came back, he said <name><choice><sic>Captian</sic><corr>Captain</corr></choice> Eliott</name> was in
                  <lb/>prison, in a few <distinct type="archaicorthography"><choice><orig>minuts</orig><reg>minutes</reg></choice></distinct> <persName>Mrs Eliott</persName> sent for
-                 <lb/>us to come on board, we went and found <persName>Mrs
+                 <lb/>us <del rend="overwritten">f</del>to come on board, we went and found <persName>Mrs
                  <lb/>Eliott</persName> crying, it appears his cook and steward
                  <lb/>got to fighting on the wharf, he stepped up
                  <lb/>to <distinct type="archaicorthography"><choice><orig>seperate</orig><reg>separate</reg></choice></distinct> them, and the <choice><sic>Captian</sic><corr>Captain</corr></choice>and steward
-                 <lb/>was carried off to prison.
+                 <lb/>was carried off to prison,
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520418a">
-                 <lb/><dateline><date when="1852-04-18">Sunday 18</date></dateline><p> We are still on board of the ship
-                 <lb/><name type="ship">Abbelino</name>, as the <del rend="overstrike">came</del><add place="above" rend="caret"><choice><sic>Captian</sic><corr>Captain</corr></choice></add>still remains in prison.
+                 <lb/><dateline><date when="1852-04-18">Sunday. 18.</date></dateline><p> We are still on board of the ship
+                 <lb/><name type="ship">abbelino</name>, as the <del
+                    rend="overstrike">came</del>
+                    <add place="above" rend="caret"><choice><sic>Captian</sic><corr>Captain</corr></choice></add>still 
+                    <choice><sic>remaines</sic><corr>remains</corr></choice> in prison.
              </p>
            </div>
        <pb facs="/5/5b3bc4a2-fbbb-4891-a022-4c849e1095a0"/>
@@ -2679,9 +2691,10 @@
                  <lb/>on board, and says <rs ref="#CPE">he</rs> will <add place="above" rend="caret">be out this afternoon</add> we have been
                  <lb/>out on deck most of the day watching
                  <lb/>for <rs ref="#CPE">him</rs>, and about two oclock we saw them
-                 <lb/>coming, the <choice><sic>Captian</sic><corr>Captain</corr></choice> and several other <choice><sic>getle</sic><corr>gentle</corr></choice><seg type="softhyphen">
-                 <lb/>men</seg>, <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Eliott</persName> has gone shore to clear will
-                 <lb/>get away tomorrow morning.
+                 <lb/>coming, the <choice><sic>Captian</sic><corr>Captain</corr></choice> and several other <choice><sic>getle<seg type="softhyphen">
+                 <lb/>men</seg></sic><corr>gentle<seg type="softhyphen"><lb/></seg>men</corr></choice>, 
+                 <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Eliott</persName> has gone shore to clear will
+                 <lb/>get away tomorrow morning,
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520420a">
@@ -2689,7 +2702,8 @@
                  <lb/>see <persName>Mrs Eliott</persName> off, but <add place="above" rend="caret">they</add> are not going as the
                  <lb/>wind <choice><sic>bew</sic><corr>blew</corr></choice>so hard, the steamboat would not
                  <lb/>take them out, this afternoon we have been
-                 <lb/>on board again, stop <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> night.
+                 <lb/>on board again, stop <distinct
+                    type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> night,
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520422a">
@@ -2707,19 +2721,19 @@
                </p>
            <pb facs="/f/f3eeabe1-501d-4e22-868e-1e8e56229b65"/>
                 <p>
-                  <lb/>a great many paintings.
+                  <lb/>a great many paintings,
                </p>
             </div>
             <div type="Entry" xml:id="Doane18520429a">
               <lb/><dateline><date when="1852-04-29">Thursday 29</date>.</dateline><p> We came on board at nine
                   <lb/>oclock in the evening, <persName>Mr Oulone</persName> a 
-                  <lb/>french <choice><sic>getleman</sic><corr>gentleman</corr></choice>, <persName>Mr Gondon</persName>, the land
+                  <lb/>french <choice><sic>getlemen</sic><corr>gentleman</corr></choice>, <persName>Mr Gondon</persName>, the land
                   <lb/>ladys son, and daughter, and sister came
                   <lb/>on board with us, as we <choice><sic>loave</sic><corr>leave</corr></choice> early in,
                   <lb/>we went out on deck played on the
                   <lb/><choice><sic>accordeon</sic><corr>accordion</corr></choice>, had some cake as we were
                   <lb/>not allowed a light, they stopped <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct>
-                  <lb/>eleven oclock.
+                  <lb/>eleven oclock,
                </p>
             </div>
             <div type="Entry" xml:id="Doane18520430a">
@@ -2728,18 +2742,20 @@
                   <lb/>while halling out some of the men happened
                   <lb/>to see our cat on board of the bark that we
                   <lb/><distinct type="archaicorthography"><choice><orig>layed</orig><reg>laid</reg></choice></distinct> along side of, they put her in a boat,
-                  <lb/>then in a basket, and then passed her up,
+                  <lb/>then in a basket, and passed her up.
                   <lb/>at half past seven the steamboat made fast
                   <lb/>to us, and we are now <choice><sic>biding</sic><corr>bidding</corr></choice>farewell to
-                  <lb/><placeName ref="#Marseilles">Marseilles</placeName>, and <unclear cert="high">steering</unclear> for home, the wind is
-                  <lb/>so we can lay our course.
+                  <lb/><placeName ref="#Marseilles">Marseilles</placeName>, and
+                  <choice><sic>stering</sic><corr>steering</corr></choice> for home, the wind is
+                  <lb/>so we can lay our course,
                </p>
             </div>
             <div type="Entry" xml:id="Doane18520503a">
-                 <lb/><dateline><date when="1852-05-03">Monday 3</date></dateline><p> Today we have a fair wind, and
+                 <lb/><dateline><date when="1852-05-03">Monday. 3</date></dateline><p> Today we have a fair wind, and
                   <lb/>fresh breeze, yesterday the steward was quite
                   <lb/>sick, but he is better today, this morning
                </p>
+               <!-- Proofread to this point 17 Jan. 2012. HLU and CG. -->
         <pb facs="/c/c7879de4-8f04-44f7-b351-d33f07071b39"/>
                <p>
                  <lb/>we lost two of our fowls, a hen and rooster,
