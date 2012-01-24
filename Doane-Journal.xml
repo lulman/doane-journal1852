@@ -1457,10 +1457,6 @@
                   <persName>Capt. Eliott</persName>
                   <occupation>ship captain</occupation>
                </person>
-               <person xml:id="SickSailor">
-                  <persName>Cahn</persName>
-                  <occupation>Sailor</occupation>
-               </person>
                <person xml:id="WilliamThacher">
                   <persName>William Thacher</persName>
                   <birth when="1820">
@@ -2985,15 +2981,14 @@
        <pb facs="/0/044b2a40-c549-4a71-81c1-b2b5355bc738"/>
        <div type="voyage" xml:id="NY2Peru">
            <div type="Entry" xml:id="Doane18520805a">
-              <dateline> <placeName ref="#NYC">New York Harbour</placeName> <date when="1852-08-05">
+              <lb/><dateline> <placeName ref="#NYC">New York Harbour</placeName> <date when="1852-08-05">
                  Thursday August 5th 1852</date></dateline>
-            <lb/>
               <head><lb/>Journal of a Voyage on board the Ship
                 <lb/><name type="ship">Commonwealth</name> by <persName ref="LAD">Louisa A Doane</persName></head>
               <p> 
               <lb/>The Ship is chartered by <orgName ref="HowAsp">Howland
               <lb/>&amp; Aspinwall</orgName> to load with Coal at the Port and
-              <lb/>go to <placeName ref="#Acapulco">Acapulco</placeName> and discharge the coal. She is
+              <lb/>go to <placeName ref="#Acapulco">Acapulco</placeName> and discharge the Coal. She is
               <lb/>then chartered by <persName ref="#Bennet">Mr Bennet</persName> to proceed from
               <lb/>thence to <choice><sic><placeName ref="#LobosIslands">Lobes
                  Islands</placeName></sic><corr><placeName ref="LobosIslands">Lobos Island</placeName></corr></choice> on the Coast of <placeName ref="#Peru">Peru</placeName> and
@@ -3002,13 +2997,14 @@
               <lb/><placeName ref="Baltimore">Baltimore</placeName> to discharge</p>
               <p> 
               <lb/>The Ship is partly owned
-              <lb/>by Missers <orgName ref="FN">Fosters &amp; Nickerson</orgName>, is 63-0 T'ons and is
-              <lb/>about Two years and has good accomadation 
+              <lb/>by Messers <orgName ref="FN">Foster &amp; Nickerson</orgName> is 650 Tons and is
+              <lb/>about Two years old and has good
+                 <choice><sic>accomadation</sic><corr>accommodation</corr></choice> 
               <lb/>for us
               </p>
               <p>
                  <lb/>My <rs type="person" ref="END">Father </rs>is to command the Ship my 
-                 <lb/><rs type="person" ref="ATD">mother</rs> is a going <choice><sic>with with</sic><corr>with</corr></choice> us my <persName ref="WilliamThacher">Uncle William
+                 <lb/><rs type="person" ref="ATD">mother</rs> is a-going <choice><sic>with with</sic><corr>with</corr></choice> us my <persName ref="WilliamThacher">Uncle William
                  <lb/>Thacher</persName> is to go the Voyage as one of the sailors
                  <lb/>and all the others of the Ships company is Stran<seg type="softhyphen">&#x2014;
                  <lb/></seg>gers
@@ -3024,11 +3020,11 @@
                  <lb/>to the use of it on the passage out to <placeName ref="#Acapulco">Acapulco</placeName> or
                  <lb/>to the <choice><sic><placeName ref="#LobosIslands">Lobes
                     Island</placeName></sic><corr><placeName ref="#LobosIslands">Lobos Islands</placeName></corr></choice> and then <persName ref="END">Father</persName> is to sell it
-                 <lb/>if he can and invest the proceed in Hides or
+                 <lb/>if he can and invest the <choice><sic>procced</sic><corr>proceed</corr></choice> in Hides or
                  <lb/>Horns or any thing he thinks best and bring
                  <lb/>them to <placeName ref="#NYC">New York</placeName> and sell them. he agrees to
                  <lb/>not charge any freight on either the Piano or
-                 <lb/>whatever he invest the proeeds in. he then
+                 <lb/>whatever he invest the proceeds in. he then
                  <lb/>agrees to divide the profit or loss on the Piano or
                  <lb/>whatever the proceeds is invested in equal with
                  <lb/><persName ref="#Sparrow">Uncle Sparrow</persName>
@@ -3039,23 +3035,23 @@
                  <lb/>and give a <choice><sic>discription</sic><corr>description</corr></choice> of our Voyage record the
                  <lb/>distance we run every day the changes of wind
                  <lb/>and weather and whatever occurs on board
-                 <lb/>worthy of note and the time of <choice><sic>ariving</sic><corr>arriving</corr></choice> and
+                 <lb/>worthy of note and the time of arriving and
                  <lb/>leaving our Port of destination
                  </p>
                  <p>
                  <lb/>We left the <rs type="place" ref="#NYC">Wharf</rs>
-                 <lb/>at 12 M with a Steam Boat along side to tow
-                 <lb/>us around to <placeName ref="NorthRiver">North River</placeName> where the Ship is
+                 <lb/>at 12. M with a Steam Boat along side to tow
+                 <lb/>us round to <placeName ref="NorthRiver">North River</placeName> where the Ship is
                  <lb/>detained on account of the <rs type="person" ref="#SecondMate">Second Mates</rs> not
              <pb facs="/f/fdbe5591-e6a0-4ab9-b9a7-937f503907a4"/>
               <lb/>being on board.
              </p> 
            </div> 
            <div type="Entry" xml:id="Doane18520806a">
-              <dateline><lb/>Friday 12 oclock<date when="1852-08-06">Augt 6th</date></dateline>
+              <dateline><lb/>Friday 12 oclock <date when="1852-08-06">Augt 6the</date></dateline>
                  <p>
                  <lb/>We are now anchored at <placeName ref="#StatenIsland">Staten Island</placeName>
-                 <lb/>in quarantine ground <persName ref="#SickSailor">Cahn</persName> one of the sailor
+                 <lb/>in quarantine ground Calm one of the sailor
                  <lb/>is quite sick in the forecastle and the rest
                  <lb/>appears to be quite Sober. The <rs type="person" ref="#Second Mate">second mate</rs>
                  <lb/>came on board last night<unclear reason="faded">,</unclear> he is about
@@ -3065,86 +3061,88 @@
               </p>
            </div>
               <div type="Entry" xml:id="Doane18520807a">
-                 <dateline><lb/>Saturday 12 oclock M <date when="1852-08-07">Augt 7th</date></dateline>
+                 <dateline><lb/>Saturday 12. oclock M. <date when="1852-08-07">Augt 7th</date></dateline>
                  <p>
                  <lb/>This morning at 5 oclock AM all
                  <lb/>hands were called to heave up the anchor and
                  <lb/>we proceed on our way for an hour when thick
-                 <lb/><distinct type="archaicorthography"><choice><orig>fogg</orig><reg>fog</reg></choice></distinct> set in and we were oblige to anchor
+                 <lb/><distinct
+                    type="archaicorthography"><choice><orig>fogg</orig><reg>fog</reg></choice></distinct> set in and we were oblidge to anchor
                  </p>
               </div>
            <div type="Entry" xml:id="Doane18520808a">
-                 <dateline><lb/>Sunday 12 oclock M <date when="1852-08-08">Augt 8th</date></dateline>
+                 <dateline><lb/>Sunday 12. oclock M <date when="1852-08-08">Augt 8th-</date></dateline>
                  <p>
-                 <lb/>The wind is S<del rend="overwritten"></del>E yesterday at 2
-                 <lb/>oclock PM we got under way and work down
-                 <lb/><placeName ref="#NYC">the harbor</placeName> in company with several of the Ships
+                 <lb/>The wind is S<del rend="overwritten">ou</del>E yesterday at 2.
+                 <lb/>oclock PM we got under <gap reason="obscured" unit="chars" extent="3"/>way and work down
+                 <lb/><placeName ref="#NYC">the harbor</placeName> in company with several other Ships
                  <lb/>and at 5 oclock PM came to an anchor in
                  <lb/>the <placeName ref="#LowerNYC">lower Bay</placeName> furled our sails and shall
-                 <lb/>remain so <choice><corr>until</corr><sic>untill</sic></choice> morning. This morning
+                 <lb/>remain so <choice><corr>until</corr><sic>untill</sic></choice> morning This morning
               <pb facs="/e/e41f275b-0d5a-410f-ad9e-db028e535d79"/>
                  <lb/>at 5 oclock AM when we got under way and
                  <lb/>drifted down by <placeName ref="#SandyHook">Sandy Hook</placeName> with very little
                  <lb/>wind at 8 oclock the <rs type="person" ref="#Pilot">Pilot</rs> left us and we are
                  <lb/>now proceeding on our way very slowly We
-                 <lb/>are in company with the Ship <name type="ship">R Coal</name> bound
+                 <lb/>are in company with the Ship <name type="ship">R Coale</name> bound
                  <lb/>to <placeName ref="SF">San Francisco</placeName>
                     </p>
               </div>
               <div type="Entry" xml:id="Doane18520809a">
-                <dateline><lb/>Monday 12 oclock M <date when="1852-08-09">Augt 9th</date></dateline>
+                <dateline><lb/>Monday 12. oclock M <date when="1852-08-09">Augt 9th</date></dateline>
                  <p>
                     <lb/>Wind SSE which is fair for us and
                     <lb/>we are going 6 miles an hour with studding
                     <lb/>sails sot. The Ship <name type="ship">R Coal</name> is still in sight,
-                    <lb/>The sailors are busy doing various kinds of
-                    <lb/>work. The <rs type="person" ref="SickSailor">sick sailor</rs> remains about the same.
+                    <lb/>The sailors are busey doing various kinds of
+                    <lb/>work. The sick sailor remains about the same.
                  <lb/>
                  </p>
               </div>
            <div type="Entry" xml:id="Doane18520810a">
-              <dateline><lb/><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 12 oclock M <date when="1852-08-10">Augt 10th</date></dateline>
+              <!-- What are the two dots beneath the superscripted "th." -->
+              <dateline><lb/><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 12. oclock M. <date when="1852-08-10">Augt 10th</date></dateline>
               <p>
                  <lb/>The wind still continues fair. This
                  <lb/>morning came up with and passed the Ship
                  <lb/><name type="ship">Blanchard</name> which left the night before we
-                 <lb/>did, last evening <rs type="person" ref="#SickSailor">the sailor</rs> had a severe
+                 <lb/>did, last evening the sailor had a severe
                  <lb/>pain in his Breast, <rs type="person" ref="#END">Father</rs> <choice><sic>applyed</sic><corr>applied</corr></choice> a mustard
                  <lb/>plaster
               </p>
            </div>
-           <lb/> <gap reason="cancelled"> </gap>
+           <lb/> <gap reason="cancelled"/> 
            <div type="Entry" xml:id="Doane18520811a">
-              <dateline><lb/>Wednesday 12 oclock M <date when="1852-08-11">Augt 11.th</date></dateline>
+              <dateline><lb/>Wednesday 12. oclock M <date when="1852-08-11">Augt 11.th</date></dateline>
               <p>
                  <lb/><gap reason="cancelled"/>The wind is the
           <pb facs="/8/8e46ab84-c607-4527-92f5-02681f012b64"/>
                  <lb/>same we are going 8 miles an hour rather <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>
                  <lb/>This morning exchanged signal with an Amer<seg type="softhyphen">&#x2014;
                  <lb/></seg>ican Ship bound to the Westward. The sick
-                 <lb/><rs type="person" ref="SickSailor">sailor</rs> is out on deck today for the first time
-                 <lb/>since we have been out and is picking
+                 <lb/>sailor is out on deck today for the first time
+                 <lb/><choice><sic>sence</sic><corr>since</corr></choice> we have been out and is picking
                  <lb/>stitches out of a sail that they have ripped
                  <lb/>poor fellow he looks bad <rs type="person" ref="ATD">mother</rs> is a <said aloud="true" direct="true">little 
-                 <lb/><add place="supralinear">sea</add> sick today</said> she says
+                 <lb/><add place="supralinear" rend="caret">sea</add> sick today</said> she says
                  <lb/>   
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520812a">
-              <dateline><lb/>Thursday 12 oclock M <date when="1852-08-12">Augt 12th</date></dateline>
+              <dateline><lb/>Thursday 12. oclock M <date when="1852-08-12">Augt 12th</date></dateline>
                  <p>
-                 <lb/>Wind S'SE fair going 10
+                 <lb/>Wind S'SE fair going 10.
                  <lb/>miles an hour had a rain shower today I
                  <lb/>have been playing on the Piano today for the
-                 <lb/>first time since <choice><sic>Tusday</sic><corr>Tuesday</corr></choice> as it has been <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>
+                 <lb/>first time <choice><sic>sence</sic><corr>since</corr></choice> <choice><sic>Tusday</sic><corr>Tuesday</corr></choice> as it has been <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>
                  <lb/>and it was with much difficulty we could
-                 <lb/>sit. the <rs type="person" ref="#SickSailor">sick sailor</rs> is gaining he is out on
+                 <lb/>set the sick sailor is gaining he is out on
                  <lb/>deck to work
                  <lb/>
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520815a">
-                <dateline><lb/>Sunday 12 oclock M <date when="1852-08-15">Augt 15th</date></dateline>
+                <dateline><lb/>Sunday 12. oclock M <date when="1852-08-15">Augt 15th</date></dateline>
                 <p>
                 <lb/>We have a fair wind blowing
                  <lb/>quite and <choice><sic>unpleasent</sic><corr>unpleasant</corr></choice> weather squally the last
