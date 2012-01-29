@@ -5,6 +5,11 @@
       enough information to create a bibliographic record that complies with the 
       Anglo-American Cataloguing Rules, 2nd ed. (1978; rev. 1988).
 -->
+   <!-- TO-DO LIST 
+   ___ Check on "Brigg" in OED. Archaic Orthography?
+   ___ Check on "spoke" in OED. OK as transitive verb, as in "spoke us"?
+   -->
+   
    <teiHeader type="AACR2">
       <!--
          The  file description tagged <fileDesc>, contains "a full bibliographical description 
