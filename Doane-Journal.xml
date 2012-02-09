@@ -3663,23 +3663,25 @@
    <pb facs="/d/d4bb3f32-708c-4870-a616-031ff431cce7"/>
    <div type="Entry" xml:id="Doane18521007a">
       
-      <lb/><dateline><date when="1852-10-07">Thursday 12 oclock M Oct 7</date></dateline>
+      <lb/><dateline><date when="1852-10-07">Thursday 12 oclock M Oct 7.</date></dateline>
       <p><lb/>Wind still increasing
-         <lb/>Put one Reef in the <choice><sic>Maine</sic><corr>Main</corr></choice> Topsail and
+         <lb/>put one Reef in the <choice><sic>Maine</sic><corr>Main</corr></choice> Topsail and
          <lb/>one in the Mizzen Topsail a <choice><sic>heavey</sic><corr>heavy</corr></choice> sea and 
          <lb/>it is continually washing over us
-         <lb/>just had dush, a sea came over the Mizzen
+         <lb/>just had dusk, a sea came over the Mizzen
          <lb/>rigging and over the lower Cabin Skylight
          <lb/>at the same time the vessel fetching a heavy
          <lb/>lurch lifting the Skylight up there not being 
-         <lb/>secured and down come two pails of water
+         <lb/>secured and down come two Pails of water
          <lb/>I think wetting Carpet Transom <choice><sic>Chusion</sic><corr>Cushion</corr></choice>
          <lb/>Piano Covering Table Covering then we had work 
          <lb/><distinct type="archaicorthography"><choice><orig>enought</orig><reg>enough</reg></choice></distinct> called the Steward and we man<seg type="softhyphen">   
             <lb/></seg>aged to get the Carpet <choice><sic>Rool</sic><corr>Roll</corr></choice> up and 8 oclock 
          <lb/>called the Steward to secure the Sofas, and 
-         <lb/>called the Carpenter to secure the Chonom<seg type="softhyphen">-
-            <lb/></seg>eter and Chest in <rs ref="#END">father</rs> state room, at 12 
+         <lb/>called the Carpenter to secure the <choice><sic>Chonom<seg type="softhyphen">-
+            <lb/></seg>eter</sic><corr>Chronom<seg type="softhyphen">-
+               <lb/></seg>eter</corr></choice> and Chest in <rs ref="#END">father</rs> state room,
+         at 12. 
          <lb/>oclock in the night called all hands put
          <lb/>Double reefs in the Topsail at the same time 
          <lb/>a Barrel of <choice><sic>Peachs</sic><corr>Peaches</corr></choice> which was in the <choice><sic>Maine</sic><corr>Main</corr></choice>
@@ -3693,7 +3695,8 @@
          <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> had as much
          <lb/>as we could do to look after the things in the 
          <lb/>Cabins every thing given away, and the vessel 
-         <lb/><choice><corr>rooling</corr><corr>rolling</corr></choice> very <choice><sic>heavey</sic><corr>heavy</corr></choice>.
+         <lb/><choice><corr>rooling</corr><corr>rolling</corr></choice> very
+         <choice><sic>heavey</sic><corr>heavy</corr></choice>,
       </p>
    </div>
    <div type="Entry" xml:id="Doane18521011a">
@@ -3701,11 +3704,11 @@
       <lb/><dateline><date when="1852-10-11">Monday 12 oclock M Oct 11th</date></dateline>
       <p>
          <lb/>First of the last twenty
-         <lb/>hours moderate and quite <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> this
+         <lb/>hours <gap reason="overwritten"/>moderate and quite <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> this
          <lb/>morning when it commenced <choice><sic><unclear cert="high">breszing</unclear></sic><corr>breezing</corr></choice> so they
          <lb/>put Double reef in the foretopsail one in the 
-         <lb/>Main and <unclear cert="medium">furled</unclear> the Mizzen Topsail, there
-         <lb/>are a great many Birds, flying around 
+         <lb/>Main and <choice><sic>fuled</sic><corr>furled</corr></choice> the Mizzen Topsail, there
+         <lb/>are a great many <del rend="overwritten">b</del>Birds, flying around 
          <lb/><rs ref="#END">Father</rs> threw over some Salt Pork and <unclear cert="medium"><choice><sic>thers</sic><corr>there's</corr></choice></unclear>
          <lb/>any number of them along side. <rs ref="#END">Father</rs> then
          <lb/>got a line, caught 6 <placeName ref="#CHorn">Cape Horn</placeName> Birds they
@@ -3716,6 +3719,7 @@
          <lb/>when they were taken on deck they were preven<seg type="softhyphen">-
             <lb/></seg>ted from flying or making any snappish
          <lb/>salutation by locking <choice><sic>there</sic><corr>their</corr></choice> wings they have
+         <!-- Proofed to this point 09 Feb 2012, HLU and GC. -->
          <pb facs="/6/65cdcf88-6130-42b1-af35-c57ec9d409bd"/> 
          <lb/>some bountiful down upon their Breast We
          <lb/>plucked out some of the feather which were
