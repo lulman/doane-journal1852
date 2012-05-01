@@ -5020,12 +5020,8 @@
             <lb/>shore <unclear
                cert="medium"><choice><sic>fore</sic><corr>for</corr></choice></unclear> a Force of
             <choice><sic>Armes</sic><corr>Arms</corr></choice> they came off
-         </p>
-      </div>
       <pb facs="/a/a1bd7c26-55ac-4a5f-bcbc-f75dbc76f6ed"/>
-      <div>
-         <p>
-            <lb/>and carried them off <choice><sic>too</sic><corr>to</corr></choice> prison again untill
+            <lb/>and carried them off <choice><sic>too</sic><corr>to</corr></choice> Prison again untill
             <lb/>some <choice><sic>shackels</sic><corr>shackles</corr></choice> could be made to <choice><sic>secur</sic><corr>secure</corr></choice> them
             <lb/>to the deck
          </p>
@@ -5034,21 +5030,25 @@
          <lb/><dateline><date when="1853-02-17">Thursday 17</date></dateline>
          <p>
             <lb/>A beautifull day <rs ref="#END">father</rs> has gone
-            <lb/>on shore to <supplied reason="omitted" resp="ed">get</supplied> a few things oranges pineapples and
-            <lb/>etc. The <choice><sic>Captians</sic><corr>Captains</corr></choice> have all been on board this
+            <lb/>on shore to <supplied reason="omitted" resp="ed">get</supplied> a few things
+            oranges Pineapples and
+            <lb/>etc. The <choice><sic>Captians</sic><corr>Captains</corr></choice> <del
+               rend="overwritten"><gap unit="chars" extent="1"/></del>have all been on board this
+            <!-- How to represent that she "dots" the "r" in "afternoon"? -->
             <lb/>afternoon. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> brought on the
             <lb/>painting of the Ship <name type="Ship" ref="#Commonwealth">Commonnwealth</name> which his
-            <lb/>painter has been painting at 5 oclock they
-            <lb/>came off with the sailors there were two
-            <lb/>boats full one with the armed force, and
+            <lb/>Painter has been painting at 5 oclock they
+            <lb/>came offt with the sailors there were two
+            <lb/>boats full one with the ar<del rend="overwritten">e</del>med force, and
             <lb/>sailors and the other with the <choice><sic>Captian</sic><corr>Captain</corr></choice> of
-            <lb/>the <rs ref="#PCP">port counsul pilot</rs> and so on there were
-            <lb/>two armed men stood at the door way and
+            <lb/>the <rs ref="#PCP">Port Counsul Pilot</rs> and so on there were
+            <lb/>two armed men stood at the<unclear reason="incomplete">y</unclear> <choice><sic>Gan
+               way</sic><corr>Gangway</corr></choice> and
             <lb/>the rest before the Cabin door the sailor<supplied reason="omitted" resp="ed">s</supplied> came
             <lb/>up one by one and were secured in the
             <lb/>hole between decks chained to the deck so
             <lb/>they cannot get loose they have 3 hard breads
-            <lb/>a day and 3 pots of water that is all they
+            <lb/>a day and 3 Pots of water that is all they
             <lb/>have
          </p>
       </div>
@@ -5057,12 +5057,14 @@
          <lb/><dateline><date when="1853-02-18">Friday 18,</date></dateline>
          <p>
             <lb/>This morning I have been on shore
-            <lb/>with <persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice> White</persName>Captian White went to the old womens to
-            <lb/>the <choice><sic>Coanut</sic><corr>Coconut</corr></choice> Grove she gave me 8 <choice><sic>coanuts</sic><corr>coconuts</corr></choice>
+            <lb/>with <persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice> White</persName> went to the old womens to
+            <lb/>the <choice><sic>Coanut</sic><corr>Coconut</corr></choice> Grove she gave me 8
+            <choice><sic>Coanuts</sic><corr>Coconuts</corr></choice>
             <lb/>1 Chicken and some shells when we returned
             <lb/>the <rs ref="#PCP">American Counsul</rs> was on board and
-            <lb/>all ready to go to sea the Signal <unclear cert="medium">set</unclear> for a
-            <lb/><rs ref="#PCP">pilot</rs>, <persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> came on board with 
+            <lb/>all ready to go to sea the Signal <unclear cert="medium">sot</unclear> for a
+            <lb/><rs ref="#PCP">pilot</rs>, <persName
+               ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> came on Board with 
             <lb/>his men and helped us get under way he
             <lb/>sails tomorrow morning then there were 
             <persName ref="#Boird"><choice>
@@ -5075,50 +5077,59 @@
                <head>illustration of a Long Boat</head>
                <graphic url="http://www.loc.gov/pictures/item/2004660124/"></graphic>
                <figDesc>Sketch of a Long Boat by Alfred R. Waud from between 1860-1865.</figDesc>
-            </figure> on top of 
-            <choice><sic>the <lb/>The</sic>
-               <corr>the <lb/></corr></choice>castle have a fair wind <rs ref="#ATD">mother</rs> is quite
-            <lb/>sick again has the fever<ptr type="noteAnchor" target="M"/><note resp="ed" xml:id="M">I believe that her mother is suffering from malaria.  Doane talks about giving her mother quinine which is an anti malaia medication. Malaria is caused by a parasite that is transfered to the blood stream by the bite of a mosquito.  Malaria has been known to cause high fevers which is possibly why Doane calls it "The Fever". other symptoms of Malaria include, Anemia, chills, headache, jaundice, muscle pain, nausea, sweating, vomiting, and coma.</note> upon her again the
+            </figure> on top of the
+            <lb/>forecastle have a fair wind <rs ref="#ATD">mother</rs> is quite
+            <lb/>sick again has the Fever upon her again the
             <lb/><rs ref="#PCP">Pilot</rs> has left us,
          </p>
       </div>
    </div>
           <!-- Acapulco Harbor journal ends here -->
           <div type="Entry" xml:id="Doane18530219a">
-             <lb/><dateline><date when="1853-02-19">Saturday 10 oclock M 19th</date></dateline>
+             <lb/><dateline><date when="1853-02-19">Saturday 12 oclock M Feb 19th</date></dateline>
              <p>
-                <lb/>Fair wind pleasant <rs ref="#ATD">Mother</rs> has
-                <lb/>passed a very restless night had the fever quite
+                <lb/>Fair wind pleasent <rs ref="#ATD">Mother</rs> has
+                <lb/>passed a very restless night had the Fever quite
                 <lb/>quite severe this morning when it was off
-                <lb/>gave her some more <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Q"/><note resp="ed" xml:id="Q">Quinine is an alkaloid found the bark of the Cinchona tree. Belonging to a class of medicines called antimalarials, Quinine was manufactured as a drug to treat malaria.<bibl><ref target="#OED">Oxford English Dictionary definition for Quinine</ref></bibl></note>the same as which
+                <lb/>gave her some more <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Q"/><note resp="ed" xml:id="Q">Quinine is an alkaloid found the bark of the Cinchona
+                     tree. Belonging to a class of medicines called antimalarials, Quinine was
+                     manufactured as a drug to treat malaria.<bibl><ref target="#OED">Oxford English
+                           Dictionary definition for Quinine</ref></bibl></note>the same as which
       <!-- Ken Angel's section ends here -->
       
       <!-- Lindsay Kelly's section starts here -->
                             <pb facs="/3/333d90fc-7693-4087-9e7e-aafc104ea752"/>
                                   <lb/>the Doctor gave her which is to keep it off.
-                                  <lb/>I am very glad to leave the place I can tell you The Crimnals keep pretty stile so ends
-                                  <lb/>this day.
+                                  <lb/>I am very glad to leave the place I can tell 
+                                  <lb/>you The
+                <choice><sic>Crimnals</sic><corr>Criminals</corr></choice> keep pretty still so ends
+                                  <lb/>this day
                                </p>
                             </div>
                             <div type="Entry" xml:id="Doane18530223">
-                               <lb/><dateline><date when="1853-02-23">Wednesday 23rd</date></dateline>
+                               <lb/><dateline><date when="1853-02-23">Wednesday 12 oclock M Feb 23rd</date></dateline>
                                <p>
-                                  <lb/>Fair wind but quite moderate,
-                                  <lb/>Father is quite unwell with severe pains in
-                                  <lb/>his limbs. Mother gaining <unclear>slowly</unclear> at 11 1/2 o'clock AM
-                                  <lb/>it came on to slow. Land and father went out
-                                  <lb/>on dick to give some orders and came in
-                                  <lb/>and went to bed at 1 o'clock AM I was
+                                  <lb/>Fair wind but quite mod<seg type="softhyphen">-
+                                  <lb/></seg>erate, Father is quite unwell with severe pains in
+                                  <!-- How to encode the revision sequence here? -->
+                                  <lb/>his limbs. Mother gaining <unclear reason="multiply corrected">s<del
+                                     rend="overwritten">ow</del><del
+                                        rend="duplicates">l</del>lowly</unclear> at 11 1/2 <add place="above">AM</add> oclock
+                                  <lb/>it came on to blow hard and father went out
+                                  <lb/>on deck to give some orders and came in
+                                  <lb/>and went to bed at 1 oclock AM I was
                                   <lb/>called as Father was in great Distress with
-                                  <lb/>pains in his limbs I never saw any on in
+                                  <lb/>pains in his limbs I never saw any on<supplied
+                                     reason="omitted">e</supplied> in
                                   <lb/>such Distress in my life we applyed every
-                                  <lb/>thing Hann Baths Gold Baths and mustard
-                                  <lb/>plaste but every thing we did him no
-                                  <lb/>good one of the officers was in with him
+                                  <lb/>thing Warm Baths Cold
+                                  <choice><sic>Bathes</sic><corr>Baths</corr></choice> and Mustard
+                                  <lb/>plaster but every thing we did him no
+                                  <lb/>good one of the Officers was in with him
                                   <lb/>all the time at day light the pains seemed 
                                   <lb/>to ease some and was quite easey with 
-                                  <lb/>the exception o his head I have been up
-                                  <lb/>all night so ends this day.
+                                  <lb/>the exception of his head I have been up
+                                  <lb/>all night so ends this day
                                </p>
                                <pb facs="/4/48c4bb2a-8492-48b9-881c-0fe0c51e8162"/>
                             </div>
