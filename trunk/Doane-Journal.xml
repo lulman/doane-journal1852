@@ -5134,75 +5134,85 @@
                                <pb facs="/4/48c4bb2a-8492-48b9-881c-0fe0c51e8162"/>
                             </div>
                             <div type="Entry" xml:id="Doane18530224">
-                               <lb/><dateline><date when="1853-02-24">Thursday 12 o'clock M Feb 24th</date></dateline>
+                               <lb/><dateline><date when="1853-02-24">Thursday 12 oclock M Feb 24th</date></dateline>
                                <p>
-                                  <lb/>Fair wind and blowing.
+                                  <lb/>Fair wind and blowing
                                   <lb/>fresh reefed Topsails, Father is some better but his
                                   <lb/>still pains him and Mother is down sick as 
                                   <lb/>she was up all night with Father, one of the 
-                                  <lb/>Prisoner have sent up for something to bath
+                                  <lb/>Prisoner have sent up for
+                                  <choice><sic>soneething</sic><corr>something</corr></choice> to bath
                                   <lb/>his head with as it ache very bad so father
                                   <lb/>let him have some vinegar The Second sees
                                   <lb/>to them
                                </p>
                             </div>
                             <div type="Entry" xml:id="Doane18530226">
-                               <lb/><dateline><date when="1853-02-26">Saturday 12 o'clock M Feb 26th</date></dateline>
+                               <lb/><dateline><date when="1853-02-26">Saturday 12 oclock M Feb 26th</date></dateline>
                                <p>
                                   <lb/>Fair wind in the
-                                  <lb/>night <unclear>ecperinced</unclear> a heavier Squall with rain
+                                  <lb/>night
+                                  <choice><sic>xperinced</sic><corr>experienced</corr></choice> a
+                                  heavey Squall with rain
                                   <lb/>and the wind blowing hard reefed Topsails
-                                  <lb/>took in Spanke Mainsail and Gib, Father and 
-                                  <lb/>Mother are quite smart
+                                  <lb/>took in Spanker Mainsail and Gib, Father &amp; 
+                                  <lb/>Mother are quite smart.
                                </p>
                             </div>
                             <div type="Entry" xml:id="Doane18530228">
-                               <lb/><dateline><date when="1853-02-28">Monday 12 o'clock M Feb 28th</date></dateline>
+                               <lb/><dateline><date when="1853-02-28">Monday 12 oclock M Feb 28th</date></dateline>
                                <p>
-                                  <lb/>Fair wind but in ple-
-                                  <lb/>easent weather squally and raining Father is so
-                                  <lb/>he is out on deck one of the sailors is sick
+                                  <lb/>Fair wind but unple<seg type="softhyphen">-
+                                  <lb/></seg>easent weather squally and raining Father is so
+                                  <lb/>he is out on deck one of the sailors is sick,
                                   <lb/>with the Dysentery. The Carpenter is quite unwell
-                                  <lb/>has a Turkey for dinner yesterday and he
+                                  <lb/>had a Turkey for Dinner yesterday and he
+                              <pb facs="/8/8a9bcb1c-eefc-4a0a-a4a5-7dfffbaafb29"/>
                                   <lb/>eat considerable of thinks it that which made
-                                  <lb/>him sick have killed one of the Pig's after it 
-                                  <lb/>was dressed weight 65 pounds Latitude 2=48
-                                  <lb/>Longitude <unclear>98=43</unclear>
+                                  <lb/>him sick have killed one of the Pigs after it
+                                  <!-- Encode this location. -->
+                                  <lb/>was dressed weight 65 Pounds <choice><sic>Lo<del
+                                     rend="overwritten">n</del>titude</sic><corr>Latitude</corr></choice> 2=48
+                                  <lb/>Longitude 95=43
                                </p>
                             </div>
                             <div type="Entry" xml:id="Doane18530303">
-                               <lb/><dateline><date when="1853-03-03">Thursday 12 o'clock M Ma 3th</date></dateline>
+                               <lb/><dateline><date when="1853-03-03">Thursday 12 oclock M Ma 3th</date></dateline>
                                <p>
                                   <lb/>Calm and very warm indeed
                                   <lb/>have made but very little progress the last 2
                                   <lb/>days as it has been calm and there is a 
-                                  <lb/>Westarly <unclear>Casrent</unclear> which is setting to the Westard
+                                  <lb/>Westerly C<del rend="overwritten">a</del>urrent which is setting to the Westard
                                   <lb/>several miles an hour.
                                </p>
                             </div>
                             <div type="Entry" xml:id="Doane18530304">
-                               <lb/><dateline><date when="1853-03-04">Friday 12 o'clock M Mar 4th</date></dateline>
+                               <lb/><dateline><date when="1853-03-04">Friday 12 oclock M Mar 4th</date></dateline>
                                <p>
-                                  <lb/>Calm again this morning
+                                  <lb/>Calm again This morning
                                   <lb/>before light I was woke up by loud noise up
                                   <lb/>on deck I got up and found they had caught
-                                  <lb/>a very large Shark, one ship in sight <unclear>Standing</unclear>
-                                  <lb/>the same way as we are A Whale.
+                                  <lb/>a very large Shark one, Ship in
+                                  <choice><sic>Shigt</sic><corr>sight</corr></choice> stand<seg
+                                     type="softhyphen">-
+                                  <lb/></seg>ing the same way as we are A Whaler.
                                </p>
                             </div>
                             <div type="Entry" xml:id="Doane18530305">
-                               <lb/><dateline><date when="1853-03-05">Saturday 12 o'clock M Mar 5th</date></dateline>
+                               <lb/><dateline><date when="1853-03-05">Saturday 12 oclock M Mar 5th</date></dateline>
                                <p>
                                   <lb/>There is quite a breeze
                                   <lb/>after Dinner we saw a boat coming from the 
-                                  <lb/><unclear>Ship</unclear>. The Captain came on board It was the
+                                  <lb/>Ship. The <choice><sic>Captian</sic><corr>Captain</corr></choice> came on board It was the
       <!-- Linsay Kelly's section ends here -->
       
       <!-- Cara Laviola's section starts here -->
                                   <pb facs="/c/c009ab62-1553-43f4-a615-99fd4c2cb542"/>
                                   <handShift new="H2"/><add place="top">50/-</add><handShift new="#LADHand"/>              
-                                  <lb/>Ship <name type="ship"><unclear cert="low">Congree</unclear></name> of <placeName ref="#NB">New Bedford</placeName> been out 22 months
-                                  <lb/>with 600 Sperm, on a 4 <choice><sic>years</sic><corr>year</corr></choice> Cruise left <placeName ref="#Callas">Callas</placeName>
+                                  <lb/>Ship <name type="ship">Congree</name> of <placeName ref="#NB">New Bedford</placeName> been out 22 months
+                                  <lb/>with 600 Sperm, on a 4
+                                  <choice><sic>years</sic><corr>year</corr></choice> Cruise left
+                                  <placeName ref="#Callao">Callao</placeName>
                                   <lb/>the <choice><sic>1th</sic><corr>1st</corr></choice> of November is now Bound to the <placeName ref="#Marquesas">Marquesas 
                                      <lb/>Island</placeName><ptr type="noteAnchor" target="MarqIles"/>
                                   <note resp="ed" xml:id="MarqIles">In <title level="m">Typee: A Peep at Polynesian Life During a Four Months' Residence in the Valley of the Marquesas</title> (1847),
@@ -5223,6 +5233,7 @@
                                </p>
                             </div>  
           <div type="Entry" xml:id="Doane18530307a">
+             <!-- Encode M and Mar as abbreviations? We haven't elsewhere. -->
              <lb/><dateline><date when= "1853-03-07">Monday 12 oclock <choice><abbr>M</abbr><expan>Meridian</expan></choice> <choice><abbr>Mar</abbr><expan>March</expan></choice> 7th</date></dateline>
              <p>
                 <lb/>Calm sails flapping
@@ -5243,6 +5254,7 @@
                 <lb/>Still continues Calm
              </p>
           </div>
+          <!-- Proofed to this point 9 May 2012. HLU and CG -->
           <pb facs="/5/543d446c-7609-4c4c-b88b-41dda31b9879"/>
           <div><p>
              <lb/><rs ref="#ATD">mother</rs> is quite sick has a severe <unclear cert="medium"><choice><sic>Caught</sic><corr>Cough</corr></choice></unclear> which
