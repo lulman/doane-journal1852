@@ -5259,7 +5259,7 @@
           <div><p>
              <lb/><rs ref="#ATD">mother</rs> is quite sick has a severe <unclear cert="medium"><choice><sic>Caught</sic><corr>Cough</corr></choice></unclear> which
              <lb/>has brought on a Fever, This morning have
-             <lb/>given her some more <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Quinine"/>
+             <lb/>given her some <unclear>none</unclear> <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Quinine"/>
              <note resp="ed" xml:id="Quinine"><title level="m">A Treatise on the Physiological and Therapeutic Action of the Sulphate of Quinine</title> (1882), written by Otis Frederick Manson, M.D., 
                 a professor of physiology at the Medical College of Virginia, describes in detail the history and uses of quinine. The medicine was made from a bitter alkaloid found in cinchona bark.
                 In the 19th century, Quinine was known to not only dispel fever, but it also cured pain and swelling caused from malarial infections. Manson describes in detail the effects of quinine on a patient:
@@ -5271,7 +5271,7 @@
                    <graphic url="http://www.loc.gov/pictures/item/2006679195/"></graphic>
                    <figDesc>Cartoon satirizing the price of quinine</figDesc>
                 </figure> </note>to keep it <choice><sic>offt</sic><corr>off</corr></choice>
-             <lb/>It has got into System and it is hard to throw
+             <lb/>It has got into <choice><sic>Systum</sic><corr>System</corr></choice> and it is hard to throw
              <lb/>it <choice><sic>offt</sic><corr>off</corr></choice>
           </p></div>      
           <div type="Entry" xml:id="Doane18530316a">
@@ -5287,10 +5287,10 @@
                 <lb/><choice><abbr>altho</abbr><expan>although</expan></choice> we are in the <choice><abbr>SE</abbr><expan>Southeast</expan></choice> <choice><sic>Tarde</sic><corr>Trade</corr></choice> winds which is 
                 <lb/>ahead for us can go no better than <choice><abbr>SW</abbr><expan>Southwest</expan></choice> and
                 <lb/>our course is <choice><abbr>SE</abbr><expan>Southeast</expan></choice>, The new Steward is 
-                <lb/>sick we have two so if any thing happens to 
+                <lb/>sick we have two so if <del rend="overwritten">th</del>any thing happens to 
                 <lb/>one we have another one to take his place
                 <lb/><rs ref="#ATD">Mother</rs> is quite smart again, This morning
-                <lb/>the <rs ref="#FirstOfficer">first officer</rs> passed up a Barrel of Pilot
+                <lb/>the <rs ref="#FirstOfficer">first Officer</rs> passed up a Barrel of Pilot
                 <lb/>bread<ptr type="noteAnchor" target="PilotBread"/>
                 <note resp="ed" xml:id="PilotBread">In <title level="m">The Complete Bread, Cake and Cracker Baker</title> (1881) written by J. Thompson Gill,
                    Gill describes the ingredients and cooking practices of Pilot Bread: "Sea-biscuits, pilot bread and plain crackers, those without 'shortening' of butter or lard, are simply 
@@ -5301,9 +5301,10 @@
                 </note>
                 
                 come to open it found it was <distinct type="archaic_orthography"><choice><orig>halfe</orig><reg>half</reg></choice></distinct>
-                <lb/>gone It <choice><sic>sit</sic><corr>sat</corr></choice> near one of the Prison and
+                <lb/>gone It <choice><sic>sits</sic><corr>sat</corr></choice> near one of the Prison and
              </p>
           </div>
+          <!-- Proofed to this point 14 May 2012. HLU and CG. -->
           <pb facs="/8/8efeb606-7a45-40a4-9df7-3fc4c9f9138e"/>
           <div>
              <p><handShift new="#H2"/><add place="top">51/-</add><handShift new="#LADHand"/>text</p>
