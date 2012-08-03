@@ -157,7 +157,7 @@
 
          </publicationStmt>
 
-         <sourceDesc>
+         <sourceDesc> 
             <biblFull>
 
                <titleStmt>
@@ -1267,165 +1267,6 @@
                </notesStmt>
 
             </biblFull>
-         </sourceDesc>
-
-      </fileDesc>
-
-      <!--
-         The encoding description, tagged <encodingDesc>, describes "the relationship 
-         between an electronic text and its source or sources" (TEI P4X, ch. 5).
-         -->
-      <encodingDesc>
-
-         <projectDesc>
-            <p> This edition is the latest in a series of collaboratively produced electronic
-               editions of previously unpublished nineteenth-century American manuscripts held in
-               the Rare Books and Manuscripts Library at The Ohio State University. Previous
-               editions include "My Dear Elizabeth," five letters written by Sophia Peabody
-               Hawthorne to her sister Elizabeth Palmer Peabody between ca. 1837 and 1868 (currently
-               being revised), "Dear Wife," twenty-one letters written by riverboat captain
-               William B. Anderson to his wife Louisa while he plied the Ohio river during the
-               height of the American Civil War, 1862–1864, and "Journal of a Tour to Europe," by
-               Samuel Sullivan Cox. These documentary editions are intended
-               to provide wide exposure and access to manuscripts that might otherwise be difficult
-               for scholars to discover and consult, and to provide users with a variety of tools
-               for studying those texts. </p>
-            <p> Each text was edited in connection with an undergraduate or graduate course offered
-               by H. Lewis Ulman, Associate Professor of English at The Ohio State University. The
-               courses aim to provide students with an opportunity to explore issues of textuality
-               and mediation that arise when our cultural archives spread from page to screen and
-               from library shelves to networked databases. Electronic textual editing is our
-               vehicle for examining what happens—and envisioning what might happen—when artifacts
-               in one medium are represented in another medium, especially with regard to the
-               interpretive work of reading. Electronic textual editions also provide a contact zone
-               that can help us reflect on what manuscript, print, and "born digital" artifacts can
-               tell us about their unique properties and their relationships to one another.</p>
-            <p> While providing a reliable textual edition is a <foreign xml:lang="lat">sine qua
-                  non</foreign>, the Doane edition also explores ways of telling four stories
-               inextricably woven into our work: the lives and historical milieu evoked by the
-               texts, the history of the physical journal (including its recent restoration), the
-               editorial process that gave rise to this particular interpretation of the text, and
-               the mediation of our electronic delivery system. </p>
-         </projectDesc>
-
-         <!--
-            In addition to prose description, the Editorial Practices Declaration may contain 
-            specialized elements concerned with correction, normalization, quotation, hyphenation, 
-            segmentation, date and number format, and interpretive apparatus (TEI P4X, ch. 5.3.3).
-            -->
-         <editorialDecl>
-            <p>
-               <emph rend="bold">Scanning</emph>. The manuscript pages were scanned as 24-bit TIFF
-               images at 400 dots per inch (dpi), then coverted to 8-bit JPEG images at 400 dpi and
-               full quality before being loaded into the Media Manager application. All edges were
-               overscanned by at least 1/4 inch. No color correction was used at any stage of image
-               preparation, but a scan of a photographer's 18% grey card on the same scanner
-               produced RGB values at the center of 91/95/107 after applying a 150% Gaussian Blur in
-               Adobe Photoshop to average color values. Thus, a properly configured monitor should
-               provide a reasonable approximation of colors on the manuscript pages.
-            </p>
-            <p>
-               <emph rend="bold">Production Location of Digital Assets</emph>. The TEI XML-compliant
-               transcription of the Doane journal, along with five style sheets used to provide
-               variant "views" of the edition, are stored on a server hosted by College of
-               Arts and Sciences at The Ohio State University. High resolution scans of the manuscript
-               pages, scans of plates from contemporary sources, and photographs of the journal are
-               stored in the Media Manager application hosted by the College of Arts and Science at
-               The Ohio State University. The files constituting the project's Web site will be
-               stored on a Web server hosted by the College.</p>
-            <p>
-               <emph rend="bold">Archiving of Digital Assets</emph>. Once the edition is complete,
-               its digital assets will be archived in The Ohio State University
-               https://kb.osu.edu/dspace/index.jsp Knowledge Bank. </p>
-
-            <!-- TAKE NOTE: Explain your editorial method:
-               
-               •	If you employ image files, describe how they were produced and note where they are stored.
-               •	Describe any editorial guidelines you followed (e.g., how you treated hyphenation, whether 
-                  you corrected apparent errors, and any other decisions about how to treat recurrent features).
-               •	Describe any special symbols that you use in your text to indicate additions, corrections, 
-                  cancellations, and so on. This important explanation provides a reader's guide to the text.
-               
-                  You can use more than one paragraph (tagged <p> </p>).
-                  
-                  We might include a system diagram, showing where all of the assets are stored
-                  and how the systems interact. We might include a database of assets. And we
-                  might include screen shots of the edition running on various systems as a step
-                  toward a descriptive bibliography of an online edition.
-            -->
-
-         </editorialDecl>
-
-         <refsDecl>
-            <p>
-               <emph rend="bold">Markup of Physical Structure and Page Layout</emph>. The manuscript
-                  <emph rend="bold">pages</emph>, encoded by the empty page break or &lt;pb/&gt;
-               element, are the primary physical structures represented in the markup. Each
-               &lt;pb&gt; element includes an &quot;mmid&quot; attribute identifying the unique ID
-               of a high-resolution scan of that image in the Media Manager application, as well as
-               &quot;audiostart&quot; and &quot;audioend&quot; attributes that identify the section
-               of the audio edition that corresponds to that page. <emph rend="bold">Line
-                  breaks</emph> (i.e., lineation determined or influenced by the physical
-               constraints of the page rather than compositional choices by the author) are encoded
-               with the empty &lt;lb/&gt; element. No attributes are included in the &lt;lb&gt;
-               element. </p>
-            <p>
-               <emph rend="bold">Markup of Textual Structure</emph>. The <emph rend="bold">journal
-                  entry</emph>, encoded by a &lt;div1&gt; element with the attribute-value pair
-               &quot;type='Entry'&quot;, constitutes the primary textual structure represented in
-               the markup. Each entry contains an &lt;opener&gt; element—which in turn contains a
-               &lt;dateline&gt; element—and one or more paragraphs. Each dateline may include a
-               &lt;name&gt; element with (optionally) a &quot;type&quot; attribute containing one of
-               the following values: city, region; and a &lt;date&gt; element with a
-               &quot;value&quot; attribute whose value is in the form YYYY-MM-DD. The &lt;div1&gt;
-               elements also contain &quot;audiostart&quot; and &quot;audioend&quot; elements that
-               identify the section of the audio edition that corresponds to that entry. </p>
-            <p>Entries consist of a series of <emph rend="bold">paragraphs</emph>. Where indicated
-               by indentation of a line from the left margin of a page, line breaks part-way across
-               a page, or additional white space between lines, paragraphs are encoded with the
-               &lt;p&gt; element and no attributes. </p>
-            <p>If present, any prefatory text preceding the dateline may be encoded as a
-               &lt;head&gt; element at the beginning of the entry (i.e., within the
-               &lt;div&gt;element and before the &lt;opener&gt;). </p>
-            <p>
-               <emph rend="bold">Level of Transcription/Encoding</emph>. This markup scheme supports
-               a modest range of presentations, from semi-modernized/corrected to semi-diplomatic.
-               The basic transcription follows the manuscript verbatim. Various manuscript features
-               (e.g., cancellations, interlinear or marginal additions, tears in pages) are encoded,
-               as are regularized versions of proper names and dates and standard versions of
-               nonstandard spellings and expansions of abbreviations. </p>
-            <p>
-               <emph rend="bold">Extensions to the TEI P5 Schema</emph>. The project's Web site contain full details of the markup
-               guidelines:
-               <figure rend="link">
-                  <head>http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneJournalMarkup.cfm</head>
-                  <graphic url="http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneJournalMarkup.cfm"/>
-                  <figDesc>Link to the Doane journal markup guidelines.</figDesc>
-               </figure>.</p>
-         </refsDecl>
-
-         <classDecl>
-            <taxonomy xml:id="LCSH">
-               <bibl>
-                  <title>Library of Congress Subject Headings</title>
-               </bibl>
-            </taxonomy>
-         </classDecl>
-
-         <variantEncoding method="parallel-segmentation" location="internal"/>
-
-      </encodingDesc>
-
-      <profileDesc>
-         <!--The text profile, tagged <profileDesc>, contains "classificatory and contextual information 
-         about the text, such as its subject matter, the situation in which it was produced, the 
-         individuals described by or participating in producing it, and so forth" (TEI P4X, ch. 5).-->
-
-         <creation>
-            <date>2010-03-11</date>
-         </creation>
-
-         <particDesc>
             <listPerson type="mentioned">
                <person xml:id="LAD">
                   <persName>Doane, Louisa A.</persName>
@@ -1749,7 +1590,162 @@
                   <education> BA, The Ohio State University (2011)</education>                    
                </person>               
             </listPerson>
-         </particDesc>
+         </sourceDesc>
+
+      </fileDesc>
+
+      <!--
+         The encoding description, tagged <encodingDesc>, describes "the relationship 
+         between an electronic text and its source or sources" (TEI P4X, ch. 5).
+         -->
+      <encodingDesc>
+
+         <projectDesc>
+            <p> This edition is the latest in a series of collaboratively produced electronic
+               editions of previously unpublished nineteenth-century American manuscripts held in
+               the Rare Books and Manuscripts Library at The Ohio State University. Previous
+               editions include "My Dear Elizabeth," five letters written by Sophia Peabody
+               Hawthorne to her sister Elizabeth Palmer Peabody between ca. 1837 and 1868 (currently
+               being revised), "Dear Wife," twenty-one letters written by riverboat captain
+               William B. Anderson to his wife Louisa while he plied the Ohio river during the
+               height of the American Civil War, 1862–1864, and "Journal of a Tour to Europe," by
+               Samuel Sullivan Cox. These documentary editions are intended
+               to provide wide exposure and access to manuscripts that might otherwise be difficult
+               for scholars to discover and consult, and to provide users with a variety of tools
+               for studying those texts. </p>
+            <p> Each text was edited in connection with an undergraduate or graduate course offered
+               by H. Lewis Ulman, Associate Professor of English at The Ohio State University. The
+               courses aim to provide students with an opportunity to explore issues of textuality
+               and mediation that arise when our cultural archives spread from page to screen and
+               from library shelves to networked databases. Electronic textual editing is our
+               vehicle for examining what happens—and envisioning what might happen—when artifacts
+               in one medium are represented in another medium, especially with regard to the
+               interpretive work of reading. Electronic textual editions also provide a contact zone
+               that can help us reflect on what manuscript, print, and "born digital" artifacts can
+               tell us about their unique properties and their relationships to one another.</p>
+            <p> While providing a reliable textual edition is a <foreign xml:lang="lat">sine qua
+                  non</foreign>, the Doane edition also explores ways of telling four stories
+               inextricably woven into our work: the lives and historical milieu evoked by the
+               texts, the history of the physical journal (including its recent restoration), the
+               editorial process that gave rise to this particular interpretation of the text, and
+               the mediation of our electronic delivery system. </p>
+         </projectDesc>
+
+         <!--
+            In addition to prose description, the Editorial Practices Declaration may contain 
+            specialized elements concerned with correction, normalization, quotation, hyphenation, 
+            segmentation, date and number format, and interpretive apparatus (TEI P4X, ch. 5.3.3).
+            -->
+         <editorialDecl>
+            <p>
+               <emph rend="bold">Scanning</emph>. The manuscript pages were scanned as 24-bit TIFF
+               images at 400 dots per inch (dpi), then coverted to 8-bit JPEG images at 400 dpi and
+               full quality before being loaded into the Media Manager application. All edges were
+               overscanned by at least 1/4 inch. No color correction was used at any stage of image
+               preparation, but a scan of a photographer's 18% grey card on the same scanner
+               produced RGB values at the center of 91/95/107 after applying a 150% Gaussian Blur in
+               Adobe Photoshop to average color values. Thus, a properly configured monitor should
+               provide a reasonable approximation of colors on the manuscript pages.
+            </p>
+            <p>
+               <emph rend="bold">Production Location of Digital Assets</emph>. The TEI XML-compliant
+               transcription of the Doane journal, along with five style sheets used to provide
+               variant "views" of the edition, are stored on a server hosted by College of
+               Arts and Sciences at The Ohio State University. High resolution scans of the manuscript
+               pages, scans of plates from contemporary sources, and photographs of the journal are
+               stored in the Media Manager application hosted by the College of Arts and Science at
+               The Ohio State University. The files constituting the project's Web site will be
+               stored on a Web server hosted by the College.</p>
+            <p>
+               <emph rend="bold">Archiving of Digital Assets</emph>. Once the edition is complete,
+               its digital assets will be archived in The Ohio State University
+               https://kb.osu.edu/dspace/index.jsp Knowledge Bank. </p>
+
+            <!-- TAKE NOTE: Explain your editorial method:
+               
+               •	If you employ image files, describe how they were produced and note where they are stored.
+               •	Describe any editorial guidelines you followed (e.g., how you treated hyphenation, whether 
+                  you corrected apparent errors, and any other decisions about how to treat recurrent features).
+               •	Describe any special symbols that you use in your text to indicate additions, corrections, 
+                  cancellations, and so on. This important explanation provides a reader's guide to the text.
+               
+                  You can use more than one paragraph (tagged <p> </p>).
+                  
+                  We might include a system diagram, showing where all of the assets are stored
+                  and how the systems interact. We might include a database of assets. And we
+                  might include screen shots of the edition running on various systems as a step
+                  toward a descriptive bibliography of an online edition.
+            -->
+
+         </editorialDecl>
+
+         <refsDecl>
+            <p>
+               <emph rend="bold">Markup of Physical Structure and Page Layout</emph>. The manuscript
+                  <emph rend="bold">pages</emph>, encoded by the empty page break or &lt;pb/&gt;
+               element, are the primary physical structures represented in the markup. Each
+               &lt;pb&gt; element includes an &quot;mmid&quot; attribute identifying the unique ID
+               of a high-resolution scan of that image in the Media Manager application, as well as
+               &quot;audiostart&quot; and &quot;audioend&quot; attributes that identify the section
+               of the audio edition that corresponds to that page. <emph rend="bold">Line
+                  breaks</emph> (i.e., lineation determined or influenced by the physical
+               constraints of the page rather than compositional choices by the author) are encoded
+               with the empty &lt;lb/&gt; element. No attributes are included in the &lt;lb&gt;
+               element. </p>
+            <p>
+               <emph rend="bold">Markup of Textual Structure</emph>. The <emph rend="bold">journal
+                  entry</emph>, encoded by a &lt;div1&gt; element with the attribute-value pair
+               &quot;type='Entry'&quot;, constitutes the primary textual structure represented in
+               the markup. Each entry contains an &lt;opener&gt; element—which in turn contains a
+               &lt;dateline&gt; element—and one or more paragraphs. Each dateline may include a
+               &lt;name&gt; element with (optionally) a &quot;type&quot; attribute containing one of
+               the following values: city, region; and a &lt;date&gt; element with a
+               &quot;value&quot; attribute whose value is in the form YYYY-MM-DD. The &lt;div1&gt;
+               elements also contain &quot;audiostart&quot; and &quot;audioend&quot; elements that
+               identify the section of the audio edition that corresponds to that entry. </p>
+            <p>Entries consist of a series of <emph rend="bold">paragraphs</emph>. Where indicated
+               by indentation of a line from the left margin of a page, line breaks part-way across
+               a page, or additional white space between lines, paragraphs are encoded with the
+               &lt;p&gt; element and no attributes. </p>
+            <p>If present, any prefatory text preceding the dateline may be encoded as a
+               &lt;head&gt; element at the beginning of the entry (i.e., within the
+               &lt;div&gt;element and before the &lt;opener&gt;). </p>
+            <p>
+               <emph rend="bold">Level of Transcription/Encoding</emph>. This markup scheme supports
+               a modest range of presentations, from semi-modernized/corrected to semi-diplomatic.
+               The basic transcription follows the manuscript verbatim. Various manuscript features
+               (e.g., cancellations, interlinear or marginal additions, tears in pages) are encoded,
+               as are regularized versions of proper names and dates and standard versions of
+               nonstandard spellings and expansions of abbreviations. </p>
+            <p>
+               <emph rend="bold">Extensions to the TEI P5 Schema</emph>. The project's Web site contain full details of the markup
+               guidelines:
+               <figure rend="link">
+                  <head>http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneJournalMarkup.cfm</head>
+                  <graphic url="http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneJournalMarkup.cfm"/>
+                  <figDesc>Link to the Doane journal markup guidelines.</figDesc>
+               </figure>.</p>
+         </refsDecl>
+
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+
+      </encodingDesc>
+
+      <profileDesc>
+         <!--The text profile, tagged <profileDesc>, contains "classificatory and contextual information 
+         about the text, such as its subject matter, the situation in which it was produced, the 
+         individuals described by or participating in producing it, and so forth" (TEI P4X, ch. 5).-->
+
+         <creation>
+            <date>2010-03-11</date>
+         </creation>
+
 
          <!-- Note any languages that appear in your document (use multiple tags, if necessary). -->
          <langUsage>
@@ -1989,8 +1985,7 @@
                <lb/>wet, all the time as there is a <choice><sic>heavey</sic><corr>heavy</corr></choice> sea,
                <lb/>and they wash over us continually, <choice><sic>thy</sic><corr>they</corr></choice> are
                <lb/>now taking in more sail, <rs ref="#LAD">mother</rs> has not
-               <lb/>been up today, we have hove <choice><sic>too</sic><corr>to</corr></choice>,
-               we shall
+               <lb/>been up today, we have hove <choice><sic>too</sic><corr>to</corr></choice>, we shall
                <lb/>have a bad night I am afraid.
             </p>
          </div>
@@ -5252,11 +5247,8 @@
              <lb/><dateline><date when="1853-03-08"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 12 oclock <choice><abbr>M</abbr><expan>Meridian</expan></choice> <choice><abbr>Mar</abbr><corr>March</corr></choice> 8th</date></dateline>
              <p>
                 <lb/>Still continues Calm
-             </p>
-          </div>
           <!-- Proofed to this point 9 May 2012. HLU and CG -->
           <pb facs="/5/543d446c-7609-4c4c-b88b-41dda31b9879"/>
-          <div><p>
              <lb/><rs ref="#ATD">mother</rs> is quite sick has a severe <unclear cert="medium"><choice><sic>Caught</sic><corr>Cough</corr></choice></unclear> which
              <lb/>has brought on a Fever, This morning have
              <lb/>given her some <unclear>none</unclear> <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Quinine"/>
@@ -5302,19 +5294,16 @@
                 
                 come to open it found it was <distinct type="archaic_orthography"><choice><orig>halfe</orig><reg>half</reg></choice></distinct>
                 <lb/>gone It <choice><sic>sits</sic><corr>sat</corr></choice> near one of the Prison and
-             </p>
-          </div>
           <!-- Proofed to this point 14 May 2012. HLU and CG. -->
           <pb facs="/8/8efeb606-7a45-40a4-9df7-3fc4c9f9138e"/>
-          <div>
-             <p><handShift new="#H2"/><add place="top">51/-</add><handShift new="#LADHand"/>text</p>
-             <p>
+             <handShift new="#H2"/><add place="top">51/-</add><handShift new="#LADHand"/>text
                 <lb/>he managed to reach it and knocked a hole
                 <lb/>in the head so they could get the bread out
                 <lb/>and they have been having nice times plenty of
                 <lb/>bread to eat but they will get no more, 
                 <lb/><geogName ref="#SETradeWinds">Latitude 4.24. Longitude 98" 15 North</geogName>,
-             </p></div>
+             </p>
+          </div>
           <div type="Entry" xml:id="Doane18530317a">
              <lb/><dateline><date when= "1853-03-17">Thursday 12 oclock <choice><abbr>M</abbr><expan>Meridian</expan></choice> <choice><abbr>Mar</abbr><expan>March</expan></choice> 17th</date></dateline>
              <p>
@@ -5399,7 +5388,7 @@
                 <lb/>board to see us <rs ref="#ATD">Mother</rs> is still gaining
              </p>
           </div>
-          <div>
+          <div type="section">
              <p>
                 <lb/>Harbor Journal
              </p>
@@ -5412,11 +5401,8 @@
                 <lb/>the water boat when he returned he said he
                 <lb/>never saw such a variety of Fruit in any
                 <lb/>Place as there was here Last evening <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
-                   <lb/>Miller</persName> and his Family were on board and the
-             </p>
-          </div>
+                <lb/>Miller</persName> and his Family were on board and the
           <pb facs="/7/761d1ac4-ea3a-481c-a35c-4b5a1646f5c5"/>
-          <div><p>
              <lb/>evening which was quite a rarity to us to see
              <lb/><choice><sic>a</sic><corr>an</corr></choice> American Lady like them very much. The
              <lb/>Water Boat is along side filling our water The
@@ -5936,16 +5922,12 @@
                 <lb/>has gone around the <geogName>Island</geogName> to carry some
                 <lb/>water on the <geogName>Island</geogName> and when he returned
                 <lb/><persName>Mrs Gardner</persName> came with him and spent the
-             </p>
-          </div>
           <pb facs="/9/9d4d2e8a-6a41-477d-994b-8dde89dff874"/>  
-          <div>
-             <p>
                 <lb/>day and <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Walker</persName> came and took tea 
                 <lb/>with us and spent the evening.
              </p>
           </div>
-          <div type="Entry" xml:id="Doane18530613a">
+            <div type="Entry" xml:id="Doane18530613a">
              <lb/><dateline><date when= "1853-06-13">Monday June 13th</date></dateline>
              <p>
                 <lb/>Fine warm morning <rs ref="#END">Father</rs> has
@@ -5975,10 +5957,7 @@
                 <lb/><rs>Wife</rs> <persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice>Lowell</persName> and <rs>Wife</rs> came on board
                 <lb/>and pretty soon who should we see coming
                 <lb/>but <persName>Mrs Gardner</persName> so they were all here
-             </p>
-          </div>
           <pb facs="/4/4d08f79d-a266-4328-8038-f01c6f797528"/>
-          <div><p>
              <lb/>did not stop but a short time. The Clipper
              <lb/>Ship <name type="ship"><unclear cert="medium" reason="some of the letters are unclear">Alboir</unclear></name> has arrived <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Littlefield</persName> he
              <lb/>has his <rs>wife</rs> with him they close to the <name type="ship">California
@@ -6245,10 +6224,7 @@
                 <lb/>fine Ship <choice><sic>altho</sic><corr>although</corr></choice> not a Clipper<ptr type="noteAnchor" target="clip"/><note resp="ed" xml:id="clip">This was a new kind of merchant vessel that came about in the late 1840s. It was made to carry profitable cargo at much higher speeds than older ships. With this new kind of ship Doane's father(and other captains) could travel much faster(150 miles a day versus 250 miles a day) and therefore make more profit on their cargo.<bibl><ref target="TCSNVTFS">"The Clipper-Ship Nightingale vs. The Flying Scud"</ref></bibl></note>, <name type="ship">The James Comer</name>
                 <lb/>is under the Shoot <choice><sic>loding</sic><corr>loading</corr></choice> fast. after Dinner
                 <lb/><persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice> Lowell</persName> and Wife and <choice><sic>Captian</sic><corr>Captain</corr></choice>
-             </p>
-          </div>
           <pb facs="/a/a6592564-53d9-4c76-adfa-3ddf8e1d5c1d"/>
-          <div><p>
              <lb/>and Wife came on board and spent the after<seg type="softhyphen">
                 <lb/>-</seg>noon and evening
           </p>

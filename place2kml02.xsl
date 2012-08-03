@@ -64,6 +64,11 @@
                      
                     <xsl:text><![CDATA[<br/><br/>]]>Click to view the: </xsl:text>
                     <xsl:variable name="reftag" select="concat('#',@xml:id)"></xsl:variable>
+                     
+                     <!-- Remove the test *[(name()='geogName' or name()='placeName' or name()='rs') -->
+                     <!-- It is probably not necessary because only those elements will have ref    
+                          tags pointing to places. -->
+                     
                      <xsl:element name="a"><xsl:attribute
                        name="href">http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneHTMLViews/DoaneJournal-Reading.html<xsl:text>#</xsl:text><xsl:value-of
                        select="/tei:TEI/tei:text/tei:body//tei:*[(name()='geogName' or
