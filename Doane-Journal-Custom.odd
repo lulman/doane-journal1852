@@ -28,7 +28,11 @@
   </teiHeader>
   <text>
     <body>
-      <p>This first pass should match the encoding in the current Doane XML file.</p>
+      <p>This first pass should match the encoding in the current Doane XML file. At present, this
+        customization limits the number of TEI modules included in the schema and, in the case of
+        four of the optional modules listed below, restricts the elements included from modules. In
+        addition, it requires a @type attribute for the <gi>div</gi> element and restricts the
+        values of that attribute to a controlled vocabulary.</p>
       <!-- The <schemaSpec> element is in effect the root element for
            the schema specification portion of the ODD. The @ident is
            required; it is allowed to be any name, but urbe requires
