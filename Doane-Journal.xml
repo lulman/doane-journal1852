@@ -1,4 +1,4 @@
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<?xml-model href="out/Doane-Journal-Custom.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
 <!--
       The type attribute in teiHeader element above indicates that the header provides 

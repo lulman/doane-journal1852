@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/brown_odds.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/brown_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+  xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Doane Journal TEI Customization</title>
+        <author>H. Lewis Ulman</author>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence><p>Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+              license.</p></licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="ns">http://www.example.org/ns/nonTEI</note>
+      </notesStmt>
+      <sourceDesc>
+        <p>This ODD file customizes TEI for use with the Louisa Doane journal.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change who="HLU" when="2012-06-26">Initial Draft</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This first pass should match the encoding in the current Doane XML file.</p>
+      <!-- The <schemaSpec> element is in effect the root element for
+           the schema specification portion of the ODD. The @ident is
+           required; it is allowed to be any name, but urbe requires
+           that it match the filename of the ODD file w/o ".odd". -->
+      <schemaSpec ident="Doane-Journal-Custom">
+        <!-- The <moduleRef> elements specify which TEI modules (which
+             correspond directly to chapters in the Guidelines) will
+             be included in the schema. The value of the @key
+             attribute is the name of the module. For any element, you 
+             can find the name of the module containing it in the 
+             reference documentation for that element. A complete 
+             list of modules is available at
+             http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html#STMA.
+             -->
+        <!-- The four required modules:
+             core, tei, header, and textstructure. -->
+        <moduleRef key="core"/>
+        <moduleRef key="tei"/>
+        <moduleRef key="header"/>
+        <moduleRef key="textstructure"/>
+        <!-- optional modules: -->
+        <moduleRef key="namesdates"/>
+        <moduleRef key="transcr" include="handNotes handShift supplied fw damage"/>
+        <moduleRef key="msdescription" include="accMat acquisition additional additions adminInfo binding bindingDesc collation collection condition custEvent custodialHist decoDesc decoNote depth dim dimensions explicit foliation handDesc height institution layout layoutDesc material msContents msDesc msIdentifier msName msPart objectDesc objectType origDate origPlace origin physDesc provenance recordHist repository scriptDesc source summary support supportDesc surrogates typeDesc watermark width"/>
+        <moduleRef key="linking" include="ab seg when"/>
+        <moduleRef key="figures" include="cell figDesc figure formula row table"/>
+
+        <!-- The <elementSpec> is used to make changes to content
+             models, to delete unwanted elements from modules included
+             above, or to add and delete attributes from a specific
+             element. There are a few crucial attributes you need to
+             use:
+             
+             1. @module: This indicates the module in which the
+             element appears. This is required for proper working of
+             roma.
+             
+             2. @ident: This gives the name of the element being
+             specified or altered.
+             
+             3. @mode: This indicates the status of this element
+             specification, in relation to the main TEI specification
+             for this element. The possibilities are:
+             
+             "add": Used when defining a new element
+             
+             "delete": Used when deleting an element from the
+             customization
+             
+             "change": Used to indicate that the custom specification
+             alters only the specified parts of the main TEI
+             specification for this element, but leaves the rest
+             unchanged.
+             
+             "replace": Used to indicate that the custom specification
+             entirely replaces all of the main TEI specification for
+             this element. This will eliminate any documentation
+             associated with the element, any additional attributes
+             the element may carry, etc. -->
+        
+        <elementSpec ident="div" mode="change" module="textstructure">
+          <!-- This <elementSpec> is for making a change to (an)
+             attribute(s), for instance to designate a specific
+             list of permitted values, or to add new attributes. -->
+ 
+          <attList>
+            
+            <!-- Use mode="change" on <attDef> if the attribute
+                 already exists; use mode="add" if this is a new
+                 attribute. -->
+            
+            <!-- Note that this attribute will be required. -->
+            <attDef ident="type" usage="req" mode="replace">
+            <!-- The <desc> element provides documentation -->
+            <desc>The @type attribute identifies the type of a content division.</desc>
+
+
+              <!-- The <datatype> element indicates what datatype the
+                   attribute values are. To indicate the value is from
+                   a controlled value list, fill in "data.enumerated". -->
+              <datatype>
+                <rng:ref name="data.enumerated"/>
+              </datatype>
+
+              <!-- The <valList> contains the possible values; @type
+                   indicates whether the list is closed (no other
+                   values permitted) or semi-closed (these values will
+                   show up in a menu but others are permitted) or open
+                   (the values given are suggestions only). -->
+              
+              <!-- Default value for this element. -->
+              <defaultVal>Entry</defaultVal>
+              <valList type="closed">
+                <valItem ident="voyage">
+                  <desc>A voyage.</desc>
+                </valItem>
+                <valItem ident="section">
+                  <desc>A section of a voyage.</desc>
+                </valItem>
+                <valItem ident="Entry">
+                  <desc>A journal entry.</desc>
+                </valItem>
+                <valItem ident="endpaper">
+                  <desc>An endpaper.</desc>
+                </valItem>
+                <valItem ident="titlepage">
+                  <desc>A titlepage</desc>
+                </valItem>
+                <valItem ident="editorial">
+                  <desc>An editorial </desc>
+                </valItem>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        
+        <elementSpec ident="itinerary" ns="http://www.osu.edu/ulman/reliablewitnesses/ns/1.0" mode="add">
+          <desc>provides structured information about an itinerary</desc>
+          <classes mode="replace">
+            <memberOf key="model.listLike"/>
+            <memberOf key="att.global"/>
+          </classes>
+          <content>
+            <rng:oneOrMore>
+              <rng:ref name="name"/>
+            </rng:oneOrMore>
+            <rng:zeroOrMore>
+              <rng:ref name="model.listLike"/>
+            </rng:zeroOrMore>
+            <rng:ref name="location"/>
+          </content>
+          <remarks>
+            <p></p>
+          </remarks>
+        </elementSpec>
+
+      </schemaSpec>
+
+    </body>
+  </text>
+</TEI>
