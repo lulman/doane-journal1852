@@ -1270,8 +1270,14 @@
             <listPerson type="mentioned">
                <person xml:id="LAD">
                   <persName>Doane, Louisa A.</persName>
-                  <birth when="1835-06-11"/>
-                  <death when="1878"/>
+                  <birth when="1835-06-11">
+                     <date>11 June 1835</date>
+                     <name type="place">Chatham, Massachusetts</name>
+                  </birth>
+                  <death when="1878-12-05">
+                     <date>5 December 1878</date>
+                     <name type="place">Boston, Massachusetts</name>
+                  </death>
                   <event type="marriage" when="1857">
                      <desc>Louisa Doane married George W. Wadsworth, of Somerville, MA in 1857.</desc>
                   </event>
