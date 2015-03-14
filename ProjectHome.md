@@ -1,0 +1,1 @@
+TEI-encoded transcript of original manuscript.
