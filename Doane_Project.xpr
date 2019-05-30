@@ -14,7 +14,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Doane-EdintroP5.xsl</String>
+                                    <String>Doane_view_edintro.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -29,11 +29,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Doane-SplitviewP5.xsl</String>
+                                    <String>Doane-DiplomaticP5.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>doane-splitview</String>
+                                        <String>doane-diplomatic</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -59,11 +59,26 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Doane-DiplomaticP5.xsl</String>
+                                    <String>Doane-SplitviewP5.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>doane-diplomatic</String>
+                                        <String>doane-splitview</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Doane-EdintroP5.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Doane-EdintroP5</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -417,9 +432,9 @@
     </meta>
     <projectTree name="Doane_Project.xpr">
         <folder masterFiles="true" name="Master Files">
-            <file name="Doane-DiplomaticP5.xsl"/>
-            <file name="Doane-ReadingP5.xsl"/>
-            <file name="Doane-SplitviewP5.xsl"/>
+            <file name="Doane_view_diplomatic.xsl"/>
+            <file name="Doane_view_reading.xsl"/>
+            <file name="Doane_view_splitview.xsl"/>
         </folder>
         <folder path="."/>
     </projectTree>
