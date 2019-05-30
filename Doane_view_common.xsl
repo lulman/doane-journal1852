@@ -52,7 +52,7 @@
             </title>
             <!-- LOCAL JS CALLS -->
             <link rel="stylesheet" href="jquery-ui.css"/>
-            <link href="sscox_journal.css" rel="stylesheet" type="text/css" />
+            <link href="doane_journal.css" rel="stylesheet" type="text/css" />
             <script src="jquery-1.8.3.min.js"/>
             <script src="jquery-ui-1.9.2.custom.js"/>
             
