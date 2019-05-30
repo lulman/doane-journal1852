@@ -1,0 +1,505 @@
+/* CSS Document */
+.masthead {
+	   vertical-align: top;
+	   text-align:center;
+	   width:1005px;
+	   top:0;
+	   position: fixed;
+	   background-color: rgba(255, 255, 255, 1);
+	   color: rgba(1, 1, 1, 0.8);
+	   z-index:1;
+}
+#display1 {
+	margin-bottom: 0;
+	background-color: #fff;
+	padding-top: 0px;
+	width: 150px;
+}
+#display2, #display3, #display4, #display5 {
+	/*clear:right;*/
+	margin-bottom: 0;
+	background-color: #fff;
+	padding-top: 0px;
+	width: 150px;
+}
+.masthead img {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10 px;
+  border-radius: 10px;	
+}
+#titleBar {
+   vertical-align: top;
+   width:1005px;
+   position: relative;
+   background-color: rgba(255, 255, 255, 1);
+   color: rgba(1, 1, 1, 0.8);
+}
+#navMenu {
+	list-style-type:none;
+}
+li {
+   font-family:  'Fanwood Text',georgia, serif;
+   font-size: 1em;
+}
+
+/* SKIP TO MAIN CONTENT LINK */
+
+#skiptocontent a {
+	padding:6px;
+	position: absolute;
+	top:-40px;
+	left:0px;
+	color:white;
+	border-right:1px solid white;
+	border-bottom:1px solid white;
+	border-bottom-right-radius:8px;
+	background:transparent;
+	-webkit-transition: top 1s ease-out, background 1s linear;
+    transition: top 1s ease-out, background 1s linear;
+    z-index: 100;
+}
+
+#skiptocontent a:focus {
+	position:absolute;
+	left:0px;
+	top:0px;
+	background:#BF1722;
+	outline:0;	
+	-webkit-transition: top .1s ease-in, background .5s linear;
+    transition: top .1s ease-in, background .5s linear;
+}
+
+#maincontent:before {
+display: block;
+content: " ";
+margin-top: -150px;
+height: 150px;
+visibility: hidden;    
+}
+
+/* BEGIN MODAL IMAGE WINDOW RULES */
+
+/* Style the Image Used to Trigger the Modal */
+#myImg1, #myImg2, #myImg3, #myImg4, #myImg5 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg1:hover, #myImg2:hover, #myImg3:hover, #myImg4:hover, #myImg5:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 2; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 50px;
+    top: 122px;
+    width: 1005px; /* Full width */
+    height: 90%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(100,100,100); /* Fallback color */
+    background-color: rgba(100,100,100,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    /*width: 50%;*/
+    /* Using max-width percentage to ensure that aspect ratio of image is respected */
+    max-width: 50%;
+    max-height: 400px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption1, #caption2, #caption3, #caption4, #caption5 {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption1, #caption2, #caption3, #caption4, #caption5 { 
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 90px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 36px;
+    font-weight: bold;
+    transition: 0.3s;
+    z-index: 2;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+        .description {
+        position: absolute;
+        top: 150px;
+        right: 95px;
+        color: #f1f1f1;
+        font-size: 16px;
+        font-weight: bold;
+        transition: 0.3s;
+        z-index: 2;
+        }
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+/* END MODAL IMAGE WINDOW RULES */
+
+/* BUTTONS FOR MODALS */
+
+button.modalb{
+  margin      : 0;
+  padding     : 0;
+  border      : 0;
+  background  : transparent;
+  font-family : inherit;
+  font-size   : 1em;
+  cursor      : pointer;
+}
+
+button.modalb::-moz-focus-inner{
+  padding : 0;
+  border  : 0;
+}
+
+/* END BUTTON FOR MODALS */
+
+/* DROPDOWN UNORDERED MENU LISTS */
+
+.nav, .nav ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+.nav a {
+    text-decoration:none;
+}
+/*IE5 list fix*/
+.nav .sub li {float:left;}
+.nav .sub > li {float:none;}
+#navigation {
+    position:relative;
+    height:25px;
+    background:#CCCCCC;
+    margin-top: 10px;
+    border-bottom: thin solid;
+    border-top: thin solid;
+    z-index:1;
+}
+.nav {
+    position:absolute;
+    visibility:hidden;
+}
+.nav .link {
+    width:200px;
+    margin-top:-10075px;
+    float:left;
+}
+.nav a {
+    position:relative;
+    display:block;
+    height:25px;
+    line-height:25px;
+    font-family: 'Droid Sans', arial, sans-serif;
+    font-weight: 500;
+    text-decoration:none;
+    color:#000;
+    z-index:1;
+    visibility:visible;
+}
+.nav .sub a {
+    background:#CCCCCC;
+    margin:0 -1px 0 0;
+    width:200px;
+}
+.nav .sub {
+    float:left;
+    background:#F90;
+    padding-top:25px;
+    margin-top:-25px;
+}
+.nav a.main {
+    width:200px;
+    height:25px;
+    line-height:25px;
+    margin-top:10075px;
+    margin-right:-199px;
+    float:left;
+}
+.nav a.main:hover, .nav a.main:focus, .nav a.main:active {
+    margin-right:0;
+    background:#000;
+    color:#fff;
+}
+.nav .sub a:hover, .nav .sub a:focus, .nav .sub a:active {
+    margin:0 0 0 0;
+    background:#666666;
+    color:#fff;
+}
+/*empty rule to fix occassional IE6 tabbing bug, one of the weirdest bug's i have seen.*/
+a, a:hover, a:active, a:focus {}
+/*Opera fix*/
+.sub:hover {
+    clear:both;
+}
+
+/* END OF DROPDOWN MENU RULES */
+
+.projectTitle {
+   font-family : Verdana, Arial, Helvetica, sans-serif;
+   font-size : 14pt;
+   font-style : normal;
+   font-weight : bold;
+   line-height : 16pt;
+}
+a:link {
+	text-decoration: none;
+}
+a.annotation {
+	text-decoration: none;
+}
+
+em {
+    font-style: normal;
+    text-decoration: underline;
+}
+
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.25em;
+	font-weight:bold;
+	text-align: center;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	font-weight:bold;
+	text-align: left;
+}
+
+h2:before {
+display: block;
+content: " ";
+margin-top: -150px;
+height: 150px;
+visibility: hidden;
+}
+
+h3 {
+   margin-top: 2em;
+   font-size: 1.25em;
+   font-style: italic;                    
+}
+
+h3:before {
+display: block;
+content: " ";
+margin-top: -150px;
+height: 150px;
+visibility: hidden;
+}
+
+a[name="topofpage"] {
+display: block;
+content: " ";
+margin-top: -180px;
+height: 180px;
+visibility: hidden;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+p.hang15 a:before, p.hang25 a:before, p.hang35 a:before {
+display: inline-block;
+content: " ";
+margin-top: -180px;
+height: 180px;
+visibility: hidden;	
+}
+
+p.aboutView {
+  margin-top:10px;
+  margin-bottom:0px;
+}
+
+.blockquote {
+    margin-left:25px;
+}
+
+a.notePointer:before {
+display: inline-block;
+content: " ";
+margin-top: -180px;
+height: 180px;
+visibility: hidden;	
+}
+sup.noteAnchor {
+  font-size:.85em;
+  font-weight: bold;
+  color:red
+}
+.TOCLine1 {
+	display: block;
+	margin-top: 10px;
+}
+
+.TOCDate {
+	text-align: left;
+	position: absolute;
+	width: 200px;
+	left: 50px;
+	font-weight: bold;
+	}
+
+.TOCCity {
+	text-align: left;
+	position: absolute;
+	width: 149px;
+	left: 251px;
+	font-weight: bold;
+	}
+
+
+.TOCViews {
+	text-align: left;
+	position: absolute;
+	width: 499px;
+	left: 401px;
+	font-weight: bold;
+}
+
+.TOCSummary {
+	text-align: left;
+	position: absolute;
+	width: 800px;
+	left: 50px;
+	clear: both;
+}
+
+.footer {
+	display: block;
+	width: 850px;
+	left: 50px;
+	clear: both;
+}
+
+.COHUsig {
+	position: absolute;
+	width: 250px;
+	left: 50px;
+}
+
+.accessibility {
+	position: absolute;
+	width: 600px;
+	left: 300px;
+}
+
+.divider {
+	line-height: 12px;
+	margin: 8px 0px 0px;
+	text-align: center;
+}
+
+p.listing { margin-top: 10px;  } 
+                                        
+p.listing a:before {
+	display: inline-block;
+    content: " ";
+    margin-top: -300px;
+    height: 300px;
+    visibility: hidden;
+}
+hr { color: #888833; 
+       clear: both;
+}                     
+
+img {margin:15px 0px 0px;}
+
+div.floatleft img {
+	margin:0px;
+}
+div.fl_img_right {
+   float: right;
+   text-align: center;
+   margin: 5px 5px 5px 5px;
+   clear:right;
+}
+table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.75em;
+	line-height: normal;
+	border-width:1px;
+	border-style:solid;
+	border-color: #666; 
+	border-collapse:collapse;
+}
+td {
+	border-width:1px;
+	border-style:solid;
+	border-color: #666; 
+	padding:4px;
+}
+table.log {
+	border-style:none;
+	padding:4px;
+}
+td.logcell {
+	border-style:none;
+	padding:4px;
+}
+.smalltext {
+	font-size: 85%;
+}               
+.penciltoggle {
+    display:none;
+}
+.inktoggle {
+    display:none;
+}
+
+.cancel {
+	color:#F30;
+    text-decoration:line-through;
+}
