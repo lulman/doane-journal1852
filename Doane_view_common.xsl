@@ -48,7 +48,7 @@
             <!-- Grab title from the fileDesc element of the TEI header. -->
             <title>
                <xsl:value-of
-                  select="/tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
+                  select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
             </title>
             <!-- LOCAL JS CALLS -->
             <link rel="stylesheet" href="jquery-ui.css"/>
