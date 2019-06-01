@@ -145,7 +145,7 @@
                </div> <!-- End div id navigation -->
                
                <div id="titleBar">
-                  <p align="center"><span class="projectTitle">Journal of a Tour to Europe</span><br/>by Samuel Sullivan Cox</p>
+                  <p align="center"><span class="projectTitle">Louisa A. Doane's Journal of Two Ocean Voyages, 1852-1853</span><br/>by Louisa A. Doane</p>
                   <hr/>
                </div> <!-- END titleBar -->
             </div> <!-- END masthead -->
@@ -342,12 +342,6 @@
                <div class="container">
                   <p class="font-size-label">Font Size <button id="up">+</button> <button id="down">-</button></p>
                   <!--<p id="font-size"></p>-->
-                  <p><button>Switch between Cox's original pencilled text and overwritten and altered inked text.</button></p>
-
-                  <p>
-                     <span class="pencil">Pencil text displayed.</span>
-                      <span class="ink inktoggle">Ink changes displayed.</span>
-                  </p>
                                                      
                   <!-- Start NINES Widget -->
                   <form method="get"

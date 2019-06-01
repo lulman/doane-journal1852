@@ -1836,16 +1836,16 @@
          
          <!-- Lewis Ulman's section begins here. -->
          
-         <pb facs="/1/14ce45ae-7b88-40fd-abc3-10d2445dbe5d"/>
+         <pb facs="G226_D6_A3_1852-001a"/>
          <div type="endpaper">
             <figure rend="link">               
                <head>Stationer's label affixed to paste-down endpaper.</head>
-               <graphic url="https://images.asc.ohio-state.edu/is/image/mediamanager/1/14ce45ae-7b88-40fd-abc3-10d2445dbe5d.jpg?scale=0.6&amp;rgn=0,15,315,240&amp;fmt=png"/>
+               <graphic url="https://images.asc.ohio-state.edu/is/image/mediamanagerG226_D6_A3_1852-001a.jpg?scale=0.6&amp;rgn=0,15,315,240&amp;fmt=png"/>
                <figDesc>[Within an oval border] SOLD by LAMBERT &amp; LANE, | Stationers, | 69 WALL St. | N.Y.</figDesc>               
             </figure>
             <p><handShift new="#H2"/><add place="top-middle">5/-</add></p>
          </div>
-         <pb facs="/2/2ad9cdd1-24b1-4037-9ad9-4eedff994c2a"/>
+         <pb facs="G226_D6_A3_1852-001b"/>
          <div type="titlepage">
             <p>
                <add place="top-left">1E22</add> 
@@ -1857,14 +1857,14 @@
                <lb/><title>Book</title>
             </p>
          </div>
-         <pb facs="/b/b3070a38-a126-49dd-b906-882d3b8f94e0"/>
-         <pb facs="/5/53c62207-9f48-47c7-9121-af11fa02a83c"/> 
-         <pb facs="/d/dcd6d5b2-144d-4416-beea-48aec4deba63"/>         
+         <pb facs="G226_D6_A3_1852-002a"/>
+         <pb facs="G226_D6_A3_1852-002b"/> 
+         <pb facs="G226_D6_A3_1852-003a"/>         
       </front>
       <body>
 <!-- New York to Marseille voyage begins here. -->
 <div type="voyage" xml:id="NY2Marseille">
-<pb facs="/9/97c0b6c3-a4e1-40c2-b1a8-c6387f08c208"/>
+<pb facs="G226_D6_A3_1852-003b"/>
      <head>
         <handShift new="#LADHand"/>
         <lb/>A Journal from <placeName ref="#NYC">New York</placeName> towards <placeName
@@ -1909,7 +1909,7 @@
             </p>
          </div>
    <!-- Proofread to here 3 Oct. 2011 -->
-         <pb facs="/8/88dc397f-8cdd-47da-90fd-3db31058253f"/>
+         <pb facs="G226_D6_A3_1852-004a"/>
          <div type="Entry" xml:id="Doane18520209a">
             <lb/><dateline><date when="1852-02-09">Monday 9</date>.</dateline>
             <p>
@@ -1956,7 +1956,7 @@
             </p>            
          </div>
    <!-- Proofread to here 03 October 2011. -->
-         <pb facs="/c/c6f36da1-d456-41c6-9b5c-0d801e449d08"/>
+         <pb facs="G226_D6_A3_1852-004b"/>
          <fw><handShift new="#H2"/>2<handShift new="#LADHand"/></fw>
          <div type="Entry" xml:id="Doane18520214a">
             <lb/><dateline><date when="1852-02-14">Saturday 14</date>.</dateline>
@@ -1995,7 +1995,7 @@
                <lb/>have a bad night I am afraid.
             </p>
          </div>
-         <pb facs="/3/36d5a442-e658-4548-ac5e-5796f1b171b8"/>
+         <pb facs="G226_D6_A3_1852-005a"/>
          <div type="Entry" xml:id="Doane18520216a">
             <lb/><dateline><date when="1852-02-16">Monday 16</date></dateline>
             <p>
@@ -2035,7 +2035,7 @@
                <lb/>one hundred miles south of the <geogName ref="#GBank">Grand bank</geogName>,
                <lb/>we cannot expect very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> weather so
                <lb/>far north, this morning saw a <distinct type="archaicorthography"><choice><orig>Brigg</orig><reg>brig</reg></choice></distinct> standing
-          <pb facs="/8/8c49aa94-af5e-4fd1-a01f-1c482c3e73c4"/>
+          <pb facs="G226_D6_A3_1852-005b"/>
                <fw><handShift new="#H2"/>3<handShift new="#LADHand"/></fw>
                <lb/>north, I have just been <choice><sic>makeing</sic><corr>making</corr></choice> bread,
             </p>
@@ -2077,7 +2077,7 @@
                <choice><sic>supposeing</sic><corr>supposing</corr></choice> it to be
                <lb/>nothing more than a squall, we are now
                <!-- Proofread to this point on 12 Oct. 2011. -->
-            <pb facs="/7/7260e0fe-0e92-4d8d-8516-18faac57bda9"/>
+            <pb facs="G226_D6_A3_1852-006a"/>
                <lb/>sailing with a fair wind going seven miles
                <lb/>an hour, it blows quite fresh we are under
                <lb/>closed reefed topsails a heavy sea.
@@ -2121,7 +2121,7 @@
                <lb/><placeName ref="#Gibraltar">Gibraltar</placeName>, they have just sung out 
                <said aloud="true" direct="true">Porpoises</said>,
                <!-- Proofread to this point on 12 October 2011. -->
-               <pb facs="/f/f935bf4f-dbe8-4f0a-9012-571aa6ad7a35"/>
+               <pb facs="G226_D6_A3_1852-006b"/>
                <lb/>and they are preparing <choice><sic>thy</sic><corr></corr></choice> the harpoon, th<supplied reason="omitted" resp="#HLU">e</supplied>y are
                <lb/>going to try <supplied reason="omitted" resp="#HLU">to</supplied> catch some,
             </p>
@@ -2165,7 +2165,7 @@
                <lb/>going seven miles and a half an hour, <del rend="strikethrough">I have</del>
             </p>
          </div>
-         <pb facs="/1/1f7ab6af-ca04-4e64-ad48-bfdc3580ceb9"/>
+         <pb facs="G226_D6_A3_1852-007a"/>
          <div type="Entry" xml:id="Doane18520303a">
             <lb/><dateline><date when="1852-03-03">Wednesday 3</date></dateline>
             <p>We are sailing along with a fair
@@ -2203,7 +2203,7 @@
                <lb/>and back,
             </p>
          </div>
-         <pb facs="/0/092f586e-622b-4203-8704-1d57e075b876"/>
+         <pb facs="G226_D6_A3_1852-007b"/>
          <div type="Entry" xml:id="Doane18520307a">
             <lb/><dateline><date when="1852-03-07">Sunday 7</date>.</dateline>
             <p>We have a fair wind quite a fresh
@@ -2237,7 +2237,7 @@
                <said aloud="true" direct="true">if you are not
                <lb/>satisfied with what there is pass in your pan
                <lb/>and go without any</said>, and away the poor
-               <pb facs="/8/8e78e2b0-cb44-4add-ad2e-827a6be737c0"/>
+               <pb facs="G226_D6_A3_1852-008a"/>
                <lb/>fellows marched backed, and had to eat
                <lb/>their beef without any potatoes, I was most
                <lb/>sorry for them, about two oclock while I was
@@ -2276,7 +2276,7 @@
                <lb/>said <said aloud="true" direct="false">he wanted to go to work</said> so he went to
                <lb/>work, I hope we shall have no more <distinct type="archaicorthography"><choice><orig>troble</orig><reg>trouble</reg></choice></distinct>
     <!-- Proofread to this point 2 November 2011. HLU and Chloe Goodhart. -->
-               <pb facs="/6/6db542b6-7896-4ad1-9c4a-9275bd361f72"/>
+               <pb facs="G226_D6_A3_1852-008b"/>
                <lb/>for it is very disagreeable, I have been draw<seg type="softhyphen">
                <lb/></seg>ing a pattern to work a pair of cloth slippers,
                <lb/>the men have been painting the gig boat, there
@@ -2311,7 +2311,7 @@
                  <lb/>Spanish brigg. there has just been a boat along
                  <lb/>side of her from shore to sell fish they have
                  <lb/>just spoke <supplied reason="omitted" resp="ed">to</supplied>us and wanted to know if we wanted
-                 <pb facs="/a/af784fba-fdad-40a2-a1b9-210deda6e008"/>
+                 <pb facs="G226_D6_A3_1852-009a"/>
                  <lb/>any fish, we told them no, 
               </p>
            </div>
@@ -2349,7 +2349,7 @@
                     reason="illegible"/> we are in sight of land all
                  <lb/>the way up the <geogName ref="#SGib">straits</geogName> and it is very pleasant
                  <lb/>when we have a fair wind, <choice><sic>sence</sic><corr>since</corr></choice> dinner the
-                 <pb facs="/1/19edbdc0-24cc-4c70-9507-0e536ec1f1d6"/>
+                 <pb facs="G226_D6_A3_1852-009b"/>
                  <lb/>wind has increased, there is one vessel in 
                  <lb/>sight,
                  </p>
@@ -2384,7 +2384,7 @@
                  <lb/>us.
               </p>
            </div>
-           <pb facs="/f/f27a7f9b-1ca1-4a03-a2c7-12e8cb0c291c"/>
+           <pb facs="G226_D6_A3_1852-010a"/>
            <div type="Entry" xml:id="Doane18520321a">
                  <lb/><dateline><date when="1852-03-21">Sunday. 21</date>. </dateline><p>Today we have the wind ahead, it
                  <lb/>changed last night, have tacked ship several
@@ -2414,7 +2414,7 @@
                  <lb/>vessels in sight,
               </p>
            </div>
-           <pb facs="/6/61264bfe-e1f6-46e8-97ad-1f38edbad376"/>
+           <pb facs="G226_D6_A3_1852-010b"/>
            <div type="Entry" xml:id="Doane18520326a">
                  <lb/><dateline><date when="1852-03-26">Friday 26 </date></dateline><p>This day have had it very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>, and
                  <lb/>a fair wind, and plenty of it. but it has now
@@ -2452,7 +2452,7 @@
                     
                     <!-- Proofread to this point 10 January 2012. HLU & CG -->
                     
-                 <pb facs="/7/7d06be79-02cc-4ae1-b626-cef6fe5569ea"/>
+                 <pb facs="G226_D6_A3_1852-011a"/>
                  <lb/>hour, if this wind continues we shall get <rs ref="#Marseille">there </rs>
                  <lb/>tomorrow morning, we are I suppose about one
                  <lb/>hundred miles from <rs ref="#Marseille">there</rs>, Oh dear I hope we
@@ -2491,7 +2491,7 @@
                  <lb/>sight of the fort, we had to put out the fire
                  <lb/>lights, it has a <choice><sic>beautifull </sic><corr>beautiful </corr></choice><choice><sic>entriance</sic><corr>entrance</corr></choice>, this morning
                  <lb/>arose very early<unclear reason="smudged">,</unclear> and went on deck to see
-                 <pb facs="/4/41db7732-18a0-429c-8602-9d0f810af462"/>
+                 <pb facs="G226_D6_A3_1852-011b"/>
                  <lb/>the <rs ref="#Marseille">City</rs>, the <rs ref="#END"><choice><sic>Captian
                  </sic><corr>Captain </corr></choice></rs>went on shore, <del rend="overwritten"
                     unit="chars" extent="1">t</del>has gone
@@ -2533,7 +2533,7 @@
                  <lb/>stairs. there is no one here but <persName ref="#Eliott"><choice><sic>Captian </sic><corr>Captain </corr></choice>Eliott</persName>
                  <lb/>besides ourselves, a <choice><sic>Captian </sic><corr>Captain</corr></choice>and three ladys—
                  <lb/>passengers left yesterday morning, I will now
-                 <pb facs="/2/2b4a45ce-6cb4-40d0-a734-d5e5ac76b754"/>
+                 <pb facs="G226_D6_A3_1852-012a"/>
                  <lb/>tell you what we had for dinner, beef soup
                  <lb/><distinct type="archaicorthography"><choice><orig>rost </orig><reg>roast </reg></choice></distinct>turkey, <distinct type="archaicorthography"><choice><orig>rost </orig><reg>roast </reg></choice></distinct>beef, boiled lamb, stew<supplied reason="omitted" resp="ed">ed</supplied>chickens,
                  <lb/>potatoes, and <distinct
@@ -2568,7 +2568,7 @@
                  <lb/>then all around the hearse <choice><sic>was </sic><corr>were </corr></choice>little girls,
                  <lb/>all the sisters of charity had candles burning
                  <!-- Proofread to this point 12 Jan. 2012. HLU & CG. -->    
-                 <pb facs="/6/6e1b4e1e-9963-4803-8b30-4233f86ae35e"/>
+                 <pb facs="G226_D6_A3_1852-012b"/>
                  <lb/>in <choice><sic>theirs </sic><corr>their </corr></choice>hands, then the friends followed, this
                  <lb/>afternoon I have been out to ride, went into
                     <!-- How to indicate this mark of punctuation? -->
@@ -2605,7 +2605,7 @@
                     originality of elevation, or elegance of decoration. It was intended to commemorate the campaign of the French
                     in Spain in 1823, but its destination is now changed to that of celebrating <q>'all the glories of France'</q>"
                     <bibl><ref target="#Murray">(476)</ref></bibl>.</q></note>,
-                 <pb facs="/4/4297a7e3-de6b-4077-a149-5b9233ab2fd1"/>
+                 <pb facs="G226_D6_A3_1852-013a"/>
                  <lb/>and on the sides were <choice><sic>bueatifull </sic><corr>beautiful </corr></choice>engravings,
                  <lb/>then we returned home,
               </p>
@@ -2646,7 +2646,7 @@
                  <lb/>and when the doctor came to <rs ref="#END">father</rs>, he came
                     <!-- Supplied or abbreviation for "ored"? -->
                  <lb/>in to me, said <said aloud="true" direct="false">I was <supplied reason="omitted" resp="ed">a</supplied> little feverish, or<supplied reason="omitted" resp="ed" cert="medium">der</supplied>ed a
-                 <pb facs="/3/371b1e13-e829-4547-a629-caf768a964e9"/>
+                 <pb facs="G226_D6_A3_1852-013b"/>
                  <lb/>sweet, and to drink some herb tea,</said> and today
                  <lb/>I feel as well as <choice><sic>euasl</sic><corr>usual</corr></choice>, and <rs ref="#END">father </rs>is gaining
                  <lb/>also,
@@ -2686,7 +2686,7 @@
                     <choice><sic>remaines</sic><corr>remains</corr></choice> in prison.
              </p>
            </div>
-       <pb facs="/5/5b3bc4a2-fbbb-4891-a022-4c849e1095a0"/>
+       <pb facs="G226_D6_A3_1852-014a"/>
            <div type="Entry" xml:id="Doane18520419a">
               <lb/><dateline><date when="1852-04-19">Monday 19</date>.</dateline><p> This morning they have been
                  <lb/>on board, and says <rs ref="#CPE">he</rs> will <add place="above" rend="caret">be out this afternoon</add> we have been
@@ -2720,7 +2720,7 @@
                  <lb/>some were in the confession boxes, some
                  <lb/><choice><sic>parying</sic><corr>praying</corr></choice>, some kissing the floor, there were
                </p>
-           <pb facs="/f/f3eeabe1-501d-4e22-868e-1e8e56229b65"/>
+           <pb facs="G226_D6_A3_1852-014b"/>
                 <p>
                   <lb/>a great many paintings,
                </p>
@@ -2757,7 +2757,7 @@
                   <lb/>sick, but he is better today, this morning
                </p>
                <!-- Proofread to this point 17 Jan. 2012. HLU and CG. -->
-        <pb facs="/c/c7879de4-8f04-44f7-b351-d33f07071b39"/>
+        <pb facs="G226_D6_A3_1852-015a"/>
                <p>
                  <lb/>we lost two of our fowls, a hen and rooster,
                  <lb/>they were out on deck, and got <choice><sic>frieghten</sic><corr>frightened</corr></choice>
@@ -2792,7 +2792,7 @@
            </div>
            <div type="Entry" xml:id="Doane18520509a">
              <lb/><dateline><date when="1852-05-09">Sunday 9</date>.</dateline><p> We are beating with a head
-        <pb facs="/e/ec262601-0e44-446c-af3b-28382d3695a6"/>
+        <pb facs="G226_D6_A3_1852-015b"/>
                   <lb/>there are four vessel in sight bound the
                   <lb/>same way we are, it is rather <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>.
                </p>
@@ -2824,7 +2824,7 @@
                <lb/>ahead some.
             </p> 
             </div>
-        <pb facs="/2/246fed32-d7f5-4fa8-9263-b47e049081ae"/>
+        <pb facs="G226_D6_A3_1852-016a"/>
              <div type="Entry" xml:id="Doane18520515a">
               <lb/><dateline><date when="1852-05-15">Saturday 15</date>.</dateline><p> We have a fair wind, quite a
                <lb/>little breeze, this morning I have been wash<seg type="softhyphen">-
@@ -2856,7 +2856,7 @@
                <lb/>yesterday. morning, today they have caught a
                <lb/>porpoise, the men are painting the house,
                <lb/>I have been <choice><sic>busey</sic><corr>busy</corr></choice> sewing and mending
-        <pb facs="/b/b01c6010-990a-43a9-88f1-7b478fddd3ed"/>
+        <pb facs="G226_D6_A3_1852-016b"/>
                 <lb/>stockings,
                </p>
             </div>
@@ -2903,7 +2903,7 @@
                <lb/>are now bound to the <placeName>Western Island</placeName>,
             </p>
             </div>
-          <pb facs="/c/cc347966-0416-41cb-832e-906f47d6f93a"/>
+          <pb facs="G226_D6_A3_1852-017a"/>
             <div type="Entry" xml:id="Doane18520528a">
              <lb/><dateline><date when="1852-05-28">Friday 26</date></dateline><p> We have a fair wind <choice><abbr>altho</abbr><expan>although</expan></choice> near<seg type="softhyphen">- 
                <lb/></seg>ly calm, and very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>, yesterday <persName>George</persName>
@@ -2935,7 +2935,7 @@
                 <lb/>of whales and a number of black fish
                 <lb/>I have been busy cutting out a <choice><sic>smooking</sic><corr>smoking</corr></choice>
                 <lb/>cape and
-        <pb facs="/1/1711e859-373d-4b8a-b210-3218fedae787"/>
+        <pb facs="G226_D6_A3_1852-017b"/>
                   <lb/>quilting the lining have seen two vessel bound
                  <lb/>to the Eastward six oclock too in studding<seg type="softhyphen">-
                  <lb/></seg>sail as the wind has changed and we can<seg type="softhyphen">-
@@ -2983,7 +2983,7 @@
          
    <!-- New York to Peru voyage begins here -->
    <!-- Dawn Lunsford's section begins here. -->
-       <pb facs="/0/044b2a40-c549-4a71-81c1-b2b5355bc738"/>
+       <pb facs="G226_D6_A3_1852-019a"/>
        <div type="voyage" xml:id="NY2Peru">
            <div type="Entry" xml:id="Doane18520805a">
               <lb/><dateline> <placeName ref="#NYC">New York Harbour</placeName> <date when="1852-08-05">
@@ -3017,7 +3017,7 @@
               <p>
                  <lb/>My <rs type="person" ref="END">Father</rs> and <persName ref="Sparrow">Uncle S M Nickerson</persName> has
                  <lb/>bought a Piano which cost $289, with the
-                 <pb facs="/f/f5ee2681-f87f-4e53-b5dc-fec69be85e9e"/>
+                 <pb facs="G226_D6_A3_1852-019b"/>
                  
                 <lb/>Stool and Cover my <rs type="person" ref="END">Father</rs> pays for one half
                  <lb/>and <rs type="person" ref="Sparrow">Uncle</rs> the other and they have set it up
@@ -3048,7 +3048,7 @@
                  <lb/>at 12. M with a Steam Boat along side to tow
                  <lb/>us round to <placeName ref="NorthRiver">North River</placeName> where the Ship is
                  <lb/>detained on account of the <rs type="person" ref="#SecondMate">Second Mates</rs> not
-             <pb facs="/f/fdbe5591-e6a0-4ab9-b9a7-937f503907a4"/>
+             <pb facs="G226_D6_A3_1852-020a"/>
               <lb/>being on board.
              </p> 
            </div> 
@@ -3084,7 +3084,7 @@
                  <lb/>and at 5 oclock PM came to an anchor in
                  <lb/>the <placeName ref="#LowerNYC">lower Bay</placeName> furled our sails and shall
                  <lb/>remain so <choice><corr>until</corr><sic>untill</sic></choice> morning This morning
-              <pb facs="/e/e41f275b-0d5a-410f-ad9e-db028e535d79"/>
+              <pb facs="G226_D6_A3_1852-020b"/>
                  <lb/>at 5 oclock AM when we got under way and
                  <lb/>drifted down by <placeName ref="#SandyHook">Sandy Hook</placeName> with very little
                  <lb/>wind at 8 oclock the <rs type="person" ref="#Pilot">Pilot</rs> left us and we are
@@ -3121,7 +3121,7 @@
               <dateline><lb/>Wednesday 12. oclock M <date when="1852-08-11">Augt 11.th</date></dateline>
               <p>
                  <lb/><gap reason="cancelled"/>The wind is the
-          <pb facs="/8/8e46ab84-c607-4527-92f5-02681f012b64"/>
+          <pb facs="G226_D6_A3_1852-021a"/>
                  <lb/>same we are going 8 miles an hour rather <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>
                  <lb/>This morning exchanged signal with an Amer<seg type="softhyphen">&#x2014;
                  <lb/></seg>ican Ship bound to the Westward. The sick
@@ -3154,7 +3154,7 @@
                  <lb/>day it has been calm no wind, there are
                  <lb/>two vessel in sight bound to <del rend="overwritten">M</del>Eastward
                  <!-- Proofread to this point 24 January 2012. HLU and CG. -->             
-              <pb facs="/d/deef4213-da4d-4d7c-b6e7-2240ce89a0be"/>
+              <pb facs="G226_D6_A3_1852-021b"/>
              
                  <lb/>same way we are one we are fast approach
                  <lb/>when there are vessel in sight <del rend="overwritten">th</del>We have com<seg type="softhyphen">
@@ -3195,7 +3195,7 @@
                  <lb/>Wind fair. One Brigg in sight astern
               </p>
            </div>
-           <pb facs="/d/d2bb983d-5f09-4b88-ab24-2b15abf8c0d7"/>
+           <pb facs="G226_D6_A3_1852-022a"/>
            <div type="Entry" xml:id="Doane18520818a">
               <dateline><lb/>Wednesday 12 oclock M <date when="1852-08-18"><choice><abbr>Augt</abbr><expan>August</expan></choice> 18th</date></dateline>
               <p>
@@ -3235,7 +3235,7 @@
                  <lb/>twice today, This morning saw a Bark ahead
                  <lb/>standing the same way we were but two
                  <lb/>sails sot <rs type="person" ref="END">father</rs> could not think what to
-           <pb facs="/f/f56b43b5-c35f-4d04-ae2d-3cad5114a7dd"/>
+           <pb facs="G226_D6_A3_1852-022b"/>
                 <lb/>make of it thought she must be in distress
                  <lb/>but as we approached saw it was a whaler We
                  <lb/>have now come up with her, she is close to us.
@@ -3271,7 +3271,7 @@
                  <ptr type="noteAnchor" target="JB"/><note resp="ed" xml:id="JB">The jib boom, a relatively high support, located at the forward end of the ship 
                  supporting a top sail (the jib). Scraping was integral to ships maintenance and painting requirements, but would have proved a difficult task while sailing, thus reserved for punishment.</note>
                  scr<seg type="softhyphen">&#x2014;
-            <pb facs="/4/4e50d9c5-01cd-4539-9c2a-d19d1555cbdb"/>
+            <pb facs="G226_D6_A3_1852-023a"/>
               <lb/></seg>aping it that was to punish him, The <rs type="person" ref="#FirstOfficer">first
               <lb/>officer</rs> told one of the sailor to take the dog
               <lb/>and carry him between deck and tie him
@@ -3306,7 +3306,7 @@
                  <lb/>lurch <rs type="person" ref="ATD">mother</rs> came over and the Sofa     
        <!-- Annie Mendenhall's section begins here. -->
       
-   <pb facs="/9/9a8cd29a-de4f-4f01-be4a-7c2576550a4b"/>
+   <pb facs="G226_D6_A3_1852-023b"/>
                  <lb/>on top of her I jumped up and her nose
                  <lb/>bleeding freely, I was very much <choice><sic>freighten</sic><corr>frightened</corr></choice>
                  <lb/>I called for father at the tip top of my voice
@@ -3345,7 +3345,7 @@
          <lb/>Sunday suit and are <choice><sic>raading</sic><corr>reading</corr></choice> Tracts as
          <lb/><rs ref="#END">father</rs> sent them out some this morning
          <!-- Proofread to this point 1 February 2012. HLU and GC. -->
-         <pb facs="/2/20326857-222b-4a61-939c-2965fecc69d9"/>
+         <pb facs="G226_D6_A3_1852-024a"/>
          <lb/>There has been a Ship in sight most of
          <lb/>the day bound the same way as we <del rend="overwritten">we</del>are
          <lb/>but fog has set in and we cannot see
@@ -3375,7 +3375,7 @@
          <lb/><choice><sic>sturck</sic><corr>struck</corr></choice> the large one but it would not enter
          <lb/>it then he got a piece of salt Mackerel
          <lb/>put it on the hook and caught the small
-         <pb facs="/7/74a34d03-6e8b-4fe7-b706-a2a934bf2529"/>
+         <pb facs="G226_D6_A3_1852-024b"/>
          <lb/>one the large one came again and he also
          <lb/>caught him they are very hard to kill
          <lb/>Jack one of the sailors got a stick of wood
@@ -3403,7 +3403,7 @@
          <lb/>run to the door found there, I<supplied reason="omitted">t</supplied> was raining in
          <lb/>torrents, and all the windows dead light and 
          <lb/>Sky light were all open and before the
-         <pb facs="/f/f6280e60-bee4-4d91-9569-ef032ff3b604"/>
+         <pb facs="G226_D6_A3_1852-025a"/>
          <lb/>steward got afft It had rained in consider<seg type="softhyphen">-
             <lb/></seg>able you cannot imagine what a sight it
          <lb/>is to have a heavy squall at sea, The wind
@@ -3429,7 +3429,7 @@
       <p>
          <lb/>This morning the Carpenter
          <lb/>came in to <choice><sic>altered</sic><corr>alter</corr></choice> the first officer room
-         <pb facs="/b/b2650d7a-4b4a-4fe4-b6a2-378c94f877f2"/>
+         <pb facs="G226_D6_A3_1852-025b"/>
          <lb/>to cut a door in the entry and close the one
          <lb/>in the Cabin. while his things were lying
          <lb/>in the Cabin father took up the Log Book
@@ -3459,7 +3459,7 @@
          <lb/>and asked him for his <choice><sic>Boyeknife</sic><corr>bowie-knife</corr></choice> The Cook
          <lb/>asks him <said direct="false" aloud="true">what he wanted it for</said> he said <said direct="false" aloud="true">he
             <lb/>was going to <distinct type="archaicorthography"><choice><orig>carryed</orig><reg>carried</reg></choice></distinct> it to bed with him
-            <pb facs="/e/eb6112cb-6bd9-4fb4-ac54-f382eafa6d71"/>
+            <pb facs="G226_D6_A3_1852-026a"/>
             <lb/>and if the Mate touches me in the night
             <lb/>I will cut him with this knife if I am
             <lb/>throwed overboard for it in the morning</said>
@@ -3494,7 +3494,7 @@
          <lb/>We are now in the SE T<del rend="overwritten">a</del>rades
          <lb/>Wind which is fair for us and we are
          <lb/>sailing along <choice><sic>pleasently</sic><corr>pleasantly</corr></choice> with Studding sails
-         <pb facs="/d/ddfe8c1d-ec6c-4812-b3f2-c17f0cc36c4f"/>
+         <pb facs="G226_D6_A3_1852-026b"/>
          <!-- Proofed to this point 02 Feb 2012 HLU and CG. -->
          <lb/><distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> one of the sailors is sick has sent in for
          <lb/> some <choice><sic>medicene</sic><corr>medicine</corr></choice>, all hands variously employ<seg type="softhyphen">-
@@ -3532,7 +3532,7 @@
       <lb/><dateline><date when="18520-09-22">Thursday 12 oclock M <choice><sic>Augt</sic><corr>Sept</corr></choice> <choice><sic>22th</sic><corr>22nd</corr></choice></date></dateline>
       <p>
          <lb/>This morning I arose at 6 oclock
-         <pb facs="/3/325f3448-3c39-4494-8e34-6032d6eba7f2"/>
+         <pb facs="G226_D6_A3_1852-027a"/>
          <lb/>and went to <choice><sic>practtiseing</sic><corr>practicing</corr></choice> <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> 8 oclock
          <lb/>which is our breakfast time.  We have a
          <lb/>Carpenter on board he has a house by him<choice><sic><seg type="softhyphen">-
@@ -3562,7 +3562,7 @@
          <lb/><rs ref="#ATD">Mother</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> have been doing 
          <lb/>over some <distinct
             type="archaicorthography"><choice><orig>Current</orig><reg>currant</reg></choice></distinct> Jelly they are now
-         <pb facs="/2/2b196d15-aaa3-4d44-b29a-a30d4f058a30"/>
+         <pb facs="G226_D6_A3_1852-027b"/>
          <lb/>painting some in the Pantry. I have
          <lb/>just been down in the State room and
          <lb/>went to the draw where we keep our
@@ -3594,7 +3594,7 @@
          <lb/>saw a Boat coming from the Ship came
          <lb/>along side A Gentleman came on Board and 
          <lb/>Introduce <distinct type="archaicorthography"><choice><orig>himselfe</orig><reg>himself</reg></choice></distinct> as <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Taber</persName>
-         <pb facs="/2/2b75602c-86d6-4605-8727-77f2697764a5"/>
+         <pb facs="G226_D6_A3_1852-028a"/>
          <lb/><name type="ship">Ship Thomas Dickerson</name> of <placeName ref="#NB">New Bedford</placeName>
          <lb/>and found he was a near Neighbor to us
          <lb/>he said <said direct="false" aloud="true">he had some thing in boat if
@@ -3620,7 +3620,7 @@
          <lb/>for the <choice><sic>Binnical</sic><corr>Binnacle</corr></choice> Lamp as ours is very bad
          <lb/>it will not burn long at time, He stopped 
          <lb/>on Board two hours or more and when
-         <pb facs="/f/fc8f12cd-1c7e-4b99-91a3-6e3a36db33b5"/>
+         <pb facs="G226_D6_A3_1852-028b"/>
          <lb/>he returned, and the <choice><sic>Captian</sic><corr>Captain</corr></choice> had sent
          <lb/>a Bucket of Oranges four more <choice><sic>Punkins</sic><corr>Pumpkins</corr></choice>,
          <lb/>beside given father a large can full of oil
@@ -3660,7 +3660,7 @@
       </p> 
    </div>
           <!-- Proofread to this point 07 Feb 2012. HLU and GC. -->
-   <pb facs="/d/d4bb3f32-708c-4870-a616-031ff431cce7"/>
+   <pb facs="G226_D6_A3_1852-029a"/>
    <div type="Entry" xml:id="Doane18521007a">
       
       <lb/><dateline><date when="1852-10-07">Thursday 12 oclock M Oct 7.</date></dateline>
@@ -3688,7 +3688,7 @@
          <lb/>Hatch House gave way and went down in 
          <lb/>the hole and also a can of Oil so there
          <lb/>is a mess Peach Oil and Coal, and it
-         <pb facs="/7/73cace18-ab99-4304-b86d-c0fa46c9ce0f"/>
+         <pb facs="G226_D6_A3_1852-029b"/>
          <lb/>rained torrents filled our empty Casks in a 
          <lb/>short time, <rs ref="#END">father</rs> was up most of the night
          <lb/>and <rs ref="#ATD">Mother</rs> Steward and
@@ -3720,7 +3720,7 @@
             <lb/></seg>ted from flying or making any snappish
          <lb/>salutation by locking <choice><sic>there</sic><corr>their</corr></choice> wings they have
          <!-- Proofed to this point 09 Feb 2012, HLU and GC. -->
-         <pb facs="/6/65cdcf88-6130-42b1-af35-c57ec9d409bd"/> 
+         <pb facs="G226_D6_A3_1852-030a"/> 
          <lb/>some bountiful down upon their Breast We
          <lb/>plucked out some of the feather which were
          <lb/>of Pure white
@@ -3754,7 +3754,7 @@
             reason="cancelled" unit="words" extent="1"/> <del rend="overwritten">he</del>a <del rend="overwritten"><gap
                reason="illegible"/></del>minute he would
          <lb/>make him he jumped up quick I can tell
-         <pb facs="/a/a565b975-2a4d-4801-8ae4-0fbf9923d9cf"/>
+         <pb facs="G226_D6_A3_1852-030b"/>
          <lb/>you and went about his work, one Ship in 
          <lb/>sight to Leeward of us. She <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> her <choice><sic>Colars</sic><corr>Colors</corr></choice> and
          <lb/>we also <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> our in return. an American could 
@@ -3784,7 +3784,7 @@
          <lb/>of the Mainmast when it was his watch on deck
          <lb/>I think we have a great deal of trouble
       </p>
-      <pb facs="/b/baa420bf-e147-43a2-a42c-f4e4bb2bdac0"/>
+      <pb facs="G226_D6_A3_1852-031a"/>
    </div>
    <div type="Entry" xml:id="Doane18521016a"> 
       
@@ -3817,7 +3817,7 @@
          <lb/>and Main Topsail, Ship<add place="above">ed</add> one sea in the
          <lb/>night which came down the Skylight into 
          <lb/>the two Cabins <choice><abbr>altho</abbr><expan>athough</expan></choice> it did do much
-         <pb facs="/6/63ebfef8-1696-4cf4-af19-fa8c6de32f06"/>
+         <pb facs="G226_D6_A3_1852-031b"/>
          <lb/>damage came in the <unclear
             cert="medium"><choice><sic>Enty</sic><corr>Entry</corr></choice></unclear>,
          <choice><sic>birst</sic><corr>burst</corr></choice> open, the
@@ -3848,7 +3848,7 @@
          <lb/>sea <rs ref="#END">Father</rs> was up most of night and <rs ref="#ATD">Mother</rs>
          <lb/>came up and <choice><sic>layed</sic><corr>laid</corr></choice> on the Sofa <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> he
          <lb/>came in. <persName ref="#2ndMate">Mr. Turner</persName> is better so he is
-         <pb facs="/f/f792eb51-0e97-4495-9841-0e7a9f12879a"/>
+         <pb facs="G226_D6_A3_1852-032a"/>
          <lb/>attending to his Duty <choice><abbr>altho</abbr><expan>athough</expan></choice> he is quite lame
          <lb/>this morning set more sail. <distinct type="archaicorthography"><choice><orig>Untill</orig><reg>Until</reg></choice></distinct> 10 oclock
          <lb/>when all hands were called to take in sail
@@ -3875,7 +3875,7 @@
          <lb/>Sun sets <geogName ref="#OFalkland2">Latitude 53=48 Longitude 63=40</geogName>
       </p></div>
       <!-- Proofread to this point 22 Feb. 2012. HLU and GC. -->
-   <pb facs="/e/ebaab6c0-d253-4222-b947-b9930fe42f40"/>
+   <pb facs="G226_D6_A3_1852-032b"/>
    <div type="Entry" xml:id="Doane18521029a">
       <lb/><dateline><date when="1852-10-29">Friday 12 oclock M Oct 29th</date></dateline>
       <p><lb/>Wind still continues fair
@@ -3903,7 +3903,7 @@
       <p><lb/>The ship is a 
          <lb/><choice><sic>litle</sic><corr>little</corr></choice> ahead of us so we can see her Name it
          <lb/>is the Damascus of <placeName ref="#Baltimore">Baltimore</placeName> two more <unclear cert="high">Ship</unclear>
-         <pb facs="/b/bd8aab50-2ada-456a-be6f-df054becf814"/>
+         <pb facs="G226_D6_A3_1852-033a"/>
          <lb/>in sight astern they are fast approaching as they
          <lb/>have a strong breeze and we have it <unclear>calm</unclear>
          <lb/>while we sat at the tea table <persName ref="#SecondMate">Mr Turner</persName> came 
@@ -3932,7 +3932,7 @@
          <lb/>the same way at 6 oclock it breeze up and blew
          <lb/>fresh at 8 oclock left the Land with a strong breeze going 8 miles an hour <choice><abbr>altho</abbr><expan>athough</expan></choice> there is a 
          <lb/>strong <choice><sic>Currunt</sic><corr>Current</corr></choice> set against us This morning
-         <pb facs="/5/5b8be125-45e9-4d97-893c-624c843f42d2"/>
+         <pb facs="G226_D6_A3_1852-033b"/>
          <lb/>two Ship in sight have had a fresh breeze all
          <lb/>night We ought to be up with the <placeName ref="#CHorn">Cape</placeName> soon
          <lb/>with this breeze
@@ -3965,7 +3965,7 @@
          <lb/>with a head wind leaving the land astern
          <lb/>There are all the Ship in sight that we were
          <lb/>in Company with the other day At 8 oclock
-         <pb facs="/c/c693f1ea-3689-4fb7-92a0-5eea51f64595" /> 
+         <pb facs="G226_D6_A3_1852-034a" /> 
          <lb/>called all hands to Topsails <rs ref="#END"><choice><sic>Fathar</sic><corr>Father</corr></choice></rs> stopped on 
          <lb/>deck <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> 11 oclock and when he went below
          <lb/>he gave strict order if it blew fresh to call him
@@ -3996,7 +3996,7 @@
          <lb/>close to a Bark standing on the other tack
          <lb/><rs ref="#ATD">Mother</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> went out on deck to
          <!-- Proofread to this point 8 March 2012. HLU and GC -->
-         <pb facs="/b/bb67e411-2ce4-49bc-bfd2-499fafe2b178"/>
+         <pb facs="G226_D6_A3_1852-034b"/>
          <lb/>her but the wind blew so hard and it being
          <lb/>cold we did not stop long, had a very tedious
          <lb/>night and it was with much Difficulty that
@@ -4020,7 +4020,7 @@
          <lb/>was <choice><sic>rooling</sic><corr>rolling</corr></choice> very heavy had several snow
          <lb/>shower this morning the wind was about the 
          <lb/>same <choice><abbr>altho</abbr></choice> not blowing so hard one Ship
-         <pb facs="/2/2fc11443-0bd9-4ec0-95a2-ac27b0b5b597"/>
+         <pb facs="G226_D6_A3_1852-035a"/>
          <lb/>in sight to the Leeward of us under short sail
          <lb/>one of the sailors sick has sent in for medicine</p></div>
    
@@ -4046,7 +4046,7 @@
          <lb/>us all the sail she has set is the three Topsails
          <lb/><choice><sic>firled</sic><corr>furled</corr></choice> and a Spanker
       </p>   
-   </div><pb facs="/5/587e18e9-3f9e-465c-a4a7-ee6000e37d4e" />
+   </div><pb facs="G226_D6_A3_1852-035b" />
    <div type="Entry" xml:id="Doane18521110a"> 
       <lb/><dateline><date when="1852-11-10">Wednesday 12 oclock M Nov 10th</date></dateline>
       <p>
@@ -4076,7 +4076,7 @@
          <lb/>a perfect Gale, The seas running moun<seg type="softhyphen">-
          <lb/></seg>tains high and often breaking upon us
          <lb/>At 11 oclock Shipped a heavy sea which
-         <pb facs="/f/fee922ce-4af3-4239-85fb-e67c2d268fff" />
+         <pb facs="G226_D6_A3_1852-036a" />
          <lb/><choice><sic>carryed</sic><corr>carried</corr></choice> away Monkey Rail <choice><sic>foward</sic><corr>forward</corr></choice> and
          <lb/>stove in the fore Hatch House breaking in
          <lb/>the forecastle Windows and filling it with
@@ -4106,7 +4106,7 @@
          <lb/>at all <rs ref="#END">father</rs> stepped up and asked
          <lb/>him <said aloud="true">what he was abusing that sailor
            <!-- Proofed to here 12 March 2012. HLU and GC. -->
-         <pb facs="/a/aef4268a-af65-44f6-8021-87bdeb74d7c2" />
+         <pb facs="G226_D6_A3_1852-036b" />
          <lb/>for</said> he said he <said aloud="true">was not</said>. <rs ref="#END">Father</rs> told him
          <lb/><said aloud="true" direct="true">the sailor came when he was called and
          <lb/>that was more than he did</said>. he gave <rs ref="#END">Father</rs>
@@ -4133,7 +4133,7 @@
          <lb/>head and she asked me if the vessel
          <lb/><choice><sic>roolled</sic><corr>rolled</corr></choice> I told her no she said her head
          <lb/>went round and round my uncle
-         <pb facs="/6/6059260a-f9de-4b5b-aced-c54126c54ec6" />
+         <pb facs="G226_D6_A3_1852-037a" />
          <lb/>happened to come in and I told him
          <lb/>to <add place="above">tell</add> <rs ref="#END">Father</rs> to come in he did so he had not
          <lb/>been in house but a few <choice><sic>minuts</sic><corr>minutes</corr></choice> when she
@@ -4163,7 +4163,7 @@
          <lb/>Weather the same
          <lb/>the Ship is in sight astern The Mate is
          <lb/>still in his room The Cabin boy came
-         <pb facs="/9/96350fed-d22e-4c02-96f2-d2473211d7b7" />
+         <pb facs="G226_D6_A3_1852-037b" />
          <lb/>to <rs ref="#ATD">mother</rs> and told her he saw a Pistol in the
          <lb/>Mates Trunk as he went there to get some <choice><sic>artical</sic><corr>article</corr></choice>
          <lb/>of clothing and he saw a Double Barrelled
@@ -4193,7 +4193,7 @@
             Longitude 7<del rend="overwritten">2</del>9=21</geogName>
       </p>
    </div>
-   <pb facs="/d/d4c51f67-9976-476d-a5e9-1f8ff345c467" />
+   <pb facs="G226_D6_A3_1852-038a" />
    <div type="Entry" xml:id="Doane18521123a">
       <lb/><dateline><date when="1852-11-23"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 12 oclock M Nov 23th</date></dateline>
       <p>
@@ -4225,7 +4225,7 @@
          <lb/><rs ref="#END">Father</rs> stateroom in the lower Cabin all
          <lb/>hands are to work The Cook is trying out
          <lb/>Lard Steward washing Table Cloths and
-         <pb facs="/5/5068dc4e-50ae-4a0d-aa2f-9972bcee3435" />
+         <pb facs="G226_D6_A3_1852-038b" />
          <lb/>two ordinary sailors cleaning Muskets I
          <lb/>have been <choice><sic>Practising</sic><corr>Practicing</corr></choice> on the Piano
          as it <del rend="overwritten">a</del>has
@@ -4259,7 +4259,7 @@
          <lb/>morning saw a large Shark along <choice><sic>thru</sic><corr>threw</corr></choice> the
          <lb/>Harpoon and Grains but did not succeed
          <lb/>in catching him soon after the Shark
-         <pb facs="/8/84403e52-e479-4544-a72b-9dc74fe3fa9e"/>
+         <pb facs="G226_D6_A3_1852-039a"/>
          <lb/>disappeared one of the sailor jump overboard
          <lb/>to swim round the vessel but he had not
          <lb/>more than got into the water before <rs ref="#END">Father</rs>
@@ -4287,7 +4287,7 @@
          <lb/></seg>ing out of sight have a strong breeze going
          <lb/>8 1/2 miles an hour, four months today
          <!-- Proofread to this point 21 March 2012. HLU and CG. -->
-         <pb facs="/2/2d6c8c16-6e96-41bf-b472-9f3b876d07e2"/>
+         <pb facs="G226_D6_A3_1852-039b"/>
          <lb/>since we left the wharf which is a long
          <lb/>time to be to <choice><sic>see</sic><corr>sea</corr></choice> time begins to go <choice><sic>heaveyly</sic><corr>heavily</corr></choice>
       </p>
@@ -4317,7 +4317,7 @@
          <lb/>overboard I was very sorry to part with her as 
          <lb/>she was a great deal of company always on the
          <lb/>Sofa playing with me and sleeping in my work
-         <pb facs="/c/cd04a671-78ed-4316-ad68-bdbe586deaea"/>
+         <pb facs="G226_D6_A3_1852-040a"/>
          <lb/>basket
       </p>
    </div>
@@ -4356,7 +4356,7 @@
          <lb/>of the sailor had a fit soon came out of it, This
          <lb/>morning little more breeze This sailor look if
          <lb/>was sick his eyes are very wild from the
-         <pb facs="/7/7ec96530-f7f6-4be4-b6b7-378dca834848"/>
+         <pb facs="G226_D6_A3_1852-040b"/>
          <lb/>effects of the Fit I have been <choice><sic>busey</sic><corr>busy</corr></choice>
          w<del rend="overwritten"><gap reason="obscured" extent="3" unit="chars"></gap></del>riting of a
          <lb/>manifest of Stores for <rs ref="#END">Father</rs>. at 12 oclock one of
@@ -4386,7 +4386,7 @@
          <lb/>last two days distance 125 miles The sailor
          <lb/>is still in irons he is not allowed to go for<seg type="softhyphen">-
          <lb/></seg>ward or to converse with any one stays on the
-         <pb facs="/3/3a2397ba-0ef2-4eca-864e-7f9cfda8149b"/>
+         <pb facs="G226_D6_A3_1852-041a"/>
          <lb/>house days and sleeps under the boats The sick
          <lb/>sick sailor still remains bad last night he came
          <lb/>to the cabin door to see <rs ref="#END">Father</rs> &amp; <rs ref="#ATD"><del
@@ -4421,7 +4421,7 @@
          <!-- How to mark her revision of sad to said in next line? -->   
          <lb/>sailors put him up to it said he should be on
          <!-- Proofed to this point 28 March 2012. HLU and GC. -->
-         <pb facs="/4/4954db2f-f7cf-437a-a8d0-13f501f48100"/>
+         <pb facs="G226_D6_A3_1852-041b"/>
          <lb/>his guard and not speak for no one but <distinct type="archaicorthography"><choice><orig>himselfe</orig><reg>himself</reg></choice></distinct></said>
          <lb/>then the Irons were taken off and he went about 
          <lb/>his work <rs ref="#END">Father</rs> and the Carpenter have caught 
@@ -4450,7 +4450,7 @@
          <lb/>heard the joyful shout of <said aloud="true" direct="true">Land Oh</said> joy beamed in
          <lb/>every countenance you must imagine what our joy
          <lb/>what our joy was after being to sea 148 days we are
-         <pb facs="/7/720b1dd8-3dc0-4259-b86c-a1c3ce2bbcbd"/>
+         <pb facs="G226_D6_A3_1852-042a"/>
          <lb/>about 60 or 70 miles <choice><sic>offt</sic><corr>off</corr></choice>
       </p>
    </div>
@@ -4483,7 +4483,7 @@
    <div type="Entry" xml:id="Doane18530108a">
       <lb/><dateline><date when="1853-01-08">Saturday 12 oclock M Jan 8the</date></dateline>
       <p><lb/>Fair wind and 
-         <pb facs="/a/a91bd78c-c4a7-48b2-afa8-57f7a24adaab"/>
+         <pb facs="G226_D6_A3_1852-042b"/>
          <lb/>a fresh breeze sailing along with studding sails
          <lb/><distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> close in by the land at 2 oclock AM one
          <lb/>of the large Steamers passed us bound to <placeName ref="#SF">San Fran<seg type="softhyphen">
@@ -4511,7 +4511,7 @@
             <lb/>the marketing when <rs ref="#END">he</rs> returned brought off
             <lb/>some Eggs Potatoes Punkins fresh meat and
             <lb/>&amp; after breakfast hove up the anchor and
-            <pb facs="/b/b304bc8a-3c80-4cc1-a46b-d5a9ade6f408"/>
+            <pb facs="G226_D6_A3_1852-043a"/>
             <lb/><choice><sic>halled</sic><corr>hauled</corr></choice> along side of an old Hulk where we
             <lb/>made fast, This afternoon commenced discharging
             <lb/>Coals in Iron lighters at 4 oclock saw the
@@ -4542,7 +4542,7 @@
             <lb/>not <distinct type="archaicorthography"><choice><orig>oblidge</orig><reg>oblige</reg></choice></distinct> him to go Father gave him his
             <lb/>choice whether to go in Prison <choice><sic>on</sic><corr>or</corr></choice> go on board of
             <lb/>the <choice><sic>Manawar</sic><corr>man-of-war</corr></choice> he chose the latter they have
-            <pb facs="/f/f1ea7fd7-95c8-4700-aff4-0bdb6e7f7c83"/>
+            <pb facs="G226_D6_A3_1852-043b"/>
             <lb/><choice><sic>carryed</sic><corr>carried</corr></choice> him on board when they returned. we
             <lb/>went on shore on the beach picked up some
             <lb/>shells when we happened to see a number of
@@ -4579,7 +4579,7 @@
             <lb/>went up to a house got some
             <choice><sic>Coanuts</sic><corr>Coconuts</corr></choice> and
             <lb/>shells walked back in the woods but saw
-            <pb facs="/0/002bcd0c-d459-4f8f-b051-215e5df09d62"/>
+            <pb facs="G226_D6_A3_1852-044a"/>
             <lb/>nothing
          </p>
       </div>
@@ -4613,7 +4613,7 @@
             <lb/>his room and shot the door this afternoon
             <lb/><rs ref="#END">father</rs> has discharged <persName ref="#Cavenagh">Mr. Cavenagh</persName> while         
              <!-- Proofed to the point 03 April 2012. HLU and CG. -->
-            <pb facs="/e/e4721ec5-1cf2-407e-97a4-cb8e2d809124"/>
+            <pb facs="G226_D6_A3_1852-044b"/>
             <lb/>he was gone on shore the second Mate got on
             <lb/>shore in some of the Canoes and was not seen
             <lb/>at night the boat was sent after him but he
@@ -4654,7 +4654,7 @@
          <lb/><dateline><date when="1853-01-22"></date>Saturday 22</dateline>
          <p>
             <lb/>This morning we halled off
-            <pb facs="/5/526d8efe-ab36-4e50-908a-4cafa272aef8"/>
+            <pb facs="G226_D6_A3_1852-045a"/>
             <lb/>from the Hulk and we now lay moored
             <lb/>by ourselves at 8 oclock the Steamer <name type="ship" ref="#GoldenGate">Golden
             <lb/>Gate</name> arrived here from <placeName ref="#PanamaRC">Panama</placeName> bound to
@@ -4683,7 +4683,7 @@
             <lb/>arrived here for the other Company the pass-
             <lb/>engers are passing and repassing from the
          </p>
-         <pb facs="/a/a7502f97-0d40-4260-bf31-fde8d4a51eaa"/>
+         <pb facs="G226_D6_A3_1852-045b"/>
       </div>
       <div type="Entry" xml:id="Doane18530123b">
          <p>
@@ -4715,7 +4715,7 @@
             <lb/>of it and would give it a push then there
             <lb/>were 7 more children around the place
       <!-- Rachel Cross's section ends here -->           
-            <pb facs="/8/860ff927-8bf7-4862-98a9-52757a67a546"/>
+            <pb facs="G226_D6_A3_1852-046a"/>
             <lb/>there was one very pretty interesting little
             <lb/>girl then we returned on board but before
             <lb/>we got to Ship we saw a boat coming <del rend="erased">t</del>
@@ -4743,7 +4743,7 @@
             <lb/>This morning at one o'clock the
             <lb/>wind <choice><sic>commeced</sic><corr>commenced</corr></choice> blowing and it increased
             <lb/>to a perfect gale the <name type="ship">Ship Ottawa Bark
-               <pb facs="/d/dd722bf6-ef86-472b-a521-dda37b05b2e2"/>
+               <pb facs="G226_D6_A3_1852-046b"/>
             <lb/>Lochibo</name> <choice><sic>draged</sic><corr>dragged</corr></choice> ashore and the brigg <choice><sic>draged</sic><corr>dragged</corr></choice>
             <lb/>on rock which lay in the Harbor we <choice><sic>draged</sic><corr>dragged</corr></choice>
             <lb/>untill we had only one foot of water expecting 
@@ -4770,7 +4770,7 @@
             <lb/>to <rs ref="#END">father</rs> and wanted to go on shore, <rs ref="#END">father</rs> told
             <lb/>them they could not go as they had all been
             <lb/>on shore and they could go no more <del rend="overwritten">b</del>where
-            <pb facs="/1/1c322fef-908e-4588-b938-e5967cb1f5ff"/>
+            <pb facs="G226_D6_A3_1852-047a"/>
             <lb/>by they gave him a very saucy answer and
             <lb/>went to go forward <rs ref="#END">father</rs> them and asked 
             <lb/>them what they meant and then <choice><sic>thy</sic><corr>they</corr></choice> talk
@@ -4800,7 +4800,7 @@
             <lb/>sent on shore for the <choice><sic>Captian</sic><corr>Captain</corr></choice> of the 
             <lb/>Port he came of with 8 men armed
       <!-- Chloe Goodhart's section starts here -->
-      <pb facs="/4/44de1c39-6e35-40aa-836d-eb5bb763b8dc"/>
+      <pb facs="G226_D6_A3_1852-047b"/>
             <lb/>and took them on shore and put them <choice><sic>Prisn</sic><corr>Prison</corr></choice>
             <lb/><rs ref="#ATD">mother</rs> is better the fever still keeps off have
             <lb/>every reason to <choice><sic>belive</sic><corr>believe</corr></choice> it has broke
@@ -4831,7 +4831,7 @@
             <lb/><del rend="overwritten">w</del>bad to see the ladies pacing the deck
             <lb/>crying and wringing their hands, in the
             <!-- Proofed to this point 9 April 2012. HLU and CG -->
-            <pb facs="/0/03661ba6-32fc-4275-985f-07b0e84f245b"/>
+            <pb facs="G226_D6_A3_1852-048a"/>
             <lb/>afternoon I <add rend=",," place="above">saw</add> them put him in a Box and
             <lb/>nail him up and <choice><sic>carryed</sic><corr>carried</corr></choice> him off and
             <lb/>buried him and this morning when <rs ref="#END">father</rs>
@@ -4861,7 +4861,7 @@
             <lb/>goes on shore, This morning The Steward
             <lb/>went on shore, The Doctor says it is the
             <lb/>Fever and he had better stop on shore
-            <pb facs="/4/4b04bee4-47b0-4845-8a29-e620f2193224"/>
+            <pb facs="G226_D6_A3_1852-048b"/>
             <lb/>untill he breaks the Fever so we are
             <lb/>without a steward I have just seen them
             <lb/>carried off three dead persons they were sew<seg type="softhyphen">-
@@ -4893,7 +4893,7 @@
             <lb/>Ballasted <rs ref="#END">father</rs> has been on shore to get         
       <!-- Chloe Goodhart's section ends here -->           
       <!-- Garrett Harmon's section starts here 49a to 50a  -->
-                <pb facs="/c/c884d507-b5ad-4d9c-b7fa-854dfc71b191"/>
+                <pb facs="G226_D6_A3_1852-049a"/>
                 <lb/>some little Stores, such as Fowls and
                 <lb/>Turkeys and a number of other things when
             <lb/>he returned hove up the anchor <choice><orig>sot</orig><reg>set</reg></choice> the
@@ -4927,7 +4927,7 @@
             <lb/>off one that always get the marketing and
             <lb/>have placed the most confidence in him  
             
-            <pb facs="/0/02d5157d-eef1-4497-960f-791939a2850c"/>
+            <pb facs="G226_D6_A3_1852-049b"/>
             <lb/>of any one. it is to bad <name type="ship">The Windfield Scoot</name>
             <lb/>left at 7 oclock lost 10 persons while here
          </p>
@@ -4960,7 +4960,7 @@
             <lb/>house officers came down and stopped us
             <lb/>and told us we must go up to the <choice><orig><distinct type="archaic_orthography" time="16">Costom</distinct></orig><reg source="OED">Custom</reg></choice>
             <lb/>house we did they wanted to see the money
-            <pb facs="/7/78ad092e-bbd7-4bdf-b377-4971f6fbb4f7"/>
+            <pb facs="G226_D6_A3_1852-050a"/>
             <lb/>so we showed them <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> White</persName> had some
             <lb/><rs ref="#END">Father</rs> <rs ref="#ATD">Mother</rs> and <choice><orig><distinct type="archaic_orthography" time="17-17">myselfe</distinct></orig><reg source="OED">myself</reg></choice> we told them it was
             <lb/>only the money for the Piano they said we <add place="above">could</add> go on
@@ -4991,7 +4991,7 @@
             <!-- End Garrett Harmon section-->
             
              <!-- Ken Angel's section starts here -->
-            <pb facs="/1/1b7f6f90-1332-47e0-b4d6-8b23f743ff62"/>
+            <pb facs="G226_D6_A3_1852-050b"/>
             <lb/>shall get out of this soon as it is a horrid
             <lb/>place and it is begin<supplied reason="omitted" resp="ed">ing</supplied> to be quite sickly
            </p>
@@ -5021,7 +5021,7 @@
             <lb/>shore <unclear
                cert="medium"><choice><sic>fore</sic><corr>for</corr></choice></unclear> a Force of
             <choice><sic>Armes</sic><corr>Arms</corr></choice> they came off
-      <pb facs="/a/a1bd7c26-55ac-4a5f-bcbc-f75dbc76f6ed"/>
+      <pb facs="G226_D6_A3_1852-051a"/>
             <lb/>and carried them off <choice><sic>too</sic><corr>to</corr></choice> Prison again untill
             <lb/>some <choice><sic>shackels</sic><corr>shackles</corr></choice> could be made to <choice><sic>secur</sic><corr>secure</corr></choice> them
             <lb/>to the deck
@@ -5053,7 +5053,7 @@
             <lb/>have
          </p>
       </div>
-      <pb facs="/a/a3212e2d-3d47-4c65-a5d1-31f6d0919cc0"/>
+      <pb facs="G226_D6_A3_1852-051b"/>
       <div type="Entry" xml:id="Doane18530218a">
          <lb/><dateline><date when="1853-02-18">Friday 18,</date></dateline>
          <p>
@@ -5099,7 +5099,7 @@
       <!-- Ken Angel's section ends here -->
       
       <!-- Lindsay Kelly's section starts here -->
-                            <pb facs="/3/333d90fc-7693-4087-9e7e-aafc104ea752"/>
+                            <pb facs="G226_D6_A3_1852-052a"/>
                                   <lb/>the Doctor gave her which is to keep it off.
                                   <lb/>I am very glad to leave the place I can tell 
                                   <lb/>you The
@@ -5132,7 +5132,7 @@
                                   <lb/>the exception of his head I have been up
                                   <lb/>all night so ends this day
                                </p>
-                               <pb facs="/4/48c4bb2a-8492-48b9-881c-0fe0c51e8162"/>
+                               <pb facs="G226_D6_A3_1852-052b"/>
                             </div>
                             <div type="Entry" xml:id="Doane18530224">
                                <lb/><dateline><date when="1853-02-24">Thursday 12 oclock M Feb 24th</date></dateline>
@@ -5168,7 +5168,7 @@
                                   <lb/>he is out on deck one of the sailors is sick,
                                   <lb/>with the Dysentery. The Carpenter is quite unwell
                                   <lb/>had a Turkey for Dinner yesterday and he
-                              <pb facs="/8/8a9bcb1c-eefc-4a0a-a4a5-7dfffbaafb29"/>
+                              <pb facs="G226_D6_A3_1852-053a"/>
                                   <lb/>eat considerable of thinks it that which made
                                   <lb/>him sick have killed one of the Pigs after it
                                   <!-- Encode this location. -->
@@ -5208,7 +5208,7 @@
       <!-- Linsay Kelly's section ends here -->
       
       <!-- Cara Laviola's section starts here -->
-                                  <pb facs="/c/c009ab62-1553-43f4-a615-99fd4c2cb542"/>
+                                  <pb facs="G226_D6_A3_1852-053b"/>
                                   <handShift new="H2"/><add place="top">50/-</add><handShift new="#LADHand"/>              
                                   <lb/>Ship <name type="ship">Congree</name> of <placeName ref="#NB">New Bedford</placeName> been out 22 months
                                   <lb/>with 600 Sperm, on a 4
@@ -5254,7 +5254,7 @@
              <p>
                 <lb/>Still continues Calm
           <!-- Proofed to this point 9 May 2012. HLU and CG -->
-          <pb facs="/5/543d446c-7609-4c4c-b88b-41dda31b9879"/>
+          <pb facs="G226_D6_A3_1852-054a"/>
              <lb/><rs ref="#ATD">mother</rs> is quite sick has a severe <unclear cert="medium"><choice><sic>Caught</sic><corr>Cough</corr></choice></unclear> which
              <lb/>has brought on a Fever, This morning have
              <lb/>given her some <unclear>none</unclear> <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Quinine"/>
@@ -5301,7 +5301,7 @@
                 come to open it found it was <distinct type="archaic_orthography"><choice><orig>halfe</orig><reg>half</reg></choice></distinct>
                 <lb/>gone It <choice><sic>sits</sic><corr>sat</corr></choice> near one of the Prison and
           <!-- Proofed to this point 14 May 2012. HLU and CG. -->
-          <pb facs="/8/8efeb606-7a45-40a4-9df7-3fc4c9f9138e"/>
+          <pb facs="G226_D6_A3_1852-054b"/>
              <handShift new="#H2"/><add place="top">51/-</add><handShift new="#LADHand"/>text
                 <lb/>he managed to reach it and knocked a hole
                 <lb/>in the head so they could get the bread out
@@ -5335,7 +5335,7 @@
                 <!-- Cara Laviola's section ends here -->
       
       <!-- Megan Maxwell's section begins-->
-                <pb facs="/0/0ca2fda8-358d-4476-9b15-eccd4fbfcdcb"/>   
+                <pb facs="G226_D6_A3_1852-055a"/>   
                 <lb/>the other way has <choice><sic>sot</sic><corr>set</corr></choice> her Colors English the
                 <lb/>men are still confined in Irons the Sailors are
                 <lb/>employed in Ships Duty so ends the day.
@@ -5368,7 +5368,7 @@
                 <lb/>to see the City several ships going <choice><sic>in in</sic><corr>in</corr></choice> compa<seg>-
                    
                    
-                   <pb facs="/d/dac0925c-924e-49a8-bdce-54526b517df7"/>
+                   <pb facs="G226_D6_A3_1852-055b"/>
                    
                    <lb/></seg>ny with us and one large Clipper Ship came
                 <lb/>at an anchor at 11 PM The Custom House
@@ -5408,7 +5408,7 @@
                 <lb/>never saw such a variety of Fruit in any
                 <lb/>Place as there was here Last evening <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
                 <lb/>Miller</persName> and his Family were on board and the
-          <pb facs="/7/761d1ac4-ea3a-481c-a35c-4b5a1646f5c5"/>
+          <pb facs="G226_D6_A3_1852-056a"/>
              <lb/>evening which was quite a rarity to us to see
              <lb/><choice><sic>a</sic><corr>an</corr></choice> American Lady like them very much. The
              <lb/>Water Boat is along side filling our water The
@@ -5438,7 +5438,7 @@
       <!-- Megan Maxwell's section ends here -->
       
       <!-- Alecia Mouhanna's section starts here -->   
-          <pb facs="/f/f427ef1f-7ac2-4c4e-b46f-9fb7495340f3"/>
+          <pb facs="G226_D6_A3_1852-056b"/>
           <div type="Entry" xml:id="Doane18530419a">
              <lb/><dateline><date when="1853-04-19"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> April 19th</date></dateline>
              <p>
@@ -5464,7 +5464,7 @@
                 <lb/>the men were all <choice><orig><distinct type="archaic_orthography" time="15">loss</distinct></orig><reg source="OED">loose</reg></choice> in the hole, Mother
                 <lb/>is on deck at noon a Policeman came 
                 <lb/>off and took them all on Shore and <unclear cert="high" reason="handwriting?">put</unclear>
-                <pb facs="/d/dae8d3db-1054-40e3-b8af-1649231521db"/>
+                <pb facs="G226_D6_A3_1852-057a"/>
                 <lb/>them in Prison I was glad to see them leave
                 <lb/>the Ship hope they will not come on board
                 <lb/>again as it is very Disagreeable,
@@ -5494,7 +5494,7 @@
                 <lb/>early and <choice><sic>accompanayed</sic><corr>accompanied</corr></choice> <rs ref="END">Father</rs> on Shore to
                 <lb/>Market The marketing was all on the ground
                 <lb/>It was quite a <choice><sic>curiosty</sic><corr>curiosity</corr></choice> they had every thing
-                <pb facs="/d/dd362da9-e37a-460b-9280-03de6298a442"/>
+                <pb facs="G226_D6_A3_1852-057b"/>
                 <lb/>you could mention from there <rs ref="#END">Father</rs> went to the
                 <lb/>American Ship Chandlery<ptr type="noteAnchor" target="ShipChand"/><note resp="ed" xml:id="ShipChand"> In the text "Mobile, Her Trade, Commerce and Industries, 1883-4", John Land describes the duties of a ship chandler, a port retailer boat captains relied upon for anything from tools and equipment to food supplies and paper goods <bibl><ref target="JEL">(101)</ref></bibl>.</note> and I <choice><sic>stop</sic><corr>stopped</corr></choice> there <choice><orig><distinct type="archaic_orthography" time="18-19">untill</distinct></orig><reg source="OED">until</reg></choice>
                 <lb/><rs ref="END">he</rs> had <choice><sic>order</sic><corr>ordered</corr></choice> what <rs ref="END">he</rs> wished and we then 
@@ -5524,7 +5524,7 @@
        <!-- Alecia Mouhanna's section ends here -->
       
       <!-- Beau Peiffer's section starts here. -->
-                <pb facs="/6/60d8fe05-f36f-4e67-a1ea-5d81777008c6"/>
+                <pb facs="G226_D6_A3_1852-058a"/>
                 <lb/> I went along of the Ship <name type="ship">California Packet</name>
                 <ptr type="noteAnchor" target="Packet"/><note resp="ed" xml:id="Packet">The Oxford English Dictionary defines a packet ship as a boat or ship travelling at regular intervals between two ports, originally for the conveyance of mail, later also of goods and passengers; a mailboat. In Doane's case, the packet ships could have been the only means of communication to the mainland.
                    <bibl><ref target="Packet">OED</ref></bibl></note>
@@ -5551,7 +5551,7 @@
                 <lb/> day <persName ref="#mom">Mother</persName> is confined to her bed with the Fever
                 <lb/> again
              </p></div>
-          <pb facs="/6/60e3e179-dcd1-4ce2-80b7-ab06476f9853"/>
+          <pb facs="G226_D6_A3_1852-058b"/>
           <div type="Entry" xml:id="Doane18530426">
              <lb/><dateline><date when= "1853-04-26"></date> <choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 12 oclock M April 26th</dateline>
              <p>
@@ -5580,7 +5580,7 @@
                       <lb/></seg>age all the same if he took one <choice><abbr>n</abbr><expan>and</expan></choice> not so
                 <lb/> <rs ref="#END">Father</rs><add place="above">told them</add> they could on board there some three
                 <lb/> they came on board laughing and introduce
-                <pb facs="/7/7281958d-d94c-4369-b1f6-728eff23b1ff"/>
+                <pb facs="G226_D6_A3_1852-059a"/>
                 <lb/> ed themselves as <choice><sic>Captian</sic><corr>Captain</corr></choice> of Ship lying at
                 <lb/> the <rs ref="#ChinchaI">Island</rs> we had quite a laugh when we
                 <lb/> thought it was a Pilot all the time they said
@@ -5612,7 +5612,7 @@
       <!-- Beau Peiffer's section ends here -->
       
       <!-- Krysta Ruley's section starts here. -->
-                <pb facs="/8/8a504c58-2889-4b60-acd8-8286f0a42db4"/>
+                <pb facs="G226_D6_A3_1852-059b"/>
                 <lb/>to <choice><sic>lett</sic><corr>let</corr></choice>them know we are ready to take in and
                 <lb/>to get a Lighter<ptr type="noteAnchor" target="LighterKR"/>
                 <note resp="ed" xml:id="LighterKR">A boat or vessel used to carry goods from a ship to the shore or from the shore to a ship<bibl><ref target="Lighter">Lighter</ref></bibl></note> to Ballast with They gave him
@@ -5639,7 +5639,7 @@
                 <lb/>us on board of his Ship tomorrow to dine as
                 <lb/>the <choice><sic>Captians</sic><corr>Captains</corr></choice> that had <choice><sic>theirs</sic><corr>their</corr></choice> Wives were to
                 <lb/>be <choice><sic>thier</sic><corr>there</corr></choice> <rs ref="#END">Father</rs> and <choice><orig><distinct type="archaic_orthography" time="ME-16">myselfe</distinct></orig><reg source="OED">myself</reg></choice> went I feel very <supplied reason="omitted" resp="ed">sad</supplied>
-                <pb facs="/e/ebe1b4c4-857d-4674-97f6-4a06a5db75de"/> 
+                <pb facs="G226_D6_A3_1852-060a"/> 
                 <lb/>that <rs ref="ATD">Mother</rs> could not go
              </p></div>
           <div type="Entry" xml:id="Doane18530430a">
@@ -5671,7 +5671,7 @@
              <p>
                 <lb/>Taken in Guano <rs ref="ATD">Mother</rs> is so
                 <lb/>she is on deck again one Ship in sight
-                <pb facs="/a/a6592564-53d9-4c76-adfa-3ddf8e1d5c1d"/>
+                <pb facs="G226_D6_A3_1852-060b"/>
                 <lb/><rs ref="#END">Father</rs> has been in after the <unclear>Glass</unclear> says it is
                 <lb/>the <name type="ship">California</name> is getting ready to go out to Pilot
                 <lb/>him in she is now at an anchor close to us
@@ -5705,7 +5705,7 @@
       <!-- Krista Ruley's section ends here -->
       
       <!-- Cory Sheetz's section starts here -->
-                <pb facs="/2/22a2742e-2f64-44ab-ad43-6ae14feab6bd"/>
+                <pb facs="G226_D6_A3_1852-061a"/>
                 <lb/>but very plain after dinner <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Gardner</persName> and
                 <lb/><rs ref="#END">Father</rs> went on board of <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Hawkins</persName> and
                 <lb/>board his Tug Boat which has a very handsome
@@ -5732,7 +5732,7 @@
                 <lb/>allow you to fire off a gun on account of the
                 <lb/>Birds nor to Capture the Seal when we returned
                 <lb/><persName>Mrs Gardner</persName> came on board and spent the
-                <pb facs="/8/8041c81e-cdf4-447a-8372-ca4724a2a840"/>
+                <pb facs="G226_D6_A3_1852-061b"/>
                 <lb/>day with us in the evening <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Davis</persName> of
                 <lb/>the Ship <name type="ship"><unclear>Chastage</unclear></name> came and spent the evening.
              </p>
@@ -5767,7 +5767,7 @@
                 <lb/>the next day to dine
              </p>
           </div>
-          <pb facs="/7/7043286d-33ce-4d5e-9f39-a69fe6e8c007"/>
+          <pb facs="G226_D6_A3_1852-062a"/>
           <div type="Entry" xml:id="Doane18530511a">
              <lb/><dateline><date when="1853-05-11">Wednesday May 11th</date></dateline>
              <p>
@@ -5807,7 +5807,7 @@
       <!-- Cory Sheetz's section ends here -->
       
       <!-- Lauren Sheridan's section starts here -->        
-                <pb facs="/2/2fed00b9-0fe3-4c54-a211-7b0f4fa4e627"/>
+                <pb facs="G226_D6_A3_1852-062b"/>
                 <handShift new="#H2"/><add place="top">59</add>
                 <handShift new="LADHand"/>
                 <lb/>informed us the Ship <name type="ship">David</name> had arrived
@@ -5838,7 +5838,7 @@
                 <lb/>day <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Frost</persName> has been along side for us to
                 <lb/>go rowing which is all the Pleasure we
                 <lb/>have went around to the Middle Island
-                <pb facs="/2/252368be-0dde-4b42-bd04-8ad9872a87bf"/>
+                <pb facs="G226_D6_A3_1852-063a"/>
                 <lb/>on board of the Ship <name type="ship">Senator</name> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Coffin</persName>
                 <lb/>and he had a chair made of a Bread Cask
                 <lb/>all <choice><sic>cushionid</sic><corr>cushioned</corr></choice> and a very nice chair it was
@@ -5867,7 +5867,7 @@
                 <lb/>turns comes and go under the Ships Shoot,
              </p>
           </div>
-          <pb facs="/6/6b0502ee-aa91-427a-bfa2-d2b9532bae7c"/>
+          <pb facs="G226_D6_A3_1852-063b"/>
           <div type="Entry" xml:id="Doane18530602a">
              <lb/><dateline><date when="1853-06-02">Thursday June 2th</date></dateline>
              <p>
@@ -5901,7 +5901,7 @@
       <!-- Lauren Sheridan's section ends here -->
       
       <!-- Elizabeth Snowden's section starts here -->
-               <pb facs="/e/eb75fa56-6c4a-4087-b3e5-71837f66747d"/>      
+               <pb facs="G226_D6_A3_1852-064a"/>      
                <lb/><geogName>Middle Island</geogName>. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice></persName>and <persName>Mrs Gardner</persName> have
                <lb/>come on board to go around with us to the other
                <lb/><geogName>Island</geogName> after dinner we sot our Ensign <ptr type="noteAnchor" target="Ensign"/><note resp="ed" xml:id="Ensign">
@@ -5928,7 +5928,7 @@
                 <lb/>has gone around the <geogName>Island</geogName> to carry some
                 <lb/>water on the <geogName>Island</geogName> and when he returned
                 <lb/><persName>Mrs Gardner</persName> came with him and spent the
-          <pb facs="/9/9d4d2e8a-6a41-477d-994b-8dde89dff874"/>  
+          <pb facs="G226_D6_A3_1852-064b"/>  
                 <lb/>day and <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Walker</persName> came and took tea 
                 <lb/>with us and spent the evening.
              </p>
@@ -5963,7 +5963,7 @@
                 <lb/><rs>Wife</rs> <persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice>Lowell</persName> and <rs>Wife</rs> came on board
                 <lb/>and pretty soon who should we see coming
                 <lb/>but <persName>Mrs Gardner</persName> so they were all here
-          <pb facs="/4/4d08f79d-a266-4328-8038-f01c6f797528"/>
+          <pb facs="G226_D6_A3_1852-065a"/>
              <lb/>did not stop but a short time. The Clipper
              <lb/>Ship <name type="ship"><unclear cert="medium" reason="some of the letters are unclear">Alboir</unclear></name> has arrived <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Littlefield</persName> he
              <lb/>has his <rs>wife</rs> with him they close to the <name type="ship">California
@@ -5993,7 +5993,7 @@
       <!-- Elizabeth Snowden's section ends here -->
       
       <!-- 065b- 066b transcribed -->
-             <pb facs="/8/8d084c61-5883-4de8-8eb6-29babb47425e"/>
+             <pb facs="G226_D6_A3_1852-065b"/>
              <div type="Entry" xml:id="Doane18530620a">
                 <lb/><dateline><date when="1853-06-20">Monday June 20th</date></dateline>
                 <p>
@@ -6023,7 +6023,7 @@
                    <lb/>tomorrow goes to Pisco
                 </p>
              </div>
-             <pb facs="/d/d9d3dc28-1b8d-450e-a373-35fa0c0559ea"/>
+             <pb facs="G226_D6_A3_1852-066a"/>
              <div type="Entry" xml:id="Doane18530628a">
                 <dateline><date when="1853-06-28">Tuesday June 28th</date></dateline>
                 <p>
@@ -6052,7 +6052,7 @@
                    <lb/></seg>fornia Packet. Tomorrow afternoon at 5 o'clock
                    <lb/>we are invited on board of the <name type="ship">St Patrick</name>
                    <lb/><add place="above"><persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Portman</persName></add> to a Ball all the American <choice><sic>Captians</sic><corr>Captains</corr></choice> and
-                   <pb facs="/b/b35b1d0d-3e0e-4795-ba36-f16413d260bc"/>
+                   <pb facs="G226_D6_A3_1852-066b"/>
                    <lb/><choice><sic>teir</sic><corr>their</corr></choice> Wives that are to he Island are to be
                    <lb/>here
                 </p>
@@ -6081,7 +6081,7 @@
                 <lb/>15 in number Candles burning in them
                 <lb/>around the side were covered with Signals
       <!-- Devan Toncler's section starts here -->
-          <pb facs="/6/6fab4c2a-2e6a-477c-a2ae-32a0e62925f6"/>
+          <pb facs="G226_D6_A3_1852-067a"/>
                 <lb/>and looped up which formed a very handsome
                 <lb/><choice><sic>Chanderleir</sic><corr>Chandelier</corr></choice> and the lights around the Sides
                 <lb/>Here we took the arm of the <rs><choice><sic>Captian</sic><corr>Captain</corr></choice></rs> of the
@@ -6111,7 +6111,7 @@
                 <lb/>and Wines. Then we returned on Deck
                 <lb/>promenade<ptr type="noteAnchor" target="Promenade"/><note resp="ed" xml:id="Promenade">The OED defines promenade as a leisurely walk especially in a public place so as to be seen by others.<bibl><ref target="#OED">"The Oxford English Dictionary"</ref></bibl></note>and Danced at 2 o clock. Lemon
                 <lb/>Ade, 4 <choice><sic>differince</sic><corr>different</corr></choice> kinds of Cake. Cheese and
-                <pb facs="/a/a49efb55-ed02-45ff-af72-29960e127f63"/>
+                <pb facs="G226_D6_A3_1852-067b"/>
                 <lb/><unclear cert="high" reason="foreign word?">Mottois</unclear>. So after this we left in the <name type="ship">St Patrick</name>
                 <lb/>Boat which was carpeted and Cushioned and
                 <lb/>maned by his sailors they were dress in Whit<supplied reason="omitted" resp="ed">e</supplied>
@@ -6138,7 +6138,7 @@
                 <lb/>This morning Bright and
                 <lb/>early <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Gardner</persName> came on board and
                 <lb/>brought <persName>Mrs Gardner</persName> and <persName>Walter</persName> as He
-                <pb facs="/7/77ca309b-f802-4138-8a99-8a1ad7693b02"/>
+                <pb facs="G226_D6_A3_1852-068a"/>
                 <lb/>was going to <unclear cert="high" reason="unknown?">Haull</unclear> to the Shoot She will stop
                 <lb/>with us while they are under the Shoot. This
                 <lb/>morning <rs ref="#END">Father</rs> went on Board of the <name type="ship">Alboni</name> on
@@ -6168,7 +6168,7 @@
       <!-- Devan Toncler's section ends here -->
       
       <!-- Keisha Trott's section starts here -->
-                <pb facs="/8/8a504c58-2889-4b60-acd8-8286f0a42db4"/>
+                <pb facs="G226_D6_A3_1852-059b"/>
                 <lb/>the Death of her Aunt her own Mother died
                 <lb/>when she was young and this Aunt had bro<seg type="softhyphen">
                    <lb/>-</seg>ught her up She took it to heart very much
@@ -6199,7 +6199,7 @@
                 <lb/>around to the other Island with them when
                 <lb/>they backed Main Yard to let us out. after
                 
-                <pb facs="/e/ebe1b4c4-857d-4674-97f6-4a06a5db75de"/>
+                <pb facs="G226_D6_A3_1852-060a"/>
                 
                 <lb/>dinner. <persName>Mrs Littlefield</persName> <persName>Mrs Logan</persName> and our
                 <lb/>selves went around to the other Island to call
@@ -6230,7 +6230,7 @@
                 <lb/>fine Ship <choice><sic>altho</sic><corr>although</corr></choice> not a Clipper<ptr type="noteAnchor" target="clip"/><note resp="ed" xml:id="clip">This was a new kind of merchant vessel that came about in the late 1840s. It was made to carry profitable cargo at much higher speeds than older ships. With this new kind of ship Doane's father(and other captains) could travel much faster(150 miles a day versus 250 miles a day) and therefore make more profit on their cargo.<bibl><ref target="TCSNVTFS">"The Clipper-Ship Nightingale vs. The Flying Scud"</ref></bibl></note>, <name type="ship">The James Comer</name>
                 <lb/>is under the Shoot <choice><sic>loding</sic><corr>loading</corr></choice> fast. after Dinner
                 <lb/><persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice> Lowell</persName> and Wife and <choice><sic>Captian</sic><corr>Captain</corr></choice>
-          <pb facs="/a/a6592564-53d9-4c76-adfa-3ddf8e1d5c1d"/>
+          <pb facs="G226_D6_A3_1852-060b"/>
              <lb/>and Wife came on board and spent the after<seg type="softhyphen">
                 <lb/>-</seg>noon and evening
           </p>
@@ -6260,7 +6260,7 @@
       <!-- Keisha Trott's section ends here -->
                 
       <!-- PAGES 070a THROUGH 071a TRANSCRIBED -->
-                <pb facs="/5/5a4600a8-ad82-4092-bed5-686b2d75a829"/>
+                <pb facs="G226_D6_A3_1852-070a"/>
                 <lb/>we then went <choice><sic>unto</sic><corr>onto</corr></choice> <persName>Mr. Seraters</persName> office. you
                 <lb/>would laugh to see him. He is very fleshy
                 <lb/>and his Hair is as White as the Snow and
@@ -6284,7 +6284,7 @@
                 <lb/>sight in the evening <choice><sic>Captian</sic><corr>Captain</corr></choice> Sears <choice><sic>Captian</sic><corr>Captain</corr></choice>
                 <lb/>Puttman and <choice><sic>Captian</sic><corr>Captain</corr></choice> Littlefield came 
                 <lb/>and spent the evening about 8 o'clock
-                <pb facs="/7/71fc9ca8-c2f0-4f0b-9811-1af95257b138"/>
+                <pb facs="G226_D6_A3_1852-070b"/>
                 <lb/>the <name type="ship">Soulter Johnny</name> was <choice><sic>Loded</sic><corr>Loaded</corr></choice> we went 
                 <lb/>and gave her 3 cheers twice. <persName>Mrs. Corner</persName> 
                 <lb/>and <persName>Mrs. Lowell</persName> stop all night with us
@@ -6314,7 +6314,7 @@
                 <dateline><date when="1853-07-12">Wednesday July 12th</date></dateline>
                 <p>
                    <lb/>This morning after
-                   <pb facs="/6/6c089626-21d6-4df3-b6fb-5660b09f4638"/>
+                   <pb facs="G226_D6_A3_1852-071a"/>
                    <lb/>Breakfast <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Puttman</persName> came along
                    <lb/>side with <persName>Mrs Logan</persName> to take us on board
                    <lb/>of the <name type="ship">James Conner</name> to see them offt We
@@ -6343,7 +6343,7 @@
                    <lb/>Island <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Hooper</persName> came up along
                  
       <!-- Alexandria Veeley's section starts here -->
-             <pb facs="/7/7a9bf7de-bf70-4a70-9712-486ab397831f"/>
+             <pb facs="G226_D6_A3_1852-071b"/>
                    <lb/>side of in his sail Boats with a number of
                    <lb/>other <persName ref="#Lowell"><choice><sic>Captians</sic><corr>Captains</corr></choice> Lowell</persName> and when the<choice><sic>Captians</sic><corr>Captains</corr></choice>
                    <lb/>left us they all got into his Boat and whe<seg type="softhyphen">
@@ -6372,7 +6372,7 @@
                    <lb/>This morning Breakfast The
                    <lb/><rs>Sailors</rs> that we shipped at <placeName ref="#CallaoAV">Callao</placeName>was
                    <lb/>discharged at <time>9 oclock</time> We all meet
-                   <pb facs="/2/2452fb2e-46b8-404a-b45d-10f62fccb819"/>
+                   <pb facs="G226_D6_A3_1852-072a"/>
                    <lb/>on board of the <name type="ship">James Comer</name> and all
                    <lb/>started from there on Shore stopped at the
                    <lb/><placeName>Golden Ball Hotel</placeName> at <placeName ref="#CallaoAV">Callao</placeName> <choice><sic>untill</sic><corr>until</corr></choice>the
@@ -6401,7 +6401,7 @@
                    <lb/>This is a pleasant day
                    <lb/>have been on Shore done some <choice><sic>shoping</sic><corr>shopping</corr></choice>
                    <lb/>The <name type="ship">James Comer</name> <choice><sic>sailes</sic><corr>sails</corr></choice> tonight for
-                   <pb facs="/3/34e9af87-8925-46ff-8bb1-a497721db035"/>  
+                   <pb facs="G226_D6_A3_1852-072b"/>  
                    <lb/><placeName ref="#Baltimore">Baltimore</placeName> We shall all meet at <placeName ref="#Baltimore">Baltimore</placeName>         
                    <lb/>The <name type="ship">California Packet</name> The <name type="ship">Monteria</name> and
                    <lb/>ourselves.  
@@ -6431,7 +6431,7 @@
                    <!-- Alexandria Veeley's section ends here -->
                    
                    <!-- Pages 073a through 078b remain to be transcribed. -->
-                   <pb facs="/1/1da1e42c-e5ed-49c3-b0c7-78d39ce10cb3"/>
+                   <pb facs="G226_D6_A3_1852-073a"/>
                    <lb/>Mate came off with them His name is
                    <lb/><persName>Bailey</persName> <persName>Mr. Brown</persName> was <choice><sic>Stering</sic><corr>Steering</corr></choice> when he got
                    <lb/>along side he wanted to know what Boat
@@ -6455,7 +6455,7 @@
                    <lb/></seg>d he would drown him after the things
                    <lb/>were all out <choice><sic>off</sic><corr>of</corr></choice> the Boat</said> he came to
                    <lb/>the door and says <said aloud="true" direct="true">now Mudder I am
-                   <pb facs="/6/66a14018-8b5a-4290-a1c2-bb6e52136ae3"/><!-- 73b -->
+                   <pb facs="G226_D6_A3_1852-073b"/><!-- 73b -->
                    <lb/>going to bed and I will be all right
                    <lb/>in the morning.</said>
                 </p>
@@ -6485,7 +6485,7 @@
                 <p>
                    <lb/>We have a head Wind
                    <lb/>breating <choice><sic>Sence</sic><corr>Since</corr></choice> we left <placeName ref="#CallaoBP">Callao</placeName> we have had
-                   <pb facs="/d/d793aa4c-2800-4a3e-8191-4fdaf970b79b"/> <!-- 74a -->
+                   <pb facs="G226_D6_A3_1852-074a"/> <!-- 74a -->
                    <lb/>but very little Fair Wind therefore have
                    <lb/>made but very little progress This morn<seg type="softhyphen">
                    <lb/></seg>ing saw a Ship bound the same way
@@ -6515,7 +6515,7 @@
              <div type="Entry" xml:id="Doane18530811a">
                 <dateline><date when="1853-08-11">Thursday <choice><abbr>Augt</abbr><expan>August</expan></choice> 11th</date></dateline>
                 <p>
-                   <pb facs="/2/2021d0dc-5017-49b9-a854-72389f8d0854"/> <!-- 74b -->
+                   <pb facs="G226_D6_A3_1852-074b"/> <!-- 74b -->
                    <lb/>Wind ahead and
                    <lb/>blowing fresh at 6 oclock took in the
                    <lb/>light Sails at 2 oclock in the night it
@@ -6542,7 +6542,7 @@
              <div type="Entry" xml:id="Doane18530813a">
                 <dateline><date when="1853-08-13">Saturday <choice><abbr>Augt</abbr><expan>August</expan></choice> 13</date></dateline>
                 <p>
-                   <pb facs="/3/3b5b9fad-6b1f-4386-983c-3cc77ac5e7e0"/> <!-- 75a -->
+                   <pb facs="G226_D6_A3_1852-075a"/> <!-- 75a -->
                    <lb/>The Wind still con<seg type="softhyphen">
                    <lb/></seg>tinues head and blowing fresh this
                    <lb/>morning at 8 oclock tacked Ship <rs ref="#ATD">mother</rs>
@@ -6572,7 +6572,7 @@
              <div type="Entry" xml:id="Doane18530829a">
                 <dateline><date when="1853-08-29">Monday <choice><abbr>Augt</abbr><expan>August</expan></choice> 29th</date></dateline>
                 <p>
-                   <pb facs="/a/a40baecb-2d70-4e7d-9b0a-6a37988b68df"/> <!-- 75b -->
+                   <pb facs="G226_D6_A3_1852-075b"/> <!-- 75b -->
                    <lb/>Wind Fair at 11
                    <lb/>oclock breezed up and blowed very hard
                    <lb/>took in all sail but the Fore and
@@ -6594,7 +6594,7 @@
                    <lb/>took in all sail but the Fore Main Mizen
                    <lb/>topsails those were double reefed the Wind
                    <lb/>increasing all the time at dusk it was
-                   <pb facs="/a/a9feeac4-e806-4a28-bce8-760f13acd2c6"/> <!-- 76a -->
+                   <pb facs="G226_D6_A3_1852-076a"/> <!-- 76a -->
                    <lb/>a perfect Gale took in all sail but the
                    <lb/>Fine Topsail There was a <choice><sic>heavey</sic><corr>heavy</corr></choice> cross sea
                    <lb/>the deck were full of Water all the time
@@ -6624,7 +6624,7 @@
                    <lb/>off and come close to us showed Signals
                    <lb/>English after Breakfast <unclear cert="low">charre</unclear> a Vessel
                    <lb/><unclear cert="medium">Stern</unclear> standing the same way we are
-                   <pb facs="/6/68302125-dd79-4b68-a6a5-309403be9538"/><!-- 76b -->
+                   <pb facs="G226_D6_A3_1852-076b"/><!-- 76b -->
                    <lb/>is gaining on us fast to Bark it is none
                    <lb/>of our Fleet unless it is the Black Squall
                    <lb/>who left <placeName ref="#CallaoBP">Callao</placeName> the day we arrived have
@@ -6654,7 +6654,7 @@
                    <lb/>have been busy making a Shoe Bag my
                    <lb/>Dog is some Sea Sick not so <choice><sic>playfull</sic><corr>playful</corr></choice> as
                    <lb/>in general at 12 oclock today was in the
-                   <pb facs="/7/794e9f23-e25c-4e91-8c1c-1641289f59ff"/> <!-- 77a -->
+                   <pb facs="G226_D6_A3_1852-077a"/> <!-- 77a -->
                    <lb/>Latitiude of 30 = 04 South have made 204
                    <lb/>miles distance the last 24 hour which is going fast
                 </p>
@@ -6683,7 +6683,7 @@
                 <dateline><date when="1853-09-28">Wednesday <choice><abbr>Sept</abbr><expan>September</expan></choice> 28th</date></dateline>
                 <p>
                    <lb/>Wind continues the 
-                   <pb facs="/6/6ac4cb5d-079e-4d55-852c-04a83500e843"/>
+                   <pb facs="G226_D6_A3_1852-077b"/>
                    <lb/>same <unclear>Jain</unclear> and a fresh Breeze. This morn<seg type="softhyphen">
                    <lb/></seg>ing when I arose there was a Brigg in Sightt
                    <lb/>ahead bound in the other way A Frenchmen
@@ -6709,7 +6709,7 @@
                 <dateline><date when="1853-10-01">Saturday <choice><abbr>Oct</abbr><expan>October</expan></choice> 1th</date></dateline>
                 <p>
                    <lb/>This is the first day of
-                   <pb facs="/c/c4bd7702-5b41-4184-afb2-2461363f7c13"/><!-- 78a -->
+                   <pb facs="G226_D6_A3_1852-078a"/><!-- 78a -->
                    <lb/>the month and comes in with a <choice><sic>beautifull</sic><corr>beautiful</corr></choice>
                    <lb/>Fair Wind <choice><abbr>altho</abbr><expan>although</expan></choice> <choice><sic>unpleasent</sic><corr>unpleasant</corr></choice> weather <choice><sic>rainey</sic><corr>rainy</corr></choice>
                    <lb/>we are now in the South East Gade Winds
@@ -6736,7 +6736,7 @@
                    <lb/>very warm are in the Latitude of 4=50
                    <lb/>North and Longitude crossed the line
                    <lb/>last Saturday after Breakfast saw
-                   <pb facs="/c/c7f809ea-184b-4a14-8fea-f37c20e7c623"/><!-- 78b -->
+                   <pb facs="G226_D6_A3_1852-078b"/><!-- 78b -->
                    <lb/>a Bark standing the same <choice><abbr>altho</abbr><expan>although</expan></choice> steaming
                    <lb/>more to the Westland showed Enzgin are
                    <lb/>American
