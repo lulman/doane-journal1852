@@ -218,7 +218,7 @@
 
                   <note type="introductory" resp="ed">
                      <!-- Cara Laviola and Garrett Harmon's intro starts here -->
-                     <p><hi rend="bold">Violence and Consequences On Board 19th Century Maritime Vessels</hi></p>
+                     <p rend="h3" xml:id="discipline">Violence and Consequences On Board 19th Century Maritime Vessels</p>
                      <p>Life at sea was plagued with violence
                         during the late 18th and 19th century, especially on ships carrying
                         captives. Prisoners on board ships were treated with little or no civility,
@@ -273,7 +273,7 @@
                      </p>
                      <!-- Cara Laviola and Garrett Harmon's intro ends here -->
                      <!-- Devan Toncler's and Krysta Ruley's intro starts here. -->
-                     <p><hi rend="bold">19th Century Fourth of July Celebrations at Home and Abroad</hi></p>
+                     <p rend="h3" xml:id="julyfourth">19th Century Fourth of July Celebrations at Home and Abroad</p>
                      <p>In the mid-nineteenth century, Independence Day was a very important day to Americans.  In the United States, 
                         celebrations would last all day and include morning concerts, military reviews, children’s celebrations, 
                         processions, balloon ascensions, and firework displays.  Whole towns would be extravagantly decorated with flags, 
@@ -301,7 +301,7 @@
                         party was typical for Americans even though they were away from home. </p>
                      <!-- Devan Toncler's and Krysta Ruley's intro ends here. -->
                      <!-- Rachel Cross, Alexandria Veeley, and Beau Peiffer's Intro starts Here -->
-                     <p><hi rend="bold">Epidemics At Sea</hi></p>
+                     <p rend="h3" xml:id="epidemics">Epidemics At Sea</p>
                      <p>Sea travel mobilized many people from
                         various regions, allowing diseases and epidemics to spread very quickly. One
                         method of containing illnesses was to try to quarantine ships with sick
@@ -375,7 +375,7 @@
                      <!-- Rachel Cross, Alexandria Veeley, and Beau Peiffer's Intro end Here -->
                      <!-- Megan Maxwell, Cory Sheetz, and Kenneth Angel's intro starts here -->
                         
-                        <p><hi rend="bold">19th Century Merchant Vessels</hi></p>
+                     <p rend="h3" xml:id="merchantships">19th Century Merchant Vessels</p>
                      <p> Throughout her journal, <persName
                         ref="#LAD">Louisa Doane</persName> refers to a variety of sailing vessels
                         that she encounters during her voyages abroad. Her references are not
@@ -461,7 +461,7 @@
                      </p>
                         <!-- Megan Maxwell, Cory Sheetz, and Kenneth Angel's intro ends here -->
                      <!-- Chloe Goodhart, Lauren Sheridan, and Keisha Trott's intro begins here  -->
-                     <p><hi rend="bold">Honoring the Dead at Sea</hi></p>
+                     <p rend="h3" xml:id="burialatsea">Honoring the Dead at Sea</p>
                      
                      <p>Burial at sea was not the ideal way for someone to be buried in the 1800s, but a 
                         necessity when someone died while on a ship at sea.  When a person was buried at 
@@ -562,7 +562,7 @@
                      <!-- Lindsay Kelly's Intro ends Here -->
                      
                      <!-- Jen Herman's and Erika Strandjord's intro starts here. -->
-                     <p><hi rend="bold">Health and Medicine in the 19th-Century Merchant Marine</hi></p>
+                     <p rend="h3" xml:id="medical">Health and Medicine in the 19th-Century Merchant Marine</p>
                      <p>One of the topics <persName ref="#LAD">Louisa Doane</persName> discusses in detail in <rs ref="#LAD">her</rs> journal is that of health.  
                         <rs ref="#LAD">Her</rs> concern in reporting on this topic reflects a broader interest in the health and 
                         medical treatment of sailors and sea-travelers evidenced in publications of the time. 
@@ -740,7 +740,7 @@
                         position as the <rs ref="#LAD"><rs ref="#END">captain's</rs> daughter</rs>. 
                      </p>
                      <!-- Annie Mendenhall's intro starts here -->
-                     <p><hi rend="bold">Food and Diet Aboard 19th Century Merchant Marine Ships</hi></p>
+                     <p rend="h3" xml:id="food">Food and Diet Aboard 19th Century Merchant Marine Ships</p>
                      <p>
                         <persName ref="#LAD">Doane</persName> frequently records what she eats and
                         cooks at sea, and she includes stories about various livestock kept on
@@ -814,7 +814,7 @@
                      
                      <!-- Megan Reid's intro starts here. -->
                      
-                     <p><hi rend="bold">"I think we have a great deal of trouble": Gender, Class, and Hierarchies in Louisa A. Doane's Journal</hi></p>
+                     <p rend="h3" xml:id="gender">"I think we have a great deal of trouble": Gender, Class, and Hierarchies in Louisa A. Doane's Journal</p>
                      <!-- We can encode run-in headers simply by encoding a phrase at the beginning
                         of a paragraph as bold highlighting. The remainder of the paragraph can be
                         encoded for names, titles, and parenthetical page references. The note can
@@ -1199,8 +1199,7 @@
 
                      <!-- Cate Sacchi's intro begins here. -->
                      
-                     <p><hi rend="bold"><placeName ref="#CHorn">Cape Horn</placeName> - The long dreaded Place</hi>. 
-                     </p>
+                     <p rend="h3" xml:id="capehorn"><placeName ref="#CHorn">Cape Horn</placeName> - The long dreaded Place.</p>
                      <p> <lb/><placeName ref="#CHorn">Cape Horn</placeName> holds a unique place in
                         the lore and ritual of sea travel. <bibl><ref target="#RoundingHorn">“Rounding the Horn,” traveling from 50 degrees South in
                            the Atlantic to 50 degrees South in the Pacific, was and is a difficult, dangerous, and time

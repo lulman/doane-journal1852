@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="21.1">
     <meta>
-        <filters directoryPatterns="" filePatterns="*.jpg,*.png,*.html,*.js,*.JPG,*.xmap" positiveFilePatterns="" showHiddenFiles="false"/>
+        <filters directoryPatterns="*.bbprojectd" filePatterns="*.jpg,*.png,*.html,*.js,*.JPG,*.xmap" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
             <serialized version="21.1" xml:space="preserve">
                 <serializableOrderedMap>
@@ -14,11 +14,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../stephens-letters/Stephens-Reading.xsl</String>
+                                    <String>Doane_view_edintro.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Stephens-Reading</String>
+                                        <String>Doane-EdintroP5</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>Doane_view_reading.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>doane-reading</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -59,26 +74,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Doane_view_reading.xsl</String>
+                                    <String>../stephens-letters/Stephens-Reading.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>doane-reading</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XML</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>Doane_view_edintro.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Doane-EdintroP5</String>
+                                        <String>Stephens-Reading</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
