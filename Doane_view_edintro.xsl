@@ -165,8 +165,10 @@
                            <li><a href="./doane_appendices_hand.html">Guide to Doane`'s Hand</a></li>
                            <li><a href="./doane_appendices_zoomindex.html">Images of the MS Pages</a></li>
                            <li><a href="./doane_appendices_maps.html">Maps</a></li>
+                           <li><a href="./doane_journal.html#peopleMentioned">People Mentioned</a></li>
+                           <li><a href="./doane_journal.html#placesMentioned">Places Mentioned</a></li>
+                           <li><a href="./doane_journal.html#organizationsMentioned">Organizations Mentioned</a></li>
                            <li><a href="./doane_journal.html#worksCited">Works Cited</a></li>
-                           <li><a href="./doane_journal.html#revHistory">Revision History</a></li>
                            <li><a href="./doane_appendices_acknowledgements.html">Acknowledgements</a></li>
                            <li><a href="./doane_appendices_editors.html">About the Editors</a></li>
                         </ul>
@@ -453,7 +455,6 @@
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl"/>
       
-<!--  NOT USED IN THIS EDITION          
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPerson"/>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listOrg"></xsl:apply-templates>
@@ -575,7 +576,7 @@
    </xsl:template>
    
    <xsl:template match="tei:listPerson[@type='mentioned']">
-      <h3 id="peopleMentioned">List of People Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="peopleMentioned">List of People Mentioned in Louisa Doane's Diary</h3>
       <xsl:for-each select="tei:person">
          <xsl:sort select="tei:persName[1]"/>
          <p>
@@ -599,9 +600,8 @@
       </xsl:for-each>
    </xsl:template>
    
-<!--  NOT USED IN THIS EDITION   
       <xsl:template match="tei:listOrg">
-      <h3 id="organizationsMentioned">List of Organizations Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="organizationsMentioned">List of Organizations Mentioned in Louisa Doane's Diary</h3>
       <xsl:for-each select="tei:org">
          <xsl:sort select="tei:orgName[1]"/>
          <p>
@@ -609,16 +609,14 @@
             <xsl:apply-templates select="tei:desc"/>
          </p>
       </xsl:for-each>
-   </xsl:template>
--->   
+   </xsl:template>   
    
-<!--   <xsl:template match="tei:listPerson[@type='editors']"/>  -->  
+   <xsl:template match="tei:listPerson[@type='editors']"/>    
    
-<!--  NOT USED IN THIS EDITION
       <xsl:template match="tei:listPlace">
-      <h3 id="placesMentioned">List of Places Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="placesMentioned">List of Places Mentioned in Louisa Doane's Diary</h3>
       <xsl:for-each select="tei:place">
-         <xsl:sort select="tei:geogName"/>
+         <!--<xsl:sort select="tei:geogName"/>-->
          <xsl:sort select="tei:placeName[1]"/>
          <p>
             <xsl:if test="tei:geogName[1]"><strong><xsl:value-of select="tei:geogName[1]"/></strong></xsl:if>
@@ -633,7 +631,7 @@
          </p>
       </xsl:for-each>
    </xsl:template>
--->
+
 <!--  NOT USED IN THIS EDITION
       <xsl:template match="tei:listEvent">
       <h3 id="OrganizationsMentioned">List of Notable Events Mentioned in Lucius Smith's Diary</h3>

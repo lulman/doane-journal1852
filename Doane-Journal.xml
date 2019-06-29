@@ -1266,6 +1266,877 @@
                </notesStmt>
 
             </biblFull>
+            
+          <listPlace>
+            <head>Places Mentioned in the Text</head>
+               <place type="city" xml:id="Cardiff">
+                  <placeName>Cardiff</placeName>
+                  <country>United Kingdom</country>
+                  <desc>Doane mentions that the English ship <name type="ship">David</name> arrived
+                  in Acapulco on Thursday, January 13, 1853 after a 180-day passage from Cardiff.</desc>
+                  <location><geo>51.5000 -3.1667</geo></location>
+               </place>
+               <place type="coordinates" xml:id="NCHorn">
+                  <placeName>[Ship's position on 20 Nov. 1852]</placeName>
+                  <desc>Doane records this position on the outbound leg of the voyage from New York
+                     to Peru during a period of fair winds after three weeks of gale.</desc>
+                  <location><geo>-50.32 -79.21</geo></location>
+               </place>
+               <place type="island" xml:id="ChinchaI">
+                  <placeName>Chincha Islands</placeName>
+                  <country>Peru</country>
+                  <desc>The <name type="ship">Commonwealth</name> arrives at the Chincha Islands on
+                     27 April 1853 to take on a load of guano.</desc>
+                  <location><geo>-13.633333, -76.383333</geo></location>
+               </place>
+               <place type="city" xml:id="NB">
+                  <placeName>New Bedford</placeName>
+                  <country>United States of America</country>
+                  <region>Massachusetts</region>
+                  <desc>Home port of the ship <name type="ship">Thomas Dickerson</name>, which the
+                     <name type="ship">Commonwealth</name> met at
+                     sea on 3 October 1852.</desc>
+                  <location><geo>41.6667 -70.9167</geo></location>
+               </place>
+               <place type="nation" xml:id="CV">
+                  <placeName>Cape Verdes</placeName>
+                  <country>Cape Verdes</country>
+                  <region>Africa</region>
+                  <desc>One of the ports of call of the ship <name type="ship">Thomas Dickerson</name>, which the
+                     <name type="ship">Commonwealth</name> at sea on 3 Oct. 1852. The Cape Verde islands lie about 450 km. off the west coast
+                     of Africa in the mid-Atlantic Ocean.</desc>
+                  <location><geo>16.0000 -24.0000</geo></location>
+               </place>
+               <place type="inhabited-place" xml:id="Provincetown" source="#TGN">
+                  <placeName xml:lang="eng">Provincetown</placeName>
+                  <desc>The <name type="ship">Commonwealth</name> meets the schooner <name
+                     type="ship">Antarctic</name> of Provincetown off the coast of Spain on 26 May
+                     1852.
+                  </desc>
+                  <location>
+                     <geo>42.0500 -70.1667</geo>
+                  </location>
+               </place>
+               <place type="inhabited-place" xml:id="Baltimore" source="#TGN">
+                  <placeName>Baltimore</placeName>
+                  <country>United States</country>
+                  <region>Maryland</region>
+                  <desc>Located at the head of Patapsco river estuary above Chesapeake Bay; 
+                     settlement founded as outlet for local tobacco, developed as producer 
+                     of clipper ships in 18th century; many citizens had Southern sympathies in Civil War, 
+                     though state was pro-Union.
+                  </desc>
+                  <location>
+                     <geo>39.2833 -76.6000</geo>
+                  </location>
+               </place>
+               <place type="inhabited-place" xml:id="Callas" source="#TGN">
+                  <placeName>Callas</placeName>
+                  <country>France</country>
+                  <region>Provence-Alpes-Côte d'Azur</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>43.5833 6.5500</geo>
+                  </location>
+               </place>     
+               <place type="city" xml:id="London" source="#TGN">
+                  <placeName xml:lang="eng">City of London</placeName>
+                  <country>United Kingdom</country>
+                  <country>England</country>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>51.5000 -0.0833</geo>
+                  </location>
+               </place>
+               <place type="landform" xml:id="Gata" source="#TGN">
+                  <placeName xml:lang="spa">Gata, Cabo de</placeName>
+                  <country>Spain</country>
+                  <region>Andalusia</region>
+                  <region>Almeria</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location><geo>37.63 -0.69</geo></location>
+               </place>
+               <place type="landform" xml:id="Palos" source="#TGN">
+                  <placeName xml:lang="spa">Palos, Cabo de</placeName>
+                  <country>Spain</country>
+                  <region>Región de Murcia</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location><geo>37.63 -0.69</geo></location>
+               </place>
+               <place type="city" xml:id="Talcahuano" source="#TGN">
+                  <placeName xml:lang="spa">Talcahuano</placeName>
+                  <country>Chile</country>
+                  <region>Región del Biobío</region>
+                  <desc>Located in the Región del Biobío, a rural area that stretches from the Argentine border to the Pacific Ocean.</desc>
+                  <location>
+                     <geo>-37.0000 -72.5000</geo>
+                  </location>
+               </place>
+               <place type="city" xml:id="Boston" source="#TGN">
+                  <placeName xml:lang="eng">Boston</placeName>
+                  <country>United States of America</country>
+                  <region>Massachusetts</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>42.3500 -71.0500</geo>
+                  </location>
+               </place>
+               <place type="city" xml:id="Valparaiso" source="#TGN">
+                  <placeName xml:lang="spa">Valparaiso</placeName>
+                  <country>Chile</country>
+                  <region>Valparaiso</region>
+                  <desc>Occupied by Sir Francis Drake in 1578, Valaparaiso is an important port and commercial center for Chile.</desc>
+                  <location>
+                     <geo>-33.0833 -71.6667</geo>
+                  </location>
+               </place>
+               <place type="city" xml:id="SF" source="#TGN">
+                  <placeName xml:lang="spa">San Francisco</placeName>
+                  <country>United States of America</country>
+                  <region>California</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>37.7667 -122.4167</geo>
+                  </location>
+               </place>
+               <place type="city" xml:id="Salem" source="#TGN">
+                  <placeName xml:lang="eng">Salem</placeName>
+                  <country>United States of America</country>
+                  <region>Massachusetts</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>42.5167 -70.8833</geo>
+                  </location>
+               </place>
+               <place type="city" xml:id="Acapulco" source="#TGN">
+                  <placeName xml:lang="spa">Acapulco de Juárez</placeName>
+                  <desc>The Commonwealth carried coal from New York to Acapulco on the outward leg
+                     of its voyage, arriving in Acapulco on 10 January 1853.</desc>
+                  <country>Mexico</country>
+                  <region>Guerrero</region>
+                  <location>
+                     <geo>16.8500 -99.9167</geo>
+                  </location>
+               </place>
+               <place type="neighborhood" xml:id="Tompkinsville" source="#TGN">
+                  <placeName>Tompkinsville</placeName>
+                  <country>United States</country>
+                  <region type="state">New York</region>
+                  <region type="city">New York</region>
+                  <region type="borough">Staten Island</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>40.5833 -74.1500</geo>
+                  </location>
+               </place>
+               <place type="landmark" xml:id="StVincent" source="#TGN">
+                  <placeName xml:lang="por">São Vicente, Cabo de</placeName>
+                  <placeName xml:lang="eng">Cape St. Vincent</placeName>
+                  <country>Portugal</country>
+                  <region>Faro, Distrito de</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>37.0167 -9.0000</geo>
+                  </location>
+               </place>
+               <place type="city" xml:id="Canton" source="#TGN">
+                  <placeName xml:lang="chi">Guangzhou</placeName>
+                  <placeName xml:lang="eng">Canton</placeName>
+                  <country>China</country>
+                  <region>Canton Province</region>
+                  <desc>First seaport of China opened to foreigners; 
+                     its resistance to English opium trade led to war with 
+                     Britain 1839; one of first treaty ports by 
+                     Treaty of Nanking 1842</desc>
+                  <location>
+                     <geo>23.1333 113.3333</geo>
+                  </location>
+               </place>
+               <place type= "landmark" xml:id="LobosIslands" source="#TGN">
+                  <geogName xml:lang="eng">Lobos Islands</geogName>
+                  <geogName xml:lang="spa">Islas Lobos de Afuera</geogName>
+                  <country>Peru</country>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location><geo>-6.9500 -80.700</geo></location>
+               </place>
+               <place type="island-group" xml:id="Azores" source="#TGN">
+                  <placeName xml:lang="por">Açores, Ilhas dos</placeName>
+                  <placeName xml:lang="eng">Azores</placeName>
+                  <desc>Island group located 800 miles off coast of Portugal; 
+                     constitutes an autonomous region of Portugal</desc>
+                  <country>Portugal</country>
+                  <location>
+                     <geo>38.5000 -28.0000</geo>
+                  </location>
+               </place>
+               <place type="dependent-state" xml:id="Gibraltar" source="#TGN">
+                  <placeName>Gibraltar</placeName>
+                  <desc>Rocky, narrow peninsula of strategic importance, 
+                     coextensive with British crown colony; was known to the 
+                     Greeks &amp; others as one of the Pillars of Hercules; 
+                     fortified by Tariq the Moor in 711; retaken by Spanish in 1462, 
+                     &amp; conquered by Britain in 1704</desc>
+                  <location>
+                     <geo>36.1333 -5.3500</geo>
+                  </location>
+               </place>
+               <place type="island" xml:id="Flores" source="#TGN">
+                  <placeName>Flores</placeName>
+                  <country>Portugal</country>
+                  <region>Azores</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>39.5000 -31.2167</geo>
+                  </location>
+               </place>
+               <place type="UF" xml:id="GBank" source="#GNS">
+                  <geogName>Grand Bank</geogName>
+                  <country>Canada</country>
+                  <region>Newfoundland</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>45 -50</geo>
+                  </location>
+               </place>
+               <place type="landmark" xml:id="CHorn" source="#TGN">
+                  <geogName xml:lang="spa">Hornos, Cabo de</geogName>
+                  <geogName xml:lang="eng">Cape Horn</geogName>
+                  <country>Chile</country>
+                  <region>Magallanes-Antártica</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>-55.9833 -67.2667</geo>
+                  </location>
+               </place>
+               <place type="ship-position" xml:id="OCHorn">
+                  <geogName>[Ship's position]</geogName>
+                  <desc>Note when she mentions this position off Cape Horn.</desc>
+                  <location>
+                     <geo>-58.716667 -68.5</geo>
+                  </location>
+               </place>
+               <place type="city" xml:id="Marseille" source="#TGN">
+                  <placeName>Marseille</placeName>
+                  <country>France</country>
+                  <region>Provence-Alpes-Côte d'Azur</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>43.3000 5.3667</geo>
+                  </location>
+               </place>
+               <place type="city" xml:id="NYC" source="#TGN">
+                  <placeName>New York</placeName>
+                  <country>United States of America</country>
+                  <region>New York</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>40.7000 -74.0000</geo>
+                  </location>
+               </place>
+               <place type="landmark" xml:id="P6NR">
+                  <placeName>Pier 6, North River</placeName>
+                  <country>United States of America</country>
+                  <region>New York, NY</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location>
+                     <geo>40.710983 -74.016058</geo>
+                  </location>
+               </place>
+               <place type="strait" xml:id="SGib">
+                  <placeName>Gibraltar, Strait of</placeName>
+                  <location><geo>35.9500 -5.6000</geo></location>
+                  <desc>Located between Spain and Africa, connecting the Mediterranean Sea with the 
+                     Atlantic Ocean; the constant current flowing E balances evaporation from the Mediterranean.</desc>
+               </place>
+               <place type="town" xml:id="Tarifa">
+                  <placeName>Tarifa</placeName>
+                  <country>Spain</country>
+                  <region>Cadiz</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location><geo>36.0167 -5.6000</geo></location>
+               </place>               
+               <place type="island" xml:id="Mallorca" source="#TGN">
+                  <placeName>Mallorca</placeName>
+                  <country>Spain</country>
+                  <region>Illes Balears</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location><geo>39.6361 2.9982</geo></location>
+               </place>
+               <place type="island-group" xml:id="Falkland" source="#TGN">
+                  <placeName>Falkland Islands</placeName>
+                  <country>Argentina</country>
+                  <region>South Atlantic Ocean</region>
+                  <location>
+                     <geo>-51.7500 -59.1667</geo>
+                  <desc>Comprises over 200 islands of strategic importance in S Atlantic; 
+                     sighted by British John Davis 1592, though Spanish claimed Magellan had sighted 
+                     them in 1520; as Spain's successor, Argentina has tried to claim the islands, most recently in 1982.</desc>
+                  </location>
+               </place>   
+               <place type="country" xml:id="Peru">
+                  <placeName>Per&#xfa;</placeName>
+                  <country>Per&#xfa;</country>
+                  <region>South America</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location><geo>-10.0000 -76.0000</geo></location>
+               </place>
+               <!-- Rachel Cross's places begin here -->
+               <place type="inhabited-place" xml:id="PanamaRC" source="#TGN">
+                  <placeName>Panama</placeName>
+                  <country>Panama</country>
+                  <desc>The previous location of the steamer Heavens Golden Gate before it journeys to San Francisco, as mentioned by Lousa Doane on 01-20-1853</desc>
+                  <location><geo>8.9500 -79.5000 </geo></location>
+               </place>
+               <!-- Rachel Cross's places end here -->
+               <!-- Chloe Goodhart's places begin here -->
+               <place type="country" xml:id="PanamaCG" source="#TGN">
+                  <placeName>Panama</placeName>
+                  <country>Panama</country>
+                  <region>North and Central America</region>
+                  <desc>Independent country since 1821, Doane encounters an unnamed ship, the Golden Gate, and the Winfield Scott bound from Panama</desc>
+                  <location><geo>9.0000 -80.0000</geo></location>
+               </place>
+               <!-- Chloe Goodhart's places end here -->
+               <!-- Cara Laviola's places begin here -->
+               <place type="island-group" xml:id="Marquesas" source="#TGN">
+                  <placeName>Marquesas Islands</placeName>
+                  <country>French Polynesia</country>
+                  <bloc>Oceania</bloc>
+                  <desc>The whaleship Essex was rammed and sunk by a sperm whale near the Marquesas in November 1820,
+                     but the crew, forced to take refuge in three small boats, did not go the Marquesas Islands for fear that
+                     the island's inhabitants were cannibals. The ship that is going to the Marquesas in Louisa Doane's journal
+                     has a cargo of 600 sperm whales. Sperm whales were the targets of heavy whaling in the 19th Century in the Eastern Pacific.</desc>
+                  <location><geo>-9.0000 -139.5000</geo></location>
+               </place>
+               <place type="city" xml:id="Bordeaux" source="#TGN">
+                  <placeName>Bordeaux</placeName>
+                  <country>France</country>
+                  <region>Aquitaine</region>
+                  <desc>Bordeaux is a port city on the Garonne River in southwest France, a river that is accessible to ocean
+                     liners today.</desc>
+                  <location><geo>44.8333 -0.5667</geo></location>
+               </place>
+               <place type="coordinates" xml:id="SETradeWinds" source="#TGN">
+                  <placeName>Ship's position on 16 March 1853</placeName>
+                  <desc>Doane records these coordinates when the ship is in the Southeast Trade Winds, right after the prisoners
+                     steal half a barrel of Pilot Bread</desc>
+                  <location><geo>4.24 -98.25</geo></location>
+               </place>
+               <!-- Cara Laviola's places end here -->
+               <!-- Beau Peiffer's places begin here --> 
+               <place type="island" xml:id="IslaAsia">
+                  <placeName>Asia Island</placeName>
+                  <country>Peru</country>
+                  <desc>A small tract of land known in the 19th century for its 
+                     Guano deposits.</desc>
+                  <location><geo>-12.8 -76.6333</geo></location>
+               </place>
+               <place type="city" xml:id="CallaoBP" source="#TGN">
+                  <placeName>Callao</placeName>
+                  <country>Peru</country>
+                  <region>Callao Reigon</region>
+                  <desc>Founded by Spanish colonists in 1537, Callao quickly became the main 
+                     port for the Spanish in the Pacific.</desc>
+                  <location><geo>-12.0333 -77.1333</geo></location>
+               </place>
+               <!-- Beau Peiffer's places end here --> 
+               <!-- Lauren Sheridan's places begin here -->
+               <place type="city" xml:id="Sauteurs" source="TGN">
+                  <placeName>Sauteurs</placeName>
+                  <desc>Located in North Grenada; trade center for coconuts and cacao. Captain Gening's cabin reminded Doane of this city.</desc>
+                  <country>Grenada</country>
+                  <location>
+                     <geo>12.2333 -61.6333</geo>
+                  </location>
+               </place>
+               <!-- Lauren Sheridan's places end here -->
+               <!-- Alexandria Veeley's places begin here. -->
+               <place type="province" xml:id="CallaoAV">
+                  <placeName>Callao</placeName>
+                  <country>Peru</country>
+                  <region>South America</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location><geo>-12.0667 -77.1500</geo></location>
+               </place>
+               <place type="province" xml:id="Lima">
+                  <placeName>Lima</placeName>
+                  <country>Peru</country>
+                  <region>South America</region>
+                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <location><geo>-12.0500 -77.0500</geo></location>
+               </place>
+               <!-- Alexandria Veeley's places end here. -->
+               <place type="city" xml:id="Pisco">
+                  <placeName>Pisco</placeName>
+                  <country>Peru</country>
+                  <region>South America</region>
+                  <desc>The Corker on Doane's ship is headed to Pisco when he is finished corking the ship</desc>
+                  <location><geo>-13.7000 -76.2167 </geo></location>
+               </place>
+               <place>
+                  <placeName>San Juan</placeName>
+                  <region>South America</region>
+                  <desc>The bark Laurens arrives in Chincha Harbor from San Juan.</desc>
+               </place>
+               <place type="city" xml:id="Rio">
+                  <placeName>Rio de Janiero</placeName>
+                  <country>Brazil</country>
+                  <region>South America</region>
+                  <desc>The ship is "a short distance North" of here on September 27, 1853.</desc>
+               </place>
+            </listPlace>
+
+            <listOrg>
+               <head>List of Organizations</head>
+               <org xml:id="FN">
+                  <orgName>Fosters and Nickerson</orgName>
+                  <state type="partners">
+                     <desc><persName ref="FrederickNickerson">Frederick Nickerson</persName>
+                        <persName ref="WHF">W.H. Foster</persName></desc>
+                  </state>
+                  <region>Boston, MA</region>
+                  <desc>Most likely, Louisa is referring to the parternship between the 
+                     shipbuilding company Foster and Co. and merchant company Nickerson and Co.</desc>
+               </org>
+               <org xml:id="HowAsp" source="#ANB-WHA">
+                  <orgName> Howland and Aspinwall</orgName>
+                  <state type="Owners">
+                     <desc>
+                        <persName ref="WHA" notBefore="1834" notAfter="1856">William Henry Aspinwall</persName>
+                        <persName ref="JLA" notBefore="1850">John Lloyd Aspinwall</persName>
+                        <persName ref="WEH" notBefore="1834">William Edgar Howland</persName>
+                     </desc>
+                  </state>
+               </org>
+            </listOrg>   
+            
+            <list>
+               <head>List of Ships Mentioned in Doane's Journal</head>
+               <item xml:id="WScott">
+                  <name type="passenger" subtype="steamer">Winfield Scott</name>
+                  <country>USA</country>
+                  <date type="launched" when="1850-10-22"/>
+                  <date type="wrecked" when="1853-12-01"/>
+                  <persName type="Captain" notAfter="1853-12-01">Simon F. Blunt</persName>
+                  <orgName type="owner" notBefore="1852-01-01" notAfter="1853-05-18">New York and San Francisco Steamship Company Line</orgName>
+                  <desc></desc>
+                  <bibl><ref target="#BOEMRE #CINMS"></ref></bibl>
+               </item>
+               <!-- Rachel Cross's ships begin here -->
+               <!-- Rachel Cross's ships end here -->
+               <!-- Chloe Goodhart's ships begin here -->
+               <item xml:id="GoldenGate">
+                  <name type="steamer">SS Golden Gate</name>
+                  <country>USA</country>
+                  <date type="launched" when="1851-09" />
+                  <date type="wrecked" when="1862-07-27"/>
+                  <persName type="Captain" notAfter="1862-07-27">W.W. Hudson</persName>
+                  <orgName type="owner" notBefore="1850-07-01" notAfter="1862-07-27">The Pacific Mail Steamship Company</orgName>
+                  <desc>According to Doane, The Golden Gate, enroute from Panama, arrived in Acapulco on Friday, Februay 11, 1853.
+                     The ship was on its way to San Francisco with over 1100 passengers. 6 had died of Panama Fever when Doane sees the ship.</desc>
+                  <bibl><ref target="#MHP"></ref></bibl>
+               </item>
+               <!-- Chloe Goodhart's ships end here -->
+               <!-- Ken Angel's ships begin here. -->
+               <item xml:id="Commonwealth">
+                  <name type="Ship">Commonwealth</name>
+                  <country>USA</country>
+                  <persName type="Captain">Edmund N. Doane</persName>
+               </item>
+               <!-- Ken Angel's ships end here -->
+               <!-- Lauren Sheridans' ships begin here. -->
+               <item xml:id="SNTR">
+                  <name type="steamer">Senator</name>
+                  <country>USA</country>
+                  <date type="launched" notBefore="1849-01">January 1849</date>
+                  <date type="retired" when="1882">1882</date>
+                  <persName type="Captain">Captain Coffin</persName>
+                  <bibl><ref target="#SDHC">Woodward</ref></bibl>
+               </item>
+               <!-- Lauren Sheridans' ships end here. -->
+               <!-- Elizabeth Snowden's ships begin here. -->
+               <item xml:id="Whirlwind">
+                  <name type="Clipper">Whirlwind</name>
+                  <persName type="Captain">Burgess</persName>
+               </item>
+               <item xml:id="Alboir">
+                  <name type="Clipper">Alboir</name>
+               </item>
+               <!-- Elizabeth Snowden's ships end here. -->
+               <!-- Devan Toncler's ships begin here. --> 
+               <item xml:id="Monteria">
+                  <name type="ship">Monteria</name>
+                  <persName type="Captain">Captain Lowell</persName>
+               </item>
+               <!-- Devan Toncler's ships end here. --> 
+            </list>
+
+            <list type="gloss">
+               <head>List of Nautical Terms</head>
+               <item xml:id="Mate">
+                  <term>Mate</term>
+                  <gloss>Mates on merchant ships would take command in the captain's stead in the
+                     absence of the master. The number of mates depended on the size of the ship's
+                     company</gloss>
+                  <bibl><ref target="#Falconers">Falconer's</ref></bibl>
+               </item>
+               <!-- Ken Angel's terms begin here -->               
+               <item xml:id="PCP">
+                  <term>Port Consul Pilot</term>
+                  <gloss>A person who steers or directs the course of a ship; a helmsman or
+                     navigator, spec. a qualified coastal navigator taken on board temporarily to steer a ship into or out of a port, through a channel, etc.</gloss>
+                  <bibl><ref target="OED">Oxford English Dictionary</ref></bibl>
+               </item>
+               <!-- Ken Angel's terms end here -->               
+            </list>            
+
+           <listBibl>
+            <head>Works Cited</head>
+               <!-- Cara Laviola and Garrett Harmon's Works Cited begins here -->
+               <bibl xml:id="THL" n="Theal">Theal, George McCall. <title level="m">Records of the
+                     Cape Colony. </title>London: William Clowes and Sons, Stamford Street and
+                  Charing Cross, 1898. Web.</bibl>
+               <bibl xml:id="SEN" n="Senate">Armstrong, Robert. <title>Executive Documents Printed
+                     By Order of the Senate of the United States. </title>Unites States. Congress,
+                  Senate. 1853. Web.</bibl>
+               <!-- Cara Laviola and Garrett Harmon's Works Cited ends here -->
+               <!-- Devan and Krysta's works cited starts here -->
+               <bibl xml:id="NYT1" n="NewYorkTimes">
+                  <title level="a">The Fourth Abroad</title><title level="m">New York Times</title>
+                  6 July 1872. Print. </bibl>
+               <bibl xml:id="NYT2" n="NewYork Times2"><title level="a">Independence Day in the
+                     British Captial</title><title level="m">New York Times</title> 26 July 1858.
+                  Print. </bibl>
+               <bibl xml:id="Sprague">
+                  <title level="m">"Celebration of the seventy-third anniversary of the Declaration of Independence of the United States on board the Barque "Hannah Sprague," at sea, July 4th, 1849."</title>.
+                  New York: Joseph H. Jennings and Co., 1849. <title level="m">Google Books</title>. Web. 31 May. 2011
+               </bibl>
+               <bibl xml:id="Sumner" n="Sumner">Sumner, George. 
+                  <title level="m">"An oration delivered before the municipal authorities of the City of Boston, July 4, 1859."</title>.
+                  Boston: Geo. C, Rand and Averty, 1859. <title level="m">Google Books</title>. Web. 31 May. 2011
+               </bibl>
+               <bibl xml:id="Overton" n="Overton">Overton Choules, John. 
+                  <title level="m">"The cruise of the steam yacth North Star."</title>.
+                  Boston: Gould and Lincoln, 1854. 159. <title level="m">Google Books</title>. Web. 31 May. 2011
+               </bibl>
+               <!-- Devan and Krysta's works cited ends here -->               
+               <!-- Alex Veeley, Rachel Cross, and Beau Peiffer's Works Cited start here -->
+               <bibl xml:id="Thor" n="Cocaine">Thorington, James. <title level="j"> Cocaine in the
+                     Treatment of Yellow Fever</title> The American Journal of the Medical Sciences,
+                  Vol. 99. 1890: 150-154 PDF File</bibl>
+               <bibl xml:id="Overland" n="PanamaFever"><title level="j"> The Panama Fever</title>
+                  Overland Monthly and Out West Magazine, Vol. 1. 1868: 553-562 PDF File</bibl>
+               <bibl xml:id="Bird" n="Contributions"> Bird, James. <title level="j">Contributions to
+                     the Pathology and Treatment of Cholera</title> The London Journal of Medicine,
+                  Vol. 1. 1849: 313-321. Print</bibl>
+               <bibl xml:id="NorthAmerRevi" n="OntheCholera"><title level="j"> On the
+                     Cholera</title> The North American Review, Vol. 35. 1832:92-118. Print</bibl>
+               <bibl xml:id="Graham" n="Assistant"> Graham, Thomas. <title level="j"> An Assistant
+                     Ship Surgeon's Acoount of Cholera at Sea</title> Journal of Public Health, Vol.
+                  30. 1850: 332-338. Print</bibl>
+               <!-- Alex Veeley, Rachel Cross, and Beau Peiffer's Works Cited end here -->
+               <!-- Megan Maxwell, Cory Sheetz, and Kenneth Angel's citations citations start here -->
+               <bibl xml:id="Hittel" n="Hittel">Hittel, John Shertzer. <title level="m">
+                  "A history of the City of San Francisco"</title>San Francisco: A.L. Bancroft and
+                  Company, 1878. Online.</bibl>
+               <bibl xml:id="Clipper" n="Clipper"><title level="m">"Clipper Ships"</title>Funk
+                  and Wagnall's Corporation, 1996. Online.</bibl>
+               <bibl xml:id="DOS">
+                  <title level="m">The Doom of the Slaver</title>Harper's Magazine, Volume 1. June
+                  1850. Harper and Brothers publishers. 28 May 2011 </bibl>
+               <bibl xml:id="JCD">
+                  <title level="m">Journal of a Cruise of the United States Schooner Dolphin, Among
+                     the Islands of the Pacific Ocean; And a Visit to the Mulgrave Islands, In
+                     Pursuit of the Mutineers of the Whale Ship Globe.</title>Journal of a Cruise of
+                  the United States Schooner Dolphin, Among the Islands of the Pacific Ocean; And a
+                  Visit to the Mulgrave Islands, In Pursuit of the Mutineers of the Whale Ship
+                  Globe. 1878.Ludwig and Tolfree Printers. 28 May 2011 </bibl>
+               <bibl xml:id="ROY">
+                  <title level="m">The Rig of Yachts</title>Hunt's Yachting Magazine, Volume 5. 20
+                  April 1877. Hunt and Co. 28 May 2011 </bibl>
+               <bibl xml:id="JOV">
+                  <title level="m">Journal of Voyages</title>Journal of Voyages. Captain Jacob
+                  Dunham. 1850. 28 May 2011. </bibl>
+               <bibl xml:id="STS" n="Quiller-Couch"> Quiller-Couch Arthur Thomas. <title level="m"
+                     >The story of the sea, Volume 1</title>. London, Paris and Melbourne: Cassell
+                  and Co., 1895. 18-21. <title level="m">Google Books</title>. Date of visit: 24 May
+                  2011. Web. </bibl>
+               <bibl xml:id="MTO" n="Ballantyne"> Ballantyne, R. M. <title level="m">Man on the
+                     Ocean</title>. London: T. Nelson and Sons, 1863. 214-15. <title level="m"
+                     >Google Books</title>. Date of visit: 22 May 2011. Web. </bibl>
+               <!-- Megan Maxwell, Cory Sheetz, and Kenneth Angel's citations end here -->
+               <!--Chloe Goodhart, Lauren Sheridan, and Keisha Trott's Works Cited start here -->
+               <bibl xml:id="ABurial" n="MarylandGazette"><title level="a">A Burial at Sea.</title>
+                  Editorial. <title level="m">Maryland Gazette</title> 31 July 1829, 31st ed.
+                  Print.</bibl>
+               <bibl xml:id="BurialatSea" n="Stewart">Stewart, David. <title level="a">Burial at
+                     Sea: Separating and Placing the Dead during the Age of Sail.</title>
+                  <title level="m">Mortality</title> 10.4(2005):276-85. <title level="m"
+                     >JSTOR</title> Web. 21 May 2011.</bibl>
+               <bibl xml:id="BurialLeaf" n="Irving">Irving, Robert. <title level="a">Burial at Sea:
+                     A Stray Leaf from a Log Book.</title>
+                  <title level="m">The Metropolitan Magazine</title> L (1847):237-42. Google Books.
+                  Web. 20 May 2011.</bibl>
+               <bibl xml:id="Adventures" n="Coultor">Coultor, John. <title level="m">Adventures on
+                     the Western Coast of South America, and the Interior of California: including a
+                     Narrative of Incidents at the Kingsmill Islands, New Ireland, New Britain, New
+                     Guinea, and Other Islands in the Pacific Ocean.</title> Vol.1. London: Longman,
+                  Brown, Green, and Longmans, 1847. Google Books, 24 March 2006. Web. 20 May
+                  2011.</bibl>
+               <!--Chloe Goodhart, Lauren Sheridan, and Keisha Trott's Works Cited end here -->
+               <!-- Elizabeth Snowden and Alecia Mouhanna's Works Cited Starts Here -->
+               <bibl xml:id="TH" n="Hodgskin">Hodgskin, Thomas <title level="m"> An Essay on Naval
+                     Discipline, Shewing Part of Its Evil Effects on The Minds of the Officers, On
+                     the Mind of the Men, and on the Community; With An Amended System, By Which
+                     Pressing May Be Immediately Abolished</title> London: C. Squire,
+                  Furnival's-Inn-Court, 1813. <title level="m">Google Books</title>Web. 30 May 2011.
+               </bibl>
+               <bibl xml:id="AWAP" n="Pollock">Pollock, Arthur William Alsager <title level="a">"The
+                     Cat and The Cord"</title>The United Service Magazine, 1850: 23-24. <title
+                     level="a">Google Books</title>Web. 30 May 2011. </bibl>
+               <bibl xml:id="MCG" n="Glenn">Glenn, Myra C. <title level="a">The Naval Reform
+                     Campaign Against Flogging: A Case Study in Changing Attitudes Toward Corporal
+                     Punishment, 1830-1850</title> American Quarterly. 35.4 (1983):408-425. Print.
+               </bibl>
+               <!-- Elizabeth Snowden and Alecia Mouhanna's Works Cited Ends Here -->
+               <!-- Lindsay Kelly's Works Cited begin here -->
+               <bibl xml:id="Panda" n="Current">WWF: World Wildlife Fund. <title level="a"> Humboldt Current</title> 
+                  http://wwf.panda.org/about_our_earth/ecoregions/humboldt_current.cfm
+               </bibl>
+               <bibl xml:id="IncaPeru" n="Sayer">Sayer, Chloe. <title level="m">The Incas</title>London, UK. Wayland Publishers
+                  Ltd, 1998. Print.</bibl>
+               <bibl xml:id="Acquisition" n="GuanoProtect"><title level="a">Acquisition Process of Insular Areas</title>McDermott, Joseph OIA 2003.
+                  Office of Insular Affairs, Washington, DC. 
+               </bibl>
+               <bibl xml:id="GuanoT" n="GuanoTrade"><title level="a">Guano Trade</title>Trade and Enviornment Database, 1997.</bibl>
+               <!-- Lindsay Kelly's Works Cited end here -->
+               <bibl xml:id="Manual" n="Wilson">Wilson, Robert, Lieutenant. <title level="m">"The seaman's
+                     manual, Containing all the technical words and phrases used at sea and
+                     belonging to a ship; including all those introduced in later years, and not to
+                     be met with in any work of the kind; alphabetically arranged. Together with
+                     instructions to young men, entering on a seafaring life; with the duty og a
+                     midshipman; By Robert Wilson, a lieutenant in His Majesty's Navy, and teacher
+                     at the Marine-Academy at Chelsea. Necessary for every young, who, without such
+                     help as this book affords, will be an age in learning all the terms, &amp;c.
+                  </title> London: 1790. <title level="j">Eighteenth Century Collections
+                     Online</title>. Gale. Ohio State Univ Libraries/Columbus. Web. 22 Feb. 2010.
+               </bibl>               
+               <bibl xml:id="Springer" n="Springer">Springer, Haskell. <title level="a">The Captain's Wife at
+                     Sea.</title><title level="m">Iron Men, Wooden Women: Gender and seafaring in
+                     the Atlantic world, 1700-1920</title>. Ed. Margaret S. Creighton and Linda
+                  Norling. Baltimore: The Johns Hopkins University Press, 1996. 92-117. Print.
+               </bibl>               
+               <bibl xml:id="Druett" n="Druett">Druett, Joan. <title level="m">Hen Frigates: Passion and Peril,
+                     Nineteenth Century Women at Sea</title>. New York: Simon and Schuster, 1998.
+                  Web.
+               </bibl>               
+               <bibl xml:id="Cordingly" n="Cordingly">Cordingly, David. <title level="m">Seafaring Women:
+                     Adventures of Pirate Queens, Female Stowaways and Sailors' Wives</title>. New
+                  York: Random House, 2007. Print.
+               </bibl>               
+               <bibl xml:id="Glenn" n="Glenn">Glenn, Myra C. <title level="a">The Naval Reform Campaign
+                     Against Flogging: A Case Study in Changing Attitudes Toward Corporal
+                     Punishment, 1830-1850</title>. <title level="j">American Quarterly</title> 35.4
+                  (1983): 408-425. Web.
+               </bibl>              
+               <bibl xml:id="Falconers" n="Falconer">Falconer, William. <title level="m">William Falconer's
+                     Dictionary of the Marine</title>. London: Thomas Caddell, 1790. <title
+                     level="j">South Seas, National Library of Australia</title>. Web. 21 Feb,
+                  2010.
+               </bibl>
+               <bibl xml:id="Scurvy" n="King"> King, Frederick J., Harry Leach and John Picthall. 
+                  <title level="a">Scurvy: To the Editor of the Times.
+                  </title> 
+                  <title level="m"> The Times.
+                  </title> 12 January 1866: 7, col: F. PDF File.
+               </bibl>
+               <bibl xml:id="FamSearch" n="Family">
+                  <title level="m">Family Search</title>. N.p.: The Church of Jesus Christ of
+                  Latter-day Saints, 2008. 25 Feb. 2009. Web. 
+               </bibl>
+               <bibl xml:id="Queens" n="Cutler">
+                  Cutler, Carl. C. <title level="m">Queens of the Western Ocean: The Story of
+                  America's Mail and Passenger Sailing Lines</title>. Annapolis, MD: United
+                  States Naval Institute, 1961. Print.
+               </bibl>
+               <bibl xml:id="NYGBR" n="New York">
+               <title level="m">The New York Genealogical and Biographical Record</title>.
+               Vol. 46. New York: New York Geneological and Biographical Society, 1915. Print.
+               </bibl>
+               <bibl xml:id="TGN" n="Getty">
+                <title level="m">Getty Thesaurus of Geographical Names</title>
+               </bibl>
+               <bibl xml:id="GNS" n="GEOnet">
+                <title level="m">GEOnet Names Server</title>  
+               </bibl>
+               <bibl xml:id="Quarantine" n="Barring">
+                  "Barring Out Epidemics: How Dreaded Diseases are Met and Driven Away." 
+                  <title level="m">The New York Times</title>. 28 July 1879: 5. <title level="m">The
+                  New York Times Archives</title>. Web. 6 Feb. 2010.
+               </bibl>
+               <bibl xml:id="Schriber" n="Shriber">
+                  Schriber, Mary Suzanne. <title level="m">Writing Home: American Women Abroad, 
+                     1830-1920</title>. Charlottesville, VA: UP of Virginia, 1997. Print.
+               </bibl>
+               <bibl xml:id="Stowe" n="Stowe">
+                  Stowe, William W. <title level="m">Going Abroad: European Travel in Nineteenth-Century
+                     American Culture</title>. Princeton, NJ: Princeton UP, 1994. Print.
+               </bibl>
+               <bibl xml:id="Cox" n="Ulman">
+                  Ulman, H. Lewis. et al, eds. <title level="m">Samuel Sullivan Cox's </title>"Journal 
+                  of a Tour to Europe" <title level="m">(1851)</title>. The Ohio State University 
+                  College of Humanities, 2007. Web. 4 Mar. 2010.
+               </bibl>
+               <bibl xml:id="Kirkland" n="Kirkland">
+                  Kirkland, Joseph. "These Foreigners Again." <title level="m">The Western Monthly</title>.
+                  1-2 (1869): 248-54. <title level="m">Google Books</title>. Web. 3 Mar. 2010
+               </bibl>
+               <bibl xml:id="Siddons" n="Siddons">
+                  Siddons, J. H. <title level="m">Norton's Hand-Book to Europe; or, How to Travel in the 
+                     Old World</title>. New York, NY: Charles B. Norton, 1860. <title level="m">Google 
+                        Books</title>. Web. 24 Feb. 2010.
+               </bibl>
+               <bibl xml:id="Murray" n="Murray">
+                  Murray, John. <title level="m">A Handbook for Travellers in France</title>. London:
+                  John Murray, 1867. <title level="m">Google Books</title>. Web. 28 Feb. 2010.
+               </bibl>
+               <bibl xml:id="Rolfe" n="Rolfe">
+                  Rolfe, William J. <title level="m">A Satchel Guide to Europe</title>. Cambridge, MA:
+                  Riverside Press, 1924. Print.
+               </bibl>
+               <bibl xml:id="ASMDA" n="American">
+                  <title level="m">  The American Ship-Master's Daily Assistant; or a Compendium of marine law and mercantile regulations
+                     being a correct and useful guide to all men in business, especially those employed in the merchant service
+                     explaining by judicial decisions, the duty, authority, and responsibility of ship-masters, and the 
+                     liability of ship-owners for supercargoes, and masters of vessels the whole carefully compiled from undoubted
+                     sources</title> Portland, ME: Daniel Johnson, 1807. Print.
+               </bibl> 
+               <bibl xml:id="ANB-WHA" n="Delgado">
+                  Delgado, James P. <title level="a">Aspinwall, William Henry.</title> <title level="m">American National Bibliography Online</title>. Feb 2000. Web. March 5, 2010.
+               </bibl>
+               <bibl xml:id="GuanoAct" n="Guano">
+                  <title level="a">Chap. CLXIV.-An Act to Authorize Protection to be given to Citizens of the United States who may Discover Deposits of Guano.</title> 
+                  <title level="m">The Statutes at Large and Treatises of the United States of America Vol 34</title> George Minot, ed. Boston: 
+                  Little Brown and Company, 1856. 119. Print.
+               </bibl>
+               <bibl xml:id="PanamaFever" n="Buel">Buel, William P. <title level="a">On 'Chagres
+                     Fever' and some of the other Diseases to which California Emigrants are
+                     liable.</title>
+                  <title level="m">The American Journal of the Medical Sciences</title>. April 1856:
+                  319-326.</bibl>
+               <bibl xml:id="BMSS" n="Boston"><title level="m">Boston Medical and Surgical
+                     Service</title>. <title level="a">Physician for Ships.</title>
+                  <title level="m">The Friend: A Religious and Literary Journal</title>. Ed. Robert
+                  Smith. 14.14 (1842): 107.</bibl>
+               <bibl xml:id="PlantersMariners" n="Ewell">Ewell, James. <title level="m">The Planters
+                     and Mariners Medical Companion</title> . Philadelphia : Printed by John Bioren,
+                  1807. American Antiquarian Society and NewsBank, Inc. 2004. Web. 6 March 2010.
+               </bibl>
+               <bibl xml:id="Observations" n="Blane"> Blane, Gilbert. <title level="a">Observations
+                     on the Disease of Seamen</title>. <title level="m">The Health of Seamen:
+                     Selections from the Works of Dr. James Lind, Sir Gilbert Blane and Dr. Thomas
+                     Trotter</title>. Ed. Christopher Lloyd. London: Navy Records Society, 1965.
+                  136-174. Print. </bibl>
+               <bibl xml:id="HistoryMed" n="Langley"> Langley, Harold D. <title level="m">A History
+                     of Medicine in the Early U.S. Navy</title>. Baltimore: Johns Hopkins University
+                  Press, 1995. Print. </bibl>
+               <bibl xml:id="MedGrowth" n="Cassedy"> Cassedy, James H. <title level="m">Medicine and
+                     American Growth, 1800-1860</title>. Madison, Wis: University of Wisconsin
+                  Press, 1986. Print. </bibl>
+               <bibl xml:id="ScurvyBrit" n="Cook">Cook, G.C. <title level="a">Scurvy in the British
+                     Mercantile Marine in the 19th century, and the contribution of the Seamen’s
+                     Hospital Society</title>. <title level="j">Postgraduate Medical Journal
+                     (Online)</title>. 80.942 (2004): 225-229. PDF File. </bibl>
+               <!-- Ken Angel's Works Cited begin here -->             
+               <bibl xml:id="OED">
+                  <title level="m">Oxford English Dictionary online</title> OED Online. March 2011. Oxford University Press. 5 May 2011 
+               </bibl>
+               <!-- Ken Angel's Works Cited end here -->             
+               <!-- Lauren Sheridan's Works Cited begin here -->
+               <bibl xml:id="SHC" n="Woodward">Woodward, Arthur. <title level="m">The Old Side-Wheeler Senator.</title> San Diego History Center. University of San Diego. Web. 2 May 2011.
+               </bibl>
+               <bibl xml:id="OxfordEnglishDictionary">
+                  <title level="m">Oxford English Dictionary</title> Oxford English Dictionary Online. March 2011. Oxford University Press. 17 May 2011.
+               </bibl>
+               <!-- Lauren Sheridan's Works Cited end here -->
+               <!-- Rachel Cross's Works Cited begin here -->
+               <bibl xml:id="Scrofula" n="PubMed">PubMed Health.
+                  <title level="m">Scrofula</title>. Date of visit: 16 May. 2011 
+               </bibl>
+               <bibl xml:id="PATD" n="AitkenDavison">Aitken, Peter.  Davison, Tim.  <title>The Science Bit: Basic Sailing Theory</title> Wiley Nautical.  Date of visit: 16 May 2011.
+               </bibl>
+               <!-- Rachel Cross's Works Cited end here -->
+               <!-- Cara Laviola's Work Cited begins here -->
+               <bibl xml:id="Manson" n="Manson">Manson, Otis Frederick. <title level="m">A Treatise on the Physiological and Therapeutic Action of the Sulphate of Quinine</title>.
+                  Philadelphia: J. B. Lippincott, 1882. <title level="m">Google Books</title>. Web. 16 May 2011.
+               </bibl>
+               <bibl xml:id="Melville" n="Melville">Melville, Herman. <title level="m">Typee: A Peep at Polynesian Life During A Four Months' Residence in A Valley of the Marquesas; The Revised Edition, with a Sequel</title>.
+                  New York: Wiley and Putnam, 1847. <title level="m">Google Books</title>. Web. 16 May 2011.
+               </bibl>
+               <bibl xml:id="Gill" n="Gill">Gill, J. Thompson. <title level="m">The Complete Bread, Cake and Cracker Baker in Two Parts</title>.
+                  Chicago: J. Thompson Gill Manager Confectioner and Baker Publishing Co., 1881. <title level="m">Google Books</title>. Web. 16 May 2011.
+               </bibl>
+               <bibl xml:id="Appletons" n="Jones">Jones, A. <title level="a">At Sea</title>. <title level="m">Appletons' Journal of Literature, Science 
+                  and Art, Issues 93-117</title>. 14 Jan. 1871: 42-45. <title level="m">Google Books</title>. Web. 16 May 2011. </bibl>
+               <!-- Cara Laviola's Work Cited ends here -->
+               <!-- Devan Toncler's Works Cited Starts here -->
+               <bibl xml:id="CalfsFeetJelly" n="Ude">
+                  Ude, Louis Eustache <title level="m">The French Cook</title> 7th ed. London, England: John Ebers, 1822. Print.   
+               </bibl>
+               <bibl xml:id="BoiledTongue" n="ACWW">
+                  The Associated College Women Workers <title level="m">The Country Cook cook book</title> 1st ed. Chicago, IL: Mabel E.Sturtevant, 1912. Print.
+               </bibl>
+               <bibl xml:id="BlancheMange" n="Arcana">
+                  <title level="m">Arcana of Science and Art: or,an Annual Register of Useful Inventions and Improvements, Discoveries and New Facts in Mechanics, Chemistry, Natural History, and Social Economy; 
+                     Abridged from the Transactions of Publics Socities, and from Other Scientific Journals, British ad Foreign, of the Past Year.</title> 1st ed. London, England: John Limbard, 1835. Print. 
+               </bibl>
+               <!-- Devan Toncler's Works Cited ends here -->
+               <!-- Elizabeth Snowden's Works Cited Starts Here -->
+               <bibl xml:id="HCF" n="Folkard"> Folkard, Henry Coleman <title level="m"> The Sailing Boat: A Treatise on English and Foreign Boats, Descriptive
+                  of the Various Forms of Boats and Sails of Every Nation; With Practical Directions for Sailing, Management, &amp;c. </title>
+                  3rd ed. London: Longman, Green, Longman and Roberts, 1863. <title level="m"> Google Books</title> Web. 16 May 2011.
+               </bibl>
+               <bibl xml:id="JW" n="Whiting"> Whiting, James <title level="m"> The New York Shippers and Consignees' Guide,
+                  Designed to Facilitate The Commercial, Mercantile and Shipping Interests of New York</title>. New York, NY: E.Y.
+                  Butler &amp; Co., Publishers, 1861. <title level="m">Google Books</title> Web. 16 May 2011.
+               </bibl>
+               <bibl xml:id="DK" n="Kemp"> Kemp, Dixon <title level="m">A Manual of Yacht and Boat Sailing</title>. 4th ed.
+                  London: Horace Cox, 1884. <title level="m">Google Books</title> Web. 16 May 2011.
+               </bibl>
+               <!-- Elizabeth Snowden's Works Cited Ends Here -->
+               <!-- Chloe Goodhart's Work Cited begin here -->
+               <bibl xml:id="MHP">The Maritime Heritage Project. <title level="m">Passengers arriving in San Francisco, California by Ship During the 1800s</title> The Maritime Heritage Project with News of Captains, Ships and Passengers in 1800s San Francisco. Web. 3 May 2011. </bibl>
+               <bibl xml:id="EmigrantBurial"><title level="a">The Emigrant's Burial at Sea</title> <title level="m">The Advocate of Moral Reform and Family Guardian.</title> 19 (1853):85. <title level="m">Google Books.</title> Web. 10 May 2011.</bibl>
+               <bibl xml:id="WCJ" n="Rogers">Rogers, S. <title level="a">Treatment in a Case of Dysentery</title> Ed. Joel Shew. The Water Cure Journal, and Herald of Reforms. Vol. V and VI. New York: Fowlers and Wells 1848. 79. <title level="m">Google Books</title> Web. 14 May 2011. </bibl>
+               <!-- Chloe Goodhart's Work Cited end here -->
+               <!-- Alecia Mouhanna's Works Cited begin here-->
+               <bibl xml:id="JEL" n="Land"> Land, John E. <title level="m"> Mobile, Her Trade, Commerce, and Industries, 1883-4</title> 
+                  Massachussetts: Harvard University, 1884.  Web. 12 May 2011</bibl>
+               <!-- Alecia Mouhanna's Works Cited end here -->
+               <!-- Krysta Ruley's Works Cited begin here -->                         
+               <bibl xml:id="NYT"><title level="m">Marine Intelligence</title> The New York Times. April 19, 1852. Online. 19 May 2011 </bibl>  
+               <bibl xml:id="NYT3"><title level="m">Shipping Intelligence</title> The New York Times. March 30, 1854. Online. 19 May 2011 </bibl> 
+               <bibl xml:id="TLC">Addison, C. G. <title level="m">A Treatise on the Law of Contract</title>.Jersey City, NJ: Frederick D. Linn and Co., Law Publishers, 1881. 688. Web. 19 May 2011</bibl>
+               <!-- Krysta Ruley's Works Cited end here -->
+               <!-- Keisha Trott's Works Cited begin here -->
+               <bibl xml:id="TSB" n="Sewing"> <title level="m">The Sewing Bird.</title>Harper's New Monthly Magazine, Vol. 21. 1860: 488. Print.</bibl>
+               <bibl xml:id="TCSNVTFS" n="Nightingale"><title level="m">The Clipper-Ship Nightingale vs. The Flying Scud</title>Monthly Nautical Magazine, and quarterly rview, Vol. 2. 1855: 267. Print</bibl>
+               <!-- Keisha Trott's Works Cited end here -->
+               <!-- Alexandria Veeley's Works Cited begin here -->
+               <bibl xml:id="GB" n="Congressional Edition"><title level="m">Congressional Edition</title>.
+                  California: 1893. <title level="m">Google Books</title>. Web. 19 May. 2011.</bibl>
+               <!-- Alexandria Veeley's Works Cited end here -->
+               <!-- Garrett Harmon's Works Cited begin here -->
+               <bibl xml:id="HOC" n="House">House of Commons. <title level="m">Report From the Select Committe on Copyright of Designs.</title>. England. House of Commons, 1840.
+                  Web.
+               </bibl>
+               <bibl xml:id="RECh" n="Report">Baly, William. Gull, William. <title level="m">Reports on Epidemic Cholera.</title>. London: John Churchill, Princes Street, SOHO, 1854.
+                  Web.
+               </bibl>
+               <!-- Garrett Harmon's Works Cited end here -->
+            </listBibl>
+
+
             <listPerson type="mentioned">
                <person xml:id="LAD">
                   <persName>Doane, Louisa A.</persName>
@@ -1394,6 +2265,7 @@
                   <occupation>Second Mate</occupation>
                </person>
             </listPerson>
+
             <listPerson type="editors">
                <person xml:id="HLU">
                   <persName>Ulman, H. Lewis</persName>
@@ -1595,6 +2467,7 @@
                   <education> BA, The Ohio State University (2011)</education>                    
                </person>               
             </listPerson>
+
          </sourceDesc>
 
       </fileDesc>
@@ -6748,888 +7621,7 @@
     </div>
     <!-- New York to Peru voyage ends here -->
    </body>
-      <back>
-         
-         <div type="editorial" xml:id="Doane-Places">
-            <head>Places Mentioned in the Text</head>
-            <listPlace>
-               <place type="city" xml:id="Cardiff">
-                  <placeName>Cardiff</placeName>
-                  <country>United Kingdom</country>
-                  <desc>Doane mentions that the English ship <name type="ship">David</name> arrived
-                  in Acapulco on Thursday, January 13, 1853 after a 180-day passage from Cardiff.</desc>
-                  <location><geo>51.5000 -3.1667</geo></location>
-               </place>
-               <place type="coordinates" xml:id="NCHorn">
-                  <placeName>[Ship's position on 20 Nov. 1852]</placeName>
-                  <desc>Doane records this position on the outbound leg of the voyage from New York
-                     to Peru during a period of fair winds after three weeks of gale.</desc>
-                  <location><geo>-50.32 -79.21</geo></location>
-               </place>
-               <place type="island" xml:id="ChinchaI">
-                  <placeName>Chincha Islands</placeName>
-                  <country>Peru</country>
-                  <desc>The <name type="ship">Commonwealth</name> arrives at the Chincha Islands on
-                     27 April 1853 to take on a load of guano.</desc>
-                  <location><geo>-13.633333, -76.383333</geo></location>
-               </place>
-               <place type="city" xml:id="NB">
-                  <placeName>New Bedford</placeName>
-                  <country>United States of America</country>
-                  <region>Massachusetts</region>
-                  <desc>Home port of the ship <name type="ship">Thomas Dickerson</name>, which the
-                     <name type="ship">Commonwealth</name> met at
-                     sea on 3 October 1852.</desc>
-                  <location><geo>41.6667 -70.9167</geo></location>
-               </place>
-               <place type="nation" xml:id="CV">
-                  <placeName>Cape Verdes</placeName>
-                  <country>Cape Verdes</country>
-                  <region>Africa</region>
-                  <desc>One of the ports of call of the ship <name type="ship">Thomas Dickerson</name>, which the
-                     <name type="ship">Commonwealth</name> at sea on 3 Oct. 1852. The Cape Verde islands lie about 450 km. off the west coast
-                     of Africa in the mid-Atlantic Ocean.</desc>
-                  <location><geo>16.0000 -24.0000</geo></location>
-               </place>
-               <place type="inhabited-place" xml:id="Provincetown" source="#TGN">
-                  <placeName xml:lang="eng">Provincetown</placeName>
-                  <desc>The <name type="ship">Commonwealth</name> meets the schooner <name
-                     type="ship">Antarctic</name> of Provincetown off the coast of Spain on 26 May
-                     1852.
-                  </desc>
-                  <location>
-                     <geo>42.0500 -70.1667</geo>
-                  </location>
-               </place>
-               <place type="inhabited-place" xml:id="Baltimore" source="#TGN">
-                  <placeName>Baltimore</placeName>
-                  <country>United States</country>
-                  <region>Maryland</region>
-                  <desc>Located at the head of Patapsco river estuary above Chesapeake Bay; 
-                     settlement founded as outlet for local tobacco, developed as producer 
-                     of clipper ships in 18th century; many citizens had Southern sympathies in Civil War, 
-                     though state was pro-Union.
-                  </desc>
-                  <location>
-                     <geo>39.2833 -76.6000</geo>
-                  </location>
-               </place>
-               <place type="inhabited-place" xml:id="Callas" source="#TGN">
-                  <placeName>Callas</placeName>
-                  <country>France</country>
-                  <region>Provence-Alpes-Côte d'Azur</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>43.5833 6.5500</geo>
-                  </location>
-               </place>     
-               <place type="city" xml:id="London" source="#TGN">
-                  <placeName xml:lang="eng">City of London</placeName>
-                  <country>United Kingdom</country>
-                  <country>England</country>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>51.5000 -0.0833</geo>
-                  </location>
-               </place>
-               <place type="landform" xml:id="Gata" source="#TGN">
-                  <placeName xml:lang="spa">Gata, Cabo de</placeName>
-                  <country>Spain</country>
-                  <region>Andalusia</region>
-                  <region>Almeria</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location><geo>37.63 -0.69</geo></location>
-               </place>
-               <place type="landform" xml:id="Palos" source="#TGN">
-                  <placeName xml:lang="spa">Palos, Cabo de</placeName>
-                  <country>Spain</country>
-                  <region>Región de Murcia</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location><geo>37.63 -0.69</geo></location>
-               </place>
-               <place type="city" xml:id="Talcahuano" source="#TGN">
-                  <placeName xml:lang="spa">Talcahuano</placeName>
-                  <country>Chile</country>
-                  <region>Región del Biobío</region>
-                  <desc>Located in the Región del Biobío, a rural area that stretches from the Argentine border to the Pacific Ocean.</desc>
-                  <location>
-                     <geo>-37.0000 -72.5000</geo>
-                  </location>
-               </place>
-               <place type="city" xml:id="Boston" source="#TGN">
-                  <placeName xml:lang="eng">Boston</placeName>
-                  <country>United States of America</country>
-                  <region>Massachusetts</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>42.3500 -71.0500</geo>
-                  </location>
-               </place>
-               <place type="city" xml:id="Valparaiso" source="#TGN">
-                  <placeName xml:lang="spa">Valparaiso</placeName>
-                  <country>Chile</country>
-                  <region>Valparaiso</region>
-                  <desc>Occupied by Sir Francis Drake in 1578, Valaparaiso is an important port and commercial center for Chile.</desc>
-                  <location>
-                     <geo>-33.0833 -71.6667</geo>
-                  </location>
-               </place>
-               <place type="city" xml:id="SF" source="#TGN">
-                  <placeName xml:lang="spa">San Francisco</placeName>
-                  <country>United States of America</country>
-                  <region>California</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>37.7667 -122.4167</geo>
-                  </location>
-               </place>
-               <place type="city" xml:id="Salem" source="#TGN">
-                  <placeName xml:lang="eng">Salem</placeName>
-                  <country>United States of America</country>
-                  <region>Massachusetts</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>42.5167 -70.8833</geo>
-                  </location>
-               </place>
-               <place type="city" xml:id="Acapulco" source="#TGN">
-                  <placeName xml:lang="spa">Acapulco de Juárez</placeName>
-                  <desc>The Commonwealth carried coal from New York to Acapulco on the outward leg
-                     of its voyage, arriving in Acapulco on 10 January 1853.</desc>
-                  <country>Mexico</country>
-                  <region>Guerrero</region>
-                  <location>
-                     <geo>16.8500 -99.9167</geo>
-                  </location>
-               </place>
-               <place type="neighborhood" xml:id="Tompkinsville" source="#TGN">
-                  <placeName>Tompkinsville</placeName>
-                  <country>United States</country>
-                  <region type="state">New York</region>
-                  <region type="city">New York</region>
-                  <region type="borough">Staten Island</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>40.5833 -74.1500</geo>
-                  </location>
-               </place>
-               <place type="landmark" xml:id="StVincent" source="#TGN">
-                  <placeName xml:lang="por">São Vicente, Cabo de</placeName>
-                  <placeName xml:lang="eng">Cape St. Vincent</placeName>
-                  <country>Portugal</country>
-                  <region>Faro, Distrito de</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>37.0167 -9.0000</geo>
-                  </location>
-               </place>
-               <place type="city" xml:id="Canton" source="#TGN">
-                  <placeName xml:lang="chi">Guangzhou</placeName>
-                  <placeName xml:lang="eng">Canton</placeName>
-                  <country>China</country>
-                  <region>Canton Province</region>
-                  <desc>First seaport of China opened to foreigners; 
-                     its resistance to English opium trade led to war with 
-                     Britain 1839; one of first treaty ports by 
-                     Treaty of Nanking 1842</desc>
-                  <location>
-                     <geo>23.1333 113.3333</geo>
-                  </location>
-               </place>
-               <place type= "landmark" xml:id="LobosIslands" source="#TGN">
-                  <geogName xml:lang="eng">Lobos Islands</geogName>
-                  <geogName xml:lang="spa">Islas Lobos de Afuera</geogName>
-                  <country>Peru</country>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location><geo>-6.9500 -80.700</geo></location>
-               </place>
-               <place type="island-group" xml:id="Azores" source="#TGN">
-                  <placeName xml:lang="por">Açores, Ilhas dos</placeName>
-                  <placeName xml:lang="eng">Azores</placeName>
-                  <desc>Island group located 800 miles off coast of Portugal; 
-                     constitutes an autonomous region of Portugal</desc>
-                  <country>Portugal</country>
-                  <location>
-                     <geo>38.5000 -28.0000</geo>
-                  </location>
-               </place>
-               <place type="dependent-state" xml:id="Gibraltar" source="#TGN">
-                  <placeName>Gibraltar</placeName>
-                  <desc>Rocky, narrow peninsula of strategic importance, 
-                     coextensive with British crown colony; was known to the 
-                     Greeks &amp; others as one of the Pillars of Hercules; 
-                     fortified by Tariq the Moor in 711; retaken by Spanish in 1462, 
-                     &amp; conquered by Britain in 1704</desc>
-                  <location>
-                     <geo>36.1333 -5.3500</geo>
-                  </location>
-               </place>
-               <place type="island" xml:id="Flores" source="#TGN">
-                  <placeName>Flores</placeName>
-                  <country>Portugal</country>
-                  <region>Azores</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>39.5000 -31.2167</geo>
-                  </location>
-               </place>
-               <place type="UF" xml:id="GBank" source="#GNS">
-                  <geogName>Grand Bank</geogName>
-                  <country>Canada</country>
-                  <region>Newfoundland</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>45 -50</geo>
-                  </location>
-               </place>
-               <place type="landmark" xml:id="CHorn" source="#TGN">
-                  <geogName xml:lang="spa">Hornos, Cabo de</geogName>
-                  <geogName xml:lang="eng">Cape Horn</geogName>
-                  <country>Chile</country>
-                  <region>Magallanes-Antártica</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>-55.9833 -67.2667</geo>
-                  </location>
-               </place>
-               <place type="ship-position" xml:id="OCHorn">
-                  <geogName>[Ship's position]</geogName>
-                  <desc>Note when she mentions this position off Cape Horn.</desc>
-                  <location>
-                     <geo>-58.716667 -68.5</geo>
-                  </location>
-               </place>
-               <place type="city" xml:id="Marseille" source="#TGN">
-                  <placeName>Marseille</placeName>
-                  <country>France</country>
-                  <region>Provence-Alpes-Côte d'Azur</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>43.3000 5.3667</geo>
-                  </location>
-               </place>
-               <place type="city" xml:id="NYC" source="#TGN">
-                  <placeName>New York</placeName>
-                  <country>United States of America</country>
-                  <region>New York</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>40.7000 -74.0000</geo>
-                  </location>
-               </place>
-               <place type="landmark" xml:id="P6NR">
-                  <placeName>Pier 6, North River</placeName>
-                  <country>United States of America</country>
-                  <region>New York, NY</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>40.710983 -74.016058</geo>
-                  </location>
-               </place>
-               <place type="strait" xml:id="SGib">
-                  <placeName>Gibraltar, Strait of</placeName>
-                  <location><geo>35.9500 -5.6000</geo></location>
-                  <desc>Located between Spain and Africa, connecting the Mediterranean Sea with the 
-                     Atlantic Ocean; the constant current flowing E balances evaporation from the Mediterranean.</desc>
-               </place>
-               <place type="town" xml:id="Tarifa">
-                  <placeName>Tarifa</placeName>
-                  <country>Spain</country>
-                  <region>Cadiz</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location><geo>36.0167 -5.6000</geo></location>
-               </place>               
-               <place type="island" xml:id="Mallorca" source="#TGN">
-                  <placeName>Mallorca</placeName>
-                  <country>Spain</country>
-                  <region>Illes Balears</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location><geo>39.6361 2.9982</geo></location>
-               </place>
-               <place type="island-group" xml:id="Falkland" source="#TGN">
-                  <placeName>Falkland Islands</placeName>
-                  <country>Argentina</country>
-                  <region>South Atlantic Ocean</region>
-                  <location>
-                     <geo>-51.7500 -59.1667</geo>
-                  <desc>Comprises over 200 islands of strategic importance in S Atlantic; 
-                     sighted by British John Davis 1592, though Spanish claimed Magellan had sighted 
-                     them in 1520; as Spain's successor, Argentina has tried to claim the islands, most recently in 1982.</desc>
-                  </location>
-               </place>   
-               <place type="country" xml:id="Peru">
-                  <placeName>Per&#xfa;</placeName>
-                  <country>Per&#xfa;</country>
-                  <region>South America</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location><geo>-10.0000 -76.0000</geo></location>
-               </place>
-               <!-- Rachel Cross's places begin here -->
-               <place type="inhabited-place" xml:id="PanamaRC" source="#TGN">
-                  <placeName>Panama</placeName>
-                  <country>Panama</country>
-                  <desc>The previous location of the steamer Heavens Golden Gate before it journeys to San Francisco, as mentioned by Lousa Doane on 01-20-1853</desc>
-                  <location><geo>8.9500 -79.5000 </geo></location>
-               </place>
-               <!-- Rachel Cross's places end here -->
-               <!-- Chloe Goodhart's places begin here -->
-               <place type="country" xml:id="PanamaCG" source="#TGN">
-                  <placeName>Panama</placeName>
-                  <country>Panama</country>
-                  <region>North and Central America</region>
-                  <desc>Independent country since 1821, Doane encounters an unnamed ship, the Golden Gate, and the Winfield Scott bound from Panama</desc>
-                  <location><geo>9.0000 -80.0000</geo></location>
-               </place>
-               <!-- Chloe Goodhart's places end here -->
-               <!-- Cara Laviola's places begin here -->
-               <place type="island-group" xml:id="Marquesas" source="#TGN">
-                  <placeName>Marquesas Islands</placeName>
-                  <country>French Polynesia</country>
-                  <bloc>Oceania</bloc>
-                  <desc>The whaleship Essex was rammed and sunk by a sperm whale near the Marquesas in November 1820,
-                     but the crew, forced to take refuge in three small boats, did not go the Marquesas Islands for fear that
-                     the island's inhabitants were cannibals. The ship that is going to the Marquesas in Louisa Doane's journal
-                     has a cargo of 600 sperm whales. Sperm whales were the targets of heavy whaling in the 19th Century in the Eastern Pacific.</desc>
-                  <location><geo>-9.0000 -139.5000</geo></location>
-               </place>
-               <place type="city" xml:id="Bordeaux" source="#TGN">
-                  <placeName>Bordeaux</placeName>
-                  <country>France</country>
-                  <region>Aquitaine</region>
-                  <desc>Bordeaux is a port city on the Garonne River in southwest France, a river that is accessible to ocean
-                     liners today.</desc>
-                  <location><geo>44.8333 -0.5667</geo></location>
-               </place>
-               <place type="coordinates" xml:id="SETradeWinds" source="#TGN">
-                  <placeName>Ship's position on 16 March 1853</placeName>
-                  <desc>Doane records these coordinates when the ship is in the Southeast Trade Winds, right after the prisoners
-                     steal half a barrel of Pilot Bread</desc>
-                  <location><geo>4.24 -98.25</geo></location>
-               </place>
-               <!-- Cara Laviola's places end here -->
-               <!-- Beau Peiffer's places begin here --> 
-               <place type="island" xml:id="IslaAsia">
-                  <placeName>Asia Island</placeName>
-                  <country>Peru</country>
-                  <desc>A small tract of land known in the 19th century for its 
-                     Guano deposits.</desc>
-                  <location><geo>-12.8 -76.6333</geo></location>
-               </place>
-               <place type="city" xml:id="CallaoBP" source="#TGN">
-                  <placeName>Callao</placeName>
-                  <country>Peru</country>
-                  <region>Callao Reigon</region>
-                  <desc>Founded by Spanish colonists in 1537, Callao quickly became the main 
-                     port for the Spanish in the Pacific.</desc>
-                  <location><geo>-12.0333 -77.1333</geo></location>
-               </place>
-               <!-- Beau Peiffer's places end here --> 
-               <!-- Lauren Sheridan's places begin here -->
-               <place type="city" xml:id="Sauteurs" source="TGN">
-                  <placeName>Sauteurs</placeName>
-                  <desc>Located in North Grenada; trade center for coconuts and cacao. Captain Gening's cabin reminded Doane of this city.</desc>
-                  <country>Grenada</country>
-                  <location>
-                     <geo>12.2333 -61.6333</geo>
-                  </location>
-               </place>
-               <!-- Lauren Sheridan's places end here -->
-               <!-- Alexandria Veeley's places begin here. -->
-               <place type="province" xml:id="CallaoAV">
-                  <placeName>Callao</placeName>
-                  <country>Peru</country>
-                  <region>South America</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location><geo>-12.0667 -77.1500</geo></location>
-               </place>
-               <place type="province" xml:id="Lima">
-                  <placeName>Lima</placeName>
-                  <country>Peru</country>
-                  <region>South America</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location><geo>-12.0500 -77.0500</geo></location>
-               </place>
-               <!-- Alexandria Veeley's places end here. -->
-               <place type="city" xml:id="Pisco">
-                  <placeName>Pisco</placeName>
-                  <country>Peru</country>
-                  <region>South America</region>
-                  <desc>The Corker on Doane's ship is headed to Pisco when he is finished corking the ship</desc>
-                  <location><geo>-13.7000 -76.2167 </geo></location>
-               </place>
-               <place>
-                  <placeName>San Juan</placeName>
-                  <region>South America</region>
-                  <desc>The bark Laurens arrives in Chincha Harbor from San Juan.</desc>
-               </place>
-               <place type="city" xml:id="Rio">
-                  <placeName>Rio de Janiero</placeName>
-                  <country>Brazil</country>
-                  <region>South America</region>
-                  <desc>The ship is "a short distance North" of here on September 27, 1853.</desc>
-               </place>
-            </listPlace>
-         </div>
-         
-<div type="editorial" xml:id="Doane-Terms">
-   <head>List of Nautical Terms</head>
-   <list type="gloss">
-               <item xml:id="Mate">
-                  <term>Mate</term>
-                  <gloss>Mates on merchant ships would take command in the captain's stead in the
-                     absence of the master. The number of mates depended on the size of the ship's
-                     company</gloss>
-                  <bibl><ref target="#Falconers">Falconer's</ref></bibl>
-               </item>
-               <!-- Ken Angel's terms begin here -->               
-               <item xml:id="PCP">
-                  <term>Port Consul Pilot</term>
-                  <gloss>A person who steers or directs the course of a ship; a helmsman or
-                     navigator, spec. a qualified coastal navigator taken on board temporarily to steer a ship into or out of a port, through a channel, etc.</gloss>
-                  <bibl><ref target="OED">Oxford English Dictionary</ref></bibl>
-               </item>
-              <!-- Ken Angel's terms end here -->               
-   </list>
-</div> 
-         
-<div type="editorial" xml:id="Doane-Ships">            
-   <head>List of Ships Mentioned in Doane's Journal</head>
-            <list>
-               <item xml:id="WScott">
-                  <name type="passenger" subtype="steamer">Winfield Scott</name>
-                  <country>USA</country>
-                  <date type="launched" when="1850-10-22"/>
-                  <date type="wrecked" when="1853-12-01"/>
-                  <persName type="Captain" notAfter="1853-12-01">Simon F. Blunt</persName>
-                  <orgName type="owner" notBefore="1852-01-01" notAfter="1853-05-18">New York and San Francisco Steamship Company Line</orgName>
-                  <desc></desc>
-                  <bibl><ref target="#BOEMRE #CINMS"></ref></bibl>
-               </item>
-               <!-- Rachel Cross's ships begin here -->
-               <!-- Rachel Cross's ships end here -->
-               <!-- Chloe Goodhart's ships begin here -->
-               <item xml:id="GoldenGate">
-                  <name type="steamer">SS Golden Gate</name>
-                  <country>USA</country>
-                  <date type="launched" when="1851-09" />
-                  <date type="wrecked" when="1862-07-27"/>
-                  <persName type="Captain" notAfter="1862-07-27">W.W. Hudson</persName>
-                  <orgName type="owner" notBefore="1850-07-01" notAfter="1862-07-27">The Pacific Mail Steamship Company</orgName>
-                  <desc>According to Doane, The Golden Gate, enroute from Panama, arrived in Acapulco on Friday, Februay 11, 1853.
-                     The ship was on its way to San Francisco with over 1100 passengers. 6 had died of Panama Fever when Doane sees the ship.</desc>
-                  <bibl><ref target="#MHP"></ref></bibl>
-                  </item>
-                  <!-- Chloe Goodhart's ships end here -->
-               <!-- Ken Angel's ships begin here. -->
-               <item xml:id="Commonwealth">
-                  <name type="Ship">Commonwealth</name>
-                  <country>USA</country>
-                  <persName type="Captain">Edmund N. Doane</persName>
-               </item>
-               <!-- Ken Angel's ships end here -->
-               <!-- Lauren Sheridans' ships begin here. -->
-               <item xml:id="SNTR">
-                  <name type="steamer">Senator</name>
-                  <country>USA</country>
-                  <date type="launched" notBefore="1849-01">January 1849</date>
-                  <date type="retired" when="1882">1882</date>
-                  <persName type="Captain">Captain Coffin</persName>
-                  <bibl><ref target="#SDHC">Woodward</ref></bibl>
-               </item>
-               <!-- Lauren Sheridans' ships end here. -->
-               <!-- Elizabeth Snowden's ships begin here. -->
-               <item xml:id="Whirlwind">
-                  <name type="Clipper">Whirlwind</name>
-                  <persName type="Captain">Burgess</persName>
-               </item>
-               <item xml:id="Alboir">
-                  <name type="Clipper">Alboir</name>
-               </item>
-               <!-- Elizabeth Snowden's ships end here. -->
-               <!-- Devan Toncler's ships begin here. --> 
-               <item xml:id="Monteria">
-                  <name type="ship">Monteria</name>
-                  <persName type="Captain">Captain Lowell</persName>
-               </item>
-               <!-- Devan Toncler's ships end here. --> 
-            </list>
-</div> 
-         
-<div type="editorial" xml:id="Doane-Orgs">         
-   <head>List of Organizations</head>
-   <listOrg>
-               <org xml:id="FN">
-                  <orgName>Fosters and Nickerson</orgName>
-                  <state type="partners">
-                     <desc><persName ref="FrederickNickerson">Frederick Nickerson</persName>
-                        <persName ref="WHF">W.H. Foster</persName></desc>
-                  </state>
-                  <region>Boston, MA</region>
-                  <desc>Most likely, Louisa is referring to the parternship between the 
-                     shipbuilding company Foster and Co. and merchant company Nickerson and Co.</desc>
-               </org>
-               <org xml:id="HowAsp" source="#ANB-WHA">
-                  <orgName> Howland and Aspinwall</orgName>
-                  <state type="Owners">
-                     <desc>
-                        <persName ref="WHA" notBefore="1834" notAfter="1856">William Henry Aspinwall</persName>
-                        <persName ref="JLA" notBefore="1850">John Lloyd Aspinwall</persName>
-                        <persName ref="WEH" notBefore="1834">William Edgar Howland</persName>
-                     </desc>
-                  </state>
-               </org>
-   </listOrg>   
-</div>
-         
-         <div type="editorial" xml:id="Doane-Bib">
-            <head>Works Cited</head>
-            <listBibl>
-               <!-- Cara Laviola and Garrett Harmon's Works Cited begins here -->
-               <bibl xml:id="THL" n="Theal">Theal, George McCall. <title level="m">Records of the
-                     Cape Colony. </title>London: William Clowes and Sons, Stamford Street and
-                  Charing Cross, 1898. Web.</bibl>
-               <bibl xml:id="SEN" n="Senate">Armstrong, Robert. <title>Executive Documents Printed
-                     By Order of the Senate of the United States. </title>Unites States. Congress,
-                  Senate. 1853. Web.</bibl>
-               <!-- Cara Laviola and Garrett Harmon's Works Cited ends here -->
-               <!-- Devan and Krysta's works cited starts here -->
-               <bibl xml:id="NYT1" n="NewYorkTimes">
-                  <title level="a">The Fourth Abroad</title><title level="m">New York Times</title>
-                  6 July 1872. Print. </bibl>
-               <bibl xml:id="NYT2" n="NewYork Times2"><title level="a">Independence Day in the
-                     British Captial</title><title level="m">New York Times</title> 26 July 1858.
-                  Print. </bibl>
-               <bibl xml:id="Sprague">
-                  <title level="m">"Celebration of the seventy-third anniversary of the Declaration of Independence of the United States on board the Barque "Hannah Sprague," at sea, July 4th, 1849."</title>.
-                  New York: Joseph H. Jennings and Co., 1849. <title level="m">Google Books</title>. Web. 31 May. 2011
-               </bibl>
-               <bibl xml:id="Sumner" n="Sumner">Sumner, George. 
-                  <title level="m">"An oration delivered before the municipal authorities of the City of Boston, July 4, 1859."</title>.
-                  Boston: Geo. C, Rand and Averty, 1859. <title level="m">Google Books</title>. Web. 31 May. 2011
-               </bibl>
-               <bibl xml:id="Overton" n="Overton">Overton Choules, John. 
-                  <title level="m">"The cruise of the steam yacth North Star."</title>.
-                  Boston: Gould and Lincoln, 1854. 159. <title level="m">Google Books</title>. Web. 31 May. 2011
-               </bibl>
-               <!-- Devan and Krysta's works cited ends here -->               
-               <!-- Alex Veeley, Rachel Cross, and Beau Peiffer's Works Cited start here -->
-               <bibl xml:id="Thor" n="Cocaine">Thorington, James. <title level="j"> Cocaine in the
-                     Treatment of Yellow Fever</title> The American Journal of the Medical Sciences,
-                  Vol. 99. 1890: 150-154 PDF File</bibl>
-               <bibl xml:id="Overland" n="PanamaFever"><title level="j"> The Panama Fever</title>
-                  Overland Monthly and Out West Magazine, Vol. 1. 1868: 553-562 PDF File</bibl>
-               <bibl xml:id="Bird" n="Contributions"> Bird, James. <title level="j">Contributions to
-                     the Pathology and Treatment of Cholera</title> The London Journal of Medicine,
-                  Vol. 1. 1849: 313-321. Print</bibl>
-               <bibl xml:id="NorthAmerRevi" n="OntheCholera"><title level="j"> On the
-                     Cholera</title> The North American Review, Vol. 35. 1832:92-118. Print</bibl>
-               <bibl xml:id="Graham" n="Assistant"> Graham, Thomas. <title level="j"> An Assistant
-                     Ship Surgeon's Acoount of Cholera at Sea</title> Journal of Public Health, Vol.
-                  30. 1850: 332-338. Print</bibl>
-               <!-- Alex Veeley, Rachel Cross, and Beau Peiffer's Works Cited end here -->
-               <!-- Megan Maxwell, Cory Sheetz, and Kenneth Angel's citations citations start here -->
-               <bibl xml:id="Hittel" n="Hittel">Hittel, John Shertzer. <title level="m">
-                  "A history of the City of San Francisco"</title>San Francisco: A.L. Bancroft and
-                  Company, 1878. Online.</bibl>
-               <bibl xml:id="Clipper" n="Clipper"><title level="m">"Clipper Ships"</title>Funk
-                  and Wagnall's Corporation, 1996. Online.</bibl>
-               <bibl xml:id="DOS">
-                  <title level="m">The Doom of the Slaver</title>Harper's Magazine, Volume 1. June
-                  1850. Harper and Brothers publishers. 28 May 2011 </bibl>
-               <bibl xml:id="JCD">
-                  <title level="m">Journal of a Cruise of the United States Schooner Dolphin, Among
-                     the Islands of the Pacific Ocean; And a Visit to the Mulgrave Islands, In
-                     Pursuit of the Mutineers of the Whale Ship Globe.</title>Journal of a Cruise of
-                  the United States Schooner Dolphin, Among the Islands of the Pacific Ocean; And a
-                  Visit to the Mulgrave Islands, In Pursuit of the Mutineers of the Whale Ship
-                  Globe. 1878.Ludwig and Tolfree Printers. 28 May 2011 </bibl>
-               <bibl xml:id="ROY">
-                  <title level="m">The Rig of Yachts</title>Hunt's Yachting Magazine, Volume 5. 20
-                  April 1877. Hunt and Co. 28 May 2011 </bibl>
-               <bibl xml:id="JOV">
-                  <title level="m">Journal of Voyages</title>Journal of Voyages. Captain Jacob
-                  Dunham. 1850. 28 May 2011. </bibl>
-               <bibl xml:id="STS" n="Quiller-Couch"> Quiller-Couch Arthur Thomas. <title level="m"
-                     >The story of the sea, Volume 1</title>. London, Paris and Melbourne: Cassell
-                  and Co., 1895. 18-21. <title level="m">Google Books</title>. Date of visit: 24 May
-                  2011. Web. </bibl>
-               <bibl xml:id="MTO" n="Ballantyne"> Ballantyne, R. M. <title level="m">Man on the
-                     Ocean</title>. London: T. Nelson and Sons, 1863. 214-15. <title level="m"
-                     >Google Books</title>. Date of visit: 22 May 2011. Web. </bibl>
-               <!-- Megan Maxwell, Cory Sheetz, and Kenneth Angel's citations end here -->
-               <!--Chloe Goodhart, Lauren Sheridan, and Keisha Trott's Works Cited start here -->
-               <bibl xml:id="ABurial" n="MarylandGazette"><title level="a">A Burial at Sea.</title>
-                  Editorial. <title level="m">Maryland Gazette</title> 31 July 1829, 31st ed.
-                  Print.</bibl>
-               <bibl xml:id="BurialatSea" n="Stewart">Stewart, David. <title level="a">Burial at
-                     Sea: Separating and Placing the Dead during the Age of Sail.</title>
-                  <title level="m">Mortality</title> 10.4(2005):276-85. <title level="m"
-                     >JSTOR</title> Web. 21 May 2011.</bibl>
-               <bibl xml:id="BurialLeaf" n="Irving">Irving, Robert. <title level="a">Burial at Sea:
-                     A Stray Leaf from a Log Book.</title>
-                  <title level="m">The Metropolitan Magazine</title> L (1847):237-42. Google Books.
-                  Web. 20 May 2011.</bibl>
-               <bibl xml:id="Adventures" n="Coultor">Coultor, John. <title level="m">Adventures on
-                     the Western Coast of South America, and the Interior of California: including a
-                     Narrative of Incidents at the Kingsmill Islands, New Ireland, New Britain, New
-                     Guinea, and Other Islands in the Pacific Ocean.</title> Vol.1. London: Longman,
-                  Brown, Green, and Longmans, 1847. Google Books, 24 March 2006. Web. 20 May
-                  2011.</bibl>
-               <!--Chloe Goodhart, Lauren Sheridan, and Keisha Trott's Works Cited end here -->
-               <!-- Elizabeth Snowden and Alecia Mouhanna's Works Cited Starts Here -->
-               <bibl xml:id="TH" n="Hodgskin">Hodgskin, Thomas <title level="m"> An Essay on Naval
-                     Discipline, Shewing Part of Its Evil Effects on The Minds of the Officers, On
-                     the Mind of the Men, and on the Community; With An Amended System, By Which
-                     Pressing May Be Immediately Abolished</title> London: C. Squire,
-                  Furnival's-Inn-Court, 1813. <title level="m">Google Books</title>Web. 30 May 2011.
-               </bibl>
-               <bibl xml:id="AWAP" n="Pollock">Pollock, Arthur William Alsager <title level="a">"The
-                     Cat and The Cord"</title>The United Service Magazine, 1850: 23-24. <title
-                     level="a">Google Books</title>Web. 30 May 2011. </bibl>
-               <bibl xml:id="MCG" n="Glenn">Glenn, Myra C. <title level="a">The Naval Reform
-                     Campaign Against Flogging: A Case Study in Changing Attitudes Toward Corporal
-                     Punishment, 1830-1850</title> American Quarterly. 35.4 (1983):408-425. Print.
-               </bibl>
-               <!-- Elizabeth Snowden and Alecia Mouhanna's Works Cited Ends Here -->
-               <!-- Lindsay Kelly's Works Cited begin here -->
-               <bibl xml:id="Panda" n="Current">WWF: World Wildlife Fund. <title level="a"> Humboldt Current</title> 
-                  http://wwf.panda.org/about_our_earth/ecoregions/humboldt_current.cfm
-               </bibl>
-               <bibl xml:id="IncaPeru" n="Sayer">Sayer, Chloe. <title level="m">The Incas</title>London, UK. Wayland Publishers
-                  Ltd, 1998. Print.</bibl>
-               <bibl xml:id="Acquisition" n="GuanoProtect"><title level="a">Acquisition Process of Insular Areas</title>McDermott, Joseph OIA 2003.
-                  Office of Insular Affairs, Washington, DC. 
-               </bibl>
-               <bibl xml:id="GuanoT" n="GuanoTrade"><title level="a">Guano Trade</title>Trade and Enviornment Database, 1997.</bibl>
-               <!-- Lindsay Kelly's Works Cited end here -->
-               <bibl xml:id="Manual" n="Wilson">Wilson, Robert, Lieutenant. <title level="m">"The seaman's
-                     manual, Containing all the technical words and phrases used at sea and
-                     belonging to a ship; including all those introduced in later years, and not to
-                     be met with in any work of the kind; alphabetically arranged. Together with
-                     instructions to young men, entering on a seafaring life; with the duty og a
-                     midshipman; By Robert Wilson, a lieutenant in His Majesty's Navy, and teacher
-                     at the Marine-Academy at Chelsea. Necessary for every young, who, without such
-                     help as this book affords, will be an age in learning all the terms, &amp;c.
-                  </title> London: 1790. <title level="j">Eighteenth Century Collections
-                     Online</title>. Gale. Ohio State Univ Libraries/Columbus. Web. 22 Feb. 2010.
-               </bibl>               
-               <bibl xml:id="Springer" n="Springer">Springer, Haskell. <title level="a">The Captain's Wife at
-                     Sea.</title><title level="m">Iron Men, Wooden Women: Gender and seafaring in
-                     the Atlantic world, 1700-1920</title>. Ed. Margaret S. Creighton and Linda
-                  Norling. Baltimore: The Johns Hopkins University Press, 1996. 92-117. Print.
-               </bibl>               
-               <bibl xml:id="Druett" n="Druett">Druett, Joan. <title level="m">Hen Frigates: Passion and Peril,
-                     Nineteenth Century Women at Sea</title>. New York: Simon and Schuster, 1998.
-                  Web.
-               </bibl>               
-               <bibl xml:id="Cordingly" n="Cordingly">Cordingly, David. <title level="m">Seafaring Women:
-                     Adventures of Pirate Queens, Female Stowaways and Sailors' Wives</title>. New
-                  York: Random House, 2007. Print.
-               </bibl>               
-               <bibl xml:id="Glenn" n="Glenn">Glenn, Myra C. <title level="a">The Naval Reform Campaign
-                     Against Flogging: A Case Study in Changing Attitudes Toward Corporal
-                     Punishment, 1830-1850</title>. <title level="j">American Quarterly</title> 35.4
-                  (1983): 408-425. Web.
-               </bibl>              
-               <bibl xml:id="Falconers" n="Falconer">Falconer, William. <title level="m">William Falconer's
-                     Dictionary of the Marine</title>. London: Thomas Caddell, 1790. <title
-                     level="j">South Seas, National Library of Australia</title>. Web. 21 Feb,
-                  2010.
-               </bibl>
-               <bibl xml:id="Scurvy" n="King"> King, Frederick J., Harry Leach and John Picthall. 
-                  <title level="a">Scurvy: To the Editor of the Times.
-                  </title> 
-                  <title level="m"> The Times.
-                  </title> 12 January 1866: 7, col: F. PDF File.
-               </bibl>
-               <bibl xml:id="FamSearch" n="Family">
-                  <title level="m">Family Search</title>. N.p.: The Church of Jesus Christ of
-                  Latter-day Saints, 2008. 25 Feb. 2009. Web. 
-               </bibl>
-               <bibl xml:id="Queens" n="Cutler">
-                  Cutler, Carl. C. <title level="m">Queens of the Western Ocean: The Story of
-                  America's Mail and Passenger Sailing Lines</title>. Annapolis, MD: United
-                  States Naval Institute, 1961. Print.
-               </bibl>
-               <bibl xml:id="NYGBR" n="New York">
-               <title level="m">The New York Genealogical and Biographical Record</title>.
-               Vol. 46. New York: New York Geneological and Biographical Society, 1915. Print.
-               </bibl>
-               <bibl xml:id="TGN" n="Getty">
-                <title level="m">Getty Thesaurus of Geographical Names</title>
-               </bibl>
-               <bibl xml:id="GNS" n="GEOnet">
-                <title level="m">GEOnet Names Server</title>  
-               </bibl>
-               <bibl xml:id="Quarantine" n="Barring">
-                  "Barring Out Epidemics: How Dreaded Diseases are Met and Driven Away." 
-                  <title level="m">The New York Times</title>. 28 July 1879: 5. <title level="m">The
-                  New York Times Archives</title>. Web. 6 Feb. 2010.
-               </bibl>
-               <bibl xml:id="Schriber" n="Shriber">
-                  Schriber, Mary Suzanne. <title level="m">Writing Home: American Women Abroad, 
-                     1830-1920</title>. Charlottesville, VA: UP of Virginia, 1997. Print.
-               </bibl>
-               <bibl xml:id="Stowe" n="Stowe">
-                  Stowe, William W. <title level="m">Going Abroad: European Travel in Nineteenth-Century
-                     American Culture</title>. Princeton, NJ: Princeton UP, 1994. Print.
-               </bibl>
-               <bibl xml:id="Cox" n="Ulman">
-                  Ulman, H. Lewis. et al, eds. <title level="m">Samuel Sullivan Cox's </title>"Journal 
-                  of a Tour to Europe" <title level="m">(1851)</title>. The Ohio State University 
-                  College of Humanities, 2007. Web. 4 Mar. 2010.
-               </bibl>
-               <bibl xml:id="Kirkland" n="Kirkland">
-                  Kirkland, Joseph. "These Foreigners Again." <title level="m">The Western Monthly</title>.
-                  1-2 (1869): 248-54. <title level="m">Google Books</title>. Web. 3 Mar. 2010
-               </bibl>
-               <bibl xml:id="Siddons" n="Siddons">
-                  Siddons, J. H. <title level="m">Norton's Hand-Book to Europe; or, How to Travel in the 
-                     Old World</title>. New York, NY: Charles B. Norton, 1860. <title level="m">Google 
-                        Books</title>. Web. 24 Feb. 2010.
-               </bibl>
-               <bibl xml:id="Murray" n="Murray">
-                  Murray, John. <title level="m">A Handbook for Travellers in France</title>. London:
-                  John Murray, 1867. <title level="m">Google Books</title>. Web. 28 Feb. 2010.
-               </bibl>
-               <bibl xml:id="Rolfe" n="Rolfe">
-                  Rolfe, William J. <title level="m">A Satchel Guide to Europe</title>. Cambridge, MA:
-                  Riverside Press, 1924. Print.
-               </bibl>
-               <bibl xml:id="ASMDA" n="American">
-                  <title level="m">  The American Ship-Master's Daily Assistant; or a Compendium of marine law and mercantile regulations
-                     being a correct and useful guide to all men in business, especially those employed in the merchant service
-                     explaining by judicial decisions, the duty, authority, and responsibility of ship-masters, and the 
-                     liability of ship-owners for supercargoes, and masters of vessels the whole carefully compiled from undoubted
-                     sources</title> Portland, ME: Daniel Johnson, 1807. Print.
-               </bibl> 
-               <bibl xml:id="ANB-WHA" n="Delgado">
-                  Delgado, James P. <title level="a">Aspinwall, William Henry.</title> <title level="m">American National Bibliography Online</title>. Feb 2000. Web. March 5, 2010.
-               </bibl>
-               <bibl xml:id="GuanoAct" n="Guano">
-                  <title level="a">Chap. CLXIV.-An Act to Authorize Protection to be given to Citizens of the United States who may Discover Deposits of Guano.</title> 
-                  <title level="m">The Statutes at Large and Treatises of the United States of America Vol 34</title> George Minot, ed. Boston: 
-                  Little Brown and Company, 1856. 119. Print.
-               </bibl>
-               <bibl xml:id="PanamaFever" n="Buel">Buel, William P. <title level="a">On 'Chagres
-                     Fever' and some of the other Diseases to which California Emigrants are
-                     liable.</title>
-                  <title level="m">The American Journal of the Medical Sciences</title>. April 1856:
-                  319-326.</bibl>
-               <bibl xml:id="BMSS" n="Boston"><title level="m">Boston Medical and Surgical
-                     Service</title>. <title level="a">Physician for Ships.</title>
-                  <title level="m">The Friend: A Religious and Literary Journal</title>. Ed. Robert
-                  Smith. 14.14 (1842): 107.</bibl>
-               <bibl xml:id="PlantersMariners" n="Ewell">Ewell, James. <title level="m">The Planters
-                     and Mariners Medical Companion</title> . Philadelphia : Printed by John Bioren,
-                  1807. American Antiquarian Society and NewsBank, Inc. 2004. Web. 6 March 2010.
-               </bibl>
-               <bibl xml:id="Observations" n="Blane"> Blane, Gilbert. <title level="a">Observations
-                     on the Disease of Seamen</title>. <title level="m">The Health of Seamen:
-                     Selections from the Works of Dr. James Lind, Sir Gilbert Blane and Dr. Thomas
-                     Trotter</title>. Ed. Christopher Lloyd. London: Navy Records Society, 1965.
-                  136-174. Print. </bibl>
-               <bibl xml:id="HistoryMed" n="Langley"> Langley, Harold D. <title level="m">A History
-                     of Medicine in the Early U.S. Navy</title>. Baltimore: Johns Hopkins University
-                  Press, 1995. Print. </bibl>
-               <bibl xml:id="MedGrowth" n="Cassedy"> Cassedy, James H. <title level="m">Medicine and
-                     American Growth, 1800-1860</title>. Madison, Wis: University of Wisconsin
-                  Press, 1986. Print. </bibl>
-               <bibl xml:id="ScurvyBrit" n="Cook">Cook, G.C. <title level="a">Scurvy in the British
-                     Mercantile Marine in the 19th century, and the contribution of the Seamen’s
-                     Hospital Society</title>. <title level="j">Postgraduate Medical Journal
-                     (Online)</title>. 80.942 (2004): 225-229. PDF File. </bibl>
-               <!-- Ken Angel's Works Cited begin here -->             
-               <bibl xml:id="OED">
-                  <title level="m">Oxford English Dictionary online</title> OED Online. March 2011. Oxford University Press. 5 May 2011 
-               </bibl>
-               <!-- Ken Angel's Works Cited end here -->             
-               <!-- Lauren Sheridan's Works Cited begin here -->
-               <bibl xml:id="SHC" n="Woodward">Woodward, Arthur. <title level="m">The Old Side-Wheeler Senator.</title> San Diego History Center. University of San Diego. Web. 2 May 2011.
-               </bibl>
-               <bibl xml:id="OxfordEnglishDictionary">
-                  <title level="m">Oxford English Dictionary</title> Oxford English Dictionary Online. March 2011. Oxford University Press. 17 May 2011.
-               </bibl>
-               <!-- Lauren Sheridan's Works Cited end here -->
-               <!-- Rachel Cross's Works Cited begin here -->
-               <bibl xml:id="Scrofula" n="PubMed">PubMed Health.
-                  <title level="m">Scrofula</title>. Date of visit: 16 May. 2011 
-               </bibl>
-               <bibl xml:id="PATD" n="AitkenDavison">Aitken, Peter.  Davison, Tim.  <title>The Science Bit: Basic Sailing Theory</title> Wiley Nautical.  Date of visit: 16 May 2011.
-               </bibl>
-               <!-- Rachel Cross's Works Cited end here -->
-               <!-- Cara Laviola's Work Cited begins here -->
-               <bibl xml:id="Manson" n="Manson">Manson, Otis Frederick. <title level="m">A Treatise on the Physiological and Therapeutic Action of the Sulphate of Quinine</title>.
-                  Philadelphia: J. B. Lippincott, 1882. <title level="m">Google Books</title>. Web. 16 May 2011.
-               </bibl>
-               <bibl xml:id="Melville" n="Melville">Melville, Herman. <title level="m">Typee: A Peep at Polynesian Life During A Four Months' Residence in A Valley of the Marquesas; The Revised Edition, with a Sequel</title>.
-                  New York: Wiley and Putnam, 1847. <title level="m">Google Books</title>. Web. 16 May 2011.
-               </bibl>
-               <bibl xml:id="Gill" n="Gill">Gill, J. Thompson. <title level="m">The Complete Bread, Cake and Cracker Baker in Two Parts</title>.
-                  Chicago: J. Thompson Gill Manager Confectioner and Baker Publishing Co., 1881. <title level="m">Google Books</title>. Web. 16 May 2011.
-               </bibl>
-               <bibl xml:id="Appletons" n="Jones">Jones, A. <title level="a">At Sea</title>. <title level="m">Appletons' Journal of Literature, Science 
-                  and Art, Issues 93-117</title>. 14 Jan. 1871: 42-45. <title level="m">Google Books</title>. Web. 16 May 2011. </bibl>
-               <!-- Cara Laviola's Work Cited ends here -->
-               <!-- Devan Toncler's Works Cited Starts here -->
-               <bibl xml:id="CalfsFeetJelly" n="Ude">
-                  Ude, Louis Eustache <title level="m">The French Cook</title> 7th ed. London, England: John Ebers, 1822. Print.   
-               </bibl>
-               <bibl xml:id="BoiledTongue" n="ACWW">
-                  The Associated College Women Workers <title level="m">The Country Cook cook book</title> 1st ed. Chicago, IL: Mabel E.Sturtevant, 1912. Print.
-               </bibl>
-               <bibl xml:id="BlancheMange" n="Arcana">
-                  <title level="m">Arcana of Science and Art: or,an Annual Register of Useful Inventions and Improvements, Discoveries and New Facts in Mechanics, Chemistry, Natural History, and Social Economy; 
-                     Abridged from the Transactions of Publics Socities, and from Other Scientific Journals, British ad Foreign, of the Past Year.</title> 1st ed. London, England: John Limbard, 1835. Print. 
-               </bibl>
-               <!-- Devan Toncler's Works Cited ends here -->
-               <!-- Elizabeth Snowden's Works Cited Starts Here -->
-               <bibl xml:id="HCF" n="Folkard"> Folkard, Henry Coleman <title level="m"> The Sailing Boat: A Treatise on English and Foreign Boats, Descriptive
-                  of the Various Forms of Boats and Sails of Every Nation; With Practical Directions for Sailing, Management, &amp;c. </title>
-                  3rd ed. London: Longman, Green, Longman and Roberts, 1863. <title level="m"> Google Books</title> Web. 16 May 2011.
-               </bibl>
-               <bibl xml:id="JW" n="Whiting"> Whiting, James <title level="m"> The New York Shippers and Consignees' Guide,
-                  Designed to Facilitate The Commercial, Mercantile and Shipping Interests of New York</title>. New York, NY: E.Y.
-                  Butler &amp; Co., Publishers, 1861. <title level="m">Google Books</title> Web. 16 May 2011.
-               </bibl>
-               <bibl xml:id="DK" n="Kemp"> Kemp, Dixon <title level="m">A Manual of Yacht and Boat Sailing</title>. 4th ed.
-                  London: Horace Cox, 1884. <title level="m">Google Books</title> Web. 16 May 2011.
-               </bibl>
-               <!-- Elizabeth Snowden's Works Cited Ends Here -->
-               <!-- Chloe Goodhart's Work Cited begin here -->
-               <bibl xml:id="MHP">The Maritime Heritage Project. <title level="m">Passengers arriving in San Francisco, California by Ship During the 1800s</title> The Maritime Heritage Project with News of Captains, Ships and Passengers in 1800s San Francisco. Web. 3 May 2011. </bibl>
-               <bibl xml:id="EmigrantBurial"><title level="a">The Emigrant's Burial at Sea</title> <title level="m">The Advocate of Moral Reform and Family Guardian.</title> 19 (1853):85. <title level="m">Google Books.</title> Web. 10 May 2011.</bibl>
-               <bibl xml:id="WCJ" n="Rogers">Rogers, S. <title level="a">Treatment in a Case of Dysentery</title> Ed. Joel Shew. The Water Cure Journal, and Herald of Reforms. Vol. V and VI. New York: Fowlers and Wells 1848. 79. <title level="m">Google Books</title> Web. 14 May 2011. </bibl>
-               <!-- Chloe Goodhart's Work Cited end here -->
-               <!-- Alecia Mouhanna's Works Cited begin here-->
-               <bibl xml:id="JEL" n="Land"> Land, John E. <title level="m"> Mobile, Her Trade, Commerce, and Industries, 1883-4</title> 
-                  Massachussetts: Harvard University, 1884.  Web. 12 May 2011</bibl>
-               <!-- Alecia Mouhanna's Works Cited end here -->
-               <!-- Krysta Ruley's Works Cited begin here -->                         
-               <bibl xml:id="NYT"><title level="m">Marine Intelligence</title> The New York Times. April 19, 1852. Online. 19 May 2011 </bibl>  
-               <bibl xml:id="NYT3"><title level="m">Shipping Intelligence</title> The New York Times. March 30, 1854. Online. 19 May 2011 </bibl> 
-               <bibl xml:id="TLC">Addison, C. G. <title level="m">A Treatise on the Law of Contract</title>.Jersey City, NJ: Frederick D. Linn and Co., Law Publishers, 1881. 688. Web. 19 May 2011</bibl>
-               <!-- Krysta Ruley's Works Cited end here -->
-               <!-- Keisha Trott's Works Cited begin here -->
-               <bibl xml:id="TSB" n="Sewing"> <title level="m">The Sewing Bird.</title>Harper's New Monthly Magazine, Vol. 21. 1860: 488. Print.</bibl>
-               <bibl xml:id="TCSNVTFS" n="Nightingale"><title level="m">The Clipper-Ship Nightingale vs. The Flying Scud</title>Monthly Nautical Magazine, and quarterly rview, Vol. 2. 1855: 267. Print</bibl>
-               <!-- Keisha Trott's Works Cited end here -->
-               <!-- Alexandria Veeley's Works Cited begin here -->
-               <bibl xml:id="GB" n="Congressional Edition"><title level="m">Congressional Edition</title>.
-                  California: 1893. <title level="m">Google Books</title>. Web. 19 May. 2011.</bibl>
-               <!-- Alexandria Veeley's Works Cited end here -->
-               <!-- Garrett Harmon's Works Cited begin here -->
-               <bibl xml:id="HOC" n="House">House of Commons. <title level="m">Report From the Select Committe on Copyright of Designs.</title>. England. House of Commons, 1840.
-                  Web.
-               </bibl>
-               <bibl xml:id="RECh" n="Report">Baly, William. Gull, William. <title level="m">Reports on Epidemic Cholera.</title>. London: John Churchill, Princes Street, SOHO, 1854.
-                  Web.
-               </bibl>
-               <!-- Garrett Harmon's Works Cited end here -->
-            </listBibl>
-         </div>
-         
-      </back>
+      
    </text>
 
 </TEI>
