@@ -389,7 +389,6 @@
                   <!--<p id="font-size"></p>-->
                   <p style="font-size:smaller">
                      <strong>Edited by</strong><br/>
-                     Andrea Avenido<br/>
                      Kenneth M. Angel<br/>
                      Dorothy F. Chalk<br/>
                      R. E. Cross<br/>
