@@ -200,26 +200,27 @@
             <div id="navBar">
                 
                <div id="display1"><!-- Begin display1 -->
-                  <button class="modalb" id="b1"><img id="myImg1" src="image_sscox_portrait.jpg" alt="Portrait of Samuel Sullivan Cox (undated). Frontispiece. Cox and Northrup, 1899." title="Portrait of Samuel Sullivan Cox (undated)" width="100"/></button>
+                  <button class="modalb" id="b1"><img id="myImg1" src="image_clipper_ship.jpg" alt="Clipper ship in full sail" title="Clipper ship in full sail" width="100"/></button>
                      <div id="myModal1" class="modal">
-                        <a href="image_sscox_portrait_longdesc.html" class="description">[Description]</a><br/>
+                        <a href="image_clipper_ship_longdesc.html" class="description">[Description]</a><br/>
                         <button class="modalb close" onclick="document.getElementById('myModal1').style.display='none'">[Close]</button>
-                        <img class="modal-content" id="img1" src="image_sscox_portrait.jpg" alt="Portrait of Samuel Sullivan Cox (undated). Frontispiece. Cox and Northrup, 1899"/>
+                        <img class="modal-content" id="img1" src="image_clipper_ship.jpg" alt="Clipper ship in full sail"/>
                         <div id="caption1">
-                           Portrait of Samuel Sullivan Cox (undated)<br>Frontispiece. Cox and Northrup, 1899</br>
+                           The American Clipper Ship Great Republic<br/><cite>The Illustrated London News</cite>, 1855
+                           <br/>Courtesy Library of Congress Prints and Photographs Online Catalog
                         </div>
                      </div> <!-- End myModal1 -->
                </div> <!-- End display1 -->
                
                <!-- Begin display2 -->
                <div id="display2">
-                  <button class="modalb" id="b2"><img id="myImg2" src="image_sscox_1854_DecorativeTitle.jpg" alt="Decorative Title Page from A Buckeye Abroad (1854)." title="Decorative Title Page from A Buckeye Abroad (1854)" width="100"/></button>
+                  <button class="modalb" id="b2"><img id="myImg2" src="image_OldHarborMarseille03.jpg" alt="The old harbor of Marseille" title="The old harbor of Marseille" width="100"/></button>
                   <div id="myModal2" class="modal">
-                     <a href="image_sscox_1854_DecorativeTitle_longdesc.html" class="description">[Description]</a><br/>
+                     <a href="image_OldHarborMarseille03_longdesc.html" class="description">[Description]</a><br/>
                      <button class="modalb close" onclick="document.getElementById('myModal2').style.display='none'">[Close]</button>
-                     <img class="modal-content" id="img2" src="image_sscox_1854_DecorativeTitle.jpg" alt="Decorative Title Page from A Buckeye Abroad (1854)"/>
+                     <img class="modal-content" id="img2" src="image_OldHarborMarseille03.jpg" alt="The old harbor of Marseille"/>
                      <div id="caption2">
-                        Decorative Title Page<br>from <cite>A Buckeye Abroad</cite>. Cincinnati: Moore, Anderson, 1854</br>
+                        The Old Harbor, Marseille<br/>Courtesy Library of Congress Prints and Photographs Online Catalog
                      </div>
                   </div> <!-- End myModal2 -->
                   <script>		
@@ -248,13 +249,14 @@
                
                <!-- Begin display3 -->         
                <div id="display3">
-                  <button class="modalb" id="b3"><img id="myImg3" src="image_sscox_rmsAsia.jpg" alt="Royal Mail Steam Ship Asia. New York: N. Currier, 1851" title="Royal Mail Steam Ship Asia" width="100"/></button>
+                  <button class="modalb" id="b3"><img id="myImg3" src="image_ChineseMiners_Chinca_Islands.jpg" alt="Chinese guano miners, Chinca Islands" title="Chinese guano miners, Chinca Islands" width="100"/></button>
                      <div id="myModal3" class="modal">
-                        <a href="image_sscox_rmsAsia_longdesc.html" class="description">[Description]</a><br/>
+                        <a href="image_ChineseMiners_Chinca_Islands_longdesc.html" class="description">[Description]</a><br/>
                         <button class=" modalb close" onclick="document.getElementById('myModal3').style.display='none'">[Close]</button>
-                        <img class="modal-content" id="img3" src="image_sscox_rmsAsia.jpg" alt="Royal Mail Steam Ship Asia. New York: N. Currier, 1851"/>
+                        <img class="modal-content" id="img3" src="image_ChineseMiners_Chinca_Islands.jpg" alt="Chinese miners, Chinca Islands"/>
                         <div id="caption3">
-                           Royal Mail Steamship Asia<br/>New York: N. Currier, 1851<br>Library of Congress https://www.loc.gov/pictures/item/2001704213/</br>
+                           Chinese guano miners, Chinca Islands, 1865<br/><cite>Rays of Sunlight from South America</cite>, by Alexander Gardner (1865)<br/>
+                           Courtesy National Museum of American History<br/>
                         </div>
                      </div> <!-- End myModal3 -->
                      <script>
@@ -281,8 +283,9 @@
                               }
                      </script>
                </div> <!-- End display3 -->
-               
-               <!-- Begin display4 -->
+               <!--
+                  
+               <!-\- Begin display4 -\->
                
                <div id="display4">
                   <button class="modalb" id="b4"><img id="myImg4" src="image_sscox_illus_PoetsCorner.jpg" alt="Poet's Corner, Westminster Abbey. Illustration from A Buckeye Abroad (1854)" title="Poet's Corner, Westminster Abbey. Illustration from A Buckeye Abroad (1854)" width="100"/></button>
@@ -292,7 +295,7 @@
                         <img class="modal-content" id="img4" src="image_sscox_illus_PoetsCorner.jpg" alt="Poet's Corner, Westminster Abbey. Illustration from A Buckeye Abroad (1854)."/>
                         <div id="caption4">
                            Poet's Corner, Westminster Abbey.<br/>Illustration from <cite>A Buckeye Abroad</cite><br/>Cincinnati: Moore, Anderson, 1854.
-                        </div> <!-- End myModal4 -->
+                        </div> <!-\- End myModal4 -\->
                         <script>
                            
                            // Get the modal
@@ -316,10 +319,10 @@
                                  modal4.style.display = "none";
                                  }
                         </script>
-                     </div> <!-- End modal4 -->
-               </div> <!-- End display 4 -->
+                     </div> <!-\- End modal4 -\->
+               </div> <!-\- End display 4 -\->
                      
-                     <!-- Begin display5 -->
+                     <!-\- Begin display5 -\->
                      
                      <div id="display5">
                         <button class="modalb" id="b5"><img id="myImg5" src="image_sscox_illus_Pompeii.jpg" alt="A Villa in Pompeii. Illustration from A Buckeye Abroad (1854)" title="A Villa in Pompeii. Illustration from A Buckeye Abroad (1854)" width="100"/></button>
@@ -330,9 +333,10 @@
                               <div id="caption5">
                                  A Villa in Pompeii<br/>Illustration from <cite>A Buckeye Abroad</cite> <br/>Cincinnati: Moore, Anderson, 1854
                               </div>
-                           </div> <!-- End myModal5 -->
+                           </div> <!-\- End myModal5 -\->
                            <script>
-                              
+  
+               
                               // Get the modal
                               var modal5 = document.getElementById('myModal5');
                               
@@ -354,8 +358,10 @@
                                     modal5.style.display = "none";
                                     }
                            </script>
-                     </div> <!-- End display5 -->
-                     <script>
+                     </div> 
+            <!-\- End display5 -\->
+-->  
+               <script>
                         // Get the first modal
                         var modal1 = document.getElementById('myModal1');
                         

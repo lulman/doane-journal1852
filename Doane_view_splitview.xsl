@@ -75,7 +75,7 @@
       top:120px;
       float : left;
       text-align : left;
-      margin-left: 10px;
+      <!--margin-left: 10px;-->
       margin-top:0px;
       background-color: rgba(255, 255, 255, 1);
       }
