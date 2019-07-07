@@ -389,7 +389,7 @@
             <!-- END THE VERTICAL IMAGE BAR -->
             <!-- START RIGHT MENU -->   
             <div id="viewMenu">
-               <p class="aboutView"><a href="./sscox_journal.html#view">About this page.</a></p>
+               <p class="aboutView"><a href="./doane_journal.html#view">About this page.</a></p>
                <div class="container">
                   <p class="font-size-label">Font Size <button id="up">+</button> <button id="down">-</button></p>
                   <!--<p id="font-size"></p>-->
@@ -471,9 +471,9 @@
             <hr/>
             <h2>About this Editorial Introduction</h2>
             <p><a name="view"/>Text on this page is derived from the
-               edition's XML source document, <a href="sscox_journal.xml">sscox_journal.xml</a>.</p>
+               edition's XML source document, <a href="Doane-Journal.xml">Doane-Journal.xml</a>.</p>
             <hr/>
-      <p>&#x2192; <a href="./sscox_journal-by-entry.html">Link to the text of the journal</a>.
+      <p>&#x2192; <a href="./doane_reading.html">Link to the text of the journal</a>.
             </p>
    </xsl:element> <!-- END maintext -->
             <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
