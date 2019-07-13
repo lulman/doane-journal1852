@@ -671,13 +671,13 @@
             <xsl:variable name="ID"><xsl:value-of select="@who"/></xsl:variable>
             <tr class="revTable" valign="top">
                <td nowrap="nowrap">
-                  <xsl:value-of select="tei:date"/>
+                  <xsl:value-of select="@when"/>
                </td>
                <td nowrap="nowrap">
 <!--            OLD CODE             
                 <xsl:value-of select="//tei:listPerson[@type='editors']/tei:person[@xml:id=$ID]/tei:persName"></xsl:value-of>
 -->               
-               <xsl:value-of select="tei:name"/>
+               <xsl:value-of select="tei:roleName"/>
                </td>
                <td>
                   <xsl:value-of select="text()"/>

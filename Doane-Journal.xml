@@ -2695,9 +2695,13 @@
             changes made during the development of the electronic text" (TEI P4X, ch. 5).
             Add additional changes at the top of the list.
          -->
-         <change when="2011-06-07" who="#HLU">Updated XML and XSL files to reflect work done by 
-         students in English 569 SP11 at The Ohio State University.</change>
-         <change when="2010-01-12" who="#HLU">Created the TEI file.</change>
+         <change when="2019-01-01" who="#HLU">Redesign of the edition to match the design approved by NINES peer reviewers;
+            editing and proofreading of all files.<roleName>H. Lewis Ulman</roleName></change>
+         <change when="2011-08">Proofread the transcription<roleName>H. Lewis Ulman and Chloe Goodhart</roleName></change>
+         <change when="2011-06-07" who="#HLU">Additional work on the edition undertaken by students in an undergraduate
+            class on textual editing.<roleName>The editors</roleName></change>
+         <change when="2010-01-12" who="#HLU">Initial work on the edition undertaken by students in a graduate
+            course on textual editing.<roleName>The editors</roleName></change>
 
       </revisionDesc>
 
