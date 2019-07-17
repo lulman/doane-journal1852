@@ -1,4 +1,4 @@
-<?xml-model href="Doane-Journal-Custom.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="doane_journal.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
 <!--
       The type attribute in teiHeader element above indicates that the header provides 
@@ -10,7 +10,7 @@
    ___ Check on "spoke" in OED. OK as transitive verb, as in "spoke us"?
    -->
    
-   <teiHeader type="AACR2">
+   <teiHeader>
       <!--
          The  file description tagged <fileDesc>, contains "a full bibliographical description 
          of the computer file itself, from which a user of the text could derive a proper bibliographic 
@@ -1710,7 +1710,7 @@
                </org>
             </listOrg>   
             
-            <list>
+            <list type="ships">
                <head>List of Ships Mentioned in Doane's Journal</head>
                <item xml:id="WScott">
                   <name type="passenger" subtype="steamer">Winfield Scott</name>

@@ -168,6 +168,7 @@
                            <li><a href="./doane_journal.html#peopleMentioned">People Mentioned</a></li>
                            <li><a href="./doane_journal.html#placesMentioned">Places Mentioned</a></li>
                            <li><a href="./doane_journal.html#organizationsMentioned">Organizations Mentioned</a></li>
+                           <li><a href="./doane_journal.html#shipsMentioned">Ships Mentioned</a></li>
                            <li><a href="./doane_journal.html#worksCited">Works Cited</a></li>
                            <li><a href="./doane_appendices_acknowledgements.html">Acknowledgements</a></li>
                            <li><a href="./doane_appendices_editors.html">About the Editors</a></li>
@@ -182,8 +183,8 @@
                            <li><a href="./Doane_view_splitview.xsl">XSL: Text/Facs View</a></li>
                            <li><a href="./Doane_view_edintro.xsl">XSL: Ed. Intro</a></li>
                            <li><a href="./doane_journal.css">CSS: Style Sheet</a></li>
-                           <li><a href="./Doane-Journal-Custom.odd.txt">ODD: TEI Customization</a></li>
-                           <li><a href="./Doane-Journal-Custom.rng.txt">RNG: Schema</a></li>
+                           <li><a href="./doane_journal.odd.txt">ODD: TEI Customization</a></li>
+                           <li><a href="./doane_journal.rnc.txt">RNC: Schema</a></li>
                         </ul>
                      </li>
                   </ul> <!-- End ul class nav -->
@@ -465,8 +466,9 @@
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listOrg"></xsl:apply-templates>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPlace"/>
+            <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:list[@type='ships']"></xsl:apply-templates>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listEvent"></xsl:apply-templates>
--->      
+      
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:revisionDesc"/>
             <hr/>
             <h2>About this Editorial Introduction</h2>
@@ -577,6 +579,19 @@
          <p class="hang25"><a>
             <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute></a>
             <xsl:apply-templates/></p>
+      </xsl:for-each>
+   </xsl:template>
+   
+   <xsl:template match="tei:list[@type='ships']">
+      <h3 id="shipsMentioned">List of Ships Mentioned in Louisa Doane's Diary</h3>
+      <xsl:for-each select="tei:item">
+         <xsl:sort select="tei:name[1]"/>
+            <p>
+               <strong><xsl:value-of select="tei:name"/></strong>. 
+               <xsl:if test="tei:persName[@type='Captain']">
+                  Captain: <xsl:value-of select="tei:persName"/>
+               </xsl:if>
+            </p>
       </xsl:for-each>
    </xsl:template>
    

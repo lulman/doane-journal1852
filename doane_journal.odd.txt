@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+  xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Louisa Doane Journal TEI Customization</title>
+        <author>H. Lewis Ulman</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Ohio State University Libraries</publisher>
+        <availability>
+          <licence><p>Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+              license.</p></licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="ns">http://www.example.org/ns/nonTEI</note>
+      </notesStmt>
+      <sourceDesc>
+        <p>This ODD file customizes TEI for use with a digital edition published by
+          The Ohio State University and aggregated by NINES.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change who="HLU" when="2019-07-30">Revised for submission of the Louisa Doane edition to NINES</change>
+      <change who="HLU" when="2012-06-26">Initial Draft</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This first pass should match the encoding in the current Anderson XML file.</p>
+      <!-- The <schemaSpec> element is in effect the root element for
+           the schema specification portion of the ODD. The @ident is
+           required; it is allowed to be any name, but urbe requires
+           that it match the filename of the ODD file w/o ".odd". -->
+      <schemaSpec ident="anderson_letters">
+        <!-- The <moduleRef> elements specify which TEI modules (which
+             correspond directly to chapters in the Guidelines) will
+             be included in the schema. The value of the @key
+             attribute is the name of the module. For any element, you 
+             can find the name of the module containing it in the 
+             reference documentation for that element. A complete 
+             list of modules is available at
+             http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html#STMA.
+             -->
+        <!-- The four required modules:
+             core, tei, header, and textstructure. -->
+        <moduleRef key="core" include="abbr add address addrLine author bibl choice corr date del desc distinct editor emph expan foreign gap gloss graphic head hi item lb list listBibl name note orig p pb ptr publisher pubPlace q ref reg resp respStmt rs said sic term time title unclear"/>
+        <moduleRef key="tei"/>
+        <moduleRef key="header" include="availability biblFull change classDecl creation editorialDecl encodingDesc extent fileDesc handNote idno keywords language langUsage notesStmt profileDesc projectDesc publicationStmt refsDecl revisionDesc sourceDesc taxonomy teiHeader textClass titleStmt"/>
+        <moduleRef key="textstructure" include="body dateline div front TEI text"/>
+        <!-- optional modules: -->
+        <moduleRef key="namesdates" include="birth bloc country death education event geo geogName listOrg listPerson listPlace location nationality occupation org orgName persName person place placeName region roleName state"/>
+        <moduleRef key="transcr" include="damage fw handNotes handShift supplied"/>
+        <moduleRef key="linking" include="ab seg"/>
+        <moduleRef key="figures" include="figDesc figure"/>
+        <!-- The <elementSpec> is used to make changes to content
+             models, to delete unwanted elements from modules included
+             above, or to add and delete attributes from a specific
+             element. There are a few crucial attributes you need to
+             use:
+             
+             1. @module: This indicates the module in which the
+             element appears. This is required for proper working of
+             roma.
+             
+             2. @ident: This gives the name of the element being
+             specified or altered.
+             
+             3. @mode: This indicates the status of this element
+             specification, in relation to the main TEI specification
+             for this element. The possibilities are:
+             
+             "add": Used when defining a new element
+             
+             "delete": Used when deleting an element from the
+             customization
+             
+             "change": Used to indicate that the custom specification
+             alters only the specified parts of the main TEI
+             specification for this element, but leaves the rest
+             unchanged.
+             
+             "replace": Used to indicate that the custom specification
+             entirely replaces all of the main TEI specification for
+             this element. This will eliminate any documentation
+             associated with the element, any additional attributes
+             the element may carry, etc. -->
+        <elementSpec ident="pb" mode="change" module="core">
+          <attList>
+            <attDef ident="facs" usage="req" mode="change"></attDef>
+          </attList>
+        </elementSpec>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>
