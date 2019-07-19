@@ -57,7 +57,7 @@
             <script src="jquery-ui-1.9.2.custom.js"/>
             
             <!-- CREATE TOGGLE BUTTON FOR DIPLOMATIC/REGULARIZED SPELLING -->
-            <script>
+<!--            <script>
                $(document).ready(function(){
                $("button").click(function(){
                $(".pencil").toggleClass("penciltoggle");
@@ -65,7 +65,7 @@
                });
                });
             </script>
-            
+-->            
             <!-- CALL VARIABLES (Needed here?) -->  
             <style type="text/css">
                <xsl:value-of select="$maintextRule"/>
@@ -150,7 +150,8 @@
             
                <div id="titleBar">
                   <p align="center"><span class="projectTitle">Louisa A. Doane's Journal of Two Ocean Voyages, 1852-1853</span><br/>by Louisa A. Doane</p>
-                  <hr/>
+                  <!-- Horizontal rule beneath page title -->
+                  <hr style="border: 2px solid crimson;"/>
                </div> <!-- END titleBar -->
             </div> <!-- END masthead -->
             <!-- BUILD THE VERTICAL IMAGE BAR -->
@@ -384,8 +385,11 @@
                
             <!-- Insert, count, encode by cardinal position, and link the explanatory annotations. -->
   
-             <hr/>
-            <h2>Explanatory Annotations</h2>
+               <!-- Horizontal rule between text of letters and explanatory annotations -->
+               <hr style="border:2px solid crimson;"/>
+               
+               <h2>Explanatory Annotations</h2>
+               <hr/>
             <xsl:for-each select="//tei:body//tei:note[@resp='ed']">
                <xsl:choose>
                   <xsl:when test="position()>=100">
@@ -430,14 +434,17 @@
 
             </xsl:for-each>
             
-            <hr/>
-            <a name="WorksCited"/>
+               <!-- Horizontal rule before list of works cited -->
+               <hr style="border:2px solid crimson;"/>
+               <a name="WorksCited"/>
             <h2>List of Works Cited</h2>
+               <hr/>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl"/>
-            <hr/>
-            <!-- Describe this view of the journal. -->
+               <hr style="border:2px solid crimson;"/>
+               <!-- Describe this view of the journal. -->
             <h2>About this View of the Journal</h2>
+               <hr/>
             <p><a name="view"/><xsl:value-of select="$aboutView"/></p>
                
             <hr/>

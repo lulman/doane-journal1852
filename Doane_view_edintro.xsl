@@ -192,8 +192,8 @@
                
                <div id="titleBar">
                   <p align="center"><span class="projectTitle">Louisa A. Doane's Journal of Two Ocean Voyages, 1852-1853</span><br/>by Louisa A. Doane</p>
-               <hr/>
-            </div> <!-- END titleBar -->
+                  <hr style="border: 2px solid crimson;"/>
+               </div> <!-- END titleBar -->
             </div> <!-- END masthead -->
        
             <!-- BUILD THE VERTICAL IMAGE BAR -->
