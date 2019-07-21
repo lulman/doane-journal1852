@@ -511,6 +511,7 @@
    </xsl:template>
    
    <xsl:template match="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:refsDecl">
+<hr/>
       <h3>Encoding Conventions</h3>
       <xsl:apply-templates/>
       <hr style="border: 2px solid crimson;"/>
