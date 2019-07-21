@@ -325,9 +325,10 @@ visibility: hidden;
 }
 
 h3 {
+font-family: Verdana, Arial, Helvetica, sans-serif;
    margin-top: 2em;
-   font-size: 1.25em;
-   font-style: italic;                    
+   font-size: .85em;
+   font-weight: bold;                    
 }
 
 h3:before {
