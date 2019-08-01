@@ -202,18 +202,22 @@
 
                   <note type="descriptive" resp="ed">
                      <p>G226 D6 A3 1852. Louisa A. Doane Journal</p>
-                     <p>[Front free endpaper]r Miss Louisa A Doane | Book</p>
-                     <p>Collation: 5 in. (12.5 cm.) x 7.50 in. (19 cm.): [A-J]8; 80 leaves unnumbered.</p>
-                     <p>Note blanks and the presence of journals for two voyages.</p> 
-                     <p>Paper: light blue, mottled, with light blue lines spaced 5/16 in. (8 mm.) 
+                     <p>[Front free endpaper] Miss Louisa A Doane | Book</p>
+                     <p>Unpublished manuscript.</p>  
+                     <p><emph rend="bold">Collation</emph>: 5 in. (12.5 cm.) x 7.50 in. (19 cm.): [A-J]8; 80 leaves unnumbered.</p>
+                     <p><emph rend="bold">Paper</emph>: light blue, mottled, with light blue lines spaced 5/16 in. (8 mm.) 
                      after a .75 in. (18 mm.) top margin; 23 lines per page. No watermarks or
                      stationer's marks.</p>
-                     <p>Binding: 5.25 in. (13 cm.) x 7.50 in. (19 cm.) boards covered in dark brown leather with 
+                     <p><emph rend="bold">Binding</emph>: 5.25 in. (13 cm.) x 7.50 in. (19 cm.) boards covered in dark brown leather with 
                      double-line gold leaf border front and back (the outer line is thicker than the inner line). 
                      Gold leaf banding on spine (three widely spaced pairs and a fourth closely spaced pair near 
                      the foot. The pastedown and front free endpaper are followed by a tipped-in flyleaf, a 
                      pattern repeated at the back of the book.</p>
-                     <p>Unpublished manuscript.</p>                  
+                     <p><emph rend="bold">Selection of the Source Text</emph>. This journal is the
+                        only manuscript by Louisa Doane in The Ohio State University
+                        Libraries' collection, and it is edited here in its entirety. It offers a first-person
+                        view of life on a merchant ship plying the north Atlantic and the route from North America
+                        around Cape Horn to the Pacific coast of South America.</p>
                   </note>
 
                   <note type="introductory" resp="ed">
@@ -2479,34 +2483,68 @@
       <encodingDesc>
 
          <projectDesc>
-            <p> This edition is the latest in a series of collaboratively produced electronic
-               editions of previously unpublished nineteenth-century American manuscripts held in
-               the Rare Books and Manuscripts Library at The Ohio State University. Previous
-               editions include "My Dear Elizabeth," five letters written by Sophia Peabody
-               Hawthorne to her sister Elizabeth Palmer Peabody between ca. 1837 and 1868 (currently
-               being revised), "Dear Wife," twenty-one letters written by riverboat captain
-               William B. Anderson to his wife Louisa while he plied the Ohio river during the
-               height of the American Civil War, 1862–1864, and "Journal of a Tour to Europe," by
-               Samuel Sullivan Cox. These documentary editions are intended
-               to provide wide exposure and access to manuscripts that might otherwise be difficult
-               for scholars to discover and consult, and to provide users with a variety of tools
-               for studying those texts. </p>
-            <p> Each text was edited in connection with an undergraduate or graduate course offered
-               by H. Lewis Ulman, Associate Professor of English at The Ohio State University. The
-               courses aim to provide students with an opportunity to explore issues of textuality
-               and mediation that arise when our cultural archives spread from page to screen and
-               from library shelves to networked databases. Electronic textual editing is our
-               vehicle for examining what happens—and envisioning what might happen—when artifacts
-               in one medium are represented in another medium, especially with regard to the
-               interpretive work of reading. Electronic textual editions also provide a contact zone
-               that can help us reflect on what manuscript, print, and "born digital" artifacts can
-               tell us about their unique properties and their relationships to one another.</p>
-            <p> While providing a reliable textual edition is a <foreign xml:lang="lat">sine qua
-                  non</foreign>, the Doane edition also explores ways of telling four stories
-               inextricably woven into our work: the lives and historical milieu evoked by the
-               texts, the history of the physical journal (including its recent restoration), the
-               editorial process that gave rise to this particular interpretation of the text, and
-               the mediation of our electronic delivery system. </p>
+            <p>This edition belongs to a series of collaboratively produced electronic editions of
+               previously unpublished nineteenth-century American manuscripts held in the Rare Books
+               and Manuscripts Library (RBMS) at The Ohio State University Libraries. Other editions
+               include "Selected Entries from the Lucius Clark Smith Diaries,
+               30 July 1862 to 31 December 1862"; "My Dear Elizabeth," five letters written by Sophia Peabody Hawthorne to her
+               sister Elizabeth Palmer Peabody between ca. 1837 and 1868; "Journal of a Tour to Europe," 
+               by Samuel Sullivan Cox; and "Selected Letters from the Ivan S. Gilbert Collection of 
+               Stephens Family Travel Letters and Ephemera."</p>
+            
+            <p>Each text was initially edited in connection with an undergraduate or graduate course
+               on electronic textual editing offered by H. Lewis Ulman, Associate Professor of
+               English at The Ohio State University. The courses provided students with an
+               opportunity to explore issues of textuality and mediation that arise when our
+               cultural archives spread from page to screen and from library shelves to networked
+               databases. Electronic textual editing served as each class's context for examining
+               what happens—and envisioning what might happen—when artifacts in one medium are
+               represented in another medium, especially with regard to the interpretive work of
+               reading. Electronic textual editions also provided a contact zone that helped
+               students reflect on what manuscript, print, and "born digital" artifacts can tell us
+               about their unique properties and their relationships to one another.</p>
+            
+            <p>While the students' work focused on providing reliable textual editions, they also
+               explored four threads inextricably woven into the work of electronic textual editing:
+               the lives and historical milieu evoked by the texts; the history, characteristics,
+               and preservation of physical and digital texts; the editorial processes and decisions
+               that shape particular interpretations and presentations texts; and the mediation of
+               electronic delivery systems.</p>
+            
+            <p>These conceptual focuses, along with the time constraints of academic terms and the
+               need to train students who had, typically, no prior experience in textual editing or
+               the various technologies employed in electronic textual editing, strongly influenced
+               the selection of texts in this series. Working with curators in the RBMS, Professor
+               Ulman identified previously unpublished manuscript materials that were of potentially
+               broad interest and that reflected a curatorial focus of the RBMS collection—for
+               example, letters and personal diaries that connect private lives with larger
+               historical contexts. Focusing on unique manuscript materials not, in all but one
+               case, associated with other copies or later published versions also eliminated the
+               need to compare multiple copies or states of the same work, perhaps held in other
+               archives, an impractical task in the course of an academic term. Other practical
+               matters also informed the choice of materials, including the possibility of scanning
+               the source documents before the class so that students could work with both the
+               original documents and high-resolutions facsimiles as they transcribed and encoded
+               the source texts.</p>
+            
+            <p>Thus, the editions in this series are documentary editions—interpretations and
+               representations of single documents—designed to provide wider exposure and access to
+               manuscript materials that might otherwise be overlooked, and to provide users with a
+               variety of tools for studying those texts.</p>
+            
+            <p>While providing a reliable textual edition is a <hi style="font-style:italic;">sine qua non</hi>, the Doane edition also
+               explores ways of telling four stories inextricably woven into our work: the lives and
+               historical milieu evoked by the texts, the history of the physical documents, the
+               editorial process that gave rise to this particular interpretation of the texts, and the
+               mediation of our electronic delivery system. </p>
+            
+            <p> Over the course of several years following the classes in which students worked on
+               the editions, Professor Ulman revised the introductory materials to ensure stylistic
+               consistency and proofed the transcription and encoding. He also redesigned the
+               structure of the editions to meet the requirements of Ohio State's institutional
+               repository, evolving accessibility standards, and feedback from peer reviewers.
+               However, he did not undertake a complete retranscription of the source text or
+               revision of the students' introductory essays and annotations.</p>
          </projectDesc>
 
          <!--
@@ -2516,49 +2554,56 @@
             -->
          <editorialDecl>
             <p>
-               <emph rend="bold">Scanning</emph>. The manuscript pages were scanned as 24-bit TIFF
-               images at 400 dots per inch (dpi), then coverted to 8-bit JPEG images at 400 dpi and
-               full quality before being loaded into the Media Manager application. All edges were
-               overscanned by at least 1/4 inch. No color correction was used at any stage of image
+               <emph rend="bold">Scanning</emph>. The manuscript pages were scanned as 24-bit TIFF images
+               at 400 dots per inch (dpi), then coverted to 8-bit JPEG images at 400 dpi and full
+               quality. All edges were overscanned by at least 1/4 inch. No color correction was used at any stage of image
                preparation, but a scan of a photographer's 18% grey card on the same scanner
                produced RGB values at the center of 91/95/107 after applying a 150% Gaussian Blur in
                Adobe Photoshop to average color values. Thus, a properly configured monitor should
-               provide a reasonable approximation of colors on the manuscript pages.
+               provide a reasonable approximation of colors on the manuscript pages.. 
+            </p>
+            
+            <p><emph rend="bold">Transcription</emph>. Editing of the Doane journal emphasizes diplomatic transcription: 
+               abbreviations, recoverable cancelations, punctuation, spelling, underlining, additions above and below
+               the line or in the margins, capitalization, line breaks, and page breaks 
+               have all been transcribed and encoded as they appear in the original manuscripts. The
+               representation of those features varies depending on the view of the letter. An explanation of 
+               the presentation in each view of the letters can be read via the "About this View" link
+               at the top of each view's page.</p>
+            
+            <p><emph rend="bold">Markup and Annotation</emph>. XML encoding of the Doane journal follows The
+               Text Encoding Initiative's (TEI) <title level="m">P5: Guidelines for Electronic Text Encoding and Interchange</title>,
+               as customized for the project using the TEI's ODD ("One Document Does it All") process.
+               This editorial introduction and the three "views" of the letters were generated from the main XML file
+               using XSL transformations to produce HTML Web pages. Several of the appendices were encoded in HTML separately.
+               A more detailed description of the markup can be found via the "Appendices" menu, and all source files
+               (XML, XSL, CSS, ODD, RNC) can be viewed and downloaded via the "Source Files" menu.</p>
+            
+            <p>Introductory material (such as this editorial introduction) as well as annotated lists of people, places, ships, 
+               and organizations mentioned in the letters are encoded in the TEI header of the main XML
+               document. Other explanatory annotations are linked directly from the text. Separate appendices provide 
+               further information about the project (e.g., acknowledgements, editors' bios, and so on). 
+               All these ancillary materials can be viewed via the menus at the top of each page.</p>
+            
+            <p>
+               <emph rend="bold">Proofing</emph>. Students who created the original transcriptions proofread their own
+               transcription and encoding. In preparation for peer review by NINES and preservation in The Ohio State University's 
+               Knowledge Bank, the transcriptions and encoding were once again proofread by Professor Ulman.
             </p>
             <p>
-               <emph rend="bold">Production Location of Digital Assets</emph>. The TEI XML-compliant
-               transcription of the Doane journal, along with five style sheets used to provide
-               variant "views" of the edition, are stored on a server hosted by College of
-               Arts and Sciences at The Ohio State University. High resolution scans of the manuscript
-               pages, scans of plates from contemporary sources, and photographs of the journal are
-               stored in the Media Manager application hosted by the College of Arts and Science at
-               The Ohio State University. The files constituting the project's Web site will be
-               stored on a Web server hosted by the College.</p>
+               <emph rend="bold">Peer Review</emph>. Anonymous reviewers for NINES provided peer-reviews for the editions, in response to 
+               which they were revised and then reviewed by NINES editors before being listed in the NINES database.
+            </p>
             <p>
-               <emph rend="bold">Archiving of Digital Assets</emph>. Once the edition is complete,
-               its digital assets will be archived in The Ohio State University
-               https://kb.osu.edu/dspace/index.jsp Knowledge Bank. </p>
-
-            <!-- TAKE NOTE: Explain your editorial method:
-               
-               •	If you employ image files, describe how they were produced and note where they are stored.
-               •	Describe any editorial guidelines you followed (e.g., how you treated hyphenation, whether 
-                  you corrected apparent errors, and any other decisions about how to treat recurrent features).
-               •	Describe any special symbols that you use in your text to indicate additions, corrections, 
-                  cancellations, and so on. This important explanation provides a reader's guide to the text.
-               
-                  You can use more than one paragraph (tagged <p> </p>).
-                  
-                  We might include a system diagram, showing where all of the assets are stored
-                  and how the systems interact. We might include a database of assets. And we
-                  might include screen shots of the edition running on various systems as a step
-                  toward a descriptive bibliography of an online edition.
-            -->
-
+               <emph rend="bold">Production and Archival Location of Digital Assets</emph>.
+               All of the files associated with this edition are accessed via, and archived in, The Ohio State University's
+               institutional repository, the Knowledge Bank.
+            </p>
          </editorialDecl>
 
          <refsDecl>
             <p>
+<!--         SEE APPENDIX FOR THIS INFO      
                <emph rend="bold">Markup of Physical Structure and Page Layout</emph>. The manuscript
                   <emph rend="bold">pages</emph>, encoded by the empty page break or &lt;pb/&gt;
                element, are the primary physical structures represented in the markup. Each
@@ -2602,7 +2647,8 @@
                   <head>http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneJournalMarkup.cfm</head>
                   <graphic url="http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneJournalMarkup.cfm"/>
                   <figDesc>Link to the Doane journal markup guidelines.</figDesc>
-               </figure>.</p>
+               </figure>.-->
+            </p>
          </refsDecl>
 
          <classDecl>

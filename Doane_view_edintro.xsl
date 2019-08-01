@@ -510,6 +510,12 @@
          <xsl:apply-templates/>
    </xsl:template>
    
+   <xsl:template match="/tei:teiCorpus/tei:teiHeader/tei:encodingDesc/refsDecl">
+      <h3>Encoding Conventions</h3>
+      <xsl:apply-templates/>
+   </xsl:template>
+   
+<!--   
    <xsl:template match="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:refsDecl">
 <hr/>
       <h3>Encoding Conventions</h3>
@@ -522,19 +528,19 @@
             disable-output-escaping="yes"/>
       </p>      
    </xsl:template>
-   
+-->   
    <xsl:template match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability">
       <p>
-         <em>
             <xsl:apply-templates/>
-         </em>
       </p>
-      <p>
+<!-- THIS INFO NOT PLACED IN SOURCE MATERIAL DESCRIPTION IN CURRENT VERSION
+       <p>
          <em>
             <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:pubPlace"/>, <xsl:value-of
                select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:date"/>.
          </em>
       </p>
+-->   
    </xsl:template>
 
    <!-- Format information about the electronic document. -->
