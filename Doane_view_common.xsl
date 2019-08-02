@@ -110,9 +110,9 @@
                         <li><a href="./doane_journal.html#revHistory">Revision History</a></li>
                      </ul>
                   </li>
-                  <li class="link"><a class="main"  href="">Views of the Diary</a>
+                  <li class="link"><a class="main"  href="">Views of the Journal</a>
                      <ul class="sub">
-                        <li><a href="./doane_reading.html">By Diary Entry</a></li>
+                        <li><a href="./doane_reading.html">By Journal Entry</a></li>
                         <li><a href="./doane_diplomatic.html">By MS Page</a></li>
                         <li><a href="./doane_splitview.html">Facsimile/Text</a></li>
                      </ul>
@@ -434,13 +434,14 @@
 
             </xsl:for-each>
             
-               <!-- Horizontal rule before list of works cited -->
-               <hr style="border:2px solid crimson;"/>
+               <!-- LIST OF WORKS CITED NOT INCLUDED IN "VIEWS" -->
+<!--               <hr style="border:2px solid crimson;"/>
                <a name="WorksCited"/>
             <h2>List of Works Cited</h2>
                <hr/>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl"/>
+-->               
                <hr style="border:2px solid crimson;"/>
                <!-- Describe this view of the journal. -->
             <h2>About this View of the Journal</h2>
@@ -472,13 +473,15 @@
 
    <!-- MAJOR DOCUMENT STRUCTURES: These elements include the front, body, and back
       elements of you XML documents in the result tree of your output.-->
-
-   <xsl:template match="tei:div[@type='Entry']">
+   
+<!-- ENTRY TEMPLATE DEFINED IN SEPARATE VIEWS -->
+<!--   <xsl:template match="tei:div[@type='Entry']">
          <div class="Entry">
             <xsl:element name="a"><xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute></xsl:element>
             <xsl:apply-templates/>
          </div>
    </xsl:template>
+-->   
    <xsl:template match="tei:div[@type='Entry']/tei:dateline">
       <strong>
          <xsl:apply-templates/>

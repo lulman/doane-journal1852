@@ -1005,9 +1005,7 @@
                         <persName ref="#LAD">Doane</persName> 
                         would have looked forward to her time in <placeName ref="#Marseille">Marseille 
                         </placeName>in the same way that other American travelers eagerly anticipated 
-                        their grand European tours (see, for example, <figure rend="link"><head> Samuel 
-                           Sullivan Cox's "Journal of a Tour to Europe"</head><graphic 
-                              url="http://people.cohums.ohio-state.edu/ulman1/SSCoxJournal/"/></figure>). 
+                        their grand European tours. 
                         Her desire to reach Marseille, exhibited in her entry dated 
                         29th March, seems not to stem from the excitement of seeing new places, but 
                         rather from an understandable longing to finally get off the ship: <q>"if this wind 
@@ -2762,7 +2760,7 @@
          <div type="endpaper">
             <figure rend="link">               
                <head>Stationer's label affixed to paste-down endpaper.</head>
-               <graphic url="https://images.asc.ohio-state.edu/is/image/mediamanagerG226_D6_A3_1852-001a.jpg?scale=0.6&amp;rgn=0,15,315,240&amp;fmt=png"/>
+               <graphic url="G226_D6_A3_1852-001a"/>
                <figDesc>[Within an oval border] SOLD by LAMBERT &amp; LANE, | Stationers, | 69 WALL St. | N.Y.</figDesc>               
             </figure>
             <p><handShift new="#H2"/><add place="top-middle">5/-</add></p>
@@ -3406,8 +3404,7 @@
                     filth, stagnating in a tideless sea and under a burning sun, until a S. E. wind produces that circulation in its
                     waters which the tide would do on other seas. The stench emanating from it at times is consequently intolerable, except
                     for natives; and dredging machines require to be constantly employed to cleanse it"<bibl><ref target="#Murray">
-                    (476)</ref></bibl>.<figure rend="embed"><graphic
-                       url="https://images.asc.ohio-state.edu/is/image/mediamanager/a/a3c1c7db-72d1-478c-9cd2-9ee83dddf56a.jpg?scale=0.4&amp;rgn=0,0,480,320&amp;fmt=png"/></figure><figure rend="embed"><graphic url="https://images.asc.ohio-state.edu/is/image/mediamanager/e/e4faf434-62d7-416d-8fe5-885733991d8e.jpg?scale=0.4&amp;rgn=0,0,480,320&amp;fmt=png"/></figure><figure rend="embed"><head>Views of the Old Harbor in Marseille, taken ca. 1890</head><graphic url="https://images.asc.ohio-state.edu/is/image/mediamanager/8/8636a1f1-8737-46f8-a808-70f584d0e526.jpg?scale=0.4&amp;rgn=0,0,480,320&amp;fmt=png"/></figure></q></note>, yesterday at three oclock took a pilot, and
+                    (476)</ref></bibl>.</q></note>, yesterday at three oclock took a pilot, and
                  <lb/>last night at half past ten oclock came to an
                  <lb/>anchor, where we now lay, as soon as we came in
                  <lb/>sight of the fort, we had to put out the fire
@@ -3522,7 +3519,7 @@
                  <lb/><dateline><date when="1852-04-07">Wednesday 7</date>. </dateline><p>Today I have been to the dentist but
                  <lb/>he could not fill them as the nerve was not killed,
                  <lb/>from there we went up to a very large arch<ptr type="noteAnchor" target="#PA"/>
-                    <note resp="ed" xml:id="PA">Probably the <figure rend="link"><head>Porte d'Aix</head><graphic url="https:/images.asc.ohio-state.edu/is/image/mediamanager?layer=0&amp;size=840,840&amp;layer=1&amp;src=is{mediamanager/5/5954256f-3531-4aa1-99d8-115617db371f.jpg?scale=0.7&amp;rgn=0,0,840,560&amp;fmt=png}&amp;posN=0,-.25&amp;layer=2&amp;size=840,560&amp;text=\vertalt\cf1\qc\fs68\%20Porte d'Aix, photograph taken ca. 1900&amp;posN=0,.5"/></figure> Murray describes it thus: <q>"The entrance
+                    <note resp="ed" xml:id="PA">Probably the Porte d'Aix. Murray describes it thus: <q>"The entrance
                     from the side of Aix is by an <hi rend="italic">Arch of Triumph,</hi> remarkable not for elegance of design,
                     originality of elevation, or elegance of decoration. It was intended to commemorate the campaign of the French
                     in Spain in 1823, but its destination is now changed to that of celebrating <q>'all the glories of France'</q>"
@@ -3811,9 +3808,9 @@
                      that presented an easier pill for sailors to swallow. (<bibl><ref target="#Scurvy">"Scurvy"</ref></bibl>)
                   <figure rend="link">
                      <head>Click Here to Read the Letters to the Editor</head>
-                     <graphic url="https://images.asc.ohio-state.edu/is/image/mediamanager/1/134e9f5d-1a3a-470a-bfcf-3f537ea6f5c4.jpg?scale=0.4&amp;rgn=0,0,720,3400&amp;fmt=png"/>
+                     <graphic url="image_scurvy_letters.jpg"/>
                      <figDesc>
-                        A series of three letters about scurvy writte to the editor of the London Times in 1866 
+                        A series of three letters about scurvy written to the editor of the London Times in 1866 
                      </figDesc>
                   </figure>
                </note>,
@@ -5996,11 +5993,7 @@
             </choice>Boird</persName> <persName ref="#Hervey"><choice><sic>Captian</sic><corr>Captain</corr></choice> Hervey</persName> they went outside
             <lb/>with us when they came to go <persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice> White</persName>
             <lb/>Boy was missing after they had gone he came
-            <lb/>out from under the Long Boat<figure rend="link">
-               <head>illustration of a Long Boat</head>
-               <graphic url="http://www.loc.gov/pictures/item/2004660124/"></graphic>
-               <figDesc>Sketch of a Long Boat by Alfred R. Waud from between 1860-1865.</figDesc>
-            </figure> on top of the
+            <lb/>out from under the Long Boat on top of the
             <lb/>forecastle have a fair wind <rs ref="#ATD">mother</rs> is quite
             <lb/>sick again has the Fever upon her again the
             <lb/><rs ref="#PCP">Pilot</rs> has left us,

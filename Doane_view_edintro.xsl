@@ -152,9 +152,9 @@
                            <li><a href="./doane_journal.html#revHistory">Revision History</a></li>
                         </ul>
                      </li>
-                     <li class="link"><a class="main"  href="">Views of the Diary</a>
+                     <li class="link"><a class="main"  href="">Views of the Journal</a>
                         <ul class="sub">
-                           <li><a href="./doane_reading.html">By Diary Entry</a></li>
+                           <li><a href="./doane_reading.html">By Journal Entry</a></li>
                            <li><a href="./doane_diplomatic.html">By MS Page</a></li>
                            <li><a href="./doane_splitview.html">Facsimile/Text</a></li>
                         </ul>
@@ -475,7 +475,8 @@
       <hr style="border: 2px solid crimson;"/>
       <h2>About this Editorial Introduction</h2>
             <p><a name="view"/>Text on this page is derived from the
-               edition's XML source document, <a href="Doane-Journal.xml">Doane-Journal.xml</a>.</p>
+               edition's XML source document, <a href="Doane-Journal.xml">Doane-Journal.xml</a>,
+               transformed with the XSL stylsheet Doane_view_edintro.xsl.</p>
             <hr/>
       <p>&#x2192; <a href="./doane_reading.html">Link to the text of the journal</a>.
             </p>

@@ -101,13 +101,20 @@
    
    <!-- Define templates required for the diplomatic view. -->
    
+   <xsl:template match="tei:div[@type='Entry']">
+      <div class="Entry">
+         <xsl:element name="a"><xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute></xsl:element>
+         <xsl:apply-templates/>
+      </div>
+   </xsl:template>
+   
    <xsl:template match="tei:pb">
-      <br/>
+      <br/><hr/>
       <span class="pagebreak">[Page&#xA0;-&#xA0;<xsl:number count="tei:pb" format="1" level="any"/>
          &#xA0;(<a><xsl:attribute
             name="href"><xsl:value-of select="@facs"/>.jpg</xsl:attribute>
             <xsl:attribute name="target">_blank</xsl:attribute>click to open page image in a new window</a>)]</span>
-      <br/>
+      <!--<br/>-->
    </xsl:template>    
    <xsl:template match="tei:lb"><br/><a><xsl:attribute name="name"><xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/></xsl:attribute>
    </a><xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;

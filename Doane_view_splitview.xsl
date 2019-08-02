@@ -161,6 +161,13 @@
       </div>
    </xsl:template>
    
+   <xsl:template match="tei:div[@type='Entry']">
+      <div class="Entry">
+         <xsl:element name="a"><xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute></xsl:element>
+         <xsl:apply-templates/>
+      </div>
+   </xsl:template>
+   
    <xsl:template match="tei:lb">
       <br/>
       <a>

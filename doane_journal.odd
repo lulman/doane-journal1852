@@ -92,6 +92,23 @@
             <attDef ident="facs" usage="req" mode="change"></attDef>
           </attList>
         </elementSpec>
+        <elementSpec ident="abbr" mode="change" module="core">
+          <remarks>
+            <p>We tag only nonstandard abbreviations; for example, we transcribe without comment
+              contractions such as “don’t” or “won’t” and titles such as "Mr." or "Mrs." When
+              abbreviations are encoded, we employ the &lt;choice&gt; element and note the
+              abbreviation and its expansion. For purposes of markup, we treat the entire
+              abbreviation (e.g., “Ret.”) as the abbreviation, not just the mark, if any, indicating
+              missing letters; and we treat the entire word as the expansion (e.g., “Retired”), not
+              just the missing letters.</p>
+          </remarks>
+        </elementSpec>
+        <elementSpec ident="add" mode="change" module="core">
+          <remarks>
+            <p>If the writer includes a caret or other mark to indicate the addition, we indicate
+              the mark as the value of a “rend” attribute.</p>
+          </remarks>
+        </elementSpec>
       </schemaSpec>
     </body>
   </text>
