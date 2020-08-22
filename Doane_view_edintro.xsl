@@ -192,7 +192,7 @@
                </div> <!-- End div id navigation -->
                
                <div id="titleBar">
-                  <p align="center"><span class="projectTitle">Louisa A. Doane's Journal of Two Ocean Voyages, 1852-1853</span><br/>by Louisa A. Doane</p>
+                  <p style="text-align: center"><span class="projectTitle">Louisa A. Doane's Journal of Two Ocean Voyages, 1852-1853</span><br/>by Louisa A. Doane</p>
                   <hr style="border: 2px solid crimson;"/>
                </div> <!-- END titleBar -->
             </div> <!-- END masthead -->
@@ -458,7 +458,6 @@
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:editorialDecl"/>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:refsDecl"/>
       <hr style="border: 2px solid crimson;"/>
-      <a name="WorksCited"/>
       <h2 id="worksCited">List of Works Cited</h2>
       <hr/>
             <xsl:apply-templates
@@ -474,8 +473,8 @@
       
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:revisionDesc"/>
       <hr style="border: 2px solid crimson;"/>
-      <h2>About this Editorial Introduction</h2>
-            <p><a name="view"/>Text on this page is derived from the
+      <h2 id="view">About this Editorial Introduction</h2>
+            <p>Text on this page is derived from the
                edition's XML source document, <a href="Doane-Journal.xml">Doane-Journal.xml</a>,
                transformed with the XSL stylsheet Doane_view_edintro.xsl.</p>
             <hr/>
@@ -595,9 +594,9 @@
    <xsl:template match="tei:listBibl">
       <xsl:for-each select="tei:bibl">
          <xsl:sort select="@n"/>
-         <p class="hang25"><a>
-            <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute></a>
-            <xsl:apply-templates/></p>
+         <p class="hang25"> <!--<a>
+           <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute></a>
+ -->           <xsl:apply-templates/></p>
       </xsl:for-each>
    </xsl:template>
    
@@ -693,9 +692,8 @@
       
    <xsl:template match="tei:TEI/tei:teiHeader/tei:revisionDesc">
        <hr style="border: 2px solid crimson;"/>
-      <a name="revHistory"/>
          <h2 id="revision">Revision History</h2>
-      <table width="90%" cellpadding="5px">
+      <table style="width:90%; padding:5px">
          <tr>
             <td>
                <h3>Date</h3>
@@ -709,11 +707,11 @@
          </tr>
          <xsl:for-each select="tei:change">
             <xsl:variable name="ID"><xsl:value-of select="@who"/></xsl:variable>
-            <tr class="revTable" valign="top">
-               <td nowrap="nowrap">
+            <tr class="revTable" style="vertical-align:top">
+               <td style="white-space: nowrap">
                   <xsl:value-of select="@when"/>
                </td>
-               <td nowrap="nowrap">
+               <td style="white-space: nowrap">
 <!--            OLD CODE             
                 <xsl:value-of select="//tei:listPerson[@type='editors']/tei:person[@xml:id=$ID]/tei:persName"></xsl:value-of>
 -->               
@@ -741,7 +739,7 @@
       </xsl:element>
    </xsl:template>
    
-   <xsl:template match="//tei:p[not(@xml:id='CreativeCommons') and not(@rend='h3')]">
+   <xsl:template match="//tei:p[not(@xml:id='CreativeCommons') and not(@rend='h3') and not(@class='epigraph') and not(@rend='epigraph')]">
       <p>
          <xsl:apply-templates/>
       </p>
