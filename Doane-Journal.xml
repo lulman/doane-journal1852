@@ -3396,7 +3396,7 @@
            <div type="Entry" xml:id="Doane18520331a">
                  <lb/><dateline><date when="1852-03-31">Wednesday 31</date>. </dateline><p>We are now in the harbor of <placeName ref="#Marseille"><choice><sic>Mar<seg type="softhyphen">-
                     <lb/></seg>eilles</sic><corr><seg type="softhyphen">-
-                       <lb/></seg>Marseille</corr></choice></placeName><ptr type="noteAnchor" target="#MH"/><note resp="ed" xml:id="MH">
+                       <lb/></seg>Marseille</corr></choice></placeName><ptr type="noteAnchor" target="MH"/><note resp="ed" xml:id="MH">
                     Doane's entry, with its references to the harbor's <q>"beautiful entrance," </q>and views of the city, is very unlike
                     Murray's description. Commenting on the layout of the city, rising on hills around the port, he says the following:
                     <q>"From this disposition of the ground, the port becomes the sewer of the city, the receptacle of all its
@@ -3413,7 +3413,7 @@
                  <lb/>the <rs ref="#Marseille">City</rs>, the <rs ref="#END"><choice><sic>Captian
                  </sic><corr>Captain </corr></choice></rs>went on shore, <del rend="overwritten"
                     unit="chars" extent="1">t</del>has gone
-                 <lb/>to enter and get a <choice><sic>premit</sic><corr>permit</corr></choice><ptr type="noteAnchor" target="#Consigne"/>
+                 <lb/>to enter and get a <choice><sic>premit</sic><corr>permit</corr></choice><ptr type="noteAnchor" target="Consigne"/>
                     <note resp="ed" xml:id="Consigne">Murray provides this information: <q>"near the harbour mouth, is the <foreign xml:lang="Fre">
                     Consigne</foreign>, or health office, where every thing relating to quarantine is transacted, and whence the permission
                     for vessels to enter the harbour is issued. To this office the captains of vessels come to give an account of themselves
@@ -3437,7 +3437,7 @@
                  <lb/>to board to an American hotel. it is kept by a widow
                  <lb/>lady, she is french. <choice><abbr>altho </abbr><expan>although </expan></choice> she had been in New<choice><sic><seg type="softhyphen">-
                  <lb/></seg></sic><corr><lb/></corr></choice> York a number of years and could speak very
-                 <lb/>good <choice><sic>english </sic><corr>English </corr></choice>.<ptr type="noteAnchor" target="#AH"/><note resp="ed" xml:id="AH">In spite of Joseph Kirkland's 
+                 <lb/>good <choice><sic>english </sic><corr>English </corr></choice>.<ptr type="noteAnchor" target="AH"/><note resp="ed" xml:id="AH">In spite of Joseph Kirkland's 
                     criticism of American hotels, it seems hardly surprising that Doane's family chose to stay in a hotel catering specifically for Americans if beliefs such 
                     as those presented in Murray's <title level="m">A Handbook for Travellers in France </title>were prevalent: <q>
                     "The character of the people [in the Provence] appear influenced by the fiery sun, and soil which looks as though
@@ -3517,7 +3517,7 @@
            <div type="Entry" xml:id="Doane18520407a">
                  <lb/><dateline><date when="1852-04-07">Wednesday 7</date>. </dateline><p>Today I have been to the dentist but
                  <lb/>he could not fill them as the nerve was not killed,
-                 <lb/>from there we went up to a very large arch<ptr type="noteAnchor" target="#PA"/>
+                 <lb/>from there we went up to a very large arch<ptr type="noteAnchor" target="PA"/>
                     <note resp="ed" xml:id="PA">Probably the Porte d'Aix. Murray describes it thus: <q>"The entrance
                     from the side of Aix is by an <hi rend="italic">Arch of Triumph,</hi> remarkable not for elegance of design,
                     originality of elevation, or elegance of decoration. It was intended to commemorate the campaign of the French
