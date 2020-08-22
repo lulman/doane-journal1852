@@ -227,11 +227,11 @@
                         during the late 18th and 19th century, especially on ships carrying
                         captives. Prisoners on board ships were treated with little or no civility,
                         as clearly evidenced in Louisa Doane’s journal. On March 7th, 1852, <persName ref="#LAD">Louisa </persName>
-                        describes an incident between <persName ref="#END">Captain Doane</persName>and his prisoners: <q rend="block">"The Prisoners
+                        describes an incident between <persName ref="#END">Captain Doane</persName>and his prisoners:</p> <q rend="block">"The Prisoners
                            are singing at a great rate and disturbing us very much [.] When <rs ref="#END">Father</rs>
                            [ordered] them to stop which they did but gave him a very saucy reply, then
                            Father [ordered?] the Second Mate not to give them but half a bread apiece
-                           for their suppers[.]" (lines 2133-2138)</q> This quote demonstrates how the
+                           for their suppers[.]" (lines 2133-2138)</q><p> This quote demonstrates how the
                         smallest indignation could result in the prisoners suffering often terrible
                         consequences; in this example, an insolent remark deprived them of food.
                         Those convicted of mutiny suffered even greater punishment. In a letter from
@@ -941,13 +941,13 @@
                         sections of the journal, but even these class divisions did not exempt Doane
                         from being exposed to power struggles aboard the ship. According to
                         Falconer's, one late-eighteenth century seafarer's dictionary, the role of a
-                        captain was to <q rend="block">Shew a laudable example of honour and virtue
+                        captain was to</p> <q rend="block">Shew a laudable example of honour and virtue
                            to the officers and men, and to discountenance all dissolute, immoral,
                            and disorderly practices, and such as are contrary to the rules of
                            discipline and subordination, as well as to correct those who are guilty
                            of such offences, as are punishable according to the usage of the sea
                            <bibl><ref target="#Falconers">"Captain," Falconer's Dictionary of
-                              the Sea</ref></bibl></q> <persName ref="#END">Louisa's
+                              the Sea</ref></bibl></q> <p> <persName ref="#END">Louisa's
                                  father</persName> is called upon to enforce discipline regularly. As just
                         a few examples, February 6 sees drunken sailors sent below decks, while on
                         March 9, <persName ref="#END">Captain Doane</persName> is called to part a
@@ -979,14 +979,13 @@
                         pity. When her father upbraids a sailor for asking for more potatoes with
                         his beef on March 3, 1852, Doane "is most sorry for them." She learns to respect
                         the practical hardships of seafaring for these working men during a harsh
-                        storm on November 10, <q rend="block">the  poor sailors <distinct type="archaicorthography"><choice>
+                        storm on November 10,</p> <q rend="block">the  poor sailors <distinct type="archaicorthography"><choice>
                            <orig>looke</orig><reg>look</reg></choice></distinct> <choice><sic>beatten</sic><corr>beaten</corr></choice>
                             and tired out and they have to be out on Deck <choice>
                               <sic>weathre</sic>
                               <corr>weather</corr>
                            </choice> it  all and the sea is washing over us I pity  them. I wish the
                            Wind would come fair.</q>
-                     </p>
                      <!-- Dorothy Chalk's intro begins here. -->
                      <p><hi rend="bold">Marseille.</hi> Unlike the thousands of Americans who made the
                         trip across the Atlantic in the nineteenth century, bent on exploring fashionable
@@ -1015,14 +1014,14 @@
                      <p>Not surprisingly then, <persName ref="#LAD">Doane</persName>'s 
                         first entries upon arriving in <placeName ref=
                            "#Marseille">Marseille </placeName>focus on food and lodging. She carefully describes 
-                        their boarding house, and provides long lists of what was served to them at mealtimes: 
+                        their boarding house, and provides long lists of what was served to them at mealtimes:</p> 
                         <q rend="block">I will now tell you what we had for dinner, beef soup <distinct type="archaicorthography"><choice><orig>
                            rost </orig><reg>roast</reg></choice></distinct>turkey, <distinct type="archaicorthography"><choice><orig>rost </orig><reg>roast </reg></choice></distinct>beef, boiled lamb, stew<supplied reason="omitted" resp="ed">ed 
                            </supplied>chickens, potatoes, and <distinct type="archaicorthography"><choice><orig>spinage</orig><reg>spinach</reg></choice></distinct>, for <choice><sic>desert </sic><corr>dessert</corr></choice>pie, 
                            oranges, apples, pears, figs, for tea we had preserved beef, boiled ham, fresh 
                            pork, white bread, butter, olives, stew<supplied reason="omitted" resp="ed">ed 
                            </supplied>pears, frosted cake, and then the fruit <add place="above">as </add>
-                           we had at dinner (1 April 1852).</q>
+                           we had at dinner (1 April 1852).</q><p>
                         The extent to which she documents these details suggest the sense of 
                         joy that must have accompanied her arrival on dry land, where food was varied and 
                         plentiful, and her accomodation was, as she notes, made of <q>"stone" (1 April 1852)</q>!</p>
@@ -6674,7 +6673,7 @@
              <p>
                 <lb/><choice><orig><distinct type="archaic_orthography" time="17-17">Pleasent</distinct></orig><reg source="OED">Pleasant</reg></choice> day have been on
                 <lb/>board of the <name type="ship" ref="#CPacket">Packet</name><ptr
-                   type="noteAnchor"/>
+                   type="noteAnchor" target="CPacket"/>
                 <note resp="ed" xml:id="CPacket">More than likely the same California Packet that cleared the New York Harbor on April 17, 1852
                    <bibl><ref target="#CPacket">New York Times</ref></bibl></note> and spent the day and
                 <lb/>while there <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Corner</persName> came on board

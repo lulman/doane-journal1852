@@ -156,6 +156,7 @@
             <img class="pageview">
                <xsl:attribute name="src"><xsl:value-of select="@facs"/>_small.jpg</xsl:attribute>
                <xsl:attribute name="width">425</xsl:attribute>
+               <xsl:attribute name="alt">Thumbnail of manuscript facsimile</xsl:attribute>
             </img>
          </a>
       </div>
@@ -163,7 +164,7 @@
    
    <xsl:template match="tei:div[@type='Entry']">
       <div class="Entry">
-         <xsl:element name="a"><xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute></xsl:element>
+         <xsl:element name="a"><xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute></xsl:element>
          <xsl:apply-templates/>
       </div>
    </xsl:template>
@@ -171,7 +172,7 @@
    <xsl:template match="tei:lb">
       <br/>
       <a>
-         <xsl:attribute name="name">
+         <xsl:attribute name="id">
             <xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>
          </xsl:attribute>
       </a>

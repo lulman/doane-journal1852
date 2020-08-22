@@ -150,7 +150,7 @@
             </div> <!-- End div id navigation -->
             
                <div id="titleBar">
-                  <p align="center"><span class="projectTitle">Louisa A. Doane's Journal of Two Ocean Voyages, 1852-1853</span><br/>by Louisa A. Doane</p>
+                  <p style="text-align: center"><span class="projectTitle">Louisa A. Doane's Journal of Two Ocean Voyages, 1852-1853</span><br/>by Louisa A. Doane</p>
                   <!-- Horizontal rule beneath page title -->
                   <hr style="border: 2px solid crimson;"/>
                </div> <!-- END titleBar -->
@@ -395,7 +395,7 @@
                <xsl:choose>
                   <xsl:when test="position()>=100">
                      <p class="hang35"><a>
-                        <xsl:attribute name="name">n<xsl:value-of select="@xml:id"/></xsl:attribute>
+                        <xsl:attribute name="id">n<xsl:value-of select="@xml:id"/></xsl:attribute>
                         </a>
                         <xsl:number count="//tei:body//tei:note[@resp='ed']" level="any"
                         />.&#xA0;<xsl:apply-templates/>
@@ -408,7 +408,7 @@
                   </xsl:when>
                   <xsl:when test="position()>=10">
                      <p class="hang25"><a>
-                        <xsl:attribute name="name">n<xsl:value-of select="@xml:id"/></xsl:attribute>
+                        <xsl:attribute name="id">n<xsl:value-of select="@xml:id"/></xsl:attribute>
                         </a>
                         <xsl:number count="//tei:body//tei:note[@resp='ed']" level="any"
                         />.&#xA0;<xsl:apply-templates/>
@@ -421,7 +421,7 @@
                   </xsl:when>
                   <xsl:otherwise>
                      <p class="hang15"><a>
-                           <xsl:attribute name="name">n<xsl:value-of select="@xml:id"/></xsl:attribute>
+                           <xsl:attribute name="id">n<xsl:value-of select="@xml:id"/></xsl:attribute>
                         </a>
                         <xsl:number count="//tei:body//tei:note[@resp='ed']" level="any"/>.&#xA0;<xsl:apply-templates/>
                         <a>
@@ -447,19 +447,19 @@
                <!-- Describe this view of the journal. -->
             <h2>About this View of the Journal</h2>
                <hr/>
-            <p><a name="view"/><xsl:value-of select="$aboutView"/></p>
+            <p><a id="View"/><xsl:value-of select="$aboutView"/></p>
                
             <hr/>
             <a href="#top">Top of Page</a>
                
             <!-- Insert link to home page, creation date, and licensing statement.-->
-            <p align="left">
+               <p style="text-align: left">
                <br/>
                <br/>
-               <emph>Created: <xsl:apply-templates
-                     select="//tei:TEI/tei:teiHeader/tei:profileDesc/tei:creation/tei:date"/></emph>
+               Created: <xsl:apply-templates
+                     select="//tei:TEI/tei:teiHeader/tei:profileDesc/tei:creation/tei:date"/>
             </p>
-            <p align="center">
+               <p style="text-align: center">
                <xsl:value-of
                   select="//tei:teiCorpus/tei:teiHeader/tei:availability/tei:p[@id='CreativeCommons']"
                   disable-output-escaping="yes"/>
@@ -478,7 +478,7 @@
 <!-- ENTRY TEMPLATE DEFINED IN SEPARATE VIEWS -->
 <!--   <xsl:template match="tei:div[@type='Entry']">
          <div class="Entry">
-            <xsl:element name="a"><xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute></xsl:element>
+            <xsl:element name="a"><xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute></xsl:element>
             <xsl:apply-templates/>
          </div>
    </xsl:template>
@@ -508,7 +508,7 @@
       <hr/>
       <br/>
       <a>
-         <xsl:attribute name="name">
+         <xsl:attribute name="id">
             <xsl:value-of select="@xml:id"/>
          </xsl:attribute>
       </a>
@@ -527,7 +527,7 @@
          <xsl:sort select="@n"/>
          <p class="hang25">
             <a>
-               <xsl:attribute name="name">
+               <xsl:attribute name="id">
                   <xsl:value-of select="@xml:id"/>
                </xsl:attribute>
             </a>
@@ -573,7 +573,7 @@
 
    <xsl:template match="tei:TEI//tei:ptr[@type='noteAnchor']">
       <a>
-         <xsl:attribute name="name">p<xsl:value-of select="@target"></xsl:value-of>
+         <xsl:attribute name="id">p<xsl:value-of select="@target"></xsl:value-of>
          </xsl:attribute>
          <xsl:attribute name="class">notePointer</xsl:attribute>
       </a>
@@ -734,7 +734,7 @@
    
    <xsl:template match="tei:figure[@rend='namedanchor']">
       <a>
-      <xsl:attribute name="name">
+      <xsl:attribute name="id">
          <xsl:value-of select="tei:graphic/@url"/>
       </xsl:attribute>
    </a>

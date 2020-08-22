@@ -531,9 +531,7 @@
    </xsl:template>
 -->   
    <xsl:template match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability">
-      <p>
             <xsl:apply-templates/>
-      </p>
 <!-- THIS INFO NOT PLACED IN SOURCE MATERIAL DESCRIPTION IN CURRENT VERSION
        <p>
          <em>
@@ -550,9 +548,7 @@
       <hr style="border: 2px solid crimson;"/>
       <h2 id="projectDescription">Project Description</h2>
       <hr/>
-      <p>
          <xsl:apply-templates/>
-      </p>
    </xsl:template>
    <xsl:template match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt">
       <hr style="border: 2px solid crimson;"/>
