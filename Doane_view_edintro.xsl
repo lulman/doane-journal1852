@@ -723,7 +723,10 @@
    </xsl:template>
 
    <!-- Format miscellaneous elements -->
-      
+   <xsl:template match="tei:sic">
+      <xsl:apply-templates/> [<xsl:element name="span"><xsl:attribute name="style">font-style: italic;</xsl:attribute>sic</xsl:element>]
+   </xsl:template>
+   
    <xsl:template match="tei:lb"><br/></xsl:template>
    <xsl:template match="tei:fileDesc/tei:titleStmt/tei:title/tei:lb">
       <br/><xsl:apply-templates/>
