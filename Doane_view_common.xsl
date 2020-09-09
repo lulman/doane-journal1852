@@ -602,7 +602,11 @@
    <xsl:template match="tei:damage"> [<em>Damage: <xsl:value-of select="@agent"/> (<xsl:value-of
             select="@extent"/>
          <xsl:value-of select="@unit"/>)</em>] </xsl:template>
-
+   
+   <!-- Doane's archaic orthography -->
+   <xsl:template match="tei:distinct/tei:choice/tei:orig"><xsl:apply-templates></xsl:apply-templates></xsl:template>
+   <xsl:template match="tei:distinct/tei:choice/tei:reg"/>
+   
    <!-- Editorial emendations -->
    <xsl:template match="tei:supplied">[<xsl:apply-templates/>] </xsl:template>
 
@@ -614,7 +618,7 @@
    <!-- Unclear passages. -->
    <xsl:template match="tei:unclear"> [<xsl:apply-templates/>?] </xsl:template>
 
-   <!-- Alternate between Cox's original pencil and overwritten ink. -->
+   <!-- Alternate between Doane's original pencil and overwritten ink. -->
    
    <xsl:template match="tei:app/tei:lem">
       <span class="pencil"><xsl:apply-templates/></span>

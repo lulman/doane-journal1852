@@ -2783,17 +2783,17 @@
       <body>
 <!-- New York to Marseille voyage begins here. -->
 <div type="voyage" xml:id="NY2Marseille">
-<pb facs="G226_D6_A3_1852-003b"/>
+   <pb facs="G226_D6_A3_1852-003b"/>
+   <fw><handShift new="#H2"/>1<handShift new="#LADHand"/></fw>
      <head>
         <handShift new="#LADHand"/>
         <lb/>A Journal from <placeName ref="#NYC">New York</placeName> towards <placeName
      ref="#Marseille">Marseilles</placeName></head>
-         <ab><handShift new="#H2"/>1</ab>
          <div type="Entry" xml:id="Doane18520206a">
             <lb/><dateline><date when="1852-02-06">Feb. friday 6</date></dateline>
             <p>At eleven p m the steam boat <lb/>made fast to us and in a few moments we 
                <lb/>left
-                  <name ref="#P6NR">pier n<del rend="overwritten">a</del>u<choice><sic>n</sic><reg>m</reg></choice>ber six North River</name><ptr type="noteAnchor" target="P6"/>
+                  <name ref="#P6NR">pier <choice><sic>n<del rend="overwritten">a</del>unber</sic><corr>number</corr></choice> six North River</name><ptr type="noteAnchor" target="P6"/>
                <note resp="ed" xml:id="P6">Pier 6 was located on the east side of Manhattan Island where Battery Park City
                now stands.</note> the boat left 
                <lb/>us in East River we are now sailing down
