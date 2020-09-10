@@ -3434,7 +3434,7 @@
            </div>
            <div type="Entry" xml:id="Doane18520401a">
                  <lb/><dateline><date when="1852-04-01">Thursday. April 1</date>. </dateline><p>This morning, we came on shore
-                 <lb/>to board to an American hotel. it is kept by a widow
+                 <lb/>to board to American hotel. it is kept by a widow
                  <lb/>lady, she is french. <choice><abbr>altho </abbr><expan>although </expan></choice> she had been in New<choice><sic><seg type="softhyphen">-
                  <lb/></seg></sic><corr><lb/></corr></choice> York a number of years and could speak very
                  <lb/>good <choice><sic>english </sic><corr>English </corr></choice>.<ptr type="noteAnchor" target="AH"/><note resp="ed" xml:id="AH">In spite of Joseph Kirkland's 
@@ -3563,7 +3563,7 @@
                  <lb/>pain in my head, I came home went to bed,
                  <lb/>and when the doctor came to <rs ref="#END">father</rs>, he came
                     <!-- Supplied or abbreviation for "ored"? -->
-                 <lb/>in to me, said <said aloud="true" direct="false">I was <supplied reason="omitted" resp="ed">a</supplied> little feverish, or<supplied reason="omitted" resp="ed" cert="medium">der</supplied>ed a
+                 <lb/>in to me, said <said aloud="true" direct="false">I was <supplied reason="omitted" resp="ed">a</supplied> little feverish, <choice><sic>ored</sic><corr>ordered</corr></choice> a
                  <pb facs="G226_D6_A3_1852-013b"/>
                  <lb/>sweet, and to drink some herb tea,</said> and today
                  <lb/>I feel as well as <choice><sic>euasl</sic><corr>usual</corr></choice>, and <rs ref="#END">father </rs>is gaining
@@ -3657,14 +3657,14 @@
             </div>
             <div type="Entry" xml:id="Doane18520430a">
                <lb/><dateline><date when="1852-04-30">Friday 30</date>.</dateline><p> This morning at half past five,
-                  <lb/>all hands were called to hall out of the dock,
-                  <lb/>while halling out some of the men happened
+                  <lb/>all hands were called to <choice><sic>hall</sic><corr>haul</corr></choice> out of the dock,
+                  <lb/>while <choice><sic>halling</sic><corr>hauling</corr></choice> out some of the men happened
                   <lb/>to see our cat on board of the bark that we
                   <lb/><distinct type="archaicorthography"><choice><orig>layed</orig><reg>laid</reg></choice></distinct> along side of, they put her in a boat,
                   <lb/>then in a basket, and passed her up.
                   <lb/>at half past seven the steamboat made fast
                   <lb/>to us, and we are now <choice><sic>biding</sic><corr>bidding</corr></choice>farewell to
-                  <lb/><placeName ref="#Marseilles">Marseilles</placeName>, and
+                  <lb/><placeName ref="#Marseilles"><choice><sic>Marseilles</sic><corr>Marseille</corr></choice></placeName>, and
                   <choice><sic>stering</sic><corr>steering</corr></choice> for home, the wind is
                   <lb/>so we can lay our course,
                </p>
@@ -3686,7 +3686,7 @@
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520505a">
-             <lb/><dateline><date when="1852-05-05">Wednesday 5</date></dateline><p>It is quite <choice><sic>pleasent</sic><corr>pleasant</corr></choice>, <choice><abbr>altho</abbr><expan>although</expan></choice> a head
+             <lb/><dateline><date when="1852-05-05">Wednesday 5</date></dateline> <p>It is quite <choice><sic>pleasent</sic><corr>pleasant</corr></choice>, <choice><abbr>altho</abbr><expan>although</expan></choice> a head
                  <lb/>wind, <choice><sic>sence</sic><corr>since</corr></choice> dinner the wind has increased, 
                  <lb/>and it is quite <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>, have tacked ship several
                  <lb/>times, the land of <placeName ref="#Palos">Cape Palos</placeName> is in sight, 
@@ -3870,20 +3870,19 @@
              </p>
             </div>
             <div type="Entry" xml:id="Doane18520618a">
-               <lb/><dateline><date when="1852-06-18">Friday 1<choice><sic><del
-                  rend="overwritten">8</del>7</sic><corr>8</corr></choice> </date></dateline><p> Today it has been a foggy wet
+               <lb/><dateline><date when="1852-06-18">Friday 1<del
+                  rend="overwritten">8</del>7 </date></dateline><p> Today it has been a foggy wet
                <lb/>and <choice><sic>unpleasent</sic><corr>unpleasant</corr></choice> day the wind ahead this
                <lb/>morning come on soundings and the <choice><sic>Captian</sic><corr>Captain</corr></choice>
                <lb/>went to fishing caught one cod fish but be<seg type="softhyphen">-
-               <lb/>fore</seg> they got him on on board they lost
+               <lb/>fore</seg> they got him on <choice><sic>on</sic><corr></corr></choice> board they lost
                <lb/>him this morning saw three ships bound
                <lb/>to <add place="above" rend="caret">the</add><choice><sic>Westard</sic><corr>Westward</corr></choice>
                </p>
             </div>
                <div type="Entry" xml:id="Doane18520620a">
                 <lb/><dateline><date when="1852-06-20">Sunday 20</date>,</dateline><p> This morning there was a thick
-                <lb/><choice><sic>fogg</sic><corr>fog</corr></choice> and very wet <gap
-                   reason="overwritten" unit="chars" extent="1"/><del rend="overwritten">t</del>and calm at twelve
+                <lb/><choice><sic>fogg</sic><corr>fog</corr></choice> and very wet <del rend="overwritten">t</del>and calm at twelve
                 <lb/>oclock the wind breeze up fair for us and
                 <lb/>the <choice><sic>fogg</sic><corr>fog</corr></choice> cleared <del
                    rend="overwritten">it</del>up at two oclock set studdi<seg type="softhyphen">
@@ -3896,8 +3895,8 @@
 </div>
     <!-- New York to Marseille voyage ends here. -->
          
-           <pb facs="a/ab2dcb19-0b23-4766-8d8a-d42664d73c49"/>
-           <pb facs="f/f0b3df70-9376-4000-b205-ae5a23a6256c"/>
+         <pb facs="G226_D6_A3_1852-018a"/>
+         <pb facs="G226_D6_A3_1852-018b"/>
          
    <!-- New York to Peru voyage begins here -->
    <!-- Dawn Lunsford's section begins here. -->
