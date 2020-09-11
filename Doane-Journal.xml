@@ -919,10 +919,9 @@
                            <sic>to to</sic>
                            <corr>to </corr>
                         </choice>us, as we have been out forty three days, and  have seen nothing
-                        but sky and water, and a  great deal of <choice><orig><distinct
-                           type="archaic_orthography" time="16-18">ruff </distinct></orig><reg
-                           source="OED">rough </reg>
-                        </choice>weather." <persName ref="#HS">Springer</persName> identifies this
+                        but sky and water, and a  great deal of <distinct type="archaicorthography" time="16-18"><choice><orig>ruff</orig><reg
+                           source="OED">rough</reg></choice></distinct>
+                        weather." <persName ref="#HS">Springer</persName> identifies this
                         "longing for other women" as a primary trope in the captain's wives journals
                         that comprise his study. Imagine the relief even further into <persName
                            ref="#LAD">her</persName> voyage, when the <persName ref="#LAD #ATD"
@@ -3335,7 +3334,7 @@
            </div>
            <pb facs="G226_D6_A3_1852-010b"/>
            <div type="Entry" xml:id="Doane18520326a">
-                 <lb/><dateline><date when="1852-03-26">Friday 26 </date></dateline><p>This day have had it very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>, and
+              <lb/><dateline><date when="1852-03-26">Friday 26 </date></dateline><p>This day have had it very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>, and
                  <lb/>a fair wind, and plenty of it. but it has now
                  <lb/>nearly died away calm, we are nearly out of sight
                  <lb/>of the Island of <placeName
@@ -3361,7 +3360,7 @@
                  <lb/>steamer came close to us, <distinct type="archaicorthography"><choice><orig>sot </orig><reg>set </reg></choice></distinct>her <choice><sic>colars</sic><corr>colors</corr></choice>, and we
                  <lb/><distinct type="archaicorthography"><choice><orig>sot </orig><reg>set </reg></choice></distinct>ours, she is nearly out of sight, we have tacked
                  <lb/>ship twice, I have been reading. and out on deck
-                 <lb/>most of the day, as it was too <choice><sic>pleasent </sic><corr>pleasant </corr></choice>to stay in the
+                    <lb/>most of the day, as it was too <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> to stay in the
                  <lb/>house, 
               </p>
            </div>
@@ -3446,7 +3445,7 @@
                     and other acts of violence unknown in the North" <bibl><ref target="#Murray">(430)</ref></bibl></q></note>
                     It happened we <choice><sic>feel </sic><corr cert="high">fell </corr></choice> in with a
                  <lb/><persName ref="#Eliott"><choice><sic>Captian </sic><corr>Captain </corr></choice>Eliott</persName> and his family an old acquaintan<seg type="softhyphen">
-                 <lb/></seg>ce of ours which makes it very <choice><sic>pleasent </sic><corr>pleasant </corr></choice>for
+                    <lb/></seg>ce of ours which makes it very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> for
                  <lb/>us, the house is stone and all the floors and
                  <lb/>stairs. there is no one here but <persName ref="#Eliott"><choice><sic>Captian </sic><corr>Captain </corr></choice>Eliott</persName>
                  <lb/>besides ourselves, a <choice><sic>Captian </sic><corr>Captain</corr></choice>and three ladys—
@@ -3581,7 +3580,7 @@
                  <lb/><persName>Mrs Eliott</persName> goes on board of the ship today,
                  <lb/>also as they leave on Sunday, we lay along
                  <lb/>side of each other so we can go on board,
-                 <lb/>which makes it very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>,
+                <lb/>which makes it very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>,
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520417a">
@@ -3686,7 +3685,7 @@
               </p>
            </div>
            <div type="Entry" xml:id="Doane18520505a">
-             <lb/><dateline><date when="1852-05-05">Wednesday 5</date></dateline> <p>It is quite <choice><sic>pleasent</sic><corr>pleasant</corr></choice>, <choice><abbr>altho</abbr><expan>although</expan></choice> a head
+              <lb/><dateline><date when="1852-05-05">Wednesday 5</date></dateline> <p>It is quite <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>, <choice><abbr>altho</abbr><expan>although</expan></choice> a head
                  <lb/>wind, <choice><sic>sence</sic><corr>since</corr></choice> dinner the wind has increased, 
                  <lb/>and it is quite <distinct type="archaicorthography"><choice><orig>ruff</orig><reg>rough</reg></choice></distinct>, have tacked ship several
                  <lb/>times, the land of <placeName ref="#Palos">Cape Palos</placeName> is in sight, 
@@ -3717,7 +3716,7 @@
             </div>
             <div type="Entry" xml:id="Doane18520512a">
            <lb/><dateline><date when="1852-05-12">Wednesday 12</date>.</dateline><p> Today we have a fair wind sail<seg type="softhyphen">-
-               <lb/></seg>ing along <choice><sic>pleasently</sic><corr>pleasantly</corr></choice>, we are forty miles from
+              <lb/></seg>ing along <distinct type="archaicorthography"><choice><orig>pleasently</orig><reg>pleasantly</reg></choice></distinct>, we are forty miles from
                  <lb/>the <rs ref="#Rock">Rock</rs>, the men have been washing the house
                  <lb/>so to paint it the first drying day, <rs ref="#ATD">mother</rs> 
                  <lb/>has got a sore throat, I have been sewing all
@@ -3782,7 +3781,7 @@
                <lb/><dateline><date when="1852-05-25"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice>25</date>.</dateline><p> Today we have a fair wind which
                <lb/>we have not had for the last week, we are in
                <lb/>sight of the <placeName>Western Island</placeName>, it has been a 
-               <lb/>very <choice><sic>pleasent</sic><corr>pleasant</corr></choice> day. there is one vessel in sight
+                  <lb/>very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day. there is one vessel in sight
                <lb/>bound the other way.
                </p>
             </div>
@@ -3824,7 +3823,7 @@
           <pb facs="G226_D6_A3_1852-017a"/>
             <div type="Entry" xml:id="Doane18520528a">
              <lb/><dateline><date when="1852-05-28">Friday 26</date></dateline><p> We have a fair wind <choice><abbr>altho</abbr><expan>although</expan></choice> near<seg type="softhyphen">- 
-               <lb/></seg>ly calm, and very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>, yesterday <persName>George</persName>
+                <lb/></seg>ly calm, and very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>, yesterday <persName>George</persName>
                <lb/>one of our sailors was taken with a severe 
                <lb/>pain in his face but he is better today
                <lb/>This morning <persName>Tom</persName> was at the wheel and 
@@ -3872,7 +3871,7 @@
             <div type="Entry" xml:id="Doane18520618a">
                <lb/><dateline><date when="1852-06-18">Friday 1<del
                   rend="overwritten">8</del>7 </date></dateline><p> Today it has been a foggy wet
-               <lb/>and <choice><sic>unpleasent</sic><corr>unpleasant</corr></choice> day the wind ahead this
+               <lb/>and <distinct type="archaicorthography"><orig><sic>unpleasent</sic><reg>unpleasant</reg></orig></distinct> day the wind ahead this
                <lb/>morning come on soundings and the <choice><sic>Captian</sic><corr>Captain</corr></choice>
                <lb/>went to fishing caught one cod fish but be<seg type="softhyphen">-
                <lb/>fore</seg> they got him on <choice><sic>on</sic><corr></corr></choice> board they lost
@@ -3887,7 +3886,7 @@
                 <lb/>the <choice><sic>fogg</sic><corr>fog</corr></choice> cleared <del
                    rend="overwritten">it</del>up at two oclock set studdi<seg type="softhyphen">
                 <lb/>ng</seg> sails with a fine little breeze yesterday we
-                <lb/>lay becalm and the weather very <choice><sic>unpleasent</sic><corr>unpleasant</corr></choice>
+                   <lb/>lay becalm and the weather very <distinct type="archaicorthography"><orig><sic>unpleasent</sic><reg>unpleasant</reg></orig></distinct>
                 <lb/>and foggy, there are two ship in <choice><sic>sigh</sic><corr>sight</corr></choice> bound 
                    to <add place="below"><choice><sic>Westard</sic><corr>Westward</corr></choice></add>
                 </p>
@@ -4067,7 +4066,7 @@
                 <lb/><dateline>Sunday 12. oclock M <date when="1852-08-15">Augt 15th</date></dateline>
                 <p>
                 <lb/>We have a fair wind blowing
-                 <lb/>quite and <choice><sic>unpleasent</sic><corr>unpleasant</corr></choice> weather squally the last
+                   <lb/>quite and <distinct type="archaicorthography"><orig><sic>unpleasent</sic><reg>unpleasant</reg></orig></distinct> weather squally the last
                  <lb/>day it has been calm no wind, there are
                  <lb/>two vessel in sight bound to <del rend="overwritten">W</del>Eastward
                  <!-- Proofread to this point 24 January 2012. HLU and CG. -->             
@@ -4116,7 +4115,7 @@
               <lb/><dateline>Wednesday 12 oclock M <date when="1852-08-18"><choice><abbr>Augt</abbr><expan>August</expan></choice> 18th</date></dateline>
               <p>
                  <lb/>For the last 24 hour calm and
-                 <lb/><choice><sic>pleasent</sic><corr>pleasant</corr></choice> weather and sailing now today they
+                 <lb/><distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> weather and sailing now today they
                  <lb/>are painting the house. Green and White
               </p>
            </div>
@@ -4248,7 +4247,7 @@
       <p>                 
          <lb/>Today the wind has been change<seg type="softhyphen">
             <lb/></seg>able in no particular point long at a time
-         <lb/><choice><sic>unpleasent</sic><corr>unpleasant</corr></choice> weather have had a rain shower
+         <lb/><distinct type="archaicorthography"><orig><sic>unpleasent</sic><reg>unpleasant</reg></orig></distinct> weather have had a rain shower
          <lb/>and now it is entirely calm sails flapping
          <lb/>have passed a Schooner bound North
       </p>
@@ -4398,7 +4397,7 @@
       <lb/><dateline><date when="1852-09-18">Saturday 12 oclock <del rend="overwritten">S</del>M Sept 18th</date></dateline>
       <p>
          <lb/>Wind stills continues ahead
-         <lb/>tacked Ship several times <choice><sic>unpleasent</sic><corr>unpleasant</corr></choice> weather
+         <lb/>tacked Ship several times <distinct type="archaicorthography"><orig>unpleasent</orig><reg>unpleasant</reg></distinct> weather
          <lb/>it is growing quite Cool. killed one of the Pigs
          <lb/>have seen a Bark standing the same way
          <lb/>as we are, I have sewing as <choice><sic>useal</sic><corr>usual</corr></choice>
@@ -4409,7 +4408,7 @@
       <p>
          <lb/>We are now in the SE T<del rend="overwritten">a</del>rades
          <lb/>Wind which is fair for us and we are
-         <lb/>sailing along <choice><sic>pleasently</sic><corr>pleasantly</corr></choice> with Studding sails
+         <lb/>sailing along <distinct type="archaicorthography"><choice><orig>pleasently</orig><reg>pleasantly</reg></choice></distinct> with Studding sails
          <pb facs="G226_D6_A3_1852-026b"/>
          <!-- Proofed to this point 02 Feb 2012 HLU and CG. -->
          <lb/><distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> one of the sailors is sick has sent in for
@@ -4432,7 +4431,7 @@
    <div type="Entry" xml:id="Doane18520921a">
       <lb/><dateline><date when="1852-09-21">Wednesday 12 oclock M <choice><sic>Augt</sic><corr>Sept</corr></choice> <choice><sic>21th</sic><corr>21st</corr></choice></date></dateline>
       <p>
-         <lb/>This have been a very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>
+         <lb/>This have been a very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>
          <lb/>day <rs ref="#ATD">mother</rs> and <distinct type="archaicorthography"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> have been washing
          <lb/>out a few pocket handkerchief. Two hours 
          <lb/>in a day <del rend="overwritten">we</del>I practise on the Piano, 6 oclock
@@ -4620,7 +4619,7 @@
       <lb/><dateline><date when="1852-10-11">Monday 12 oclock M Oct 11th</date></dateline>
       <p>
          <lb/>First of the last twenty
-         <lb/>hours <gap reason="overwritten"/>moderate and quite <choice><sic>pleasent</sic><corr>pleasant</corr></choice> <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> this
+         <lb/>hours <gap reason="overwritten"/>moderate and quite <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct> this
          <lb/>morning when it commenced <choice><sic><unclear cert="high">breszing</unclear></sic><corr>breezing</corr></choice> so they
          <lb/>put Double reef in the foretopsail one in the 
          <lb/>Main and <choice><sic>fuled</sic><corr>furled</corr></choice> the Mizzen Topsail, there
@@ -5102,7 +5101,7 @@
          <lb/>to us to have a Fair wind as it has been three
          <lb/>weeks that we have had it blowing a Gale
          <lb/>of wind and ahead I hope we have got
-         <lb/>into <choice><sic>pleasent</sic><corr>pleasant</corr></choice> weather The Carpenter oversee
+         <lb/>into <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> weather The Carpenter oversee
          <lb/>the Mates <choice><sic>wath</sic><corr>watch</corr></choice> We are four Degree North of
          <lb/><placeName ref="#CHorn">Cape Horn</placeName> <geogName ref="#NCHorn">Latitude 50=32.
             Longitude 7<del rend="overwritten">2</del>9=21</geogName>
@@ -5113,7 +5112,7 @@
       <lb/><dateline><date when="1852-11-23"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 12 oclock M Nov 23th</date></dateline>
       <p>
          <lb/>This has been a
-         <lb/><choice><sic>pleasent</sic><corr>pleasant</corr></choice> day. Fair Wind have had it so for the
+         <lb/><distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day. Fair Wind have had it so for the
          <lb/>last two days The Mate is so he goes out on deck
          <lb/>I can <choice><sic>precieve</sic><corr>perceive</corr></choice> it grows warmer, This morning
          <lb/>calm a school of Black Fish sound the vessel
@@ -6556,7 +6555,7 @@
           <div type="Entry" xml:id="Doane18530430a">
              <lb/><dateline><date when="1853-04-30">Saturday April 30th</date></dateline>
              <p>
-                <lb/>A very <choice><orig><distinct type="archaic_orthography" time="17-17">pleasent</distinct></orig><reg source="OED">pleasant</reg></choice> morning tak<seg type="softhyphen">-
+                <lb/>A very <distinct type="archaicorthography" time="17-17"><choice><orig>pleasent</orig><reg source="OED">pleasant</reg></choice></distinct> morning tak<seg type="softhyphen">-
                    <lb/></seg>ing in Guano <rs ref="ATD">Mother</rs> is some better <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
                       <lb/>Corner</persName> and Wife <persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice> Lowell</persName> and Wife came
                 <lb/>on to call to see <rs ref="ATD">Mother</rs> and also <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Genings</persName>
@@ -6595,7 +6594,7 @@
              <p>
                 <lb/>Taken in Guano our Ballast
                 <lb/>is all out we have to lay here 60 days we have
-                <lb/>to Ballast and then lay <choice><orig><distinct type="archaic_orthography" time="ME-18">untill</distinct></orig><reg source="OED">until</reg></choice> our <unclear>turner</unclear>comes
+                <lb/>to Ballast and then lay <choice><orig><distinct type="archaicorthography" time="ME-18">untill</distinct></orig><reg source="OED">until</reg></choice> our <unclear>turner</unclear>comes
                 <lb/>to go under the Ships Shoot where we can load
                 <lb/>in 4 days <name type="ship">The Bark Royal <choice><sic>Saxton</sic></choice><corr>Saxon</corr></name> has sailed
                 <lb/>today so you see <choice><sic>their</sic><corr>there</corr></choice>is one <supplied reason="omitted" resp="ed">of</supplied> the best Ladies.
@@ -6651,7 +6650,7 @@
           <div type="Entry" xml:id="Doane18530509a">
              <lb/><dateline><date when="1853-05-09">Monday May 9th</date></dateline>
              <p>
-                <lb/>This is a very <choice><orig><distinct type="archaic_orthography" time="17-17">pleasent</distinct></orig><reg source="OED">pleasant</reg></choice> day <persName><choice><sic>Cap-
+                <lb/>This is a very <distinct type="archaic_orthography" time="17-17"><choice><orig>pleasent</orig><reg source="OED">pleasant</reg></choice></distinct> day <persName><choice><sic>Cap-
                    <lb/>tian</sic><corr>Captain</corr></choice> Dunbar</persName> and <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Knowels</persName> have called
                 <lb/>on us this morning <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> <choice><sic>dinned</sic><corr>dined</corr></choice>
                 <lb/>with us after Dinner <persName ref="Gardner"><choice><sic>Captian</sic><corr>Captain</corr></choice></persName> and <persName>Mrs Gard<seg type="softhyphen">-
@@ -6668,7 +6667,7 @@
           <div type="Entry" xml:id="Doane18530510a">
              <lb/><dateline><date when="1853-05-10">Tuesday May 10th</date></dateline>
              <p>
-                <lb/><choice><orig><distinct type="archaic_orthography" time="17-17">Pleasent</distinct></orig><reg source="OED">Pleasant</reg></choice> day have been on
+                <lb/><distinct type="archaic_orthography" time="17-17"><choice><orig>Pleasent</orig><reg source="OED">Pleasant</reg></choice></distinct> day have been on
                 <lb/>board of the <name type="ship" ref="#CPacket">Packet</name><ptr
                    type="noteAnchor" target="CPacket"/>
                 <note resp="ed" xml:id="CPacket">More than likely the same California Packet that cleared the New York Harbor on April 17, 1852
@@ -6734,7 +6733,7 @@
           <div type="Entry" xml:id="Doane18530518a">
              <lb/><dateline><date when="1853-05-18">Wednesday May 18th</date></dateline>
              <p>
-                <lb/>A very <choice><sic>pleasent</sic><corr>pleasant</corr></choice> day have
+                <lb/>A very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day have
                 <lb/>been rowing around the Island did not stop
                 <lb/>any where <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Frost</persName> came and spent the
                 <lb/>evening and wanted <persName>Mr Frost</persName> to go on board
@@ -6745,7 +6744,7 @@
           <div type="Entry" xml:id="Doane18530519a">
              <lb/><dateline><date when="1853-05-19">Thursday May 19th</date></dateline>
              <p>
-                <lb/>This is a very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>
+                <lb/>This is a very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>
                 <lb/>day <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Frost</persName> has been along side for us to
                 <lb/>go rowing which is all the Pleasure we
                 <lb/>have went around to the Middle Island
@@ -6768,7 +6767,7 @@
              <p>
                 <lb/>Today we have had <choice><sic>coupay</sic><corr>company</corr></choice>
                 <lb/>they seemed to <choice><sic>enjoye</sic><corr>enjoy</corr></choice> themselves very much
-                <lb/>found them all very <choice><sic>pleasent</sic><corr>pleasant</corr></choice> and agreeable
+                <lb/>found them all very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> and agreeable
                 <lb/>after Dinner the <choice><sic>Captian</sic><corr>Captain</corr></choice> went out sailing
                 <lb/>we played on the <choice><sic>Accordan</sic><corr>Accordion</corr></choice>and sung <unclear cert="high" reason="Cannot find what this word means">Poda</unclear>
                 <lb/>have finished Ballasting <ptr type="noteAnchor" target="Ballasting"/><note resp="ed" xml:id="Ballasting">A 'Ballast' is any heavy material, such as gravel, sand, metal, water, etc., placed in the hold of a ship to weigh it down in the water and prevent it from capsizing when under sail or in motion. The OED gives the example from 1887 by Charles Kingley of ballasting a ship with pebbles. Doane does not specificly say what is used in this situation.<bibl><ref target="OxfordEnglishDictionary">Oxford English Dictionary</ref></bibl></note> and they have taken
@@ -7069,7 +7068,7 @@
                 <lb/> July are to spend it on board of the <name type="ship">James
                    <lb/><unclear cert="unknown" reason="unknown?">Corner</unclear></name> <rs>The Ladies</rs> are all to be there The
                 <lb/>Mate of the <name type="ship">Alboni</name> is out of Danger. we have
-                <lb/>spent a very <choice><sic>pleasent</sic><corr>pleasant</corr></choice> day there has been some
+                <lb/>spent a very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day there has been some
                 <lb/>trouble on board of the Ship <name type="ship">Hampden</name>, <persName>Mrs
                    <lb/>Lowell</persName> was not there as one of the <choice><sic>Captians</sic><corr>Captains</corr></choice>
                 <lb/>sent her on board some late Papers She
@@ -7125,7 +7124,7 @@
           <div type="Entry" xml:id="Doane18530708a">
              <lb/><dateline><date when="1853-07-08">Saturday July 8th</date></dateline>
              <p>
-                <lb/>This is a very <choice><sic>pleasent</sic><corr>pleasant</corr></choice>
+                <lb/>This is a very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>
                 <lb/>day have been washing out a few things after
                 <lb/>Dinner commenced haulling to the Buoy. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
                    <lb/>Burgess</persName> came on board with a Boats crew and
@@ -7476,7 +7475,7 @@
                    <lb/>We have a fresh
                    <lb/>breeze Fair going 8 miles an hour
                    <lb/>Studding sot on both sides thick un<seg>
-                   <lb/></seg><choice><sic>pleasent</sic><corr>pleasant</corr></choice> weather and Squally Today
+                      <lb/></seg><distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> weather and Squally Today
                    <lb/>is <rs ref="#END">Father</rs> Birth day 44 years of age
                 </p>
              </div>
@@ -7528,7 +7527,7 @@
              <div type="Entry" xml:id="Doane18530911a">
                 <dateline><date when="1853-09-11">Sunday <choice><abbr>Sept</abbr><expan>September</expan></choice> 11th</date></dateline>
                 <p>
-                   <lb/>This is a <choice><sic>pleasent</sic><corr>pleasant</corr></choice> day
+                   <lb/>This is a <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day
                    <lb/><choice><abbr>altho</abbr><expan>although</expan></choice> we have a head Wind This morn<seg type="softhyphen">
                    <lb/></seg>ing when I arose there was a Brigg in
                    <lb/>sight ahead bound the other way The keep
@@ -7546,7 +7545,7 @@
                 <dateline><date when="1853-09-19">Monday <choice><abbr>Sept</abbr><expan>September</expan></choice> 19th</date></dateline>
                 <p>
                    <lb/>Wind ahead blowing Fish
-                   <lb/>Is is a warm <choice><sic>pleasent</sic><corr>pleasant</corr></choice> <choice><sic>morng</sic><corr>morning</corr></choice> <rs ref="#ATD">Mother</rs> and
+                   <lb/>Is is a warm <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> <choice><sic>morng</sic><corr>morning</corr></choice> <rs ref="#ATD">Mother</rs> and
                    <lb/><choice><orig><distinct type="archaic_orthography" time="16">myselfe</distinct></orig><reg source="OED">myself</reg></choice> have been out on deck all <choice><sic>mornig</sic><corr>morning</corr></choice>
                    <lb/><rs ref="#END">Father</rs> has caught 4 large Albatrosses and
                    <lb/>The Cook asked him if he wanted them for
@@ -7573,7 +7572,7 @@
              <div type="Entry" xml:id="Doane18530927a">
                 <dateline><date when="1853-09-27"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice><choice><abbr>Sept</abbr><expan>September</expan></choice> 27th</date></dateline>
                 <p>
-                   <lb/>This is a <choice><sic>pleasent</sic><corr>pleasant</corr></choice> day
+                   <lb/>This is a <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day
                    <lb/>fair Wind Studding sot today have noticed
                    <lb/>the Mainmast was rotten have been putting
                    <lb/>a spar to lash it what they call Fishing at 4
@@ -7622,7 +7621,7 @@
                    <lb/>This is the first day of
                    <pb facs="G226_D6_A3_1852-078a"/><!-- 78a -->
                    <lb/>the month and comes in with a <choice><sic>beautifull</sic><corr>beautiful</corr></choice>
-                   <lb/>Fair Wind <choice><abbr>altho</abbr><expan>although</expan></choice> <choice><sic>unpleasent</sic><corr>unpleasant</corr></choice> weather <choice><sic>rainey</sic><corr>rainy</corr></choice>
+                   <lb/>Fair Wind <choice><abbr>altho</abbr><expan>although</expan></choice> <distinct type="archaicorthography"><orig><sic>unpleasent</sic><reg>unpleasant</reg></orig></distinct> weather <choice><sic>rainey</sic><corr>rainy</corr></choice>
                    <lb/>we are now in the South East Gade Winds
                    <lb/>The sailors have had liberty to wash their
                    <lb/><choice><sic>cloths</sic><corr>clothes</corr></choice> they have been down in the Lea
@@ -7643,7 +7642,7 @@
              <div type="Entry" xml:id="Doane18531013a">
                 <dateline><date when="1853-10-13">Thursday <choice><abbr>Oct</abbr><expan>October</expan></choice> 13</date></dateline>
                 <p>
-                   <lb/>This is a <choice><sic>pleasent</sic><corr>pleasant</corr></choice> day
+                   <lb/>This is a <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day
                    <lb/>very warm are in the Latitude of 4=50
                    <lb/>North and Longitude crossed the line
                    <lb/>last Saturday after Breakfast saw
