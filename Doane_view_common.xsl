@@ -514,6 +514,7 @@
       </a>
       <xsl:apply-templates/>
    </xsl:template>
+   
    <xsl:template match="tei:div[@type='editorial']/tei:head">
       <h1>
          <xsl:apply-templates/>
