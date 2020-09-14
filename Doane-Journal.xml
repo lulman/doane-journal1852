@@ -5070,14 +5070,14 @@
          <lb/>out <choice><sic>off</sic><corr>of</corr></choice> <choice><sic>out</sic><corr>it</corr></choice> but her head pains her very
          <lb/>much. The weather is very bad the wind
          <lb/>blowing a g<add place="above" rend="caret">a</add>le from the <choice><sic>Westard</sic><corr>Westward</corr></choice>. We are
-         <lb/>Hove too <rs ref="#ATD">Mother</rs> is better
+         <lb/>Hove <choice><sic>too</sic><corr>to</corr></choice> <rs ref="#ATD">Mother</rs> is better
       </p>
    </div>
    <div type="Entry" xml:id="Doane18521117a">
       <lb/><dateline><date when="1852-11-17">Wednesday 12 oclock M Nov 17th</date></dateline>
       <p>
          <lb/>The wind is
-         <lb/>still the same blowing fresh The first mate
+         <lb/>still the same blowing fresh. The first mate
          <lb/>is confined to his bed with the Rheumatic
          <lb/>Pains one Ship in sight to the Leeward of
          <lb/>us standing the same way.
@@ -5097,7 +5097,7 @@
          <lb/>it and he said he should the room search<seg type="softhyphen">-
          <lb/>ed</seg> and if there was any thing of the kind
          <lb/>he should take them, The Second Mate
-         <lb/>and Carpenter have search his room but
+         <lb/>and Carpenter have <choice><sic>search</sic><corr>searched</corr></choice> his room but
          <lb/>could not find it suppose he has made
          <lb/>way with it. This morning he is about
          <lb/>the same says he is in a great deal of Pain
@@ -5109,8 +5109,8 @@
          <lb/>It is smooth.
          <lb/>The Mate is some better, This morning Fair
          <lb/>wind sent up the Royal yard and sent the
-         <lb/>sail and <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> Studding Sails It <choice><sic>seemes</sic><corr>seems</corr></choice> new
-         <lb/>to us to have a Fair wind as it has been three
+         <lb/>sail and <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> Studding sails It <choice><sic>seemes</sic><corr>seems</corr></choice> new
+         <lb/>to us to have a Fair Wind as it has been three
          <lb/>weeks that we have had it blowing a Gale
          <lb/>of wind and ahead I hope we have got
          <lb/>into <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> weather The Carpenter oversee
@@ -5129,18 +5129,18 @@
          <lb/>I can <choice><sic>precieve</sic><corr>perceive</corr></choice> it grows warmer, This morning
          <lb/>calm a school of Black Fish sound the vessel
          <lb/>I have been <choice><sic>clearnig</sic><corr>clearing</corr></choice> up the lower cabin as
-         <lb/>it got all in a <choice><sic>confussion sence</sic><corr>confusion since</corr></choice> we have had
+         <lb/>it got all in a <choice><sic>confussion</sic><corr>confusion</corr></choice> <distinct type="archaicorthography"><choice><orig>sence</orig><reg>since</reg></choice></distinct> we have had
          <lb/>the ruff
       </p>
    </div>
    <div type="Entry" xml:id="Doane18521124a">
       <lb/> <dateline><date when="1852-11-24">Wednesday 12 oclock M Nov 24the</date></dateline>
       <p>
-         <lb/>Throughout out
+         <lb/>Throughout <choice><sic>out</sic><corr></corr></choice>
          <lb/>these 24 hours fresh breezes Stormy weather
          <lb/>and <choice><sic>heavey</sic><corr>heavy</corr></choice> sea at two oclock AM kill the 
          <lb/>large Pig after it was dressed weight 200
-         <lb/>pounds
+         <lb/>Pounds
       </p>
    </div>
    <div type="Entry" xml:id="Doane18521125a">
@@ -5148,7 +5148,7 @@
       <p>
          <lb/>Fine weather
          <lb/>The <choice><sic>Carpent</sic><corr>Carpenter</corr></choice> is making some alteration in
-         <lb/><rs ref="#END">Father</rs> stateroom in the lower Cabin all
+         <lb/><rs ref="#END">Father</rs> State room in the lower Cabin all
          <lb/>hands are to work The Cook is trying out
          <lb/>Lard Steward washing Table Cloths and
          <pb facs="G226_D6_A3_1852-038b" />
@@ -5179,7 +5179,7 @@
       </p>
    </div>
    <div type="Entry" xml:id="Doane18521201a">
-      <lb/><dateline><date when="1852-12-01">Wednesday 1<unclear><del rend="overwritten">2</del>0</unclear> oclock M Dec 1th</date></dateline>
+      <lb/><dateline><date when="1852-12-01">Wednesday 12 oclock M Dec 1th</date></dateline>
       <p><lb/>Moderate lay
          <lb/>becalm all night and most of the day This 
          <lb/>morning saw a large Shark along <choice><sic>thru</sic><corr>threw</corr></choice> the
@@ -5205,13 +5205,13 @@
          <lb/>ward</seg> of us standing the same way, <rs ref="#END">Father</rs>
          <lb/>Luffed up to her and bore down to us It was
          <lb/>a large Clipper Ship Spoke her. It was the
-         <lb/><unclear cert="high"><name type="ship">Maylay</name></unclear> of <placeName ref="#Salem">Salem</placeName> from <placeName ref="#Boston">Boston</placeName> by the way of
+         <lb/><name type="ship">Maylay</name> of <placeName ref="#Salem">Salem</placeName> from <placeName ref="#Boston">Boston</placeName> by the way of
          <lb/><placeName ref="#Valparaiso"><choice><sic>Valvaraiso</sic><corr>Valparaiso</corr></choice></placeName> been out 92 days Bound to
          <lb/><placeName ref="SF"><choice><sic>San Franciso</sic><corr>San Francisco</corr></choice></placeName> had passenger on board saw
          <lb/>a Lady she did not go ahead of us much
          <lb/>but went off more to the <choice><sic>Westard</sic><corr>Westward</corr></choice> This morn<seg type="softhyphen">-
          <lb/></seg>ing out of sight have a strong breeze going
-         <lb/>8 1/2 miles an hour, four months today
+         <lb/>8½ miles an hour, four months today
          <!-- Proofread to this point 21 March 2012. HLU and CG. -->
          <pb facs="G226_D6_A3_1852-039b"/>
          <lb/>since we left the wharf which is a long
@@ -5269,7 +5269,7 @@
          December 30.</note></dateline>
       <p>
          <lb/>It has now been one
-         <lb/>week <choice><sic>sence</sic><corr>since</corr></choice> I have written and I have not much
+         <lb/>week <distinct type="archaicorthography"><choice><orig>sence</orig><reg>since</reg></choice></distinct> I have written and I have not much
          <lb/>we have it Calm and head winds and only a three
          <lb/>breeze<ptr type="noteAnchor"
             target="Beaufort"/><note resp="ed" xml:id="Beaufort">Louisa refers to a force three, or
@@ -5284,7 +5284,7 @@
          <lb/>was sick his eyes are very wild from the
          <pb facs="G226_D6_A3_1852-040b"/>
          <lb/>effects of the Fit I have been <choice><sic>busey</sic><corr>busy</corr></choice>
-         w<del rend="overwritten"><gap reason="obscured" extent="3" unit="chars"></gap></del>riting of a
+         w<gap reason="obscured" extent="3" unit="chars"></gap>riting of a
          <lb/>manifest of Stores for <rs ref="#END">Father</rs>. at 12 oclock one of
          <lb/>the sailor came to <rs ref="#END">Father</rs> and asked <rs ref="END">him</rs> <said aloud="true" direct="false">if <rs ref="#END">he</rs> would
          <lb/>give him some molasses as he had none.</said> <rs ref="#END">Father</rs>
@@ -5328,7 +5328,7 @@
                   "decaying vegetation, stagnant water, and a high temperature" <bibl><ref target="#PanamaFever">820</ref></bibl>.  Buel further notes that the Panama Fever derives its name
                   from the isthmus of Panama, which was supposed to be its place of origin, and that the fever usually developed
                   around the time ships arrived at the port of Acapulco<bibl><ref target="#PanamaFever">821</ref></bibl>.</note>along the Coast</said> <rs ref="#END #ATD">they</rs> gave him
-         <lb/>some <choice><sic>medicince</sic><corr>medicine</corr></choice>, at 11 oclock I was woke up
+         <lb/>some <choice><sic>medicince</sic><corr>medicine</corr></choice>, At 11 oclock I was woke up
          <lb/>by the <choice><sic>Crys</sic><corr>Cries</corr></choice> of my kitten I went up and found 
          <lb/>the Second Mate had brought her in the entry
          <lb/>she was in a fit is just alive now I have
@@ -5337,9 +5337,9 @@
       </p>
    </div>
    <div type="Entry" xml:id="Doane18530102a">
-      <lb/><dateline><date when="1853-01-02">Sunday 12 oclock M Jan 2the</date></dateline>
+      <lb/><dateline><date when="1853-01-02">Sunday 12 oclock M Jan 2<choice><sic>the</sic><corr>nd</corr></choice></date></dateline>
       <p>
-         <lb/>still calm and warm
+         <lb/>Still calm and warm
          <lb/>as <unclear cert="medium">ever</unclear> The sailor is much better so he is at work
          <lb/>last evening Just at dusk the sailor that was in 
          <lb/>Irons came to <rs ref="#END">father</rs> and asked <rs ref="#END">his</rs> <choice><sic>forgivness</sic><corr>forgiveness</corr></choice>
@@ -5358,7 +5358,7 @@
       </p>
    </div>
    <div type="Entry" xml:id="Doane18530103a">
-      <lb/><dateline><date when="1853-01-03">Monday 12 oclock M Jan 3the</date></dateline>
+      <lb/><dateline><date when="1853-01-03">Monday 12 oclock M Jan 3<choice><sic>the</sic><corr>rd</corr></choice></date></dateline>
       <p>
          <lb/>At 2 PM <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct>
          <lb/>Studding with a fair wind. This morning soon
@@ -5366,7 +5366,7 @@
          <lb/>were over the side scraping the vessel when the
          <!-- Add note indicating that "Calving" is later spelled "Calvine" and clearly refers to
             sailor  -->
-         <lb/>Second Mate called Calving <add place="above" rend="caret">one</add> of the sailors from
+         <lb/>Second Mate called <unclear>Caloing</unclear> <add place="above" rend="caret">one</add> of the sailors from
          <lb/><choice><sic>offt</sic><corr>off</corr></choice> the stage to <said aloud="true" direct="false">come on deck</said> He did so and first
          <lb/>we saw they were <choice><sic>fieghting</sic><corr>fighting</corr></choice> we were very much <choice><sic>frie<seg type="softhyphen">-
          <lb/></seg>ghten</sic><corr>fri<seg type="softhyphen">-<lb/></seg>ghtened</corr></choice> when thought prudent he parted them. The
@@ -5469,7 +5469,7 @@
             <lb/>choice whether to go in Prison <choice><sic>on</sic><corr>or</corr></choice> go on board of
             <lb/>the <choice><sic>Manawar</sic><corr>man-of-war</corr></choice> he chose the latter they have
             <pb facs="G226_D6_A3_1852-043b"/>
-            <lb/><choice><sic>carryed</sic><corr>carried</corr></choice> him on board when they returned. we
+            <lb/><choice><sic>carryed</sic><corr>carried</corr></choice> him on board when they returned we
             <lb/>went on shore on the beach picked up some
             <lb/>shells when we happened to see a number of
             <lb/>women in back of the <choice><sic>Coanuts</sic><corr>Coconut</corr></choice> trees they asked
@@ -5551,14 +5551,14 @@
          <p>
             <lb/>This morning <rs ref="#END">father</rs>, has <choice><sic>carryed</sic><corr>carried</corr></choice>
             <lb/>one of the sailors ashore to the <persName>Doctor</persName> sick the
-            <lb/><persName>doctor</persName> said it was the Scrofula<ptr type="noteAnchor"
+            <lb/><persName>Doctor</persName> said it was the Scrofula<ptr type="noteAnchor"
                target="ScrofulaRC"/><note resp="ed" xml:id="ScrofulaRC">Scrofula is a Tuberculosis infection
                         located primarily in the neck, but around any part of the body where lymph
                         nodes are located. It is caused by breathing in air that is contaminated
                         with the illness, and manifests as sizable swellings around the lymph nodes.
                         The technical name is Tuberculous Adenitis.<bibl><ref target="#Scrofula"
                            /></bibl></note> and had
-            <lb/><unclear>exposed</unclear><choice><sic>himselfe</sic><corr>himself</corr></choice> and <choice><sic>flyes</sic><corr>flies</corr></choice> had blown his
+            <lb/>exposed <choice><sic>himselfe</sic><corr>himself</corr></choice> and <choice><sic>flyes</sic><corr>flies</corr></choice> had blown his
             <lb/>head so bad that he could blow <unclear reason="cramped handwriting" cert="high">worm</unclear> an
             <lb/>inch long out of his nose thinks he cannot
             <lb/>live long from there we went sailing with
@@ -5570,16 +5570,16 @@
             <lb/>had to beat <ptr type="noteAnchor" target="PATDRC"/><note resp="ed" xml:id="PATDRC">Beating in sailing is when the boat is moving
                         in the direction towards the wind and must move in zig-zag formations to
                         make use of the wind to move forward.<bibl><ref target="PATD"
-                        /></bibl></note> which made it quite <choice><orig><distinct type="archaicorthography" time="16-18">ruff</distinct></orig><reg source="OED">rough</reg></choice> as the
+                        /></bibl></note> which made it quite <distinct type="archaicorthography" time="16-18"><choice><orig>ruff</orig><reg source="OED">rough</reg></choice></distinct> as the
             <lb/>wind was blowing fresh <rs ref="#ATD">mother</rs> was quite
-            <lb/>seasick so that <choice><orig><distinct type="archaicorthography">spoilt</distinct></orig><reg source="OED">spoiled</reg></choice> the pleasure
+            <lb/>seasick so that <distinct type="archaicorthography"><choice><orig>spoilt</orig><reg source="OED">spoiled</reg></choice></distinct> the pleasure
          </p>
       </div>
       <lb/>
       <div type="Entry" xml:id="Doane18530122">
          <lb/><dateline><date when="1853-01-22"></date>Saturday 22</dateline>
          <p>
-            <lb/>This morning we halled off
+            <lb/>This morning we <distinct type="archaicorthography" time="15-17"><choice><orig source="OED">halled</orig><reg>hauled</reg></choice></distinct> off
             <pb facs="G226_D6_A3_1852-045a"/>
             <lb/>from the Hulk and we now lay moored
             <lb/>by ourselves at 8 oclock the Steamer <name type="ship" ref="#GoldenGate">Golden
@@ -5623,7 +5623,7 @@
             <lb/>came on board to look at the Piano he has
             <lb/>one but they time the Earthquake it was broken
             <lb/>has some thought of Buying it after dinner we
-            <lb/>we sailing went alongside of the Ship and
+            <lb/>we sailing went along side of the Ship and
             <lb/><persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawfard</persName> went with and also <persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice>
                <lb/>White</persName> went to several huts on the beach at
             <lb/>one place we saw a foolish child it was three
@@ -5631,7 +5631,7 @@
             <lb/>the women gave us some shells saw them make
             <lb/>bread they boil the corn and <choice><sic>rool</sic><corr>roll</corr></choice> it on a stone
             <lb/>with a round piece of stone then mix it with
-            <lb/>there hands wet some line and put all over
+            <lb/><choice><sic>there</sic><corr>their</corr></choice> hands wet some line and put all over
             <lb/>the pan and when it gets hot sweep it off
             <lb/>then fried the cake at another place we saw
             <lb/>a baby one month old it was in a box with
@@ -5650,8 +5650,7 @@
             <lb/>number of Gentleman they came unexpected
             <lb/>some played on the Piano. after tea they
             <lb/>went out on the <choice><sic>quater</sic><corr>quarter</corr></choice> deck sung 
-            <lb/>and played on the <choice><sic>accord<del rend="overwritten"><gap
-               reason="illegible" unit="chars" extent="1"/></del>eon</sic><corr>accordion</corr></choice> they was very much
+            <lb/>and played on the <choice><sic>accordeon</sic><corr>accordion</corr></choice> they was very much
             <lb/>pleased with the Piano said it was a beau<seg type="softhyphen">-
             <lb/></seg>tifull one the old Priest was much of
             <lb/>a Gentleman drank several toast to us, It
@@ -5735,7 +5734,7 @@
       <div type="Entry" xml:id="Doane18530202a">
          <lb/><dateline><date when="1853-02-02">Wednesday Feb 2</date></dateline>
          <p>
-            <lb/>Last night at 10 o'clock a
+            <lb/>Last night at 10 oclock a
             <lb/>Steamer came in, This morning went along
             <lb/>side of her with the intention of going on
             <lb/>board but was informed there was a great
@@ -5752,8 +5751,8 @@
             <lb/>This morning the Steamer has
             <lb/>hauled in along side of the Hulk close to
             <lb/>us. I saw 2 lady passenger on deck and
-            <lb/>man <choice><orig><distinct type="archaicorthography">layed</distinct></orig><reg source="OED">laid</reg></choice> on a bed on deck I suppose
-            <lb/>sick but he was dead it made me <choice><orig><distinct type="archaicorthography" time="ME">fell</distinct></orig><reg source="OED">feel</reg></choice>
+            <lb/>man <distinct type="archaicorthography"><choice><orig>layed</orig><reg source="OED">laid</reg></choice></distinct> on a bed on deck I suppose
+            <lb/>sick but he was dead it made me <distinct type="archaicorthography" time="ME"><choice><orig>fell</orig><reg source="OED">feel</reg></choice></distinct>
             <lb/><del rend="overwritten">w</del>bad to see the ladies pacing the deck
             <lb/>crying and wringing their hands, in the
             <!-- Proofed to this point 9 April 2012. HLU and CG -->
@@ -5765,7 +5764,7 @@
             <lb/>was buried died with the <choice><sic>Dysentry</sic><corr>Dysentery</corr></choice>
             <ptr type="noteAnchor" target="Dysentery"/><note resp="ed" xml:id="Dysentery">At the time, abstainment from food was a typical treatment for dysentery, though Doane's father seems to suggest that the man died from this treatment, rather than from the disease. According to the <ref target="#WCJ"><title level="m">Water Cure Journal</title></ref>,
                <q>"fasting has a great power over diseases of this kind. We have cured many a case of bad dysentery at sea, depending principally upon entire abstinence from all food and drink other than pure water."</q><bibl><ref target="#WCJ">79</ref></bibl></note> and
-            <lb/>for the want of <choice><orig><distinct type="archaicorthography" time="15-17">norishment</distinct></orig><reg source="OED">nourishment</reg></choice> he could not
+            <lb/>for the want of <distinct type="archaicorthography" time="15-17"><choice><orig>norishment</orig><reg source="OED">nourishment</reg></choice></distinct> he could not
             <lb/>get a bo<handShift new="#H2"/><del rend="overwritten">i</del>w<handShift new="#LADHand"/>l of gruel for five dollars he
             <lb/>leaves a widowed mother 2 sister and 1
             <lb/>brother on board of the Steamers<handShift new="#H2"/>,<handShift new="#LADHand"/>
@@ -5774,7 +5773,7 @@
       <div type="Entry" xml:id="Doane18530211a">
          <lb/><dateline><date when="1853-02-11">Friday 11</date></dateline>
          <p>
-            <lb/>This morning at 10 o'clock, The
+            <lb/>This morning at 10 oclock, The
             <lb/>Steamer <name type="ship" ref="#GoldenGate">Golden Gate</name> arrived here from
             <lb/><placeName ref="#PanamaGC">Panama</placeName> bound to <placeName ref="#SF">San
                <choice><sic>Fransisco</sic><corr>Francisco</corr></choice></placeName> with
@@ -5812,7 +5811,7 @@
             <lb/>was gone but as we got the <choice><sic cert="medium">prize</sic><corr>price</corr></choice> <choice><sic>sot</sic><corr>sought</corr></choice> and
             <lb/>are going to take Guano we were afraid it
             <lb/>would <choice><sic>injurary</sic><corr>injure</corr></choice> it therefore we sold it, The
-            <lb/>Steamer <name type="ship" ref="#WScott"><unclear cert="medium"><choice><sic>Windfeild Scoot</sic><corr>Winfield Scott</corr></choice></unclear></name> has just arrived
+            <lb/>Steamer <name type="ship" ref="#WScott"><choice><sic>Windfeild Scoot</sic><corr>Winfield Scott</corr></choice></name> has just arrived
             <lb/>from <placeName ref="#PanamaGC">Panama</placeName> with 600 passenger a great
             <lb/>deal of sickness it is reported she lost 15
             <lb/>on the passage at 2 o'clock we were all
@@ -5822,7 +5821,7 @@
                 <pb facs="G226_D6_A3_1852-049a"/>
                 <lb/>some little Stores, such as Fowls and
                 <lb/>Turkeys and a number of other things when
-            <lb/>he returned hove up the anchor <choice><orig>sot</orig><reg>set</reg></choice> the
+            <lb/>he returned hove up the anchor <choice><sic>sot</sic><corr>set</corr></choice> the
                 <lb/>Gib and Spanker and sailed down opposite to
                 <lb/><del rend="overwritten">G</del>City where we came to an anchor will be
                 <lb/>ready for sea in a few days the Steward
@@ -5854,21 +5853,21 @@
             <lb/>have placed the most confidence in him  
             
             <pb facs="G226_D6_A3_1852-049b"/>
-            <lb/>of any one. it is to bad <name type="ship">The Windfield Scoot</name>
+            <lb/>of any one. it is <choice><sic>to</sic><corr>too</corr></choice> bad <name type="ship">The <choice><sic>Windfield Scoot</sic><corr>Winfield Scott</corr></choice></name>
             <lb/>left at 7 oclock lost 10 persons while here
          </p>
       </div>
       <div type="Entry" xml:id="Doane18530214a">
          <lb/><dateline><date when="1853-02-13">Monday 14</date></dateline>
          <p>
-            <lb/>This morning <rs ref="#ATD">mother</rs> and <choice><orig><distinct type="archaicorthography" time="17-17">myselfe</distinct></orig><reg source="OED">myself</reg></choice>
-            <lb/>have been on shore to do little <choice><sic>Shoping</sic><reg>shopping</reg></choice> went
+            <lb/>This morning <rs ref="#ATD">mother</rs> and <distinct type="archaicorthography" time="17-17"><choice><orig>myselfe</orig><reg source="OED">myself</reg></choice></distinct>
+            <lb/>have been on shore to do little <choice><sic>Shoping</sic><corr>shopping</corr></choice> went
             <lb/>to the <choice><sic>Captians</sic><corr>Captains</corr></choice> of the <geogName>Port house</geogName> it is made
             <lb/>of mats his house was all crushed to pieces
             <lb/>the time of the <choice><sic>eathquake</sic><corr>earthquake</corr></choice> and they were
-            <lb/>rebuilding it had the Piano <choice><orig>sot</orig><reg>set</reg></choice> up and
+            <lb/>rebuilding it had the Piano <choice><sic>sot</sic><corr>set</corr></choice> up and
             <lb/>were playing on it and from there we went
-            <lb/>to <unclear cert="high" reason="extra_marking">the</unclear> dry good store The Gentleman that
+            <lb/>to the dry good store The Gentleman that
             <lb/>keep it could speak good English things
             <lb/>are very dear Calico<ptr type="noteAnchor" target="calico"/> <note resp="ed" xml:id="calico">Calico is a coarse form of cotton cloth that
                         was often used for clothing on sea vessels due to its ability to withstand
@@ -5882,23 +5881,22 @@
             <lb/>our <choice><sic>Consingnee</sic><corr>Consignee</corr></choice> and several others places
             <lb/>the last place <rs ref="#END">father</rs> stepped in and
             <lb/>got his pay for the Piano and was
-            <lb/>going to shove off from shore when the <choice><orig><distinct type="archaicorthography" time="16">Costom</distinct></orig><reg source="OED">Custom</reg></choice>
+            <lb/>going to shove off from shore when the <distinct type="archaicorthography" time="16"><choice><orig>Costom</orig><reg source="OED">Custom</reg></choice></distinct>
             <lb/>house officers came down and stopped us
-            <lb/>and told us we must go up to the <choice><orig><distinct type="archaicorthography" time="16">Costom</distinct></orig><reg source="OED">Custom</reg></choice>
+            <lb/>and told us we must go up to the <distinct type="archaicorthography" time="16"><choice><orig>Costom</orig><reg source="OED">Custom</reg></choice></distinct>
             <lb/>house we did they wanted to see the money
             <pb facs="G226_D6_A3_1852-050a"/>
             <lb/>so we showed them <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> White</persName> had some
-            <lb/><rs ref="#END">Father</rs> <rs ref="#ATD">Mother</rs> and <choice><orig><distinct type="archaicorthography" time="17-17">myselfe</distinct></orig><reg source="OED">myself</reg></choice> we told them it was
+            <lb/><rs ref="#END">Father</rs> <rs ref="#ATD">Mother</rs> and <distinct type="archaicorthography" time="17-17"><choice><orig>myselfe</orig><reg source="OED">myself</reg></choice></distinct> we told them it was
             <lb/>only the money for the Piano they said we <add place="above">could</add> go on
             <lb/>board with we had not more than got on
-            <lb/>board when the <choice><orig><distinct type="archaicorthography" time="16">Costom</distinct></orig><reg source="OED">Custom</reg></choice> House boat came on
+            <lb/>board when the <distinct type="archaicorthography" time="16"><choice><orig>Costom</orig><reg source="OED">Custom</reg></choice></distinct> House boat came on
             <lb/>board with a note <choice><sic>fore</sic><corr>for</corr></choice> Father to come on shore
             <lb/>and bring the money so he and <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
                <lb/> White</persName> went on shore when he returned it was
             <lb/>late in the evening they have keep the money
             <lb/><choice><sic>untill</sic><corr>until</corr></choice> tomorrow when it is to settled have
-            <lb/>not seen any thing of the sailors the <del><unclear cert="medium"
-               reason="overwritten">sailor</unclear></del><unclear cert="medium" reason="overwritten">steward</unclear>
+            <lb/>not seen any thing of the sailors the <del rend="overwritten">sailor</del><unclear cert="medium">steward</unclear>
             <lb/>has come on board but is not able to do
             <lb/>any thing   
          </p> 
@@ -5913,7 +5911,7 @@
             <lb/>not <choice><sic>returned</sic><corr>return</corr></choice> <choice><sic>untill</sic><corr>until</corr></choice> dark the first Mate
             <lb/>and a steward which <rs ref="#END">father</rs> has shipped
             <lb/>here came off with them succeed in getting
-            <lb/><choice><orig><distinct type="archaicorthography" time="14-16">halfe</distinct></orig><reg source="OED">half</reg></choice> the money for the Piano I hope we
+            <lb/><distinct type="archaicorthography" time="14-16"><choice><orig>halfe</orig><reg source="OED">half</reg></choice></distinct> the money for the Piano I hope we
             <!-- End Garrett Harmon section-->
             
              <!-- Ken Angel's section starts here -->
@@ -5926,7 +5924,7 @@
          <lb/><dateline><date when="1853-02-16">Wednesday 16</date> </dateline>
          <p>
             <lb/>All ready for sea <rs ref="#END">father</rs> and the 
-            <lb/><rs ref="#Mate">First Mate</rs> have gone on shore to get the sailors
+            <lb/><rs ref="#Mate">First Mate</rs> have gone on Shore to get the sailors
             <lb/>out of prison The <rs ref="#Mate">Mate</rs> came off in the
             <lb/>boat with them they were all in Irons except
             <lb/>one as the Irons were too small, <rs ref="#END">Father</rs> 
@@ -5937,15 +5935,14 @@
             <lb/>there they would be the death of them <rs ref="#END">father</rs>
             <lb/>order<supplied reason="omitted" resp="ed">ed</supplied> them out they said they would not <rs ref="#END">Father</rs>
             <lb/>told the two <rs ref="#Mate">Mates</rs> to go in and <choice><sic>hall</sic><corr>haul</corr></choice> them out
-            <lb/>they <del rend="overwritten"><gap unit="chars" extent="2"/></del>appearing not willing to go in He went
+            <lb/>they <gap unit="chars" extent="2"/>appearing not willing to go in He went
             <lb/>in himselfe they all pitched on him some with
             <lb/>bottles and sticks he succeed in pulling
             <lb/>one out by getting all his <choice><sic>cloths</sic><corr>clothes</corr></choice> torn off him
             <lb/>by that time they were all at <choice><sic>liberaty</sic><corr>liberty</corr></choice> and 
             <lb/>swearing <choice><sic>Daath</sic><corr>Death</corr></choice> on <rs
                ref="#END">Father</rs>. He <choice><sic>them</sic><corr>then</corr></choice> sent on
-            <lb/>shore <unclear
-               cert="medium"><choice><sic>fore</sic><corr>for</corr></choice></unclear> a Force of
+            <lb/>shore <choice><sic>fore</sic><corr>for</corr></choice> a Force of
             <choice><sic>Armes</sic><corr>Arms</corr></choice> they came off
       <pb facs="G226_D6_A3_1852-051a"/>
             <lb/>and carried them off <choice><sic>too</sic><corr>to</corr></choice> Prison again untill

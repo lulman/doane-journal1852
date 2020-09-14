@@ -183,11 +183,15 @@
    </xsl:template>   
    <xsl:template match="tei:seg[@type='softhyphen']">
       <xsl:apply-templates/>
-   </xsl:template>    
+   </xsl:template> 
+
+   <!-- Deletions -->
+   <xsl:template match="tei:del[@rend='overstrike']">[<span class="cancel"><xsl:apply-templates></xsl:apply-templates></span>]</xsl:template>
+   <xsl:template match="tei:del[@rend='overwritten']">[<xsl:apply-templates></xsl:apply-templates>]</xsl:template>
+   <xsl:template match="tei:del[@rend='erased']">[<xsl:apply-templates></xsl:apply-templates>]</xsl:template>  
+
    <xsl:template match="tei:add[@place='supralinear']"> &#x2191; <xsl:apply-templates/> &#x2193; </xsl:template>
    <xsl:template match="tei:add[@place='infralinear']"> &#x2193; <xsl:apply-templates/> &#x2191; </xsl:template>
-   <!-- Highlight recoverable cancelations -->
-   <xsl:template match="tei:del"><span class="cancel"><xsl:apply-templates></xsl:apply-templates></span></xsl:template>
    <xsl:template match="tei:p"><xsl:apply-templates/></xsl:template>
    <xsl:template match="tei:figure[@rend='embed']"/>
    
