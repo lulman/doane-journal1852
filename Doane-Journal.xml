@@ -4139,7 +4139,7 @@
                  <lb/>rainy and squally the sailors are cleaning the
                  <lb/>outside of forecastle to paint, my time has
                  <lb/>been <choice><sic>occupyed</sic><corr>occupied</corr></choice> in reading and knitting
-                 <lb/>it has commenced clearing offt, think we
+                 <lb/>it has commenced clearing <choice><sic>offt</sic><corr>off</corr></choice>, think we
                  <lb/>shall have good weather
               </p>
            </div>
@@ -5946,7 +5946,7 @@
             <choice><sic>Armes</sic><corr>Arms</corr></choice> they came off
       <pb facs="G226_D6_A3_1852-051a"/>
             <lb/>and carried them off <choice><sic>too</sic><corr>to</corr></choice> Prison again untill
-            <lb/>some <choice><sic>shackels</sic><corr>shackles</corr></choice> could be made to <choice><sic>secur</sic><corr>secure</corr></choice> them
+            <lb/>some <choice><sic>Shackels</sic><corr>shackles</corr></choice> could be made to <choice><sic>secur</sic><corr>secure</corr></choice> them
             <lb/>to the deck
          </p>
       </div>      
@@ -5956,13 +5956,12 @@
             <lb/>A beautifull day <rs ref="#END">father</rs> has gone
             <lb/>on shore to <supplied reason="omitted" resp="ed">get</supplied> a few things
             oranges Pineapples and
-            <lb/>etc. The <choice><sic>Captians</sic><corr>Captains</corr></choice> <del
-               rend="overwritten"><gap unit="chars" extent="1"/></del>have all been on board this
+            <lb/>etc. The <choice><sic>Captians</sic><corr>Captains</corr></choice> have <gap unit="chars" extent="1" reason="cancelled"/>all been on board this
             <!-- How to represent that she "dots" the "r" in "afternoon"? -->
             <lb/>afternoon. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> brought on the
             <lb/>painting of the Ship <name type="Ship" ref="#Commonwealth">Commonnwealth</name> which his
             <lb/>Painter has been painting at 5 oclock they
-            <lb/>came offt with the sailors there were two
+            <lb/>came <choice><sic>offt</sic><corr>off</corr></choice> with the sailors there were two
             <lb/>boats full one with the ar<del rend="overwritten">e</del>med force, and
             <lb/>sailors and the other with the <choice><sic>Captian</sic><corr>Captain</corr></choice> of
             <lb/>the <rs ref="#PCP">Port Counsul Pilot</rs> and so on there were
@@ -5986,8 +5985,8 @@
             <choice><sic>Coanuts</sic><corr>Coconuts</corr></choice>
             <lb/>1 Chicken and some shells when we returned
             <lb/>the <rs ref="#PCP">American Counsul</rs> was on board and
-            <lb/>all ready to go to sea the Signal <unclear cert="medium">sot</unclear> for a
-            <lb/><rs ref="#PCP">pilot</rs>, <persName
+            <lb/>all ready to go to sea the Signal <choice><sic>sot</sic><corr>set</corr></choice> for a
+            <lb/><rs ref="#PCP">Pilot</rs>, <persName
                ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> came on Board with 
             <lb/>his men and helped us get under way he
             <lb/>sails tomorrow morning then there were 
@@ -5998,7 +5997,7 @@
             <lb/>with us when they came to go <persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice> White</persName>
             <lb/>Boy was missing after they had gone he came
             <lb/>out from under the Long Boat on top of the
-            <lb/>forecastle have a fair wind <rs ref="#ATD">mother</rs> is quite
+            <lb/>Forecastle have a fair wind <rs ref="#ATD">mother</rs> is quite
             <lb/>sick again has the Fever upon her again the
             <lb/><rs ref="#PCP">Pilot</rs> has left us,
          </p>
@@ -6010,11 +6009,11 @@
              <p>
                 <lb/>Fair wind pleasent <rs ref="#ATD">Mother</rs> has
                 <lb/>passed a very restless night had the Fever quite
-                <lb/>quite severe this morning when it was off
+                <lb/><choice><sic>quite</sic><corr></corr></choice> severe this morning when it was off
                 <lb/>gave her some more <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Q"/><note resp="ed" xml:id="Q">Quinine is an alkaloid found the bark of the Cinchona
                      tree. Belonging to a class of medicines called antimalarials, Quinine was
                      manufactured as a drug to treat malaria.<bibl><ref target="#OED">Oxford English
-                           Dictionary definition for Quinine</ref></bibl></note>the same as which
+                           Dictionary definition for Quinine</ref></bibl></note> the same as which
       <!-- Ken Angel's section ends here -->
       
       <!-- Lindsay Kelly's section starts here -->
@@ -6027,14 +6026,12 @@
                                </p>
                             </div>
                             <div type="Entry" xml:id="Doane18530223">
-                               <lb/><dateline><date when="1853-02-23">Wednesday 12 oclock M Feb 23rd</date></dateline>
+                               <lb/><dateline><date when="1853-02-23">Wednesday 12 oclock M Feb 23<choice><sic>th</sic><corr>rd</corr></choice></date></dateline>
                                <p>
                                   <lb/>Fair wind but quite mod<seg type="softhyphen">-
                                   <lb/></seg>erate, Father is quite unwell with severe pains in
                                   <!-- How to encode the revision sequence here? -->
-                                  <lb/>his limbs. Mother gaining <unclear reason="multiply corrected">s<del
-                                     rend="overwritten">ow</del><del
-                                        rend="duplicates">l</del>lowly</unclear> at 11 1/2 <add place="above">AM</add> oclock
+                                  <lb/>his limbs. Mother gaining <unclear rend="overwritten"></unclear>slowly at 11½ <add place="above">AM</add> oclock
                                   <lb/>it came on to blow hard and father went out
                                   <lb/>on deck to give some orders and came in
                                   <lb/>and went to bed at 1 oclock AM I was
@@ -6044,10 +6041,10 @@
                                   <lb/>such Distress in my life we applyed every
                                   <lb/>thing Warm Baths Cold
                                   <choice><sic>Bathes</sic><corr>Baths</corr></choice> and Mustard
-                                  <lb/>plaster but every thing we did him no
+                                  <lb/>plaster but every thing tried did him no
                                   <lb/>good one of the Officers was in with him
                                   <lb/>all the time at day light the pains seemed 
-                                  <lb/>to ease some and was quite easey with 
+                                  <lb/>to ease some and was quite <choice><sic>easey</sic><corr>easy</corr></choice> with 
                                   <lb/>the exception of his head I have been up
                                   <lb/>all night so ends this day
                                </p>
@@ -6097,7 +6094,7 @@
                                </p>
                             </div>
                             <div type="Entry" xml:id="Doane18530303">
-                               <lb/><dateline><date when="1853-03-03">Thursday 12 oclock M Ma 3th</date></dateline>
+                               <lb/><dateline><date when="1853-03-03">Thursday 12 oclock M Ma 3<choice><sic>th</sic><corr>rd</corr></choice></date></dateline>
                                <p>
                                   <lb/>Calm and very warm indeed
                                   <lb/>have made but very little progress the last 2
