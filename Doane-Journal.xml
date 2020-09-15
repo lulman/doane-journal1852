@@ -6007,7 +6007,7 @@
           <div type="Entry" xml:id="Doane18530219a">
              <lb/><dateline><date when="1853-02-19">Saturday 12 oclock M Feb 19th</date></dateline>
              <p>
-                <lb/>Fair wind pleasent <rs ref="#ATD">Mother</rs> has
+                <lb/>Fair wind <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> <rs ref="#ATD">Mother</rs> has
                 <lb/>passed a very restless night had the Fever quite
                 <lb/><choice><sic>quite</sic><corr></corr></choice> severe this morning when it was off
                 <lb/>gave her some more <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Q"/><note resp="ed" xml:id="Q">Quinine is an alkaloid found the bark of the Cinchona
@@ -6218,7 +6218,6 @@
                 <lb/>gone It <choice><sic>sits</sic><corr>sat</corr></choice> near one of the Prison and
           <!-- Proofed to this point 14 May 2012. HLU and CG. -->
           <pb facs="G226_D6_A3_1852-054b"/>
-             <handShift new="#H2"/><add place="margin">51/-</add><handShift new="#LADHand"/>text
                 <lb/>he managed to reach it and knocked a hole
                 <lb/>in the head so they could get the bread out
                 <lb/>and they have been having nice times plenty of
@@ -6236,15 +6235,25 @@
                 <lb/>was going to starve them his reply was <distinct type="archaicorthography"><choice><orig>untill</orig><reg>until</reg></choice></distinct>
                 <lb/>you are willing to go to work and behave
                 <lb/>yourselves then you shall have something to
-                <lb/>eat they said they would not go to work they
+                <lb/>eat. they said they would not go to work they
                 <lb/>would stay there and abide by the consequences.
              </p>   
           </div>
           <div type="Entry" xml:id="Doane18530406a">
-             <lb/><dateline><date when="1853-04-06">Wednesday 12 oclock <choice><abbr>M</abbr><expan>Meridian</expan></choice> <choice><abbr>Apl</abbr><expan>April</expan></choice> <choice><sic>5th</sic><corr>6th</corr></choice></date></dateline>
+             <lb/>
+               <dateline><date when="1853-04-06">Wednesday 12 oclock <choice>
+                        <abbr>M</abbr>
+                        <expan>Meridian</expan>
+                     </choice>
+                     <choice>
+                        <abbr>Apl</abbr>
+                        <expan>April</expan>
+                     </choice> 5th</date><ptr type="noteAnchor" target="april6"/><note resp="ed"
+                     xml:id="april6">April 5th fell on a Tuesday in 1853, but it is not clear whether Doane has mistaken the
+                     day of the week or the date.</note></dateline>
              <p>
                 <lb/>I will now take my
-                <lb/>journal again I have <choice><sic>defered</sic><corr>deferred</corr></choice> writing for sometime
+                <lb/>Journal again I have <choice><sic>defered</sic><corr>deferred</corr></choice> writing for sometime
                 <lb/>as I have had nothing worthy of note have had
                 <lb/>head winds and calms all the time and the
                 <lb/>Wind is ahead now one Ship in sight bound
@@ -6252,15 +6261,15 @@
       
       <!-- Megan Maxwell's section begins-->
                 <pb facs="G226_D6_A3_1852-055a"/>   
-                <lb/>the other way has <choice><sic>sot</sic><corr>set</corr></choice> her Colors English the
+                <lb/>the other way has <choice><sic>sot</sic><corr>set</corr></choice> her <choice><sic>Colars</sic><corr>Colors</corr></choice> English the
                 <lb/>men are still confined in Irons the Sailors are
-                <lb/>employed in Ships Duty so ends the day.
+                <lb/>employed in Ships Duty so ends the Day.
              </p></div>
           <div type="Entry" xml:id="Doane18530414a">
-             <lb/><dateline><date when="1853-04-14">Thursday 12 oclock M 14th</date></dateline> 
+             <lb/><dateline><date when="1853-04-14">Thursday 12 oclock M April 14th</date></dateline> 
              <p>
                 <lb/>Fair wind and <choice><sic>freesh</sic><corr>fresh</corr></choice> breeze going
-                <lb/>8 miles an hour we are only 140 <del rend="overwritten">240</del> miles from <placeName>Cal<seg type="softhyphen">-
+                <lb/>8 miles an hour we are only <del rend="overwritten">2</del>140  miles from <placeName>Cal<seg type="softhyphen">-
                    <lb/></seg>lao</placeName> our Port could get there on Friday if we only
                 <lb/>had this wind <rs ref="#ATD">Mother</rs> is better so she can set up
                 <lb/>some The old Steward is washing. The Steward we
@@ -6271,7 +6280,7 @@
           </div>   
           
           <div type="Entry" xml:id="Doane18530415a">
-             <lb/><dateline><date when="1853-04-15">Friday 12 oclock M April 16th</date></dateline>
+             <lb/><dateline><date when="1853-04-15">Friday 12 oclock M April 15th</date></dateline>
              
              <p>
                 <lb/>Fair wind Land in sight
@@ -6281,7 +6290,7 @@
                 <lb/>as we could not <unclear>run</unclear> very in the night this morn<seg type="softhyphen">-
                    <lb/></seg>ing was close in to <placeName>San Lorenzo Island</placeName> but a
                 <lb/>short distance from <placeName>Callao</placeName> I arose very early
-                <lb/>to see the City several ships going <choice><sic>in in</sic><corr>in</corr></choice> compa<seg>-
+                <lb/>to see the City several Ship going <choice><sic>in in</sic><corr>in</corr></choice> compa<seg>-
                    
                    
                    <pb facs="G226_D6_A3_1852-055b"/>
@@ -6298,7 +6307,7 @@
                 <lb/>The Cook is discharged and
                 <lb/>2 sailors have gone on shore There are a great
                 <lb/>many ships here of all nations, We lay some
-                <lb/>3 miles from the Shore. <rs ref="#END">Father</rs> <choice><sic>has</sic><corr>had</corr></choice> gone on shore
+                <lb/>3 miles from the Shore. <rs ref="#END">Father</rs> has gone on shore
                 <lb/>and when he returned he informed us that
                 <lb/><persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Miller</persName> of the Clipper ship
                 <ptr type="noteAnchor" target="CSX"/><note resp="ed" xml:id="CSX">A type of ship built by Americans beginning in the late 1840's.  Clipper ships were built for speed.
@@ -6319,7 +6328,7 @@
              <lb/><dateline><date when="1853-04-16">Sunday 17th</date></dateline>
              <p>
                 <lb/>A <choice><sic>beautifull</sic><corr>beautiful</corr></choice> fine morning <rs ref="#END">Father</rs>
-                <lb/><choice><sic>has</sic><corr>had</corr></choice> gone on Shore to Market and to tow off
+                <lb/>has gone on Shore to Market and to tow off
                 <lb/>the water boat when he returned he said he
                 <lb/>never saw such a variety of Fruit in any
                 <lb/>Place as there was here Last evening <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
@@ -6335,12 +6344,12 @@
              <lb/><dateline><date when="1853-04-18">Monday 18th</date></dateline>
              <p>
                 <lb/>Fine morning <rs ref="#END">Father</rs> has gone on
-                <lb/>shore to <placeName>Lima</placeName> to get his orders can see the <unclear>Cores</unclear>
-                <lb/>that <choice><sic>run</sic><corr>runs</corr></choice> to <placeName>Lima</placeName> from here <rs ref="#ATD">Mother</rs> is quite
+                <lb/>shore to <placeName>Lima</placeName> to get his orders can see the Cars
+                <lb/>that run to <placeName>Lima</placeName> from here <rs ref="#ATD">Mother</rs> is quite
                 <lb/>sick again with the Fever with a severe cough,
                 <lb/>Do not think I shall have an opportunity of
                 <lb/>going <placeName>Lima</placeName> as <rs ref="#ATD">mother</rs> is not able to go, The
-                <lb/>ship <name type="ship"><unclear>Otawa</unclear></name> <persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice>Crawford</persName> arrived on Thur<seg type="softhyphen">-
+                <lb/>ship <name type="ship">Ottawa</name> <persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice>Crawford</persName> arrived on Thur<seg type="softhyphen">-
                    <lb/></seg>sday beat us 2 days <persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice>Crawford</persName> has
                 <lb/>been on board to see us, when <rs ref="#END">Father</rs> returned
                 <lb/><persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice>Lowell</persName> of the Ship <name type="ship">Monteria</name> came
@@ -6360,26 +6369,26 @@
              <p>
                 <lb/>When <rs ref="#END">Father</rs> went on deck this
                 <lb/>morning The First Mate informed <rs ref="#END">him</rs> that all
-                <lb/>the men in the  Hole was <choice><orig><distinct type="archaicorthography" time="15">loss</distinct></orig><reg source="OED">loose</reg></choice> but had not
-                <lb/><choice><orig><distinct type="archaicorthography" time="14-16">ben</distinct></orig><reg source="OED">been</reg></choice> on deck <rs ref="#END">Father</rs> came in and told us and
-                <lb/>then went on shore <choice><sic>imediately<corr>immediately</corr></sic></choice>I jumped up
+                <lb/>the men in the  Hole was <distinct type="archaicorthography" time="15"><choice><orig>loss</orig><reg source="OED">loose</reg></choice></distinct> but had not
+                <lb/><distinct type="archaicorthography" time="14-16"><choice><orig>ben</orig><reg source="OED">been</reg></choice></distinct> on deck <rs ref="#END">Father</rs> came in and told us and
+                <lb/>then went on shore <choice><sic>imediately</sic><corr>immediately</corr></choice> I jumped up
                 <lb/>quick and went <supplied reason="omitted" resp="ed">to</supplied>the door saw them all walking
                 <lb/>between decks. <persName>Mr. Frost</persName> said the first he
                 <lb/>knew of it was one of them came to the Hatch
-                <lb/><unclear cert="medium" reason="spelling?">wall</unclear>and said to him the Rats had eat all
+                <lb/>way and said to him the Rats had eat all
                 <lb/>their Irons off he then went down in <supplied reason="omitted" resp="ed">the</supplied> hole
                 <lb/>and found they all were at <choice><sic>liberaty</sic><corr>liberty</corr></choice> and had
                 <lb/>thrown <choice><sic>theirs</sic><corr>their</corr></choice> Irons overboard <rs ref="#END">Father</rs> came off
                 <lb/>with an armed Force and had their hands
-                <lb/>and feet tied to a ring bolt <ptr type="noteAnchor" target="RingBolt"/><note resp="ed" xml:id="RingBolt">According to the OED, a ring bolt is "a bolt with an eye at one end, to which a ring is attached".  They fastened into the ship's deck and were used for a variety of purposes.<bibl><ref target="OED">(OED)</ref></bibl></note>in the deck
+                <lb/>and feet tied to a ring bolt <ptr type="noteAnchor" target="RingBolt"/><note resp="ed" xml:id="RingBolt">According to the OED, a ring bolt is "a bolt with an eye at one end, to which a ring is attached".  They fastened into the ship's deck and were used for a variety of purposes.<bibl><ref target="OED">(OED)</ref></bibl></note> in the deck
                 <lb/>after Breakfast <rs ref="#END">he</rs> went on shore to see what
                 <lb/>would be done with them an American ship
                 <lb/>has just came in and anchored closed to us
                 <lb/>have seen a Lady and little Boy on board
                 <lb/>in a short time the mate came and told us
-                <lb/>the men were all <choice><orig><distinct type="archaicorthography" time="15">loss</distinct></orig><reg source="OED">loose</reg></choice> in the hole, Mother
+                <lb/>the men were all <distinct type="archaicorthography" time="15"><choice><orig>loss</orig><reg source="OED">loose</reg></choice></distinct> in the hole, Mother
                 <lb/>is on deck at noon a Policeman came 
-                <lb/>off and took them all on Shore and <unclear cert="high" reason="handwriting?">put</unclear>
+                <lb/>off and took them all on Shore and put
                 <pb facs="G226_D6_A3_1852-057a"/>
                 <lb/>them in Prison I was glad to see them leave
                 <lb/>the Ship hope they will not come on board
@@ -6391,20 +6400,20 @@
              <p>
                 <lb/> Last night the Ship <name type="ship">Dau<seg type="softhyphen">-
                    <lb/></seg>ntless</name> sailed for <placeName ref="#Valparaiso">Valparaiso</placeName> There has a fleet
-                <lb/>of ships left for the Islands today the <name type="ship">Ottawa</name>
-                <lb/><name type="ship">Monteria</name> and several others, There are 4 <rs ref="#ATD">Mama</rs>
-                <lb/>was lying here and we can hear the band of 
-                <lb/>music every morning at 8 oclock and at 
-                <lb/>6 oclock in the evening which is very pleasant
+                <lb/>of Ships left for the Islands today the <name type="ship">Ottawa</name>
+                <lb/><name type="ship">Monteria</name> and several others, There are 4 <choice><sic>Mana<seg type="softhyphen">
+                <lb/></seg>wars</sic><corr>Man 'o Wars</corr></choice> lying here and we can hear the band of 
+                <lb/>Music every morning at 8 oclock and at 
+                <lb/>6 oclock in the evening which is very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>
                 <lb/>The Ship that arrived yesterday with the Lady
-                <lb/>on board has gone in nearer <choice><sic>to the to the</sic><corr>to the</corr></choice> shore
-                <lb/>as she has some cargo to <choice><sic>discharged</sic><corr>discharge</corr></choice>, There
+                <lb/>on board has gone in nearer <choice><sic>to the to the</sic><corr>to the</corr></choice> Shore
+                <lb/>as she has some Cargo to <choice><sic>discharged</sic><corr>discharge</corr></choice>, There
                 <lb/>are more or less Vessels coming or going every
                 <lb/>day,
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530422a">
-             <lb/><dateline><date when="1853-04-22">Friday April 22th</date></dateline>
+             <lb/><dateline><date when="1853-04-22">Friday April 22<choice><sic>th</sic><corr>nd</corr></choice></date></dateline>
              <p>
                 <lb/>This morning I arose very
                 <lb/>early and <choice><sic>accompanayed</sic><corr>accompanied</corr></choice> <rs ref="END">Father</rs> on Shore to
@@ -6412,29 +6421,34 @@
                 <lb/>It was quite a <choice><sic>curiosty</sic><corr>curiosity</corr></choice> they had every thing
                 <pb facs="G226_D6_A3_1852-057b"/>
                 <lb/>you could mention from there <rs ref="#END">Father</rs> went to the
-                <lb/>American Ship Chandlery<ptr type="noteAnchor" target="ShipChand"/><note resp="ed" xml:id="ShipChand"> In the text "Mobile, Her Trade, Commerce and Industries, 1883-4", John Land describes the duties of a ship chandler, a port retailer boat captains relied upon for anything from tools and equipment to food supplies and paper goods <bibl><ref target="JEL">(101)</ref></bibl>.</note> and I <choice><sic>stop</sic><corr>stopped</corr></choice> there <choice><orig><distinct type="archaicorthography" time="18-19">untill</distinct></orig><reg source="OED">until</reg></choice>
+                <lb/>American Ship Chandlery<ptr type="noteAnchor" target="ShipChand"/>
+                  <note resp="ed" xml:id="ShipChand"> In the text "Mobile, Her Trade, Commerce and
+                     Industries, 1883-4", John Land describes the duties of a ship chandler, a port
+                     retailer boat captains relied upon for anything from tools and equipment to
+                     food supplies and paper goods <bibl><ref target="JEL"
+                     >(101)</ref></bibl>.</note> and I <choice><sic>stop</sic><corr>stopped</corr></choice> there <distinct type="archaicorthography" time="18-19"><choice><orig>untill</orig><reg source="OED">until</reg></choice></distinct>
                 <lb/><rs ref="END">he</rs> had <choice><sic>order</sic><corr>ordered</corr></choice> what <rs ref="END">he</rs> wished and we then 
                 <lb/>returned by the way of the Ship <name type="ship">California Packet</name>
-                <lb/><persName ref="#Gardner"><choice><sic>Captian</sic><corr>Captain</corr></choice> Gardner</persName> the one that has his wife on 
-                <lb/>board and got some very nice cabbages they
-                <lb/>are from <placeName ref="#Valparaiso">Valparaiso</placeName> 7 days passage bound to 
+                <lb/><persName ref="#Gardner"><choice><sic>Captian</sic><corr>Captain</corr></choice> Gardner</persName> the one that has his Wife on 
+                <lb/>board and got some very nice Cabbages they
+                <lb/>are from <placeName ref="#Valparaiso">Valparaiso</placeName> 7 days Passage bound to 
                 <lb/>the Islands so we shall have plenty of company
                 <lb/>after Breakfast <rs ref="END">Father</rs> went on shore again and
-                <lb/><del rend="overwritten"><gap unit="word" extent="1"/></del>when the Boat returned <rs ref="END">he</rs> sent off 7 men
+                <lb/><gap unit="word" extent="1"/>when the Boat returned <rs ref="END">he</rs> sent off 7 men
                 <lb/>to go to the Island with us to load the Ship-
                 <lb/>and to be discharged when we returned back
                 <lb/>here again have discharged the Second Mate
                 <lb/>and the boy that run away from <persName ref="#White"><choice><sic>Captian</sic><corr>Captain</corr></choice>
                    <lb/>White</persName> as he was no use to us, after Dinner
                 <lb/><persName ref="#Gardner"><choice><sic>Captian</sic><corr>Captain</corr></choice> Gardner</persName> came on board and left his
-                <lb/>Wife and Son while he went on Shore she
+                <lb/><gap unit="word" extent="1" reason="overwritten"></gap>Wife <gap unit="word" extent="1" reason="overwritten"></gap>and Son while he went on Shore she
                 <lb/>appears to be very much of a Lady The Boy
-                <lb/> is 6 years old stopped <choice><orig><distinct type="archaicorthography" time="18-19">untill</distinct></orig><reg source="OED">until</reg></choice> 9 oclock in the
+                <lb/> is 6 years old stopped <distinct type="archaicorthography" time="18-19"><choice><orig>untill</orig><reg source="OED">until</reg></choice></distinct> 9 oclock in the
                 <lb/>evening <rs ref="ATD">Mother</rs> is the same
              </p>   
           </div>
           <div type="Entry" xml:id="Doane18530428a">
-             <lb/><dateline><date when="1853-04-28">Saturday April 28th</date></dateline>
+             <lb/><dateline><date when="1853-04-28">Saturday April 23<choice><sic>th</sic><corr>rd</corr></choice></date></dateline>
              <p>
                 <lb/> This morning after Breakfast
        <!-- Alecia Mouhanna's section ends here -->
@@ -6444,13 +6458,13 @@
                 <lb/> I went along of the Ship <name type="ship">California Packet</name>
                 <ptr type="noteAnchor" target="Packet"/><note resp="ed" xml:id="Packet">The Oxford English Dictionary defines a packet ship as a boat or ship travelling at regular intervals between two ports, originally for the conveyance of mail, later also of goods and passengers; a mailboat. In Doane's case, the packet ships could have been the only means of communication to the mainland.
                    <bibl><ref target="Packet">OED</ref></bibl></note>
-                <lb/> and <persName>Mrs Gardener</persName><choice><sic>accompanayed</sic><corr>accompanied</corr></choice> us on shore
+                <lb/> and <persName>Mrs Gardener</persName> <choice><sic>accompanayed</sic><corr>accompanied</corr></choice> us on Shore
                 <lb/> we went to the Market bought a number little
                 <lb/> Stores then went to the American Hotel stop there
-                <lb/> <choice><sic>untill</sic><corr>until</corr></choice><persName ref="#END">Father</persName> had settled his business had Lu<seg type="softhyphen">-
+                <lb/> <choice><sic>untill</sic><corr>until</corr></choice><persName ref="#END">Father</persName> had settled his <choice><sic>buisness</sic><corr>business</corr></choice> had Lu<seg type="softhyphen">-
                    <lb/></seg>nch had some Wine Cake Fruit in a short
-                <lb/> time <persName ref="#END">Father</persName> came after we returned on
-                <lb/> board after Dinner hove our Anchor got under
+                <lb/> time <persName ref="#END">Father</persName> came after me we returned on
+                <lb/> board after Dinner hove our anchor got under
                 <lb/> and set sail for <placeName ref="#ChinchaI">Chincha Island</placeName> 100 miles
                 <lb/> from here have to beat all the way as the
                 <lb/> Wind is ahead.
@@ -6460,10 +6474,10 @@
              <p>
                 <lb/> We are still beating a fre<seg type="softhyphen">-
                    <lb/></seg>sh breeze several Sails in sight bound to
-                <lb/> <placeName ref="#Callao">Callao</placeName> Ship and Bark in sight standing the
+                <lb/> <placeName ref="#Callao">Callao</placeName> 1 Ship and Bark in sight standing the
                 <lb/> same way came up with the Ship It was
-                <lb/> the <name type="ship">Ottawa</name> which left last Wednesday <unclear>sot thig</unclear>
-                <lb/> <unclear>nals</unclear> The Bark is Obit which left the same
+                <lb/> the <name type="ship">Ottawa</name> which left last Wednesday <choice><sic>>sot</sic><corr>set</corr></choice> sig<seg type="softhyphen">
+                <lb/></seg>nals The Bark is Obit which left the same
                 <lb/> day <persName ref="#mom">Mother</persName> is confined to her bed with the Fever
                 <lb/> again
              </p></div>
