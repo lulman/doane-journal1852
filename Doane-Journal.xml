@@ -6157,11 +6157,11 @@
                 <lb/>after breakfast, <rs ref="#END">Father</rs> had the boat lowered, and
                 <lb/>the <rs ref="#SecondMate">Second <add place="above" rend="*">Mate</add></rs> and 2 men went out about twice the
                 <lb/>length of the vessel to see how to see how fast 
-                <lb/>the current was setting to the <choice><sic>Westard</sic><corr>Westward</corr></choice> found it
+                <lb/>the Current was setting to the <choice><sic>Westard</sic><corr>Westward</corr></choice> found it
                 <lb/>to be 2 miles an hour, The Prisoners are singing
                 <lb/>at a great rate and disturbing us very much
                 <lb/>when <rs ref="#END">Father</rs> <choice><sic>order</sic><corr>ordered</corr></choice> them to stop which they did but
-                <lb/>gave him a very saucy reply, Then <rs ref="#END">Father</rs> <unclear cert="high"><choice><abbr>ored</abbr><expan>ordered</expan></choice></unclear>
+                <lb/>gave him a very saucy reply, Then <rs ref="#END">Father</rs> <choice><abbr>ored</abbr><expan>ordered</expan></choice>
                 <lb/>the <rs ref="#SecondMate">Second Mate</rs> not to give them but half a bread
                 <lb/>apiece for their suppers.
              </p></div>
@@ -6171,9 +6171,9 @@
                 <lb/>Still continues Calm
           <!-- Proofed to this point 9 May 2012. HLU and CG -->
           <pb facs="G226_D6_A3_1852-054a"/>
-             <lb/><rs ref="#ATD">mother</rs> is quite sick has a severe <unclear cert="medium"><choice><sic>Caught</sic><corr>Cough</corr></choice></unclear> which
+             <lb/><rs ref="#ATD">mother</rs> is quite sick has a severe <choice><sic>Caught</sic><corr>Cough</corr></choice> which
              <lb/>has brought on a Fever, This morning have
-             <lb/>given her some <unclear>none</unclear> <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Quinine"/>
+             <lb/>given her some more <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Quinine"/>
              <note resp="ed" xml:id="Quinine"><title level="m">A Treatise on the Physiological and Therapeutic Action of the Sulphate of Quinine</title> (1882), written by Otis Frederick Manson, M.D., 
                 a professor of physiology at the Medical College of Virginia, describes in detail the history and uses of quinine. The medicine was made from a bitter alkaloid found in cinchona bark.
                 In the 19th century, Quinine was known to not only dispel fever, but it also cured pain and swelling caused from malarial infections. Manson describes in detail the effects of quinine on a patient:
@@ -6196,7 +6196,7 @@
                 <lb/>the Bulwarks A Ship in sight ahead coming 
                 <lb/>towards us she is abreast of us has <distinct type="archaicorthography"><choice><orig>sot</orig><reg>set</reg></choice></distinct> her 
                 <lb/><choice><sic>Colars</sic><corr>Colors</corr></choice> is a <unclear cert="medium"><choice><abbr>Nor</abbr><expan>North</expan></choice></unclear> <add place="above" rend="*">spoke her</add> from <placeName ref="#Bordeaux"><choice><sic>Bordeax</sic><corr>Bordeaux</corr></choice></placeName> bound
-                <lb/>to <placeName ref="#SF">San Francisco</placeName>, out 172 <unclear reason="ink dried up?">as near</unclear> as we could
+                <lb/>to <placeName ref="#SF">San Francisco</placeName>, out 172 as near as we could
                 <lb/>understand I hope we shall have more wind
                 <lb/><choice><abbr>altho</abbr><expan>although</expan></choice> we are in the <choice><abbr>SE</abbr><expan>Southeast</expan></choice> <choice><sic>Tarde</sic><corr>Trade</corr></choice> winds which is 
                 <lb/>ahead for us can go no better than <choice><abbr>SW</abbr><expan>Southwest</expan></choice> and
