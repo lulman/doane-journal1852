@@ -6665,7 +6665,7 @@
                 <lb/><persName>Mrs Gardner</persName> came on board and spent the
                 <pb facs="G226_D6_A3_1852-061b"/>
                 <lb/>day with us in the evening <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Davis</persName> of
-                <lb/>the Ship <name type="ship"><unclear>Chastage</unclear></name> came and spent the evening.
+                <lb/>the Ship <name type="ship"><unclear/></name> came and spent the evening.
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530509a">
@@ -6680,13 +6680,13 @@
                    <lb/></seg>dy from there we went on board of the <name type="ship">James
                       <lb/>Corner</name> was much pleased with <persName>Mrs Corner</persName>
                 <lb/>they have a very nice Cabin and an excell<seg type="softhyphen">-
-                   <lb/></seg>ent Cook and Steward which have been with
+                   <lb/></seg>ent Cook and Steward which has been with
                 <lb/>them 4 years steady then we returned on
                 <lb/>board
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530510a">
-             <lb/><dateline><date when="1853-05-10">Tuesday May 10th</date></dateline>
+             <lb/><dateline><date when="1853-05-10"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> May 10th</date></dateline>
              <p>
                 <lb/><distinct type="archaicorthography" time="17-17"><choice><orig>Pleasent</orig><reg source="OED">Pleasant</reg></choice></distinct> day have been on
                 <lb/>board of the <name type="ship" ref="#CPacket">Packet</name><ptr
@@ -6706,11 +6706,11 @@
                 <lb/>board of <name type="ship">James Corner</name> and there we found
                 <lb/><persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice> Lowell</persName> and Wife <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Macfarling</persName>
                 <lb/><persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Genings</persName> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Walker</persName> and <persName>Mrs
-                   <lb/>Walker</persName> dine at 2 oclock dine on <handShift new="#H2"/><add place="margin">TURTLE</add><handShift new="#LADHand"/> <choice><sic>Turkle</sic><corr>Turtle</corr></choice>
+                   <lb/>Walker</persName> Dine at 2 oclock dine on Turkle <handShift new="#H2"/><add place="above">TURTLE</add><handShift new="#LADHand"/>
                 <lb/>served up in 4 different Dishes which we
                 <lb/>were not fond of <rs ref="#ATD">Mother</rs> seeing the Boiled
-                <lb/>Turtle took it to be veal and eat very
-                <lb/>hasty of it we had quite a laugh with
+                <lb/>Turkle took it to be veal and eat very
+                <lb/><distinct type="archaicorthography" time="pre-17"><orig source="OED">harty</orig><reg>hearty</reg></distinct> of it we had quite a laugh with
                 <lb/>her Dessert was Fruit after Dinner we went
                 <lb/>up on the Quarter Deck and the <choice><sic>Captians</sic><corr>Captains</corr></choice>
                 <lb/>went out to Pilot in the Ship <name type="ship">General Wa<seg type="softhyphen">-
@@ -6724,17 +6724,17 @@
                    </figure>
                 </note> <name type="ship">
                    <lb/><unclear>Lochlibo</unclear></name> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Baird</persName> which we left in
-                <lb/><placeName ref="#Acapulco">Acapulco</placeName> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> was his pilot
-                <lb/>returned on board at 3 oclock
+                <lb/><placeName ref="#Acapulco">Acapulco</placeName> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> was his Pilot
+                <lb/>returned on board at 5 oclock
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530517a">
-             <lb/><dateline><date when="1853-05-17"><choice><orig><distinct type="archaicorthography" time="pre-17">Tusday</distinct></orig><reg source="OED">Tuesday</reg></choice> May 17th</date></dateline>
+             <lb/><dateline><date when="1853-05-17"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 17th</date></dateline>
              <p>
                 <lb/>Today we are invited on board
                 <lb/>the <name type="ship" ref="#CPacket">California Packet</name> to spend the day
-                <lb/>as all the <choice><sic>Captians</sic><corr>Captains</corr></choice> and <choice><orig><distinct type="archaicorthography" time="16-18">there</distinct></orig><reg source="OED">their</reg></choice> Wives are
-                <lb/>to be there when <rs ref="#END">Father</rs> came to tea he
+                <lb/>as all the <choice><sic>Captians</sic><corr>Captains</corr></choice> and <distinct type="archaicorthography" time="16-18"><choice><orig>there</orig><reg source="OED">their</reg></choice></distinct> Wives are
+                <lb/>to be there when <rs ref="#END">father</rs> came to tea he
       <!-- Cory Sheetz's section ends here -->
       
       <!-- Lauren Sheridan's section starts here -->        
@@ -6747,7 +6747,7 @@
                 <lb/>left The first Mate shot the Sail Maker and
                 <lb/>the Carpenter was <choice><sic>conserned</sic><corr>concerned</corr></choice> in it he left them
                 <lb/>there to be sent home in the first <name type="ship"><choice><sic>Manawar</sic><corr>Man-of-war</corr></choice></name>
-                <lb/>and bored a Mate to come to the Island
+                <lb/>and <choice><sic>bored</sic><corr>borrowed</corr></choice> a Mate to come to the Island
                 <lb/>with <unclear cert="medium" reason="grammar/context confusion">is</unclear> to give him up as soon as his Ship
                 <lb/>arrived,
              </p></div>
@@ -6766,7 +6766,7 @@
              <lb/><dateline><date when="1853-05-19">Thursday May 19th</date></dateline>
              <p>
                 <lb/>This is a very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>
-                <lb/>day <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Frost</persName> has been along side for us to
+                <lb/>day <choice><sic>Captian</sic><corr>Captain</corr></choice> has been along side for us to
                 <lb/>go rowing which is all the Pleasure we
                 <lb/>have went around to the Middle Island
                 <pb facs="G226_D6_A3_1852-063a"/>
@@ -6776,9 +6776,9 @@
                 <lb/>had <add place="above">a</add> vey nice Cabin but the <choice><sic>Captians</sic><corr>Captains</corr></choice> had
                 <lb/>a good deal of sport with him about his
                 <lb/>chair from there we went on board of the
-                <lb/><name type="ship"><unclear cert="low" reason="Not sure of the letters in this word">Aneval</unclear></name> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> <unclear cert="medium" reason="Hard to read can't distingish the letters">Genings</unclear></persName> we were <unclear cert="medium" reason="Do not understand the context">whip</unclear> night
+                <lb/><name type="ship">Arcoal</name> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Genings</persName> we were whip right
                 <lb/>up on the Quarter Deck his Cabin was
-                <lb/>very much like the <placeName><choice><sic>Sauetors</sic><corr>Sauteurs</corr></choice></placeName> from these
+                <lb/>very much like the <name type="ship">Senators</name> from these
                 <lb/>we went along side of the <name type="ship">James Ward</name>
                 <lb/><name type="ship">James Conner</name> and <name type="ship">Monterey</name> and invited
                 <lb/>them on board of us the next day to dine
@@ -6786,27 +6786,27 @@
           <div type="Entry" xml:id="Doane18530520a">
              <lb/><dateline><date when="1853-05-20">Friday May 20th</date></dateline>
              <p>
-                <lb/>Today we have had <choice><sic>coupay</sic><corr>company</corr></choice>
+                <lb/>Today we have had company
                 <lb/>they seemed to <choice><sic>enjoye</sic><corr>enjoy</corr></choice> themselves very much
                 <lb/>found them all very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> and agreeable
                 <lb/>after Dinner the <choice><sic>Captian</sic><corr>Captain</corr></choice> went out sailing
-                <lb/>we played on the <choice><sic>Accordan</sic><corr>Accordion</corr></choice>and sung <unclear cert="high" reason="Cannot find what this word means">Poda</unclear>
+                <lb/>we played on the <choice><sic>Accordan</sic><corr>Accordion</corr></choice>and sung today
                 <lb/>have finished Ballasting <ptr type="noteAnchor" target="Ballasting"/><note resp="ed" xml:id="Ballasting">A 'Ballast' is any heavy material, such as gravel, sand, metal, water, etc., placed in the hold of a ship to weigh it down in the water and prevent it from capsizing when under sail or in motion. The OED gives the example from 1887 by Charles Kingley of ballasting a ship with pebbles. Doane does not specificly say what is used in this situation.<bibl><ref target="OxfordEnglishDictionary">Oxford English Dictionary</ref></bibl></note> and they have taken
                 <lb/>the Lighter <ptr type="noteAnchor" target="LighterLS"/><note resp="ed"
                    xml:id="LighterLS">A Lighter is a type of boat or vessel, usually a flat-bottomed barge, used in lightening or unloading (sometimes loading) ships that cannot be discharged (or loaded) at a wharf, and for transporting goods of any kind, usually in a harbour. Doane had just mentioned that the crew had been weighing down the ship, which must be in preparation for the Lighter's arrival.<bibl><ref target="OxfordEnglishDictionary">Oxford English Dictionary</ref></bibl></note> away saying we cannot load
                 <lb/>in boats shall have to wait <choice><sic>untill</sic><corr>until</corr></choice>our
-                <lb/>turns comes and go under the Ships Shoot,
+                <lb/>turns comes and go under the Ships <choice><sic>Shoot</sic><corr>chute</corr></choice>,
              </p>
           </div>
           <pb facs="G226_D6_A3_1852-063b"/>
           <div type="Entry" xml:id="Doane18530602a">
-             <lb/><dateline><date when="1853-06-02">Thursday June 2th</date></dateline>
+             <lb/><dateline><date when="1853-06-02">Thursday June 2<choice><sic>th</sic><corr>nd</corr></choice></date></dateline>
              <p>
                 <handShift new="#H2"/><add place="margin">60</add>
                 <handShift new="LADHand"/>
                 <lb/>This afternoon <persName>Mrs Gardner</persName>
                 <lb/>came along side for us to go on board the
-                <lb/><name type="ship">James Conner</name> as <persName>Mrs Conner</persName> was quite sick
+                <lb/><name type="ship">James Corner</name> as <persName>Mrs Corner</persName> was quite sick
                 <lb/>with a <choice><sic>servere</sic><corr>severe</corr></choice> cough I went with them but
                 <lb/><rs ref="#ATD">mother</rs> prefer stopping on board she did not
                 <lb/>feel very well and found her quite sick from
@@ -6821,7 +6821,7 @@
                 <lb/><rs ref="#END">Father</rs> returned on board he went to see the
                 <lb/><choice><sic>Commadant</sic><corr>Commandant</corr></choice> about it and he told him the
                 <lb/>same but would not tell him when we was
-                <lb/>to go under the Shoot
+                <lb/>to go under the <choice><sic>Shoot</sic><corr>chute</corr></choice>
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530604a">
@@ -6835,17 +6835,18 @@
                <pb facs="G226_D6_A3_1852-064a"/>      
                <lb/><geogName>Middle Island</geogName>. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice></persName>and <persName>Mrs Gardner</persName> have
                <lb/>come on board to go around with us to the other
-               <lb/><geogName>Island</geogName> after dinner we sot our Ensign <ptr type="noteAnchor" target="Ensign"/><note resp="ed" xml:id="Ensign">
+               <lb/><geogName>Island</geogName> after dinner we <choice><sic>sot</sic><corr>set</corr></choice> our Ensign <ptr type="noteAnchor" target="Ensign"/><note resp="ed" xml:id="Ensign">
                   On 18th century ships, the flag of a ship was sometimes lowered as a salute or sign of respect to other ships.<bibl><ref target="DK">"Kemp 534"</ref></bibl></note> which is
                <lb/>a signal for the <choice><sic>Captians</sic><corr>Captains</corr></choice>to come on board if
-               <lb/>they choose to do so and when we began to heave
+               <lb/>they choose to do so and then we began to heave
                <lb/>the Anchor and before it was hove up there
                <lb/>were 11 <choice><sic>Captians</sic><corr>Captains</corr></choice>came on board with a boats
                <lb/>Crew to <choice><sic>assistis</sic><corr>assist</corr></choice>us set our sail but there was
                <lb/>not much Wind and they put the boats ahead
-               <lb/>and towed us around the <geogName>Island</geogName>. The <choice><sic>Capt<seg type="softhyphen">-<lb/></seg>ian</sic><corr>Capt<seg type="softhyphen">-<lb/></seg>ain</corr></choice>seemed to enjoyed themselves very much
-               <lb/><persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Caffin</persName> was Pilot anchored us close to
-               <lb/><unclear cert="medium" reason="doesn't make sense in sentence">shovl</unclear> after we came at an anchor <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
+               <lb/>and towed us around the <geogName>Island</geogName>. The <choice><sic>Capt<seg type="softhyphen">-<lb/></seg>ians</sic><corr>Capt<seg type="softhyphen">-
+               <lb/></seg>ains</corr></choice>seemed to enjoyed themselves very much
+               <lb/><persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Coffin</persName> was Pilot anchored us close to
+               <lb/><choice><sic>Shoot</sic><corr>chute</corr></choice> after we came at an anchor <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
                   <lb/>Walker</persName> came on board and said he <choice><sic>fels</sic><corr>feels</corr></choice>
                <choice><sic>him<seg type="softyhpen">-<lb/></seg>sefe</sic><corr>him <seg type="softhypen">-<lb/></seg>self</corr></choice>very much slighted for not having an
                <lb/>invitation his ship lays on this side
