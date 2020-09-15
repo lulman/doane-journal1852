@@ -121,7 +121,7 @@
                   <li class="link"><a class="main"  href="">Appendices</a>
                      <ul class="sub">
                         <li><a href="./doane_appendices_markup.html">Markup Guidelines</a></li>
-                        <li><a href="./doane_appendices_hand.html">Guide to Doane`'s Hand</a></li>
+                        <li><a href="./doane_appendices_hand.html">Guide to Doane's Hand</a></li>
                         <li><a href="./doane_appendices_zoomindex.html">Images of the MS Pages</a></li>
                         <li><a href="./doane_appendices_maps.html">Maps</a></li>
                         <li><a href="./doane_journal.html#peopleMentioned">People Mentioned</a></li>
