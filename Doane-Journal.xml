@@ -6489,7 +6489,7 @@
                 <lb/> <placeName ref="#IslaAsia">Island Asia</placeName> which is over half way to the <placeName ref="#ChinchaI">Chin<seg type="softhyphen">
                    <lb/></seg>cha</placeName> have seen the <name type="ship">Ottawa</name> and another Ship on 
                 <lb/> the other tack but bound to the <rs ref="#IslaAsia">Island</rs>
-                <lb/> the <persName ref="#Stew">Steward</persName> is cleaning the cabin Windows
+                <lb/> the <persName ref="#Stew">Steward</persName> is cleaning the cabin Windows.
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530427">
@@ -6498,31 +6498,31 @@
                 <lb/> Land in sight and a
                 <lb/> fresh breeze the men are busy getting the
                 <lb/> anchor and chain up <persName ref="#mom">Mother</persName> is little better
-                <lb/> several sails in sight in sight on the on the same
+                <lb/> several sails in sight <choice><sic>in sight</sic><corr></corr></choice> on the same
                 <lb/> tack at dusk could see the Ship at an
                 <lb/> anchor at the <rs ref="#ChinchaI">Island</rs> shortened sail and
                 <lb/> keep off dinning the night This morning close
-                <lb/> in to the <rs ref="#ChinchaI">Island</rs> Calm saw a small sail
+                <lb/> in to the <rs ref="#ChinchaI">Island</rs> Calm. saw a small sail
                 <lb/> coming off to us they came along side and
                 <lb/> asked <rs ref="#END">Father</rs> if he wanted a Pilot <rs ref="#END">Father</rs>
                 <lb/> told them he <choice><sic>gessed</sic><corr>guessed</corr></choice> he could get along with<seg type="softhyphen">-
                    <lb/></seg>out one they said he would have to pay pilot<seg type="softhyphen">-
-                      <lb/></seg>age all the same if he took one <choice><abbr>n</abbr><expan>and</expan></choice> not so
-                <lb/> <rs ref="#END">Father</rs><add place="above">told them</add> they could on board there some three
+                      <lb/></seg>age all the same if he took one or not so
+                <lb/> <rs ref="#END">Father</rs><add place="above">told them</add> they could on board there <unclear>now</unclear> three
                 <lb/> they came on board laughing and introduce
                 <pb facs="G226_D6_A3_1852-059a"/>
                 <lb/> ed themselves as <choice><sic>Captian</sic><corr>Captain</corr></choice> of Ship lying at
                 <lb/> the <rs ref="#ChinchaI">Island</rs> we had quite a laugh when we
                 <lb/> thought it was a Pilot all the time they said
-                <lb/> It was the Custom of the <rs ref="#ChinchaI">Island</rs> the <choice><sic>Capti</sic><corr>Capta</corr></choice><seg type="softhyphen">-
-                   <lb/></seg>ins to go off and bring in Ships. <persName>Captain Sm<seg type="softhyphen">-
-                      <lb/></seg>all</persName> was the Pilot The Ship <name type="ship">Ottawa</name> and <name type="ship">Montina</name>
+                <lb/> It was the Custom of the <rs ref="#ChinchaI">Island</rs> the Capta<seg type="softhyphen">-
+                   <lb/></seg>ins to go off and bring in Ships. <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Sm<seg type="softhyphen">-
+                      <lb/></seg>all</persName> was the Pilot The Ship <name type="ship">Ottawa</name> and <name type="ship">Monteria</name>
                 <lb/> came in company with us came at an anchor
                 <lb/> at 11 oclock PM at the North <rs ref="#ChinchaI">Island</rs> a great
                 <lb/> many Ships here
              </p></div>
           <!-- Chincah Island Harbor Journal starts here. -->
-          <div type="section" xml:id="Chincha-Harbor"><p> Harbor Journal</p>
+          <div type="section" xml:id="Chincha-Harbor"><p> <lb/>Harbor Journal</p>
              <div type="Entry" xml:id="Doane18530428">
              <lb/><dateline><date when= "1853-04-28"></date> Thursday April 28th</dateline>
              <p> 
@@ -6530,12 +6530,12 @@
                 <lb/> about 150 High and the Guano<ptr type="noteAnchor" target="Guano"/><note resp="ed" xml:id="Guano">The June, 1920 issue of National Geographic Magazine describes guano (bird or bat droppings) as an international commodity for fertilization purposes.  The high quantity of nitrates created larger crop yields for farmers.  During the height of Peru's golden age of guano, around 1840
                    to 1880, it has been estimated that the Peruvians excavated over 20,000,000 tons of guano for export, creating around $2 billion in profits.<bibl><ref target="Guano">537-566</ref></bibl></note> is upon the top
                 <lb/> The way they load the ships is The Ship close
-                <lb/> in and the <rs ref="#ChinchaI">Island</rs> and they have a shoot
+                <lb/> in and the <rs ref="#ChinchaI">Island</rs> and they have a <choice><sic>shoot</sic><corr>chute</corr></choice>
                 <lb/> made of <choice><sic>Canvass</sic><corr>Canvas</corr></choice> which leads from the top of
-                <lb/> <rs ref="#ChinchaI">Island</rs> into the ships Hole a distance of 100 feet
-                <lb/> and they <choice><sic>pore</sic><corr>poured</corr></choice> the Guano through it then they
-                <lb/> have small Shoot for boats to ballast<ptr type="noteAnchor" target="ballast"/><note resp="ed" xml:id="ballast">The Oxford English dictionary defines a ballast as any heavy material, such as gravel, sand, metal, water, etc., placed in the hold of a ship to weigh it down in the water and prevent it from capsizing when under sail or in motion. In Doane's case, the crew used guano as their ballast.<bibl><ref target="ballast">OED</ref></bibl></note> Ships
-                <lb/> The Guano smells something like <unclear>Hailsoin</unclear>
+                <lb/> <rs ref="#ChinchaI">Island</rs> into the Ships Hole a distance of 100 feet
+                <lb/> and they <choice><sic>pore</sic><corr>poured</corr></choice> the Guano through it. then they
+                <lb/> have small <choice><sic>Shoot</sic><corr>chute</corr></choice> for boats to Ballast<ptr type="noteAnchor" target="ballast"/><note resp="ed" xml:id="ballast">The Oxford English dictionary defines a ballast as any heavy material, such as gravel, sand, metal, water, etc., placed in the hold of a ship to weigh it down in the water and prevent it from capsizing when under sail or in motion. In Doane's case, the crew used guano as their ballast.<bibl><ref target="ballast">OED</ref></bibl></note> Ships
+                <lb/> The Guano smells something like <unclear/>
                 <lb/> there is nothing to be seen <choice><sic>olny</sic><corr>only</corr></choice> a few Huts on
                 <lb/> the <rs ref="#ChinchaI">Island</rs> where the laborers that work on
                 <lb/> the Guano lived <rs ref="#END">Father</rs> has gone on shore
@@ -6561,14 +6561,14 @@
              <lb/><dateline><date when="1853-04-29">Friday April 29th</date></dateline>
              <p>
                 <lb/>This morning we hove up our
-                <lb/>anchor and hauled in near the Shoots and
+                <lb/>anchor and hauled in near the <choice><sic>Shoots</sic><corr>chutes</corr></choice> and
                 <lb/>have commenced Ballasting <rs ref="ATD">Mother</rs> is so
                 <lb/>she can sit up days with laying down on the 
                 <lb/>Sofa once in a while, <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Macfarling</persName> of
                 <lb/>the <name type="ship">Charles Ward</name> has been on board to invite
                 <lb/>us on board of his Ship tomorrow to dine as
                 <lb/>the <choice><sic>Captians</sic><corr>Captains</corr></choice> that had <choice><sic>theirs</sic><corr>their</corr></choice> Wives were to
-                <lb/>be <choice><sic>thier</sic><corr>there</corr></choice> <rs ref="#END">Father</rs> and <choice><orig><distinct type="archaicorthography" time="ME-16">myselfe</distinct></orig><reg source="OED">myself</reg></choice> went I feel very <supplied reason="omitted" resp="ed">sad</supplied>
+                <lb/>be <choice><sic>thier</sic><corr>there</corr></choice> <rs ref="#END">Father</rs> and <distinct type="archaicorthography" time="ME-16"><choice><orig>myselfe</orig><reg source="OED">myself</reg></choice></distinct> went I feel very <supplied reason="omitted" resp="ed">sad</supplied>
                 <pb facs="G226_D6_A3_1852-060a"/> 
                 <lb/>that <rs ref="ATD">Mother</rs> could not go
              </p></div>
@@ -6584,25 +6584,26 @@
                 <lb/>to the middle Island.
              </p></div>
           <div type="Entry" xml:id="Doane18530501a">
-             <lb/><dateline><date when="1853-05-01">Sunday May 1st</date></dateline>
+             <lb/><dateline><date when="1853-05-01">Sunday May 1<choice><sic>th</sic><corr>st</corr></choice></date></dateline>
              <p>
                 <lb/>This morning <rs ref="#END">Father</rs> was going
                 <lb/>on board of the Ship <name type="ship"><unclear>Souter Johny</unclear></name> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
                    <lb/>Small</persName> and <rs ref="LAD">I</rs> went with <rs ref="END">him</rs> as <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Cam<seg type="softhyphen">-
-                      <lb/></seg>el</persName> of the Bark <name type="ship">Royal <choice><sic>Saxton</sic></choice><corr>Saxon</corr></name><ptr type="noteAnchor" target="BRS"/>
+                      <lb/></seg>el</persName> of the Bark <name type="ship">Royal <choice><sic>Saxton</sic><corr>Saxon</corr></choice></name><ptr type="noteAnchor" target="BRS"/>
                 <note resp="ed" xml:id="BRS">probably the Royal Saxon that arrived at Baltimore on
                    March 16, 1854<bibl><ref target="BRS">NYT3</ref></bibl></note> who has his Wi<seg type="softhyphen">-
                    <lb/></seg>fe was stopping on board of the <name type="ship"><unclear>Soutter Johny</unclear></name>
-                <lb/>as his Bark was under the Shoot loading
+                <lb/>as his Bark was under the <choice><sic>Shoot</sic><corr>chute</corr></choice> loading
                 <lb/>They have a little Daughter 3 weeks old
              </p></div>
           <div type="Entry" xml:id="Doane18530502a">
-             <lb/><dateline><date when="1853-05-02">Monday May<choice><sic>3rd</sic><corr>2nd</corr></choice></date></dateline>
+             <lb/><dateline><date when="1853-05-02">Monday May 3<choice><sic>th</sic><corr>nd</corr></choice><ptr type="noteAnchor" target="may3"/><note resp="ed" xml:id="may3">May 3 fell on a Tuesday
+                in 1853. From the context, it is not clear whether Doane has mistaken the day of the week or the date.</note></date></dateline>
              <p>
                 <lb/>Taken in Guano <rs ref="ATD">Mother</rs> is so
-                <lb/>she is on deck again one Ship in sight
+                <lb/>she is up on deck again one Ship in sight
                 <pb facs="G226_D6_A3_1852-060b"/>
-                <lb/><rs ref="#END">Father</rs> has been in after the <unclear>Glass</unclear> says it is
+                <lb/><rs ref="#END">Father</rs> has been in after the Glass says it is
                 <lb/>the <name type="ship">California</name> is getting ready to go out to Pilot
                 <lb/>him in she is now at an anchor close to us
                 <lb/>there ten <choice><sic>boat</sic><corr>boats</corr></choice> went out to her <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Gardner</persName>
@@ -6613,16 +6614,16 @@
              <lb/><dateline><date when="1853-05-04">Wednesday May 4th</date></dateline>
              <p>
                 <lb/>Taken in Guano our Ballast
-                <lb/>is all out we have to lay here 60 days we have
-                <lb/>to Ballast and then lay <choice><orig><distinct type="archaicorthography" time="ME-18">untill</distinct></orig><reg source="OED">until</reg></choice> our <unclear>turner</unclear>comes
-                <lb/>to go under the Ships Shoot where we can load
-                <lb/>in 4 days <name type="ship">The Bark Royal <choice><sic>Saxton</sic></choice><corr>Saxon</corr></name> has sailed
+                <lb/>is all out we have to lay here 65 days we have
+                <lb/>to Ballast and then lay <distinct type="archaicorthography" time="ME-18"><choice><orig>untill</orig><reg source="OED">until</reg></choice></distinct> our <unclear>turnes</unclear> comes
+                <lb/>to go under the Ships <choice><sic>Shoot</sic><corr>chute</corr></choice> where we can load
+                <lb/>in 4 days <name type="ship">The Bark Royal <choice><sic>Saxton</sic><corr>Saxon</corr></choice></name> has sailed
                 <lb/>today so you see <choice><sic>their</sic><corr>there</corr></choice>is one <supplied reason="omitted" resp="ed">of</supplied> the best Ladies.
                 <lb/><persName>Mrs Gardner</persName> came on board and spent the after<seg type="softhyphen">
                    <lb/></seg>noon with us and the Little Boy fetched his
-                <lb/>Monkey which is a Pet of his and a <choice><orig><distinct type="archaicorthography" time="15-15">mischief<seg type="softhyphen">-
-                   <lb/></seg>ous</distinct></orig><reg source="OED">mischiev<seg type="softhyphen">-
-                      <lb/></seg>ous</reg></choice> little thing it is
+                <lb/>Monkey which is a Pet of his and a <distinct type="archaicorthography" time="15-15"><choice><orig>mischief<seg type="softhyphen">-
+                   <lb/></seg>ous</orig><reg source="OED">mischiev<seg type="softhyphen">-
+                      <lb/></seg>ous</reg></choice></distinct> little thing it is
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530506a">
@@ -6637,14 +6638,14 @@
       <!-- Cory Sheetz's section starts here -->
                 <pb facs="G226_D6_A3_1852-061a"/>
                 <lb/>but very plain after dinner <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Gardner</persName> and
-                <lb/><rs ref="#END">Father</rs> went on board of <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Hawkins</persName> and
-                <lb/>board his Tug Boat which has a very handsome
-                <lb/><damage agent="inkblot" extent="1">lining</damage> and brought it along side of the Ship
+                <lb/><rs ref="#END">Father</rs> went on board of <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Hopkins</persName> and
+                <lb/>board his Gig Boat which has a very handsome
+                <lb/>lining and brought it along side of the Ship
                 <lb/>and we got in then we went along side of
                 <lb/>the <name type="ship">James Corner</name> and took <persName>Mrs Corner</persName> and
                 <lb/><persName ref="#Lowell">Lowell</persName> and then went rowing intending to go
                 <lb/>around the Island but had not got far
-                <lb/>when it began to breeze up fresh and we
+                <lb/>when it began to breeze up Fresh and we
                 <lb/>came back
              </p>
           </div>
@@ -6659,7 +6660,7 @@
                 <lb/>red we went rowing around the <geogName><add place="above">South</add> Island</geogName> the one
                 <lb/>that have never been disturbed such a <choice><sic>quanity</sic><corr>quantity</corr></choice>
                 <lb/>of Birds I never saw in my life they will not
-                <lb/>allow you to fire off a gun on account of the
+                <lb/>allow you to fire off a Gun on account of the
                 <lb/>Birds nor to Capture the Seal when we returned
                 <lb/><persName>Mrs Gardner</persName> came on board and spent the
                 <pb facs="G226_D6_A3_1852-061b"/>
