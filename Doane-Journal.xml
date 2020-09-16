@@ -6958,14 +6958,14 @@
              </div>
              <pb facs="G226_D6_A3_1852-066a"/>
              <div type="Entry" xml:id="Doane18530628a">
-                <dateline><date when="1853-06-28">Tuesday June 28th</date></dateline>
+                <dateline><date when="1853-06-28"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> June 28th</date></dateline>
                 <p>
                    <lb/>This morning The Corker
                    <lb/>has been on board presented me with the Dog
                    <lb/>It is a pretty little thing I can tell you his
                    <lb/>Hair is like Silk. he is all White with the ex<seg type="softhyphen">-
-                   <lb/></seg>ception of his Ears which are <choice><orig><distinct type="archaicorthography" time="16">Sammon</distinct></orig><reg source="OED">Salmon</reg></choice> Color
-                   <lb/>He has a very handsome Colar on and a 
+                   <lb/></seg>ception of his Ears which are <distinct type="archaicorthography" time="16"><choice><orig>Sammon</orig><reg source="OED">Salmon</reg></choice></distinct> <choice><sic>Colar</sic><corr>color</corr></choice>
+                   <lb/>He has a very handsome <choice><sic>Colar</sic><corr>collar</corr></choice> on and a 
                    <lb/>little Bell as big as a thimble. I have given
                    <lb/>the Kid away.
                 </p> 
@@ -6977,17 +6977,17 @@
                    <lb/>to Smoke the Ship as she is full of Rats
                    <lb/>This morning the California Packet hauled to 
                    <lb/>the Bouy, The Bark Laurens has arrived from 
-                   <lb/><placeName>San Juan</placeName> The <rs><choice><sic>Captian</sic><corr>Captain</corr></choice></rs> has his Wife with him,
+                   <lb/><placeName>San Juan</placeName>. The <rs><choice><sic>Captian</sic><corr>Captain</corr></choice></rs> has his Wife with him,
                    <lb/> <persName ref="#Gardner">Mrs. Gardner</persName> and ourselves are to spend the
-                   <lb/>day on board of the <name type="ship">Alboui</name> enjoyed ourselves
-                   <lb/>much, I stopped on board of the <name type="ship">Alboui</name> all
-                   <lb/>night and <rs ref="#ATD"><choice><sic>mouther</sic><corr>mother</corr></choice></rs> went on board of the Cali<seg >-
-                   <lb/></seg>fornia Packet. Tomorrow afternoon at 5 o'clock
+                   <lb/>day on board of the <name type="ship">Alboni</name> enjoyed ourselves
+                   <lb/>much, I stopped on board of the <name type="ship">Alboni</name> all
+                   <lb/>night and <rs ref="#ATD"><choice><sic>mouther</sic><corr>mother</corr></choice></rs> went on board of the Cali<seg type="softhyphen">
+                   <lb/></seg>fornia Packet. Tomorrow afternoon at 5 oclock
                    <lb/>we are invited on board of the <name type="ship">St Patrick</name>
                    <lb/><add place="above"><persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Portman</persName></add> to a Ball all the American <choice><sic>Captians</sic><corr>Captains</corr></choice> and
                    <pb facs="G226_D6_A3_1852-066b"/>
-                   <lb/><choice><sic>teir</sic><corr>their</corr></choice> Wives that are to he Island are to be
-                   <lb/>here
+                   <lb/>their Wives that are to he Island are to be
+                   <lb/>there
                 </p>
              </div>
             
@@ -6997,9 +6997,9 @@
                 <lb/>This morning I return
                 <lb/>on board of Ship early they had found a
                 <lb/>great number of Rats. after Dinner went
-                <lb/>on board of the <choice><sic>Bak</sic><corr>Bark</corr></choice> to Call on the Lady
-                <lb/>as there has no one call on here as yet
-                <lb/>at 5 o'clock The Ladies that are on this
+                <lb/>on board of the Bark to Call on the Lady
+                <lb/>as there has no one call on <choice><sic>here</sic><corr>her</corr></choice> as yet
+                <lb/>at 5 oclock The Ladies that are on this
                 <lb/>Island were here then started from here
                 <lb/>to go on board of the <name type="ship">St Patrick</name>. before we
                 <lb/>got along side we heard the Music went on
@@ -7007,10 +7007,10 @@
                 <lb/>first up so handsome on board of a Ship
                 <lb/>The quarter which was very large was all
                 <lb/>enclosed with Canvass and lined with Ships
-                <lb/>Signals all the Chains and Stools was cover<seg type="softhyphen">-
+                <lb/>Signals all the Chairs and Stools was cover<seg type="softhyphen">-
                 <lb/></seg>ed with Signals also. The Canvass was in
-                <lb/>the Center of the Deck The top was Brass
-                <lb/>around the edge of it was Guns <unclear>Bagnets</unclear>
+                <lb/>the Center of the Deck the top was Brass
+                <lb/>around the edge of it was Guns Bagnets
                 <lb/>15 in number Candles burning in them
                 <lb/>around the side were covered with Signals
       <!-- Devan Toncler's section starts here -->
@@ -7019,10 +7019,10 @@
                 <lb/><choice><sic>Chanderleir</sic><corr>Chandelier</corr></choice> and the lights around the Sides
                 <lb/>Here we took the arm of the <rs><choice><sic>Captian</sic><corr>Captain</corr></choice></rs> of the
                 <lb/>Ship who escorted us to a Room that had
-                <lb/>been fixed <choice><sic>espaessly</sic><corr>especially</corr></choice> for <rs>the Ladies</rs>. There was
-                <lb/>a Sofa Dressing <unclear cert="medium" reason="spelling">Boudoir</unclear>. Wash Sink Chairs and
+                <lb/>been fixed expressly for <rs>the Ladies</rs>. There was
+                <lb/>a Sofa Dressing Bureau. Wash Sink Chairs and
                 <lb/>Carpet. from there we went on Deck where Dan<seg type="softhyphen">-
-                   <lb/></seg>ceing room commenced, at 12 oclock we all
+                   <lb/></seg><choice><sic>ceing</sic><corr>cing</corr></choice> room commenced, at 12 oclock we all
                 <lb/>marched down to Supper two by two The Table
                 <lb/>looked <choice><sic>splendi</sic><corr>splendid</corr></choice>. It would sit 60 People,
                 <lb/>I will now tell you what we had. Soups
@@ -7034,20 +7034,19 @@
                 <lb/>Boiled Mutton and all kinds of Green Vegatable.
                 <lb/>which was mostly preserved <choice><sic>Dersert</sic><corr>Dessert</corr></choice>. Plum
                 <lb/>Puddings Mince Apple Gooseberry Current
-                <lb/>Orange Pies. Calfes foot Jelly<ptr type="noteAnchor" target="CFJ"/> <note resp="ed" xml:id="CFJ">Calf's foot jelly was commonly made to accompany other foods.  
+                <lb/>Orange Pies. <choice><sic>Calfes</sic><corr>calf's</corr></choice> foot Jelly<ptr type="noteAnchor" target="CFJ"/> <note resp="ed" xml:id="CFJ">Calf's foot jelly was commonly made to accompany other foods.  
                    It was made by boiling the calf's feet, draining the well done feet through a double silksieve, 
                    adding sugars and spices, and then strained until it is transparent. <bibl><ref target="#CalfsFeetJelly">"The French Cook"</ref></bibl></note>Blanche Man<seg type="softhyphen">-
                       <lb/></seg>ge<ptr type="noteAnchor" target="BM"/><note resp="ed" xml:id="BM">Blanche-Mange is made by boiling Carrageen (also known as Irish Moss) then adding milk, lemon, white wine, or anything sweet. This mixture was recommended as a breakfast food for
                          patients with consumption as well as children with scrofulous or "rickety dieases."<bibl><ref target="#BlancheMange">"Arcana of Science and Art"</ref></bibl></note>. Fruits, Oranges Apples <choice><sic>Banaha</sic><corr>Banana</corr></choice> <unclear cert="medium" reason="spelling?">Cherries</unclear>
-                <lb/>Almonds and Raisens Lemon Ade <choice><sic>Champeign</sic><corr>Champagne</corr></choice>
-                <add place="below"> and <rs>Waiters</rs>,</add>
-                <lb/>and Wines. Then we returned on Deck
-                <lb/>promenade<ptr type="noteAnchor" target="Promenade"/><note resp="ed" xml:id="Promenade">The OED defines promenade as a leisurely walk especially in a public place so as to be seen by others.<bibl><ref target="#OED">"The Oxford English Dictionary"</ref></bibl></note>and Danced at 2 o clock. Lemon
-                <lb/>Ade, 4 <choice><sic>differince</sic><corr>different</corr></choice> kinds of Cake. Cheese and
+                <lb/>Almonds and <choice><sic>Raisens</sic><corr>raisins</corr></choice> Lemon Ade <choice><sic>Champeign</sic><corr>Champagne</corr></choice>
+                <lb/><add place="above">&amp; <rs>Waiters</rs>, </add>and Wines. Then we returned on Deck
+                <lb/><choice><sic>proanade</sic><corr>promenade</corr></choice><ptr type="noteAnchor" target="Promenade"/><note resp="ed" xml:id="Promenade">The OED defines promenade as a leisurely walk especially in a public place so as to be seen by others.<bibl><ref target="#OED">"The Oxford English Dictionary"</ref></bibl></note> and Danced at 2 oclock. Lemon
+                <lb/>Ade, 4 <choice><sic>differince</sic><corr>different</corr></choice> kinds of Cake Cheese and
                 <pb facs="G226_D6_A3_1852-067b"/>
                 <lb/><unclear cert="high" reason="foreign word?">Mottois</unclear>. So after this we left in the <name type="ship">St Patrick</name>
                 <lb/>Boat which was carpeted and Cushioned and
-                <lb/>maned by his sailors they were dress in Whit<supplied reason="omitted" resp="ed">e</supplied>
+                <lb/><choice><sic>maned</sic><corr>manned</corr></choice> by his sailors they were dress in Whit<supplied reason="omitted" resp="ed">e</supplied>
                 <lb/>but in going down the Ladder one of our com<seg type="softhyphen">-
                    <lb/></seg>pany <persName>Mrs Gardner</persName> made a Miss Step and
                 <lb/>fell between the Side and ladder with her
@@ -7056,7 +7055,7 @@
                 <lb/>at the time it was through carelessness as
                 <lb/>there was plenty of lights stationed down the
                 <lb/>Steps. I like to forgot to <choice><sic>mentione</sic><corr>mention</corr></choice> that there
-                <lb/>was one lady <rs><choice><sic>Captian</sic><corr>Captain</corr></choice> Mae Comets Wife</rs> had
+                <lb/>was one lady <rs><choice><sic>Captian</sic><corr>Captain</corr></choice> Mac Cornets Wife</rs> had
                 <lb/>a Baby 5 months old and another little Girl
                 <lb/>2 years. I thought <said aloud="false" direct="false">the poor Women would not
                    <lb/>have an opportunity to Dance as she appeare<seg type="softhyphen">
@@ -7065,15 +7064,15 @@
                 <lb/>best of it that is danced once.
              </p>   
           </div>  
-          <div type="Entry" xml:id="Doane19530602a">
-             <lb/><dateline><date when="1853-06-02"> Saturday July 2th</date></dateline>
+          <div type="Entry" xml:id="Doane18530702a">
+             <lb/><dateline><date when="1853-07-02"> Saturday July 2<choice><sic>th</sic><corr>nd</corr></choice></date></dateline>
              <p>
                 <lb/>This morning Bright and
                 <lb/>early <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Gardner</persName> came on board and
                 <lb/>brought <persName>Mrs Gardner</persName> and <persName>Walter</persName> as He
                 <pb facs="G226_D6_A3_1852-068a"/>
-                <lb/>was going to <unclear cert="high" reason="unknown?">Haull</unclear> to the Shoot She will stop
-                <lb/>with us while they are under the Shoot. This
+                <lb/>was going to <choice><sic>Haull</sic><corr>haul</corr></choice> to the <choice><sic>Shoot</sic><corr>chute</corr></choice> She will stop
+                <lb/>with us while they are under the <choice><sic>Shoot</sic><corr>chute</corr></choice>. This
                 <lb/>morning <rs ref="#END">Father</rs> went on Board of the <name type="ship">Alboni</name> on
                 <lb/>an errand and when he returned informed us
                 <lb/>That <said aloud="true" direct="false"><rs>the first Mate</rs> was Stabbed last night by
@@ -7089,19 +7088,19 @@
              <p>
                 <lb/>This is the Fourth of 
                 <lb/> July are to spend it on board of the <name type="ship">James
-                   <lb/><unclear cert="unknown" reason="unknown?">Corner</unclear></name> <rs>The Ladies</rs> are all to be there The
+                   <lb/>Corner</name> <rs>The Ladies</rs> are all to be there The
                 <lb/>Mate of the <name type="ship">Alboni</name> is out of Danger. we have
                 <lb/>spent a very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day there has been some
                 <lb/>trouble on board of the Ship <name type="ship">Hampden</name>, <persName>Mrs
                    <lb/>Lowell</persName> was not there as one of the <choice><sic>Captians</sic><corr>Captains</corr></choice>
                 <lb/>sent her on board some late Papers She
                 <lb/>was all ready to come out waiting for <persName ref="#Lowell">Cap<seg type="softhyphen">-
-                   <lb/></seg>tain Lowell</persName> when she took up one of the
-                <lb/>Papers and the first thing she said was
+                   <lb/></seg><choice><sic>tian</sic><corr>tain</corr></choice> Lowell</persName> when she took up one of the
+                <lb/>Papers and the first thing she saw was
       <!-- Devan Toncler's section ends here -->
       
       <!-- Keisha Trott's section starts here -->
-                <pb facs="G226_D6_A3_1852-059b"/>
+                <pb facs="G226_D6_A3_1852-068b"/>
                 <lb/>the Death of her Aunt her own Mother died
                 <lb/>when she was young and this Aunt had bro<seg type="softhyphen">
                    <lb/>-</seg>ught her up She took it to heart very much
@@ -7111,12 +7110,12 @@
              <lb/><dateline><date when="1853-07-05"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> July 5th</date></dateline>
              <p>
                 <lb/> This morning father has
-                <lb/>gone on board of the <name type="ship"> <choice><sic>Bark Lurens</sic><corr>Bark Laurens</corr></choice></name> after <persName>Mrs
-                   <lb/>Logan</persName>to come and spend the day with us
+                <lb/>gone on board of the <name type="ship"> Bark <choice><sic>Lurens</sic><corr>Laurens</corr></choice></name> after <persName>Mrs
+                   <lb/>Logan</persName> to come and spend the day with us
                 <lb/>last evening the <name type="ship">California Packet</name> came out
-                <lb/>from under the Shoot after Dinner I went on
-                <lb/>board of the <name type="ship">Albori</name> and spent the<gap reason="cancelled" unit="words" extent="1"></gap> after<seg type="softhyphen">
-                   <lb/></seg>noon and when I returned in the evening
+                <lb/>from under the <choice><sic>Shoot</sic><corr>chute</corr></choice> after Dinner I went on
+                <lb/>board of the <name type="ship">Alboni</name> and spent the <del unit="words" extent="1" rend="overwritten">day</del> after<seg type="softhyphen">
+                   <lb/></seg>noon and when I returned in the <del rend="overwritten">after</del>evening
                 <lb/>I found <persName>Mrs Gardner</persName> had gone on board of
                 <lb/>her Ship as they was to sail the next morn<seg type="softhyphen">=
                    <lb/></seg>ing
@@ -7132,27 +7131,28 @@
                 <lb/>around to the other Island with them when
                 <lb/>they backed Main Yard to let us out. after
                 
-                <pb facs="G226_D6_A3_1852-060a"/>
+                <pb facs="G226_D6_A3_1852-069a"/>
                 
-                <lb/>dinner. <persName>Mrs Littlefield</persName> <persName>Mrs Logan</persName> and our
+                <lb/>Dinner. <persName>Mrs Littlefield</persName> <persName>Mrs Logan</persName> and our
                 <lb/>selves went around to the other Island to call
-                <lb/>on <persName>Mrs Bearse</persName> of the <name type="ship">Ship Berlin</name> who arrived
+                <lb/>on <persName>Mrs Bearse</persName> of the <name type="ship">Ship Beslin</name> who arrived
                 <lb/>last Saturday and was to stop for the other La<seg type="softhyphen">
                    <lb/></seg>dies, The Farnes Corner is to the Buoy <persName>Mrs 
                       <lb/>Comer</persName> informed us that <persName>Mrs Bearse</persName> had gone
-                <lb/>on board of the Ship <name type="ship">R M Lawrence</name> so we
+                <lb/>on board of the Ship <name type="ship"><unclear>A</unclear> M Lawrence</name> so we
                 <lb/>stop there a short time.
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530708a">
-             <lb/><dateline><date when="1853-07-08">Saturday July 8th</date></dateline>
+             <lb/><dateline><date when="1853-07-08">Saturday July 8th<ptr type="noteAnchor" target="july8"/><note resp="ed" xml:id="july8">At this point,
+                Doane's dates drift out of sync with the calendar until Saturday, July 16.</note></date></dateline>
              <p>
                 <lb/>This is a very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>
                 <lb/>day have been washing out a few things after
                 <lb/>Dinner commenced haulling to the Buoy. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
                    <lb/>Burgess</persName> came on board with a Boats crew and
                 <lb/><persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Hollis</persName> sent a Boats crew to <choice><sic>assistis</sic><corr>assist</corr></choice>
-                <lb/>us to haul to the <gap reason="cancelled" unit="Buoy" extent="1"></gap>.
+                <lb/>us to haul to the <gap reason="cancelled" unit="word" extent="1"></gap>Buoy.
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530709a">
@@ -7160,10 +7160,10 @@
              <p>
                 <lb/>Today we have been on board
                 <lb/>of the Ship <name type="ship">Berlin</name> and spent the day it is a 
-                <lb/>fine Ship <choice><sic>altho</sic><corr>although</corr></choice> not a Clipper<ptr type="noteAnchor" target="clip"/><note resp="ed" xml:id="clip">This was a new kind of merchant vessel that came about in the late 1840s. It was made to carry profitable cargo at much higher speeds than older ships. With this new kind of ship Doane's father(and other captains) could travel much faster(150 miles a day versus 250 miles a day) and therefore make more profit on their cargo.<bibl><ref target="TCSNVTFS">"The Clipper-Ship Nightingale vs. The Flying Scud"</ref></bibl></note>, <name type="ship">The James Comer</name>
-                <lb/>is under the Shoot <choice><sic>loding</sic><corr>loading</corr></choice> fast. after Dinner
+                <lb/>fine Ship <choice><sic>altho</sic><corr>although</corr></choice> not a Clipper,<ptr type="noteAnchor" target="clip"/><note resp="ed" xml:id="clip">This was a new kind of merchant vessel that came about in the late 1840s. It was made to carry profitable cargo at much higher speeds than older ships. With this new kind of ship Doane's father(and other captains) could travel much faster(150 miles a day versus 250 miles a day) and therefore make more profit on their cargo.<bibl><ref target="TCSNVTFS">"The Clipper-Ship Nightingale vs. The Flying Scud"</ref></bibl></note> <name type="ship">The James Comer</name>
+                <lb/>is under the <choice><sic>Shoot</sic><corr>chute</corr></choice> <choice><sic>loding</sic><corr>loading</corr></choice> fast. after Dinner
                 <lb/><persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice> Lowell</persName> and Wife and <choice><sic>Captian</sic><corr>Captain</corr></choice>
-          <pb facs="G226_D6_A3_1852-060b"/>
+                <pb facs="G226_D6_A3_1852-069b"/>
              <lb/>and Wife came on board and spent the after<seg type="softhyphen">
                 <lb/>-</seg>noon and evening
           </p>
@@ -7179,17 +7179,17 @@
                 <lb/><persName>Mrs Littlefield</persName> also and we went on Shore 
                 <lb/>to the <geogName ref="NIsland">North Island</geogName> landed at the Navy
                 <lb/>Yard walked up on the Hill where the Ship
-                <lb/><choice><sic>whis</sic><corr>was</corr></choice> under the Shoot and they offered us
-                <lb/>some <unclear cert="low" reason="handwriting">rails</unclear> and we <unclear cert="low" reason="handwriting">ran</unclear> down to rest a 
-                <lb/>few <choice> <sic>minuets</sic><corr>minutes</corr></choice> when <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Logan</persName> came 
-                <lb/>and called us said they were just hauled
-                <lb/>up the <unclear cert="low" reason="handwriting">ensign</unclear> on board of the <name type="ship">James Com<seg type="softhyphen">
-                   <lb/></seg>er</name> as she was Loaded we ran down and 
-                <lb/>all the <choice><sic>Ladyes</sic><corr>ladies</corr></choice> gave her 3 cheers. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
-                   <lb/>Comer</persName> looked up and <choice><sic>Wafed</sic><corr>Waved</corr></choice> his Hand<seg type="softhyphen">
+                <lb/><choice><sic>whis</sic><corr>was</corr></choice> under the <choice><sic>Shoot</sic><corr>chute</corr></choice> and they offered us
+                <lb/>some seats and we sat down to rest a 
+                <lb/>few <choice> <sic>Minuets</sic><corr>minutes</corr></choice> when <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Logan</persName> came 
+                <lb/>and called us said they were just <choice><sic>haulled</sic><corr>hauled</corr></choice>
+                <lb/>up the ensign on board of the <name type="ship">James Cor<seg type="softhyphen">
+                   <lb/></seg>ner</name> as she was Loaded we ran down and 
+                <lb/>all the <choice><sic>Ladyes</sic><corr>ladies</corr></choice> gave her 3 Cheers. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
+                   <lb/>Corner</persName> looked up and <choice><sic>Wafed</sic><corr>Waved</corr></choice> his Hand<seg type="softhyphen">-
                       <lb/></seg>Kerchief. We went unto the dry Good Store<ptr type="noteAnchor" target="DGS"/><note resp="ed" xml:id="dgs">Stores available at ship ports. These stores provided goods that were most likely very appealling to women, like Louisa Doane, who have been on board a ship with mostly male company. These stores sold china, silk, patterns for clothing, and many other items that would be appealling to females far from home.<bibl><ref target="TSB">"The Sewing Bird"</ref></bibl></note>
-                <lb/>where there were a few Booth Shows and it
-                <lb/>Gave us some very nice <unclear cert="low" reason="handwriting">Wine</unclear>
+                <lb/>where there were a few Boots Shoes and etc.
+                <lb/>they Gave us some very nice Wine
       <!-- Keisha Trott's section ends here -->
                 
       <!-- PAGES 070a THROUGH 071a TRANSCRIBED -->
@@ -7207,66 +7207,66 @@
                 <lb/>pushing the <choice><sic>Captians</sic><corr>Captains</corr></choice> along to Escort us
                 <lb/>when <rs ref="#ATD">Mother</rs> <choice><sic>stepes</sic><corr>steps</corr></choice> up and takes his Arm
                 <lb/>and he looks around and told one of 
-                <lb/>men to go and get his and they <unclear cert="low" reason="handwriting">S</unclear> to
+                <lb/>men to go and get his and they <unclear/> to
                 <lb/>him that was laugh for all hands
                 <lb/>when we got down to the Beach there 
                 <lb/>was quite a <choice><sic>heavey</sic><corr>heavy</corr></choice> Surf on the <choice><sic>Captians</sic><corr>Captains</corr></choice>
-                <lb/>took us up in their arm and put us 
+                <lb/>took us up in <choice><sic>theirs</sic><corr>their</corr></choice> arm and put us 
                 <lb/>in the Boats wet our Dresses some that
                 <lb/>was all Old <persName>Serater</persName> watched us out of
                 <lb/>sight in the evening <choice><sic>Captian</sic><corr>Captain</corr></choice> Sears <choice><sic>Captian</sic><corr>Captain</corr></choice>
                 <lb/>Puttman and <choice><sic>Captian</sic><corr>Captain</corr></choice> Littlefield came 
-                <lb/>and spent the evening about 8 o'clock
+                <lb/>and spent the evening about 8 oclock
                 <pb facs="G226_D6_A3_1852-070b"/>
                 <lb/>the <name type="ship">Soulter Johnny</name> was <choice><sic>Loded</sic><corr>Loaded</corr></choice> we went 
                 <lb/>and gave her 3 cheers twice. <persName>Mrs. Corner</persName> 
-                <lb/>and <persName>Mrs. Lowell</persName> stop all night with us
+                <lb/>and <persName>Mrs. Lowell</persName> stop all night <supplied>with</supplied> us
              </p>
           </div>
              <div type="Entry" xml:id="Doane18530711a">
                 <dateline><date when="1853-07-11">Friday July 11th</date></dateline>
                 <p>
                    <lb/>This morning bright and
-                   <lb/>early we commenced <choice><sic>haulling</sic><corr>hauling</corr></choice> under the Shoot
+                   <lb/>early we commenced <choice><sic>haulling</sic><corr>hauling</corr></choice> under the <choice><sic>Shoot</sic><corr>chute</corr></choice>
                    <lb/>and <choice><sic>Captian</sic><corr>Captain</corr></choice> Coffin <choice><sic>haulling</sic><corr>hauling</corr></choice> to the Buoy
                    <lb/>after Breakfast He came on board and took
                    <lb/>us on board of the <name type="ship">Whirlwind</name> where we are
                    <lb/>to Dine all the Ladies were there Dine on
-                   <lb/>fresh Pork which was very nice. at 4 o'clock
+                   <lb/>fresh Pork which was very nice. at 4 oclock
                    <lb/>we went around to the Middle Island to
                    <lb/>called on <persName>Mrs Bearse</persName> as she was not there
                    <lb/>and from there along side of the <name type="ship">James 
-                   <lb/>Conner</name>. and left <persName>Mrs Conner</persName> <persName>Mrs Lowell</persName>
+                   <lb/>Corner</name>. and left <persName>Mrs Corner</persName> <persName>Mrs Lowell</persName>
                    <lb/>and <rs ref="#ATD"><choice><sic>Mothey</sic><corr>Mother</corr></choice></rs> they will stop on board untill
                    <lb/>she <choice><sic>sailes</sic><corr>sails</corr></choice> and I returned on board of
-                   <lb/>the <name type="ship">Alboui</name> as I am to stopped there while
-                   <lb/>We am under the Shoot
+                   <lb/>the <name type="ship">Alboni</name> as I am to stopped there while
+                   <lb/>We am under the <choice><sic>Shoot</sic><corr>chute</corr></choice>
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530712a">
-                <dateline><date when="1853-07-12">Wednesday July 12th</date></dateline>
+                <lb/><dateline><date when="1853-07-12">Wednesday July 12th</date></dateline>
                 <p>
                    <lb/>This morning after
                    <pb facs="G226_D6_A3_1852-071a"/>
                    <lb/>Breakfast <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Puttman</persName> came along
                    <lb/>side with <persName>Mrs Logan</persName> to take us on board
-                   <lb/>of the <name type="ship">James Conner</name> to see them offt We
+                   <lb/>of the <name type="ship">James Corner</name> to see them <choice><sic>offt</sic><corr>off</corr></choice> We
                    <lb/>stopped on board untill she was ready to
                    <lb/>let go of the Buoy. <persName>Mrs Lowell</persName> and <rs ref="#ATD">Mother</rs>
                    <lb/>returned on board of the <name type="ship">Berlin</name> with <persName>Mrs 
                    <lb/>Bearse</persName>, <persName>Mrs Logan</persName> spent the day on board
-                   <lb/>of the <name type="ship">Alboui</name>, <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Littlefield</persName> has a
+                   <lb/>of the <name type="ship">Alboni</name>, <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Littlefield</persName> has a
                    <lb/>very nice sail Boat and after Dinner we
                    <lb/>went sailing
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530716a">
-                <dateline><date when="1853-07-16">Saturday July 16th</date></dateline>
+                <lb/><dateline><date when="1853-07-16">Saturday July 16th</date></dateline>
                 <p>
                    <lb/>This morning I returned
                    <lb/><choice><sic>of</sic><corr>on</corr></choice> board of our Ship again <persName>Mrs. Little<seg type="softhyphen">-
                    <lb/></seg>field</persName> went on board with me to see us off
-                   <lb/>as we sail as soon as <rs ref="#END">Father</rs> get his
+                   <lb/>as we sail as soon as <rs ref="#END">Father</rs> <choice><sic>get</sic><corr>gets</corr></choice> his
                    <lb/>Papers from the Island we let go of
                    <lb/>the Buoy at 12 o'clock there was a num<seg type="softhyphen">
                    <lb/></seg>ber of <choice><sic>Captians</sic><corr>Captains</corr></choice> on board <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Wash<seg>-
