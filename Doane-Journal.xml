@@ -7187,7 +7187,7 @@
                    <lb/></seg>ner</name> as she was Loaded we ran down and 
                 <lb/>all the <choice><sic>Ladyes</sic><corr>ladies</corr></choice> gave her 3 Cheers. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
                    <lb/>Corner</persName> looked up and <choice><sic>Wafed</sic><corr>Waved</corr></choice> his Hand<seg type="softhyphen">-
-                      <lb/></seg>Kerchief. We went unto the dry Good Store<ptr type="noteAnchor" target="DGS"/><note resp="ed" xml:id="dgs">Stores available at ship ports. These stores provided goods that were most likely very appealling to women, like Louisa Doane, who have been on board a ship with mostly male company. These stores sold china, silk, patterns for clothing, and many other items that would be appealling to females far from home.<bibl><ref target="TSB">"The Sewing Bird"</ref></bibl></note>
+                      <lb/></seg>Kerchief. We went unto the dry Good Store<ptr type="noteAnchor" target="DGS"/><note resp="ed" xml:id="DGS">Stores available at ship ports. These stores provided goods that were most likely very appealling to women, like Louisa Doane, who have been on board a ship with mostly male company. These stores sold china, silk, patterns for clothing, and many other items that would be appealling to females far from home.<bibl><ref target="TSB">"The Sewing Bird"</ref></bibl></note>
                 <lb/>where there were a few Boots Shoes and etc.
                 <lb/>they Gave us some very nice Wine
       <!-- Keisha Trott's section ends here -->
@@ -7320,7 +7320,7 @@
                    <lb/>private Dining by ourselves, We stopped
                    <lb/>at the best <rs>Hotel</rs> at <placeName ref="#CallaoAV"><choice><sic>Calloa</sic><corr>Callao</corr></choice></placeName> and have
                    <lb/>the best room Floor brick Cot Bedstead<ptr type="noteAnchor" target="CB"/>
-                   <note resp="CB" xml:id="CB"> A portable cot bedstead has been patented, designed to be used as a camp bedstead. It is of simple and cheap construction.<bibl><ref target="CB"></ref></bibl></note>
+                   <note resp="ed" xml:id="CB"> A portable cot bedstead has been patented, designed to be used as a camp bedstead. It is of simple and cheap construction.<bibl><ref target="CB"></ref></bibl></note>
                    <lb/>with a old Bed covered with a common
                    <lb/>bed Spread Wash Stand Cheap Look<seg type="softhyphen">-
                       <lb/></seg>ing Glass and a few Wooden Chairs
@@ -7679,14 +7679,13 @@
                    <lb/>very warm are in the Latitude of 4=50
                    <lb/>North and Longitude crossed the line
                    <lb/>last Saturday after Breakfast saw
-                   <pb facs="G226_D6_A3_1852-078b"/><!-- 78b -->
+              <pb facs="G226_D6_A3_1852-078b"/><!-- 78b -->
                    <lb/>a Bark standing the same <choice><abbr>altho</abbr><expan>although</expan></choice> steaming
                    <lb/>more to the Westland showed <choice><sic>Engign</sic><corr>ensign</corr></choice> an
-                   <lb/>American
+                   <lb/>American <ptr type="noteAnchor" target="blankpages"/><note resp="ed" xml:id="blankpages">This page is followed by fourteen blank pages, including the final endpaper.</note>
                 </p>
              </div>
              
-             <!-- Page 78a-78b yet to be transcribed -->
        </div>
        <!-- Chincha Harbor journal ends here -->
     </div>
