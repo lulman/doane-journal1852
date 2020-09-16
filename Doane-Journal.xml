@@ -6873,11 +6873,11 @@
                    <lb/></seg>dle Island</geogName> as <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Gardner</persName> is coming 
                 <choice><sic>across<seg
                    type="softhyphen"><lb/>d</seg></sic><corr>across<lb/></corr></choice> to this
-                <geogName>Island</geogName> we sot our Ensign <ptr type="noteAnchor" target="EnsignES"/>
+                <geogName>Island</geogName> we <choice><sic>sot</sic><corr>set</corr></choice> our Ensign <ptr type="noteAnchor" target="EnsignES"/>
                 <note resp="ed" xml:id="EnsignES">On 18th century ships, the flag of a ship was sometimes lowered as a salute or sign of respect to other ships.<bibl><ref target="DK">"Kemp 534"</ref></bibl></note>to welcome
                 <lb/>them around she came at an Anchor about 12
-                <lb/><choice><sic>oclock</sic><corr>o'clock</corr></choice> <rs ref="#END">Father</rs> was Pilot she was towed as
-                <lb/>there was no wind.
+                <lb/>oclock <rs ref="#END">Father</rs> was Pilot she was towed as
+                <lb/>there were no wind.
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530618a">
@@ -6891,15 +6891,15 @@
                 <lb/>been making her some cushions and washing
                 <lb/>out a few things. The <rs><choice><sic>Commadant</sic><corr>Commandant</corr></choice></rs>and <persName>Mr
                 <lb/>Mira</persName> have been on board bought <rs ref="#ATD">mother</rs> rock<seg type="softhypen">-
-                <lb/></seg>ing chair, after they went <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Conner</persName> and
+                <lb/></seg>ing chair, after they went <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Corner</persName> and
                 <lb/><rs>Wife</rs> <persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice>Lowell</persName> and <rs>Wife</rs> came on board
                 <lb/>and pretty soon who should we see coming
                 <lb/>but <persName>Mrs Gardner</persName> so they were all here
           <pb facs="G226_D6_A3_1852-065a"/>
-             <lb/>did not stop but a short time. The Clipper
-             <lb/>Ship <name type="ship"><unclear cert="medium" reason="some of the letters are unclear">Alboir</unclear></name> has arrived <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Littlefield</persName> he
-             <lb/>has his <rs>wife</rs> with him they close to the <name type="ship">California
-                <lb/>Packet</name>
+             <lb/>did not stop but a short time The Clipper
+             <lb/>Ship <name type="ship">Alboni</name> has arrived <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Littlefield</persName> he
+             <lb/>has his <rs>Wife</rs> with him they close to the <name type="ship">California
+                <lb/>Packet</name>.
           </p>
           </div>
           <div type="Entry" xml:id="Doane18530619a">
@@ -6911,13 +6911,13 @@
                 <lb/>hard on our coming on board in the afternoon
                 <lb/>we could not refuse we went he welcome us
                 <lb/>on board of his <rs ref="#Whirlwind">Ship</rs> and of all the hand<seg type="softhypen">-<lb/></seg>some Cabin his beat all I have ever seen had
-                <lb/>two cabins foreward and after Forward one was
-                <lb/>White and Gill - The after one Black Walnut
+                <lb/>two Cabins foreward and after Forward one was
+                <lb/>White and Gilt - The after one Black Walnut
                 <lb/><choice><sic>Mahogny</sic><corr>Mahogany</corr></choice>Satin Wood The Furniture was a Sofa
-                <lb/>a <choice><sic>ottaman</sic><corr>ottoman</corr></choice> a <choice><sic>Easey</sic><corr>Easy</corr></choice>Chair and <choice><sic>Gentlmans</sic><corr>Gentleman's</corr></choice>chair <ptr type="noteAnchor" target="GC"/>
+                <lb/>a <choice><sic>Ottaman</sic><corr>ottoman</corr></choice> a <choice><sic>Easey</sic><corr>Easy</corr></choice>Chair and <choice><sic>Gentlmans</sic><corr>Gentleman's</corr></choice>chair <ptr type="noteAnchor" target="GC"/>
                 <note resp="ed" xml:id="GC">Similar to a modern day recliner, a gentleman's chair would have been a chair that extended to the comfort of the sitter. A desk is able to be attached to the arm.<bibl><ref target="JW">"Whiting 48"</ref></bibl></note>
-                <lb/> and a marble <unclear cert="medium" reason="some of the letters are unclear">top</unclear> Center Table cover with Velvet
-                <lb/>Plush stay untill 9 <choice><sic>oclock</sic><corr>o'clock</corr></choice>in the evening after
+                <lb/> and a marble top Center Table cover with Velvet
+                <lb/>Plush stop untill 9 <choice><sic>oclock</sic><corr>o'clock</corr></choice>in the evening after
                 <lb/>tea <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Dunbar</persName> and <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Sears</persName> came
                 <lb/>and spent the evening
              </p>
@@ -6929,28 +6929,29 @@
              <div type="Entry" xml:id="Doane18530620a">
                 <lb/><dateline><date when="1853-06-20">Monday June 20th</date></dateline>
                 <p>
-                   <lb/>This morning the Ship <name type="ship">Alboui</name>
-                   <lb/>has <choice><sic>halled</sic><corr>hauled</corr></choice> <choice><sic>ni</sic><corr>in</corr></choice> nearer the <unclear cert="medium" reason="could mean shole or sole"><choice><sic>Sool</sic><corr>Shole</corr></choice></unclear> <persName ref="Burgess"><choice><sic>Captian</sic><corr>Captain</corr></choice> Burgess</persName>
+                   <lb/>This morning the Ship <name type="ship">Alboni</name>
+                   <lb/>has <choice><sic>halled</sic><corr>hauled</corr></choice> in nearer the <choice><sic>S<supplied>h</supplied>oot</sic><corr>chute</corr></choice> <persName ref="Burgess"><choice><sic>Captian</sic><corr>Captain</corr></choice> Burgess</persName>
                    <lb/>has been on board and dined with us after
                    <lb/>Dinner <rs ref="#Burgess"><choice><sic>Captian</sic><corr>Captain</corr></choice></rs> and <persName ref="#Gardner">Mrs. Gardner</persName> came on 
                    <lb/>board for us to go and called on <persName>Mrs. <seg type="softhyphen">Little
                    <lb/></seg>field</persName> we got ready and went and found the
-                   <lb/>other two Ladies there had very nice accomada<seg type="softhyphen">-
-                   <lb/></seg>tion passed around some fruit from there we
-                   <lb/>we went on board the Packet and spent the evening
+                   <lb/>other two Ladies there had very nice <choice><sic>accomada<seg type="softhyphen">-
+                   <lb/></seg>tion</sic><corr>accomodation</corr></choice> passed around some fruit from there we
+                   <lb/><choice><sic>we</sic><corr></corr></choice> went on board the Packet and spent the
+                   <lb/>evening
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530623a">
-                <lb/><dateline><date when="1853-06-23">Saturday June 23<add place="above">the</add></date></dateline>
+                <lb/><dateline><date when="1853-06-23">Saturday June 25the</date></dateline>
                 <p>
                    <lb/>Today the Market man
                    <lb/>has brought us a Goat and little Kid
                    <lb/>The Kid is as black as jet so I have a
-                   <lb/>Pet, The Corker we have on board <choice><sic>heer</sic><corr>here</corr></choice> is 
-                   <lb/>Corking the Ship, Hea <choice><sic>seenig</sic><corr>seeing</corr></choice> me pet it very
-                   <lb/>much told me I must a Handsomer
+                   <lb/>Pet, The Corker we have on board that is 
+                   <lb/>Corking the Ship, He <choice><sic>seenig</sic><corr>seeing</corr></choice> me pet it very
+                   <lb/>much told me I must have a Handsomer
                    <lb/>Pet and He would make me a present
-                   <lb/>of a little White lap Dog if I would <choice><sic>accep</sic><corr>accept</corr></choice>
+                   <lb/>of a little White lap Dog if I would accept
                    <lb/>of it, He finish Corking tonight and 
                    <lb/>tomorrow goes to Pisco
                 </p>
