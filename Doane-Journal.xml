@@ -7270,31 +7270,31 @@
                    <lb/>Papers from the Island we let go of
                    <lb/>the Buoy at 12 o'clock there was a num<seg type="softhyphen">
                    <lb/></seg>ber of <choice><sic>Captians</sic><corr>Captains</corr></choice> on board <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Wash<seg>-
-                   <lb/></seg>boon</persName> <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Logan</persName> <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Sears</persName> <persName><choice><sic>Captain</sic><corr>Captain</corr></choice>
+                   <lb/></seg>born</persName> <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Logan</persName> <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Sears</persName> <persName><choice><sic>Captain</sic><corr>Captain</corr></choice>
                    <lb/>Puttman</persName> <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Littlefield</persName> <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Frost</persName> 
                    <lb/>and when we got around to the other
                    <lb/>Island <persName><choice><sic>Captain</sic><corr>Captain</corr></choice> Hooper</persName> came up along
                  
       <!-- Alexandria Veeley's section starts here -->
              <pb facs="G226_D6_A3_1852-071b"/>
-                   <lb/>side of in his sail Boats with a number of
-                   <lb/>other <persName ref="#Lowell"><choice><sic>Captians</sic><corr>Captains</corr></choice> Lowell</persName> and when the<choice><sic>Captians</sic><corr>Captains</corr></choice>
+                   <lb/>side of in his sail Boat with a number
+                   <lb/>of other <choice><sic>Captians</sic><corr>Captains</corr></choice> and when the <choice><sic>Captians</sic><corr>Captains</corr></choice>
                    <lb/>left us they all got into his Boat and whe<seg type="softhyphen">
                       <lb/></seg>n they got off some ways they gave us 3
-                   <lb/>Cheers and we answered them <choice><sic>Captians</sic><corr>Captains</corr></choice> <unclear>Mas</unclear>
-                   <lb/>laughing is going down to <placeName ref="#CallaoAV">Callao</placeName> with us
+                   <lb/>Cheers and we answered them <choice><sic>Captians</sic><corr>Captain</corr></choice> Was
+                   <lb/>laughing is going down to <placeName ref="#CallaoAV"><choice><sic>Calloa</sic><corr>Callao</corr></choice></placeName> with us
                    <lb/>He goes direct from the <rs ref="#CallaoAV">Island</rs> with his
-                   <lb/>Ship, There is a fine Breeze and fair
+                   <lb/>Ship, There is a fine Breeze and Fair
                 </p></div>
              <div type="Entry" xml:id="Doane18530718a">
                 <lb/><dateline><date when="1853-07-18">Monday 18th</date></dateline>
                 <p>   
                    <lb/>This is a Wet foggy morn<seg type="softhyphen">-
                       <lb/></seg>ing and not much Wind can see <placeName ref="#CallaoAV">Callao</placeName>
-                   <lb/>and Shipping Plain. The <name type="ship">James Comer</name> and
+                   <lb/>and Shipping Plain. The <name type="ship">James Corner</name> and
                    <lb/>the <name type="ship">Monteria</name> are there <time>6 oclock</time> came at an
-                   <lb/>anchor before our Sails were furled <choice><sic>Captian</sic><corr>Captain</corr></choice>
-                   <lb/><name>type="ship">Comer</name> and <rs>Wife</rs> came on board and spen<seg type="softhyphen">
+                   <lb/>anchor before our Sails were furled <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
+                   <lb/>Corner</persName> and <rs>Wife</rs> came on board and spen<seg type="softhyphen">
                       <lb/></seg>t the evening with us after tea <persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice>
                          <lb/>Lowell</persName> and <rs>Wife</rs> came and spent the evening
                 </p>
@@ -7303,10 +7303,10 @@
                 <lb/><dateline><date when="1853-07-19"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> 19</date></dateline>
                 <p>
                    <lb/>This morning Breakfast The
-                   <lb/><rs>Sailors</rs> that we shipped at <placeName ref="#CallaoAV">Callao</placeName>was
+                   <lb/><rs>Sailors</rs> that we shipped at <placeName ref="#CallaoAV"><choice><sic>Calloa</sic><corr>Callao</corr></choice></placeName> was
                    <lb/>discharged at <time>9 oclock</time> We all meet
                    <pb facs="G226_D6_A3_1852-072a"/>
-                   <lb/>on board of the <name type="ship">James Comer</name> and all
+                   <lb/>on board of the <name type="ship">James Corner</name> and all
                    <lb/>started from there on Shore stopped at the
                    <lb/><placeName>Golden Ball Hotel</placeName> at <placeName ref="#CallaoAV">Callao</placeName> <choice><sic>untill</sic><corr>until</corr></choice>the
                    <lb/>Cars went which was at <time>10 oclock</time> then
@@ -7315,11 +7315,11 @@
                    <lb/>went out about the City Things are
                    <lb/>very high here I did not see much
                    <lb/>about <placeName ref="#Lima">Lima</placeName> worth seeing returned back
-                   <lb/>to <placeName ref="#CallaoAV">Callao</placeName> in the <time>two oclock</time> train went
+                   <lb/>to <placeName ref="#CallaoAV"><choice><sic>Callo</sic><corr>Callao</corr></choice></placeName> in the <time>two oclock</time> train went
                    <lb/>to the <rs>Hotel</rs> and dined, We have a
                    <lb/>private Dining by ourselves, We stopped
-                   <lb/>at the best <rs>Hotel</rs> at <placeName ref="#CallaoAV">Callao</placeName> and have
-                   <lb/>the best room Flon brick Cot Bedstead<ptr type="noteAnchor" target="CB"/>
+                   <lb/>at the best <rs>Hotel</rs> at <placeName ref="#CallaoAV"><choice><sic>Calloa</sic><corr>Callao</corr></choice></placeName> and have
+                   <lb/>the best room Floor brick Cot Bedstead<ptr type="noteAnchor" target="CB"/>
                    <note resp="CB" xml:id="CB"> A portable cot bedstead has been patented, designed to be used as a camp bedstead. It is of simple and cheap construction.<bibl><ref target="CB"></ref></bibl></note>
                    <lb/>with a old Bed covered with a common
                    <lb/>bed Spread Wash Stand Cheap Look<seg type="softhyphen">-
@@ -7329,11 +7329,11 @@
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530722a">
-                <lb/><dateline><date when="1853-07-22">Friday 22</date></dateline>
+                <lb/><dateline><date when="1853-07-22">Friday 22<choice><sic>th</sic><corr>nd</corr></choice></date></dateline>
                 <p>
                    <lb/>This is a pleasant day
                    <lb/>have been on Shore done some <choice><sic>shoping</sic><corr>shopping</corr></choice>
-                   <lb/>The <name type="ship">James Comer</name> <choice><sic>sailes</sic><corr>sails</corr></choice> tonight for
+                   <lb/>The <name type="ship">James Corner</name> <choice><sic>sailes</sic><corr>sails</corr></choice> tonight for
                    <pb facs="G226_D6_A3_1852-072b"/>  
                    <lb/><placeName ref="#Baltimore">Baltimore</placeName> We shall all meet at <placeName ref="#Baltimore">Baltimore</placeName>         
                    <lb/>The <name type="ship">California Packet</name> The <name type="ship">Monteria</name> and
@@ -7341,20 +7341,20 @@
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530723a">
-                <lb/><dateline><date when="1853-07-23">Saturday 23</date></dateline>
+                <lb/><dateline><date when="1853-07-23">Saturday July 23</date></dateline>
                 <p>
-                   <lb/>This morning our<unclear>hesos</unclear><seg>
-                      <lb/></seg>ad came to <rs ref="#END">Father</rs> and wanted to go on
-                   <lb/>Shore We have thought that he intended
+                   <lb/>This morning ourStewa<seg>
+                      <lb/></seg>rd came to <rs ref="#END">Father</rs> and wanted to go on
+                   <lb/>Shore we have thought that he intended
                    <lb/>to run away but He promised that   
                    <lb/>he would be down to the Mould at
-                   <lb/><time>9 oclock</time> <rs ref="#END">Father</rs> let him go. <rs ref="#END">Father</rs>
+                   <lb/><time>9 oclock</time>, So <rs ref="#END">Father</rs> let him go. <rs ref="#END">Father</rs>
                    <lb/>has shipped a <rs>First mate</rs> and we take
                    <lb/><persName>Mr Brown</persName> our <rs>Carpenter</rs> for <rs>Second Mate</rs>  
                    <lb/>He has gone on Shore on <choice><sic>liberaty</sic><corr>liberty</corr></choice> after
                    <lb/>Dinner <persName>Mrs Lowell</persName> came on board
                    <lb/>and spent the afternoon but did not
-                   <lb/>stop to Tea as <persName ref="#Lowell"><choice><sic>Captians</sic><corr>Captains</corr></choice> Lowell</persName> came
+                   <lb/>stop to Tea as <persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice> Lowell</persName> came
                    <lb/>along side but could not stop as he
                    <lb/>had some writing to do so they went on
                    <lb/>board just as they shoved off from the
@@ -7372,29 +7372,29 @@
                    <lb/>to stop but they took no notice of him
                    <lb/>He came on board went night to <rs ref="#ATD">Mother</rs>
                    <lb/>took hold of her hand and says <said aloud="true" direct="true">Oh
-                   <lb/><unclear cert="medium" reason="dialect?">Mudder</unclear> I am so glad to see you</said> then
+                   <lb/>Mudder I am so glad to see you</said> then
                    <lb/>He came to me and I <choice><sic>run</sic><corr>ran</corr></choice> from him 
                    <lb/>he says <said aloud="true" direct="true">Louisa dont you run from me
-                   <lb/>I wont hurt you.</said> and there say he if
+                   <lb/>I wont hurt you.</said> and then say he if
                    <lb/>my <choice><sic>Captian</sic><corr>Captain</corr></choice> tells me to go to the Main
-                   <lb/>tuck I will go or whatever he tells me
-                   <lb/>to do I will do it if it cost me
-                   <lb/>my life then he went out on deck went up
+                   <lb/>truck I will go or whatever he tells me
+                   <lb/>to do I will do it if it cost me my
+                   <lb/>life then he went out on deck went up
                    <lb/>to the Mate and says <said aloud="true" direct="true"><persName>Mr Bailey</persName> you 
-                   <lb/>need not trouble yourselfe about <choice><sic>seenig</sic><corr>seeing</corr></choice></said> 
+                   <lb/>need not trouble yourselfe about >seeing 
                    <lb/>the things got out of the Boat I will at<seg type="softhyphen">
-                   <lb/></seg>tend to that and he drove him off. He
+                   <lb/></seg>tend to that</said> and he drove him off. He
                    <lb/>told <said aloud="true" direct="false"><persName>Barney</persName> if he lost his Files overboar<seg type="softhyphen">-
                    <lb/></seg>d he would drown him after the things
                    <lb/>were all out <choice><sic>off</sic><corr>of</corr></choice> the Boat</said> he came to
                    <lb/>the door and says <said aloud="true" direct="true">now Mudder I am
                    <pb facs="G226_D6_A3_1852-073b"/><!-- 73b -->
-                   <lb/>going to bed and I will be all right
-                   <lb/>in the morning.</said>
+                   <lb/>going to Bed and I will be all right in
+                   <lb/>the morning.</said>
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530726a">
-                <dateline><date when="1853-07-26"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> July 26th</date></dateline>
+                <lb/><dateline><date when="1853-07-26"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> July 26th</date></dateline>
                 <p>
                    <lb/>This morning are getting
                    <lb/>ready for Sea our Crew are all on board 
@@ -7404,7 +7404,7 @@
                    <lb/>board <choice><sic>Durnk</sic><corr>Drunk</corr></choice> made out to get to the 
                    <lb/>Galley He told the Cook to ask <rs ref="#ATD">Mother</rs> 
                    <lb/>if she would excuse him <persName>Mrs. Lowell</persName> 
-                   <lb/>is on board when we began to heave <choice><sic>of</sic><corr>off</corr></choice>
+                   <lb/>is on board when we began to heave up
                    <lb/>the anchor their Mate came after her 
                    <lb/>and took her on board of their Ship 
                    <lb/>our anchor is up our Sails are set and
@@ -7414,19 +7414,19 @@
                 </p>
              </div>
              <div type="Entry" xml:id="Doane1853086a">
-                <dateline><date when="1853-08-06">Saturday <choice><abbr>Augt</abbr><expan>August</expan></choice> 6th</date></dateline>
+                <lb/><dateline><date when="1853-08-06">Saturday <choice><abbr>Augt</abbr><expan>August</expan></choice> 6th</date></dateline>
                 <p>
                    <lb/>We have a head Wind
-                   <lb/>breating <choice><sic>Sence</sic><corr>Since</corr></choice> we left <placeName ref="#CallaoBP">Callao</placeName> we have had
+                   <lb/>beating <choice><sic>Sence</sic><corr>Since</corr></choice> we left <placeName ref="#CallaoBP">Callao</placeName> we have had
                    <pb facs="G226_D6_A3_1852-074a"/> <!-- 74a -->
                    <lb/>but very little Fair Wind therefore have
                    <lb/>made but very little progress This morn<seg type="softhyphen">
                    <lb/></seg>ing saw a Ship bound the same way
-                   <lb/>standing on the other tuck where we came
+                   <lb/>standing on the other tack when we came
                    <lb/>up with found it was the <name type="Ship"><unclear cert="medium" reason="Possibly Colehus">Colchus</unclear></name>
                    <lb/><persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Higgins</persName> left <placeName ref="#CallaoBP"><choice><sic>Callo</sic><corr>Callao</corr></choice></placeName> the same day
                    <lb/>we did when we got abreast of her we
-                   <lb/><choice><orig><distinct type="archaicorthography" time="15">tak</distinct></orig><reg source="OED">tack</reg></choice> and now then for a Beat think we
+                   <lb/>tack and now then for a Beat think we
                    <lb/>have a <choice><sic>vey</sic><corr>very</corr></choice> good Crew they appear to
                    <lb/>be active and ready for a call and
                    <lb/>a good Steward still in company with
@@ -7434,28 +7434,28 @@
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530808a">
-                <dateline><date when="1853-08-08">Monday <choice><abbr>Augt</abbr><expan>August</expan></choice> 8</date></dateline>
+                <lb/><dateline><date when="1853-08-08">Monday <choice><abbr>Augt</abbr><expan>August</expan></choice> 8</date></dateline>
                 <p>
                    <lb/>We have a fair Wind
-                   <lb/><choice><abbr>althou</abbr><expan>although</expan></choice> very little Studding sot <name type="ship">The <unclear cert="medium" reason="Possibly Colehus">Colchus</unclear></name>
+                   <lb/><choice><abbr>althou</abbr><expan>although</expan></choice> very little Studding <choice><sic>sot</sic><corr>set</corr></choice> <name type="ship">The <unclear cert="medium" reason="Possibly Colehus">Colchus</unclear></name>
                    <lb/>is in sight astern have caught a num<seg type="softhyphen">-
-                   <lb/></seg>ber of Cape <choice><orig><distinct type="archaicorthography" time="16">Pigions</distinct></orig><reg source="OED">Pigeons</reg></choice> my Dog is very
+                   <lb/></seg>ber of Cape <distinct type="archaicorthography" time="16"><choice><orig>Pigions</orig><reg source="OED">Pigeons</reg></choice></distinct> my Dog is very
                    <lb/>fond of them The Sailors are all busy
                    <lb/>attending to Ship Duty. The Ship is Just
                    <lb/>in sight astern
                 </p>
              </div>
+             <pb facs="G226_D6_A3_1852-074b"/> <!-- 74b -->
              <div type="Entry" xml:id="Doane18530811a">
-                <dateline><date when="1853-08-11">Thursday <choice><abbr>Augt</abbr><expan>August</expan></choice> 11th</date></dateline>
+                <lb/><dateline><date when="1853-08-11">Thursday <choice><abbr>Augt</abbr><expan>August</expan></choice> 11th</date></dateline>
                 <p>
-                   <pb facs="G226_D6_A3_1852-074b"/> <!-- 74b -->
                    <lb/>Wind ahead and
                    <lb/>blowing fresh at 6 oclock took in the
                    <lb/>light Sails at 2 oclock in the night it
                    <lb/>blowed <choice><sic>vey</sic><corr>very</corr></choice> hard and reefed down the
-                   <lb/>Main and Mizen Topsails which was
-                   <lb/>the only sail we had sot <rs ref="#ATD">Mother</rs> and
-                   <lb/>myself got up and went to <unclear cert="medium">dovn</unclear> to look
+                   <lb/>Main and <choice><sic>Mizen</sic><corr>mizzen</corr></choice> Topsails which was
+                   <lb/>the only sail we had <choice><sic>sot</sic><corr>set</corr></choice> <rs ref="#ATD">Mother</rs> and
+                   <lb/><distinct type="archaicorthography" time="17"><choice><orig>myselfe</orig><reg>myself</reg></choice></distinct> got up and went to door to look
                    <lb/>out and first thing we saw was the
                    <lb/>Stweard coming in buttoning up Jack<seg type="softhyphen">-</seg>
                    <lb/>et and his Cap tied under his chin
@@ -7467,19 +7467,20 @@
                    <lb/>Cabin and look out for the things
                    <lb/>He said he was alway used to help
                    <lb/>reef Topsails but he would stop in
-                   <lb/>the Cabin did not sleep much as it blow very hard and she <choice><sic>rooled</sic><corr>rolled</corr></choice> very
+                   <lb/>the Cabin did not sleep much as 
+                   <lb/>it blow very hard and she <choice><sic>rooled</sic><corr>rolled</corr></choice> very
                    <lb/><choice><sic>heavey</sic><corr>heavy</corr></choice> The Steward did not leave the
                    <lb/>Cabin for the night
                 </p>
              </div>
+            <pb facs="G226_D6_A3_1852-075a"/> <!-- 75a -->
              <div type="Entry" xml:id="Doane18530813a">
-                <dateline><date when="1853-08-13">Saturday <choice><abbr>Augt</abbr><expan>August</expan></choice> 13</date></dateline>
+                <lb/><dateline><date when="1853-08-13">Saturday <choice><abbr>Augt</abbr><expan>August</expan></choice> 13</date></dateline>
                 <p>
-                   <pb facs="G226_D6_A3_1852-075a"/> <!-- 75a -->
                    <lb/>The Wind still con<seg type="softhyphen">
                    <lb/></seg>tinues head and blowing fresh this
                    <lb/>morning at 8 oclock tacked Ship <rs ref="#ATD">mother</rs>
-                   <lb/>layed on the <unclear reason="archaic term?">Foul</unclear> in the lower Cabin
+                   <lb/>layed on the <unclear>Furl</unclear> in the lower Cabin
                    <lb/>as the Guano <choice><sic>smeelt</sic><corr>smelt</corr></choice> very strong in
                    <lb/>the State Room when the Ship fetch
                    <lb/>a <choice><sic>heavey</sic><corr>heavy</corr></choice> <choice><sic>learch</sic><corr>lurch</corr></choice> and way came a
@@ -7487,25 +7488,32 @@
                    <lb/>m broke several Bottles and the
                    <lb/>contents went all over the Bed <choice><sic>cloths</sic><corr>clothes</corr></choice>
                    <lb/>after supper there came a Gust
-                   <lb/>of Wind blew out three <choice><sic>Cloths</sic><corr>Clothes</corr></choice> out
+                   <lb/>of Wind blew out three Cloths out
                    <lb/>of the Gib it sounded just like
                    <lb/>a Gun going <choice><sic>offt</sic><corr>off</corr></choice>
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530828a">
-                <dateline><date when="1853-08-28">Sunday <choice><abbr>Augt</abbr><expan>August</expan></choice> 28th</date></dateline>
+                <lb/><dateline><date when="1853-08-28">Sunday <choice><abbr>Augt</abbr><expan>August</expan></choice> 28th</date></dateline>
                 <p>
                    <lb/>We have a fresh
                    <lb/>breeze Fair going 8 miles an hour
                    <lb/>Studding sot on both sides thick un<seg>
                       <lb/></seg><distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> weather and Squally Today
-                   <lb/>is <rs ref="#END">Father</rs> Birth day 44 years of age
+                   <lb/>is <rs ref="#END">Father</rs> Birth day 44 years of Age
                 </p>
              </div>
+             <pb facs="G226_D6_A3_1852-075b"/> <!-- 75b -->
              <div type="Entry" xml:id="Doane18530829a">
-                <dateline><date when="1853-08-29">Monday <choice><abbr>Augt</abbr><expan>August</expan></choice> 29th</date></dateline>
+                <lb/><dateline><date when="1853-08-29">Monday <choice><abbr>Augt</abbr><expan>August</expan></choice> 29th</date></dateline>
+               <p>
+                  <lb/>Winds still continues
+                  <lb/>us Fair have killed our large Hog
+               </p>
+             </div>
+             <div type="Entry" xml:id="Doane18530830a">
+                <lb/><dateline><date when="1853-08-30"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> Augt 30th</date></dateline>
                 <p>
-                   <pb facs="G226_D6_A3_1852-075b"/> <!-- 75b -->
                    <lb/>Wind Fair at 11
                    <lb/>oclock breezed up and blowed very hard
                    <lb/>took in all sail but the Fore and
@@ -7518,13 +7526,13 @@
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530907a">
-                <dateline><date when="1853-09-07">Wednesday <choice><abbr>Sept</abbr><expan>September</expan></choice> 7</date></dateline>
+                <lb/><dateline><date when="1853-09-07">Wednesday <choice><abbr>Sept</abbr><expan>September</expan></choice> 7</date></dateline>
                 <p>
                    <lb/>Today we have a Fair
-                   <lb/>Wind had it Fair for the last <choice><sic>fonnight</sic><corr>fornight</corr></choice>
+                   <lb/>Wind had it Fair for the last <choice><sic>forright</sic><corr>fortnight</corr></choice>
                    <lb/>has brought us around <placeName ref="#CHorn">Cape Horn</placeName> in
                    <lb/>a hurry after Dinner it commenced blowing
-                   <lb/>took in all sail but the Fore Main Mizen
+                   <lb/>took in all sail but the Fore Main <choice><sic>Mizen</sic><corr>mizzen</corr></choice>
                    <lb/>topsails those were double reefed the Wind
                    <lb/>increasing all the time at dusk it was
                    <pb facs="G226_D6_A3_1852-076a"/> <!-- 76a -->
@@ -7538,7 +7546,7 @@
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530908a">
-                <dateline><date when="1853-09-08">Thursday <choice><abbr>Sept</abbr><expan>September</expan></choice> 8th</date></dateline>
+                <lb/><dateline><date when="1853-09-08">Thursday <choice><abbr>Sept</abbr><expan>September</expan></choice> 8th</date></dateline>
                 <p>
                    <lb/>This morning at 6 oclock
                    <lb/>commenced making Sail The Wind subsid<seg type="softhyphen">-
@@ -7548,26 +7556,26 @@
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530911a">
-                <dateline><date when="1853-09-11">Sunday <choice><abbr>Sept</abbr><expan>September</expan></choice> 11th</date></dateline>
+                <lb/><dateline><date when="1853-09-11">Sunday <choice><abbr>Sept</abbr><expan>September</expan></choice> 11th</date></dateline>
                 <p>
                    <lb/>This is a <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day
                    <lb/><choice><abbr>altho</abbr><expan>although</expan></choice> we have a head Wind This morn<seg type="softhyphen">
                    <lb/></seg>ing when I arose there was a Brigg in
-                   <lb/>sight ahead bound the other way The keep
-                   <lb/>off and come close to us showed Signals
-                   <lb/>English after Breakfast <unclear cert="low">charre</unclear> a Vessel
-                   <lb/><unclear cert="medium">Stern</unclear> standing the same way we are
+                   <lb/>sight ahead bound the other way She keep
+                   <lb/>off and came close to us showed Signals
+                   <lb/>English after Breakfast have a Vessel
+                   <lb/><unclear cert="medium">Steam</unclear> standing the same way we are
                    <pb facs="G226_D6_A3_1852-076b"/><!-- 76b -->
-                   <lb/>is gaining on us fast to Bark it is none
+                   <lb/>is gaining on us fast the Bark it is none
                    <lb/>of our Fleet unless it is the Black Squall
                    <lb/>who left <placeName ref="#CallaoBP">Callao</placeName> the day we arrived have
                    <lb/>caught several Albatrosses
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530919a">
-                <dateline><date when="1853-09-19">Monday <choice><abbr>Sept</abbr><expan>September</expan></choice> 19th</date></dateline>
+                <lb/><dateline><date when="1853-09-19">Monday <choice><abbr>Sept</abbr><expan>September</expan></choice> 19th</date></dateline>
                 <p>
-                   <lb/>Wind ahead blowing Fish
+                   <lb/>Wind ahead blowing F<supplied>r</supplied>esh
                    <lb/>Is is a warm <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> <choice><sic>morng</sic><corr>morning</corr></choice> <rs ref="#ATD">Mother</rs> and
                    <lb/><choice><orig><distinct type="archaicorthography" time="16">myselfe</distinct></orig><reg source="OED">myself</reg></choice> have been out on deck all <choice><sic>mornig</sic><corr>morning</corr></choice>
                    <lb/><rs ref="#END">Father</rs> has caught 4 large Albatrosses and
@@ -7579,91 +7587,93 @@
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530922a">
-                <dateline><date when="1853-09-22">Thursday <choice><abbr>Sept</abbr><expan>September</expan></choice> 22th</date></dateline>
+                <lb/><dateline><date when="1853-09-22">Thursday <choice><abbr>Sept</abbr><expan>September</expan></choice> 22<choice><sic>th</sic><corr>nd</corr></choice></date></dateline>
                 <p>
-                   <lb/>Fair Wind blowing <unclear reason="possibly fresh?">fish</unclear>
-                   <lb/>Studding sot in both <rs ref="#END">Father</rs> is busy making
-                   <lb/>a canvass trunk evening <rs ref="#ATD">Mother</rs> and <choice><orig><distinct type="archaicorthography" time="16">myselfe</distinct></orig><reg source="OED">myself</reg></choice> 
+                   <lb/>Fair Wind blowing F<supplied>r</supplied>esh
+                   <lb/>Studding <choice><sic>sot</sic><corr>set</corr></choice> in both <rs ref="#END">Father</rs> is busy making
+                   <lb/>a canvass trunk evening <rs ref="#ATD">Mother</rs> and <distinct type="archaicorthography" time="16"><choice><orig>myselfe</orig><reg source="OED">myself</reg></choice></distinct> 
                    <lb/>have been busy making a Shoe Bag my
                    <lb/>Dog is some Sea Sick not so <choice><sic>playfull</sic><corr>playful</corr></choice> as
                    <lb/>in general at 12 oclock today was in the
                    <pb facs="G226_D6_A3_1852-077a"/> <!-- 77a -->
                    <lb/>Latitiude of 30 = 04 South have made 204
-                   <lb/>miles distance the last 24 hour which is going fast
+                   <lb/>miles distance the last 24 hour which is 
+                   <lb/>going fast
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530927a">
-                <dateline><date when="1853-09-27"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice><choice><abbr>Sept</abbr><expan>September</expan></choice> 27th</date></dateline>
+                <lb/><dateline><date when="1853-09-27"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice><choice><abbr>Sept</abbr><expan>September</expan></choice> 27th</date></dateline>
                 <p>
                    <lb/>This is a <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day
-                   <lb/>fair Wind Studding sot today have noticed
+                   <lb/>fair Wind Studding <choice><sic>sot</sic><corr>set</corr></choice> today have noticed
                    <lb/>the Mainmast was rotten have been putting
                    <lb/>a spar to lash it what they call Fishing at 4
                    <lb/> oclock a Sail appeared in Sight ahead
-                   <lb/>bound the other <rs ref="#END">Father</rs> keep off to speak hen
-                   <lb/>when we got up with hen found it was a 
-                   <lb/>Frenchmen The Brigg Louisa of Seat spoke
-                   <lb/>hen He could not speaks English showed
-                   <lb/>own Longitude but they did not show theres
-                   <lb/><unclear>thene</unclear> were <choice><sic>sevel</sic><corr>several</corr></choice> Ladies on Board. He
-                   <lb/><unclear reason="doesn't make sense">cup</unclear> his Colans three times to us and
+                   <lb/>bound the other <rs ref="#END">Father</rs> keep off to speak her
+                   <lb/>when we got up with her found it was a 
+                   <lb/>Frenchmen The Brigg Louisa of <unclear/> spoke
+                   <lb/>her He could not speake English showed
+                   <lb/>own Longitude but they did not show <choice><sic>theres</sic><corr>theirs</corr></choice>
+                   <lb/>their were <choice><sic>sevel</sic><corr>several</corr></choice> Ladies on Board. He
+                   <lb/>dip his <choice><sic>Colars</sic><corr>colors</corr></choice> three times to us and
                    <lb/>we answer him. We are in the Latitude 
-                   <lb/>of 22 = 27 South and Longitude 33 = 40 a Short
-                   <lb/>distance North of <placeName ref="#Rio">Rio <choice><sic>Janeino</sic><corr>Janeiro</corr></choice></placeName>.
+                   <lb/>of 22 = 57 South and Longitude 33 = 40 a Short
+                   <lb/>distance North of <placeName ref="#Rio">Rio <choice><sic>Janeiro</sic><corr>de Janeiro</corr></choice></placeName>.
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18530928a">
-                <dateline><date when="1853-09-28">Wednesday <choice><abbr>Sept</abbr><expan>September</expan></choice> 28th</date></dateline>
+                <lb/><dateline><date when="1853-09-28">Wednesday <choice><abbr>Sept</abbr><expan>September</expan></choice> 28th</date></dateline>
                 <p>
                    <lb/>Wind continues the 
                    <pb facs="G226_D6_A3_1852-077b"/>
-                   <lb/>same <unclear>Jain</unclear> and a fresh Breeze. This morn<seg type="softhyphen">
+                   <lb/>same fair and a fresh Breeze. This morn<seg type="softhyphen">
                    <lb/></seg>ing when I arose there was a Brigg in Sightt
                    <lb/>ahead bound in the other way A Frenchmen
                    <lb/><rs ref="#END">Father</rs> has caught a large Dolphin had
-                   <lb/>if cooked for Breakfast it was quite a 
+                   <lb/>it cooked for Breakfast it was quite a 
                    <lb/>treat today have killed the Goat as she
                    <lb/>had eaten up all her Hay and Corn and
-                   <lb/>would eat no bread <choice><sic>non</sic><corr>nor</corr></choice> nothing else was
+                   <lb/>would eat no bread nor nothing else was
                    <lb/>oblidge to kill her but was very loth to 
                    <lb/>part with her as she gave us milk enough
-                   <lb/>for our Coffee and Fea, The Cook killed 
+                   <lb/>for our Coffee and Tea, The Cook killed 
                    <lb/>her he told Mother he cut her throat
                    <lb/>and the first thing he knew She sprung
                    <lb/><add place="above">out</add> of his arms and jumped on the Forecastle
-                   <lb/>Deck. <rs ref="#ATD">Mother</rs> asked him why he did not cut her head right off. he said he want<seg type="softhyphen">
+                   <lb/>Deck. <rs ref="#ATD">Mother</rs> asked him why he did not 
+                   <lb/>cut her head right off. he said he want<seg type="softhyphen">
                    <lb/></seg>ed to give her a chance to think before 
                    <lb/>she died A Brigg in sight bound the 
                    <lb/>other way a Portuguese showed Longitudes
-                   <lb/>The Sailors are all <choice><sic>busey</sic><corr>busy</corr></choice> <choice><sic>taning</sic><corr>tanning</corr></choice> down rigging
+                   <lb/>The Sailors are all <choice><sic>busey</sic><corr>busy</corr></choice> <choice><sic>taring</sic><corr>tearing</corr></choice> down rigging
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18531001">
-                <dateline><date when="1853-10-01">Saturday <choice><abbr>Oct</abbr><expan>October</expan></choice> 1th</date></dateline>
+                <lb/><dateline><date when="1853-10-01">Saturday <choice><abbr>Oct</abbr><expan>October</expan></choice> 1<choice><sic>th</sic><corr>st</corr></choice></date></dateline>
                 <p>
                    <lb/>This is the first day of
                    <pb facs="G226_D6_A3_1852-078a"/><!-- 78a -->
                    <lb/>the month and comes in with a <choice><sic>beautifull</sic><corr>beautiful</corr></choice>
-                   <lb/>Fair Wind <choice><abbr>altho</abbr><expan>although</expan></choice> <distinct type="archaicorthography"><orig><sic>unpleasent</sic><reg>unpleasant</reg></orig></distinct> weather <choice><sic>rainey</sic><corr>rainy</corr></choice>
-                   <lb/>we are now in the South East Gade Winds
+                   <lb/>Fair Wind <choice><abbr>altho</abbr><expan>although</expan></choice> <distinct type="archaicorthography"><choice><orig>unpleasent</orig><reg>unpleasant</reg></choice></distinct> weather <choice><sic>rainey</sic><corr>rainy</corr></choice>
+                   <lb/>we are now in the South East <choice><sic>Tade</sic><corr>Trade</corr></choice> Winds
                    <lb/>The sailors have had liberty to wash their
                    <lb/><choice><sic>cloths</sic><corr>clothes</corr></choice> they have been down in the Lea
                    <lb/>scuppers washing. I set out on deck between
-                   <lb/>one of the showers and we looked lik
-                   <lb/>a Manawar <choice><sic>cloths</sic><corr>clothes</corr></choice> hung up all around
+                   <lb/>one of the showers and we looked like
+                   <lb/>a <choice><sic>Manawar</sic><corr>Man 'o War</corr></choice> <choice><sic>cloths</sic><corr>clothes</corr></choice> hung up all around
                    <lb/>the rigging had a very <choice><sic>ruff</sic><corr>rough</corr></choice> night the
                    <lb/>wind blew very hard for a short time
                    <lb/>last night when they were making sail
-                   <lb/><persName>Mr Brown</persName> sung out to Belay whem the
+                   <lb/><persName>Mr Brown</persName> sung out to Belay when the
                    <lb/>first Mate steps up and <unclear reason="ink blot">sawy</unclear> I am
                    <lb/>looking out for the sail <persName>Mr Brown</persName> says
                    <lb/>Is here too He is a <choice><sic>Sweed</sic><corr>Swede</corr></choice> and speak
                    <lb/>broken English I laugh to hear him
-                   <lb/>sometimes are in the Latitude of 3=48.
+                   <lb/>sometimes are in the Latitude of 13=48.
                 </p>
              </div>
              <div type="Entry" xml:id="Doane18531013a">
-                <dateline><date when="1853-10-13">Thursday <choice><abbr>Oct</abbr><expan>October</expan></choice> 13</date></dateline>
+                <lb/><dateline><date when="1853-10-13">Thursday <choice><abbr>Oct</abbr><expan>October</expan></choice> 13</date></dateline>
                 <p>
                    <lb/>This is a <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> day
                    <lb/>very warm are in the Latitude of 4=50
@@ -7671,7 +7681,7 @@
                    <lb/>last Saturday after Breakfast saw
                    <pb facs="G226_D6_A3_1852-078b"/><!-- 78b -->
                    <lb/>a Bark standing the same <choice><abbr>altho</abbr><expan>although</expan></choice> steaming
-                   <lb/>more to the Westland showed Enzgin are
+                   <lb/>more to the Westland showed <choice><sic>Engign</sic><corr>ensign</corr></choice> an
                    <lb/>American
                 </p>
              </div>
