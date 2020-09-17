@@ -3459,7 +3459,7 @@
                         it never cooled. Their fervid temperament knows no control or moderation;
                         ferocious in disposition, they are led by very slight religious or political
                         excitement, on sudden impulses, to the committal of murders, assassinations,
-                        and other acts of violence unknown in the North" <bibl><ref target="#Murray">(430)</ref></bibl>.</note>
+                        and other acts of violence unknown in the North" <bibl><ref target="#Murray">430</ref></bibl>.</note>
                     It happened we <choice><sic>feel </sic><corr cert="high">fell </corr></choice> in with a
                  <lb/><persName ref="#Eliott"><choice><sic>Captian </sic><corr>Captain </corr></choice>Eliott</persName> and his family an old acquaintan<seg type="softhyphen">
                     <lb/></seg>ce of ours which makes it very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> for
@@ -3815,20 +3815,24 @@
                <lb/>he found the <choice><sic>Captian</sic><corr>Captain</corr></choice> had sent for a few
                <lb/>potatoes as he had one man sick with the
                <lb/>scurvy, we then hailed the boat and they came
-               <lb/>back, we gave them some potatoes and lemons<ptr type="noteAnchor" target="PotLem"/><note resp="ed" xml:id="PotLem">That the Doanes provide both potatoes 
-                     and lemons to the man suffering from scurvy is indicative of the larger debate about the causes and prevention of scurvy in the mid-19th century.  
-                     Although it was widely accepted that lime and other citrus juices were preventive agents, sailors were said to be reluctant to drink the juice.  
-                     A series of letters to the editor in an 1866 publication of the <title level="j">London Times</title> reveals the alternative preventives proposed by many doctors; significantly,
-                     "fresh succulent vegetables" as well as potatoes and "preserved potatoes" were thought to be a successful alternative 
-                     that presented an easier pill for sailors to swallow <bibl><ref target="#Scurvy">"Scurvy"</ref></bibl>
-                  <figure rend="link">
-                     <head>Click Here to Read the Letters to the Editor</head>
-                     <graphic url="image_scurvy_letters.jpg"/>
-                     <figDesc>
-                        A series of three letters about scurvy written to the editor of the London Times in 1866 
-                     </figDesc>
-                  </figure>
-               </note>,
+               <lb/>back, we gave them some potatoes and lemons<ptr type="noteAnchor" target="PotLem"/>
+                  <note resp="ed" xml:id="PotLem">That the Doanes provide both potatoes and lemons
+                     to the man suffering from scurvy is indicative of the larger debate in the
+                     mid-19th century about the causes and prevention of scurvy. Although it was
+                     widely accepted that lime and other citrus juices were preventive agents,
+                     sailors were said to be reluctant to drink the juice. A series of letters to
+                     the editor of the <title level="j">London Times</title> in 1866 reveals the
+                     alternative preventives proposed by many doctors; significantly, "fresh
+                     succulent vegetables" as well as potatoes and "preserved potatoes" were thought
+                     to be a successful alternative that presented an easier pill for sailors to
+                     swallow <bibl><ref target="#Scurvy">"Scurvy"</ref></bibl>
+                     <figure rend="link">
+                        <head>Click Here to Read the Letters to the Editor</head>
+                        <graphic url="image_scurvy_letters.jpg"/>
+                        <figDesc> A series of three letters about scurvy written to the editor of
+                           the London Times in 1866 </figDesc>
+                     </figure>
+                  </note>,
                <lb/>they thanked us very kindly, and went off
                <lb/>it was the schooner <name
                   type="ship"><choice><sic>Antartic</sic><corr>Antarctic</corr></choice></name> of
@@ -3934,9 +3938,9 @@
                   <note resp="ed" xml:id="Guano">The June, 1920 issue of <title level="j">National
                         Geographic Magazine</title> describes guano (bird or bat droppings) as a
                      valuable commodity used as fertilizer. The high quantity of nitrates created
-                     larger crop yields for farmers. During the height of Peru's golden age of
+                     larger crop yields. During the height of Peru's golden age of
                      guano, ca. 1840 to 1880, Peruvians excavated over 20,000,000 tons of guano for
-                     export, creating around $2 billion in profits.<bibl><ref target="Guano">Coker
+                     export, creating around $2 billion in profits <bibl><ref target="Guano">Coker
                            537-566</ref></bibl>.</note> and return to <placeName ref="#HamptonRoads"><choice><sic>Hampden Roads</sic><corr cert="high">Hampton Roads</corr></choice></placeName> for
               <lb/>orders whether to proceed to <placeName ref="#Boston">Boston</placeName> <placeName>New York</placeName> or
               <lb/><placeName ref="Baltimore">Baltimore</placeName> to discharge</p>
@@ -4683,8 +4687,12 @@
          <lb/>said <said aloud="true" direct="false">he had the Cramp in his foot and 
          <lb/>he could not stand on it</said> I ran down
          <lb/><choice><sic>down</sic><corr></corr></choice> and got the Opodeldoc<ptr type="noteAnchor" target="Opodeldoc"/>
-         <note resp="ed" xml:id="Opodeldoc">A U.S. regional term for any (generally, alcohol-based) medicine or tonic. 
-            In Doane's time, it was probably "an alcoholic solution of soap . . . and camphor with some added essential oils," which could be ingested or rubbed on the site of injury <bibl><ref target="#Opodeldoc"><title level="m">Oxford English Dictionary</title></ref></bibl>.</note> and the Mate
+                  <note resp="ed" xml:id="Opodeldoc">"Opodeldoc" was a U.S. regional term for any
+                     (generally, alcohol-based) medicine or tonic. In Doane's time, it was probably
+                     "an alcoholic solution of soap . . . and camphor with some added essential
+                     oils," which could be ingested or rubbed on the site of injury <bibl><ref
+                           target="#Opodeldoc"><title level="m">Oxford English
+                           Dictionary</title></ref></bibl>.</note> and the Mate
          <lb/>came in and bath his foot and told him
          <lb/>to <said aloud="true" direct="false">get up and stand on his foot</said> but he
          <lb/>would not in a few minutes we saw he was
@@ -5573,8 +5581,8 @@
                         located primarily in the neck, but around any part of the body where lymph
                         nodes are located. It is caused by breathing in air that is contaminated
                         with the illness, and manifests as sizable swellings around the lymph nodes.
-                        The technical name is Tuberculous Adenitis.<bibl><ref target="#Scrofula"
-                        /><title level="a">Scrofula</title></bibl></note> and had
+                        The technical name is Tuberculous Adenitis <bibl><ref target="#Scrofula"
+                        /><title level="a">Scrofula</title></bibl>.</note> and had
             <lb/>exposed <choice><sic>himselfe</sic><corr>himself</corr></choice> and <choice><sic>flyes</sic><corr>flies</corr></choice> had blown his
             <lb/>head so bad that he could blow <unclear reason="cramped handwriting" cert="high">worm</unclear> an
             <lb/>inch long out of his nose thinks he cannot
@@ -5584,9 +5592,9 @@
             in his large sail boat went
             <lb/>out side of <rs ref="#END">the Harbor</rs> went on the beach
             <lb/>picked up a few shells then we came back
-            <lb/>had to beat <ptr type="noteAnchor" target="PATDRC"/><note resp="ed" xml:id="PATDRC">"Beating" in sailing occurs when a boat is moving
-                        into the wind and must zig-zag to move forward.<bibl><ref target="PATD"
-                        /></bibl></note> which made it quite <distinct type="archaicorthography" time="16-18"><choice><orig>ruff</orig><reg source="OED">rough</reg></choice></distinct> as the
+            <lb/>had to beat<ptr type="noteAnchor" target="PATDRC"/>
+                     <note resp="ed" xml:id="PATDRC">"Beating" here refers to striving "against contrary winds or
+                        currents at sea; to make way in any direction against the wind," often by tacking or zig-zagging <bibl><title level="m">Oxford English Dictionary</title></bibl>.</note> which made it quite <distinct type="archaicorthography" time="16-18"><choice><orig>ruff</orig><reg source="OED">rough</reg></choice></distinct> as the
             <lb/>wind was blowing fresh <rs ref="#ATD">mother</rs> was quite
             <lb/>seasick so that <distinct type="archaicorthography"><choice><orig>spoilt</orig><reg source="OED">spoiled</reg></choice></distinct> the pleasure
          </p>
@@ -5904,8 +5912,8 @@
                         weather and rough wear. It was also used to patch and repair sails on ships
                         due to its strong tension. Around the time of this journal, the House of
                         Commons reported that the cost of engraved or dyed Calico was 50 percent
-                        more expensive outside of England.<bibl><ref target="#HOC">House of Commons
-                              (509)</ref></bibl></note> is 31 cents per yard
+                        more expensive outside of England <bibl><ref target="#HOC"></ref>House of Commons
+                              509</bibl>.</note> is 31 cents per yard
             <lb/>which we could get at home for 10 cents we
             <lb/>stopped there sometime from there we went to
             <lb/>our <choice><sic>Consingnee</sic><corr>Consignee</corr></choice> and several others places
@@ -6181,8 +6189,8 @@
                         Life During a Four Months' Residence in the Valley of the Marquesas</title>
                      (1847), Herman Melville writes, "The Marquesas! What strange visions of
                      outlandish things does the very name spirit up! Lovely [women]—cannibal
-                     banquets—groves of cocoa-nuts—coral reefs—tatooed chiefs . . ."<bibl><ref
-                           target="#Melville">3</ref></bibl> Though the islands were beautiful and
+                     banquets—groves of cocoa-nuts—coral reefs—tatooed chiefs" <bibl><ref
+                           target="#Melville"></ref>3</bibl>. Though the islands were beautiful and
                      exotic, Melville reports that people feared them: "Within the last few years
                      American and English vessels engaged in the extensive whale fisheries of the
                      Pacific have . . . put into the commodious harbor which there is in one of the
@@ -6192,8 +6200,8 @@
                      their peculiar customs and manners" <bibl><ref target="#Melville"
                      >4</ref></bibl>. Melville hoped to discover more about the
                      Marquesas in order to "withdraw the veil from regions so romantic and
-                           beautiful" <bibl><ref target="#Melville">4</ref></bibl> <figure rend="link">
-                        <head>19th Century Map</head>
+                           beautiful" <bibl><ref target="#Melville"></ref>4</bibl> <figure rend="link">
+                        <head>19th Century Map of Marquesas</head>
                         <graphic url="http://www.loc.gov/pictures/item/2005692073/"/>
                         <figDesc>Map of Islands in Herman Melville's narrative</figDesc>
                      </figure></note>
@@ -6434,8 +6442,7 @@
                 <lb/>and feet tied to a ring bolt <ptr type="noteAnchor" target="RingBolt"/>
                   <note resp="ed" xml:id="RingBolt">A ring bolt—"a bolt
                      with an eye at one end, to which a ring is attached"—were fastened to the
-                     ship's deck and were used for a variety of purposes <bibl><ref target="OED"
-                           >(OED)</ref><title level="m">Oxford English Dictionary</title></bibl></note> in the deck
+                     ship's deck and were used for a variety of purposes <bibl><ref target="OED"></ref><title level="m">Oxford English Dictionary</title></bibl>.</note> in the deck
                 <lb/>after Breakfast <rs ref="#END">he</rs> went on shore to see what
                 <lb/>would be done with them an American ship
                 <lb/>has just came in and anchored closed to us
@@ -6478,7 +6485,7 @@
                 <lb/>you could mention from there <rs ref="#END">Father</rs> went to the
                 <lb/>American Ship Chandlery<ptr type="noteAnchor" target="ShipChand"/>
                   <note resp="ed" xml:id="ShipChand"> In "Mobile, Her Trade, Commerce and
-                     Industries, 1883-4", John Land describes a ship chandler as a port
+                     Industries, 1883-4," John Land describes a ship chandler as a port
                      retailer that boat captains relied upon for anything from tools and equipment to
                      food supplies and paper goods <bibl><ref target="JEL"
                      >101</ref></bibl>.</note> and I <choice><sic>stop</sic><corr>stopped</corr></choice> there <distinct type="archaicorthography" time="18-19"><choice><orig>untill</orig><reg source="OED">until</reg></choice></distinct>
@@ -6696,8 +6703,8 @@
                 <lb/>to the Island and then went on board the
                 <lb/><name type="ship">California Packet</name><ptr type="noteAnchor" target="CP"/>
                      <note resp="ed" xml:id="CP">Probably the <name type="ship">California
-                           Packet</name> that cleared New York Harbor on April 17, 1852<bibl><ref
-                              target="Packet">NYT</ref><title level="a">Marine
+                           Packet</name> that cleared New York Harbor on April 17, 1852 <bibl><ref
+                              target="Packet"></ref><title level="a">Marine
                            Intelligence</title></bibl>.</note> she has a large Cabin
       <!-- Krista Ruley's section ends here -->
       
@@ -6857,14 +6864,7 @@
                 <lb/>found them all very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> and agreeable
                 <lb/>after Dinner the <choice><sic>Captian</sic><corr>Captain</corr></choice> went out sailing
                 <lb/>we played on the <choice><sic>Accordan</sic><corr>Accordion</corr></choice>and sung today
-                <lb/>have finished Ballasting <ptr type="noteAnchor" target="Ballasting"/>
-                     <note resp="ed" xml:id="Ballasting">A 'Ballast' is any heavy material, such as
-                        gravel, sand, metal, water, etc., placed in the hold of a ship to weigh it
-                        down in the water and prevent it from capsizing when under sail or in
-                        motion. The OED gives the example from 1887 by Charles Kingley of ballasting
-                        a ship with pebbles. Doane does not specificly say what is used in this
-                              situation.<bibl><ref target="OxfordEnglishDictionary">Oxford English
-                              Dictionary</ref></bibl></note> and they have taken
+                <lb/>have finished Ballasting and they have taken
                 <lb/>the Lighter away saying we cannot load
                 <lb/>in boats shall have to wait <choice><sic>untill</sic><corr>until</corr></choice>our
                 <lb/>turns comes and go under the Ships <choice><sic>Shoot</sic><corr>chute</corr></choice>,
@@ -6909,8 +6909,8 @@
                <lb/>come on board to go around with us to the other
                <lb/><geogName>Island</geogName> after dinner we <choice><sic>sot</sic><corr>set</corr></choice> our Ensign <ptr type="noteAnchor" target="Ensign"/>
                      <note resp="ed" xml:id="Ensign"> On 18th century ships, the flag (or "colors") was
-                        sometimes lowered as a salute or sign of respect to other ships.<bibl><ref
-                              target="DK">"Kemp 534"</ref></bibl>.</note> which is
+                        sometimes lowered as a salute or sign of respect to other ships <bibl><ref
+                              target="DK"></ref>Kemp 534</bibl>.</note> which is
                <lb/>a signal for the <choice><sic>Captians</sic><corr>Captains</corr></choice>to come on board if
                <lb/>they choose to do so and then we began to heave
                <lb/>the Anchor and before it was hove up there
@@ -6958,8 +6958,8 @@
              <p>
                 <lb/><rs ref="#END">Father</rs> took the Gig boat <ptr type="noteAnchor"
                    target="GBES"/>
-                     <note resp="ed" xml:id="GBES">Captains used a gig boats to travel
-                        back and forth between shore and their ships.<bibl><ref target="HCF"></ref>Folkard
+                     <note resp="ed" xml:id="GBES">Captains used gig boats to travel
+                        back and forth between shore and their ships <bibl><ref target="HCF"></ref>Folkard
                               82</bibl>.</note> in
                 <lb/>yesterday and has had her all cleaned and painted
                 <lb/>inside and out and <rs ref="#ATD">mother</rs> and <choice><sic>myselfe</sic><corr>myself</corr></choice>have
@@ -6992,7 +6992,7 @@
                 <lb/>a <choice><sic>Ottaman</sic><corr>ottoman</corr></choice> a <choice><sic>Easey</sic><corr>Easy</corr></choice>Chair and <choice><sic>Gentlmans</sic><corr>Gentleman's</corr></choice>chair <ptr type="noteAnchor" target="GC"/>
                      <note resp="ed" xml:id="GC">Similar to a modern day recliner, a gentleman's
                         chair would have extended for the comfort of the sitter. A
-                        desk might be attached to the arm.<bibl><ref target="JW"></ref>Whiting
+                        desk might be attached to the arm <bibl><ref target="JW"></ref>Whiting
                               48</bibl>.</note>
                 <lb/> and a marble top Center Table cover with Velvet
                 <lb/>Plush stop untill 9 <choice><sic>oclock</sic><corr>o'clock</corr></choice>in the evening after
@@ -7107,11 +7107,11 @@
                 <lb/>Roast Pig Roast Turkey Roast Chicken
                 <lb/>Roast Beef Roast Lamb.
              </p><p><lb/>Boiled Ham Boiled Tongue<ptr type="noteAnchor" target="BT"/> 
-                     <note resp="ed" xml:id="BT">Tongue was a common animal part eaten at this time.
+                     <note resp="ed" xml:id="BT">Tongue was a common food at this time.
                         It is unclear to what sort of tongue Doane refers,
                         but most likely it is lamb or beef. Boiled tongue was prepared by
                         boiling it for 5 to 6 hours and letting it sit over night. Then the skin of
-                        the tongue was peeled off and the tongue cut in thin slices.<bibl><ref
+                        the tongue was peeled off and the tongue cut in thin slices <bibl><ref
                               target="#BoiledTongue"><title level="m">The Country Cook Cook
                         Book</title></ref></bibl>.</note> Boiled Chickens
                 <lb/>Boiled Mutton and all kinds of Green Vegatable.
@@ -7121,7 +7121,7 @@
                      <note resp="ed" xml:id="CFJ">Calf's foot jelly, commonly made to accompany
                         other foods, was made by boiling the calf's feet, draining the well-done
                         feet through a double silk sieve, adding sugars and spices, and then straining it
-                        until transparent. <bibl><ref target="#CalfsFeetJelly"></ref>Ude</bibl>.</note>Blanche Man<seg type="softhyphen">-
+                        until transparent <bibl><ref target="#CalfsFeetJelly"></ref>Ude</bibl>.</note>Blanche Man<seg type="softhyphen">-
                       <lb/></seg>ge.<ptr type="noteAnchor" target="BM"/>
                      <note resp="ed" xml:id="BM">Blanche-Mange is made by boiling Carrageen (also
                         known as Irish Moss) then adding milk, lemon, white wine, or anything sweet.
@@ -7280,7 +7280,7 @@
                    <lb/>Corner</persName> looked up and <choice><sic>Wafed</sic><corr>Waved</corr></choice> his Hand<seg type="softhyphen">-
                       <lb/></seg>Kerchief. We went unto the dry Good Store<ptr type="noteAnchor" target="DGS"/>
                      <note resp="ed" xml:id="DGS">Typically available at ports, dry goods stores
-                        provided goods "textile fabrics and related things; articles of drapery,
+                        provided goods such as "textile fabrics and related things; articles of drapery,
                         mercery, and haberdashery (as opposed to groceries)" <bibl><title level="m"
                               >Oxford English Dictionary</title></bibl>.</note>
                 <lb/>where there were a few Boots Shoes and etc.
