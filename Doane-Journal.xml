@@ -2094,7 +2094,7 @@
                   Ude, Louis Eustache <title level="m">The French Cook</title> 7th ed. London, England: John Ebers, 1822. Print.   
                </bibl>
                <bibl xml:id="BoiledTongue" n="Associated">
-                  The Associated College Women Workers <title level="m">The Country Cook cook book</title> 1st ed. Chicago, IL: Mabel E.Sturtevant, 1912. Print.
+                  <title level="m">The Country Cook Cook Book</title> The Associated College Women Workers, 1st ed., Chicago, IL: Mabel E.Sturtevant, 1912.
                </bibl>
                <bibl xml:id="BlancheMange" n="Arcana">
                   <title level="m">Arcana of Science and Art: or,an Annual Register of Useful Inventions and Improvements, Discoveries and New Facts in Mechanics, Chemistry, Natural History, and Social Economy; 
@@ -2124,8 +2124,8 @@
                   Massachussetts: Harvard University, 1884.  Web. 12 May 2011</bibl>
                <!-- Alecia Mouhanna's Works Cited end here -->
                <!-- Krysta Ruley's Works Cited begin here -->                         
-               <bibl xml:id="NYT" n="Marine"><title level="m">Marine Intelligence</title> The New York Times. April 19, 1852. Online. 19 May 2011 </bibl>  
-               <bibl xml:id="NYT3" n="Shipping"><title level="m">Shipping Intelligence</title> The New York Times. March 30, 1854. Online. 19 May 2011 </bibl> 
+              <bibl xml:id="NYT" n="Marine"><title level="a">Marine Intelligence.</title> <title level="j">The New York Times</title>. April 19, 1852. Online. 19 May 2011 </bibl>  
+               <bibl xml:id="NYT3" n="Shipping"><title level="a">Shipping Intelligence.</title> <title level="j">The New York Times</title>. March 30, 1854. Online. 19 May 2011 </bibl> 
                <bibl xml:id="TLC">Addison, C. G. <title level="m">A Treatise on the Law of Contract</title>.Jersey City, NJ: Frederick D. Linn and Co., Law Publishers, 1881. 688. Web. 19 May 2011</bibl>
                <!-- Krysta Ruley's Works Cited end here -->
                <!-- Keisha Trott's Works Cited begin here -->
@@ -2144,7 +2144,12 @@
                   Web.
                </bibl>
                <!-- Garrett Harmon's Works Cited end here -->
-            </listBibl>
+              <bibl xml:id="GUA" n="Coker">
+                 Coker, R. E. <title level="a">Peru's Wealth-Producing Birds: Vast Riches in the Guano Deposits of Cormorants, Pelicans, and Petrels Which Nest on Her Barren, Rainless Coast</title>.
+                 <title level="j">National Geographic Magazine</title>. 37(June 1920): 537-566). https://www.biodiversitylibrary.org/item/125383#page/565/mode/1up
+              </bibl>
+              
+           </listBibl>
 
 
             <listPerson type="mentioned">
@@ -3415,20 +3420,19 @@
                    "From this disposition of the ground, the port becomes the sewer of the city, the receptacle of all its
                     filth, stagnating in a tideless sea and under a burning sun, until a S. E. wind produces that circulation in its
                     waters which the tide would do on other seas. The stench emanating from it at times is consequently intolerable, except
-                    for natives; and dredging machines require to be constantly employed to cleanse it" <bibl><ref target="#Murray">
-                    476</ref></bibl>.</note> this morning
+                    for natives; and dredging machines require to be constantly employed to cleanse it" <bibl><ref target="#Murray">476</ref></bibl>.</note> this morning
                  <lb/>arose very early, and went on deck to see
                  <pb facs="G226_D6_A3_1852-011b"/>
                  <lb/>the <rs ref="#Marseille">City</rs>, the <rs ref="#END"><choice><sic>Captian
                  </sic><corr>Captain </corr></choice></rs>went on shore, <del rend="overwritten"
                     unit="chars" extent="1">t</del>has gone
                  <lb/>to enter and get a <choice><sic>premit</sic><corr>permit</corr></choice><ptr type="noteAnchor" target="Consigne"/>
-                    <note resp="ed" xml:id="Consigne">Murray provides this information: <q>"near the harbour mouth, is the <foreign xml:lang="Fre">
+                    <note resp="ed" xml:id="Consigne">Murray's <title level="m">Handbook</title> provides this information: "near the harbour mouth, is the <foreign xml:lang="Fre">
                     Consigne</foreign>, or health office, where every thing relating to quarantine is transacted, and whence the permission
                     for vessels to enter the harbour is issued. To this office the captains of vessels come to give an account of themselves
                     (<foreign xml:lang="Fre">raisoner</foreign>), and to show their bill of health. The council room contains a few paintings,
-                    chiefly having reference to the plague [. . .] The subjects are all horrible, and the execution not good enough to 
-                    compensate</q> <bibl><ref target="#Murray">477</ref></bibl>.</note>, in a short time he
+                       chiefly having reference to the plague. . . . The subjects are all horrible, and the execution not good enough to 
+                    compensate <bibl><ref target="#Murray">477</ref></bibl>.</note>, in a short time he
                  <lb/>came back and several Gentlemen with him,
                  <lb/>to get the manifest of the cargo and stores, then
                  <lb/><add place="above" rend="caret">the </add>sailors rowed the pilot on shore, at half past six
@@ -3446,13 +3450,16 @@
                  <lb/>to board to American hotel. it is kept by a widow
                  <lb/>lady, she is french. <choice><abbr>altho </abbr><expan>although </expan></choice> she had been in New<choice><sic><seg type="softhyphen">-
                  <lb/></seg></sic><corr><lb/></corr></choice> York a number of years and could speak very
-                 <lb/>good <choice><sic>english </sic><corr>English </corr></choice>.<ptr type="noteAnchor" target="AH"/><note resp="ed" xml:id="AH">In spite of Joseph Kirkland's 
-                    criticism of American hotels, it seems hardly surprising that Doane's family chose to stay in a hotel catering specifically for Americans if beliefs such 
-                    as those presented in Murray's <title level="m">A Handbook for Travellers in France </title>were prevalent: <q>
-                    "The character of the people [in the Provence] appear influenced by the fiery sun, and soil which looks as though
-                    it never cooled. Their fervid temperament knows no control or moderation; ferocious in disposition, they are led
-                    by very slight religious or political excitement, on sudden impulses, to the committal of murders, assassinations,
-                    and other acts of violence unknown in the North" <bibl><ref target="#Murray">(430)</ref></bibl></q></note>
+                 <lb/>good <choice><sic>english </sic><corr>English </corr></choice>.<ptr type="noteAnchor" target="AH"/>
+                  <note resp="ed" xml:id="AH">It is hardly surprising that Doane's family chose to
+                     stay in a hotel catering specifically for Americans if they held beliefs such as
+                     those presented in Murray's <title level="m">A Handbook for Travellers in
+                        France </title>: "The character of the people [in the
+                        Provence] appear influenced by the fiery sun, and soil which looks as though
+                        it never cooled. Their fervid temperament knows no control or moderation;
+                        ferocious in disposition, they are led by very slight religious or political
+                        excitement, on sudden impulses, to the committal of murders, assassinations,
+                        and other acts of violence unknown in the North" <bibl><ref target="#Murray">(430)</ref></bibl>.</note>
                     It happened we <choice><sic>feel </sic><corr cert="high">fell </corr></choice> in with a
                  <lb/><persName ref="#Eliott"><choice><sic>Captian </sic><corr>Captain </corr></choice>Eliott</persName> and his family an old acquaintan<seg type="softhyphen">
                     <lb/></seg>ce of ours which makes it very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> for
@@ -3527,11 +3534,11 @@
                  <lb/><dateline><date when="1852-04-07">Wednesday 7</date>. </dateline><p>Today I have been to the dentist but
                  <lb/>he could not fill them as the nerve was not killed,
                  <lb/>from there we went up to a very large arch<ptr type="noteAnchor" target="PA"/>
-                    <note resp="ed" xml:id="PA">Probably the Porte d'Aix. Murray describes it thus: <q>"The entrance
+                    <note resp="ed" xml:id="PA">Probably the Porte d'Aix. Murray describes it thus: "The entrance
                     from the side of Aix is by an <hi rend="italic">Arch of Triumph,</hi> remarkable not for elegance of design,
                     originality of elevation, or elegance of decoration. It was intended to commemorate the campaign of the French
-                    in Spain in 1823, but its destination is now changed to that of celebrating <q>'all the glories of France'</q>"
-                    <bibl><ref target="#Murray">(476)</ref></bibl>.</q></note>,
+                    in Spain in 1823, but its destination is now changed to that of celebrating 'all the glories of France'"
+                    <bibl><ref target="#Murray">476</ref></bibl>.</note>,
                  <pb facs="G226_D6_A3_1852-013a"/>
                  <lb/>and on the sides were <choice><sic>bueatifull </sic><corr>beautiful </corr></choice>engravings,
                  <lb/>then we returned home,
@@ -3811,9 +3818,9 @@
                <lb/>back, we gave them some potatoes and lemons<ptr type="noteAnchor" target="PotLem"/><note resp="ed" xml:id="PotLem">That the Doanes provide both potatoes 
                      and lemons to the man suffering from scurvy is indicative of the larger debate about the causes and prevention of scurvy in the mid-19th century.  
                      Although it was widely accepted that lime and other citrus juices were preventive agents, sailors were said to be reluctant to drink the juice.  
-                     A series of letters to the editor in an 1866 publication of the London Times reveals the alternative preventives proposed by many doctors; significantly,
+                     A series of letters to the editor in an 1866 publication of the <title level="j">London Times</title> reveals the alternative preventives proposed by many doctors; significantly,
                      "fresh succulent vegetables" as well as potatoes and "preserved potatoes" were thought to be a successful alternative 
-                     that presented an easier pill for sailors to swallow. (<bibl><ref target="#Scurvy">"Scurvy"</ref></bibl>)
+                     that presented an easier pill for sailors to swallow <bibl><ref target="#Scurvy">"Scurvy"</ref></bibl>
                   <figure rend="link">
                      <head>Click Here to Read the Letters to the Editor</head>
                      <graphic url="image_scurvy_letters.jpg"/>
@@ -3923,7 +3930,14 @@
               <lb/>then chartered by <persName ref="#Bennet">Mr Bennet</persName> to proceed from
               <lb/>thence to <choice><sic><placeName ref="#LobosIslands">Lobes
                  Islands</placeName></sic><corr><placeName ref="LobosIslands">Lobos Island</placeName></corr></choice> on the Coast of <placeName ref="#Peru">Peru</placeName> and
-              <lb/>load Guano and return to <placeName ref="#HamptonRoads"><choice><sic>Hampden Roads</sic><corr cert="high">Hampton Roads</corr></choice></placeName> for
+                 <lb/>load Guano<ptr type="noteAnchor" target="Guano"/>
+                  <note resp="ed" xml:id="Guano">The June, 1920 issue of <title level="j">National
+                        Geographic Magazine</title> describes guano (bird or bat droppings) as a
+                     valuable commodity used as fertilizer. The high quantity of nitrates created
+                     larger crop yields for farmers. During the height of Peru's golden age of
+                     guano, ca. 1840 to 1880, Peruvians excavated over 20,000,000 tons of guano for
+                     export, creating around $2 billion in profits.<bibl><ref target="Guano">Coker
+                           537-566</ref></bibl>.</note> and return to <placeName ref="#HamptonRoads"><choice><sic>Hampden Roads</sic><corr cert="high">Hampton Roads</corr></choice></placeName> for
               <lb/>orders whether to proceed to <placeName ref="#Boston">Boston</placeName> <placeName>New York</placeName> or
               <lb/><placeName ref="Baltimore">Baltimore</placeName> to discharge</p>
               <p> 
@@ -4193,8 +4207,8 @@
                  <lb/>I went out to see the pigs I saw the
                  <lb/>sailor way out on the flying <choice><sic>Gibboon</sic><corr cert="medium">Jib
                     boom</corr></choice>
-                 <ptr type="noteAnchor" target="JB"/><note resp="ed" xml:id="JB">The jib boom, a relatively high support, located at the forward end of the ship 
-                 supporting a top sail (the jib). Scraping was integral to ships maintenance and painting requirements, but would have proved a difficult task while sailing, thus reserved for punishment.</note>
+                 <ptr type="noteAnchor" target="JB"/><note resp="ed" xml:id="JB">The jib boom is a relatively high support, located at the forward end of the ship 
+                 supporting a top sail (the jib). Scraping was integral to ships' maintenance, but would have proved difficult while sailing, thus the task was reserved for punishment.</note>
                  scr<seg type="softhyphen">&#x2014;
             <pb facs="G226_D6_A3_1852-023a"/>
               <lb/></seg>aping it that was to punish him, The <rs type="person" ref="#FirstOfficer">first
@@ -4669,7 +4683,8 @@
          <lb/>said <said aloud="true" direct="false">he had the Cramp in his foot and 
          <lb/>he could not stand on it</said> I ran down
          <lb/><choice><sic>down</sic><corr></corr></choice> and got the Opodeldoc<ptr type="noteAnchor" target="Opodeldoc"/>
-         <note resp="ed" xml:id="Opodeldoc">The Oxford English Dictionary defines this as a U.S. regional term for any (generally, alcohol-based) medicine or tonic. In Louisa's time, it was probably "an alcoholic solution of soap...and camphor with some added essential oils," and could be ingested or rubbed on the site of injury.<bibl><ref target="#Opodeldoc">"Opodeldoc"</ref></bibl></note> and the Mate
+         <note resp="ed" xml:id="Opodeldoc">A U.S. regional term for any (generally, alcohol-based) medicine or tonic. 
+            In Doane's time, it was probably "an alcoholic solution of soap . . . and camphor with some added essential oils," which could be ingested or rubbed on the site of injury <bibl><ref target="#Opodeldoc"><title level="m">Oxford English Dictionary</title></ref></bibl>.</note> and the Mate
          <lb/>came in and bath his foot and told him
          <lb/>to <said aloud="true" direct="false">get up and stand on his foot</said> but he
          <lb/>would not in a few minutes we saw he was
@@ -5263,7 +5278,7 @@
          <choice><sic>28</sic><corr>30</corr></choice>th</date><ptr type="noteAnchor" target="DEC30"/>
       <note resp="ed" xml:id="DEC30">Judging from Louisa's assertion that she hasn't written in her
          journal for one week, she incorrectly writes the date as December 28 when it should be
-         December 30.</note></dateline>
+         December 30, which fell on a Thursday in 1852.</note></dateline>
       <p>
          <lb/>It has now been one
          <lb/>week <distinct type="archaicorthography"><choice><orig>sence</orig><reg>since</reg></choice></distinct> I have written and I have not much
@@ -5320,11 +5335,11 @@
          <lb/>be <choice><sic>freightened</sic><corr>frightened</corr></choice></said> he said <said aloud="true" direct="false">perhaps he was as he 
          <lb/>had been hearing the sailors talking about the 
          <lb/>Panama Fever<ptr type="noteAnchor" target="PF"/> 
-               <note resp="ed" xml:id="PF">In an article written for <title level="m">The American Journal of the Medical Sciences</title> 
-                  in 1856, William Buel writes that the Panama Fever was understood in the middle of the 19th century to be caused by
+               <note resp="ed" xml:id="PF">In 1856, William Buel wrote in <title level="m">The American Journal of the Medical Sciences</title> 
+                  that the Panama Fever was understood to be caused by
                   "decaying vegetation, stagnant water, and a high temperature" <bibl><ref target="#PanamaFever">820</ref></bibl>.  Buel further notes that the Panama Fever derives its name
                   from the isthmus of Panama, which was supposed to be its place of origin, and that the fever usually developed
-                  around the time ships arrived at the port of Acapulco<bibl><ref target="#PanamaFever">821</ref></bibl>.</note>along the Coast</said> <rs ref="#END #ATD">they</rs> gave him
+                  around the time ships rounding Cape Horn arrived at the port of Acapulco <bibl><ref target="#PanamaFever">821</ref></bibl>.</note>along the Coast</said> <rs ref="#END #ATD">they</rs> gave him
          <lb/>some <choice><sic>medicince</sic><corr>medicine</corr></choice>, At 11 oclock I was woke up
          <lb/>by the <choice><sic>Crys</sic><corr>Cries</corr></choice> of my kitten I went up and found 
          <lb/>the Second Mate had brought her in the entry
@@ -5437,7 +5452,12 @@
             <pb facs="G226_D6_A3_1852-043a"/>
             <lb/><choice><sic>halled</sic><corr>hauled</corr></choice> along side of an old Hulk where we
             <lb/>made fast, This afternoon commenced discharging
-            <lb/>Coals in Iron lighters at 4 oclock saw the
+            <lb/>Coals in Iron lighters<ptr type="noteAnchor" target="LighterLS"/>
+                     <note resp="ed" xml:id="LighterLS">"A boat or vessel, usually a flat-bottomed
+                        barge, used in lightening or unloading (sometimes loading) ships that cannot
+                        be discharged (or loaded) at a wharf, etc., and for transporting goods of
+                        any kind, usually in a harbour" <bibl><ref target="OxfordEnglishDictionary"
+                              /><title level="m">Oxford English Dictionary</title></bibl>.</note> at 4 oclock saw the
             <lb/>man that is in Irons out on deck <rs ref="#END">father</rs> asked
             <lb/>him <said aloud="true" direct="false">if came out without <choice><sic>premission</sic><corr>permission</corr></choice> </said>he said
             <lb/><said aloud="true" direct="false">he did and he would come out when he
@@ -5554,7 +5574,7 @@
                         nodes are located. It is caused by breathing in air that is contaminated
                         with the illness, and manifests as sizable swellings around the lymph nodes.
                         The technical name is Tuberculous Adenitis.<bibl><ref target="#Scrofula"
-                           /></bibl></note> and had
+                        /><title level="a">Scrofula</title></bibl></note> and had
             <lb/>exposed <choice><sic>himselfe</sic><corr>himself</corr></choice> and <choice><sic>flyes</sic><corr>flies</corr></choice> had blown his
             <lb/>head so bad that he could blow <unclear reason="cramped handwriting" cert="high">worm</unclear> an
             <lb/>inch long out of his nose thinks he cannot
@@ -5564,9 +5584,8 @@
             in his large sail boat went
             <lb/>out side of <rs ref="#END">the Harbor</rs> went on the beach
             <lb/>picked up a few shells then we came back
-            <lb/>had to beat <ptr type="noteAnchor" target="PATDRC"/><note resp="ed" xml:id="PATDRC">Beating in sailing is when the boat is moving
-                        in the direction towards the wind and must move in zig-zag formations to
-                        make use of the wind to move forward.<bibl><ref target="PATD"
+            <lb/>had to beat <ptr type="noteAnchor" target="PATDRC"/><note resp="ed" xml:id="PATDRC">"Beating" in sailing occurs when a boat is moving
+                        into the wind and must zig-zag to move forward.<bibl><ref target="PATD"
                         /></bibl></note> which made it quite <distinct type="archaicorthography" time="16-18"><choice><orig>ruff</orig><reg source="OED">rough</reg></choice></distinct> as the
             <lb/>wind was blowing fresh <rs ref="#ATD">mother</rs> was quite
             <lb/>seasick so that <distinct type="archaicorthography"><choice><orig>spoilt</orig><reg source="OED">spoiled</reg></choice></distinct> the pleasure
@@ -5759,8 +5778,15 @@
             <lb/>buried him and this morning when <rs ref="#END">father</rs>
             <lb/>returned from shore he said the man that
             <lb/>was buried died with the <choice><sic>Dysentry</sic><corr>Dysentery</corr></choice>
-            <ptr type="noteAnchor" target="Dysentery"/><note resp="ed" xml:id="Dysentery">At the time, abstainment from food was a typical treatment for dysentery, though Doane's father seems to suggest that the man died from this treatment, rather than from the disease. According to the <ref target="#WCJ"><title level="m">Water Cure Journal</title></ref>,
-               <q>"fasting has a great power over diseases of this kind. We have cured many a case of bad dysentery at sea, depending principally upon entire abstinence from all food and drink other than pure water."</q><bibl><ref target="#WCJ">79</ref></bibl></note> and
+            <ptr type="noteAnchor" target="Dysentery"/>
+                     <note resp="ed" xml:id="Dysentery">At the time, abstaining from food was a
+                        typical treatment for dysentery, though Doane's father seems to suggest that
+                        the man died from this treatment, rather than from the disease. According to
+                        the <ref target="#WCJ"><title level="m">Water Cure Journal</title></ref>,
+                           "fasting has a great power over diseases of this kind. We have cured
+                           many a case of bad dysentery at sea, depending principally upon entire
+                           abstinence from all food and drink other than pure water" <bibl><ref
+                              target="#WCJ">79</ref></bibl>.</note> and
             <lb/>for the want of <distinct type="archaicorthography" time="15-17"><choice><orig>norishment</orig><reg source="OED">nourishment</reg></choice></distinct> he could not
             <lb/>get a bo<handShift new="#H2"/><del rend="overwritten">i</del>w<handShift new="#LADHand"/>l of gruel for five dollars he
             <lb/>leaves a widowed mother 2 sister and 1
@@ -5786,10 +5812,17 @@
             <pb facs="G226_D6_A3_1852-048b"/>
             <lb/>untill he breaks the Fever so we are
             <lb/>without a steward I have just seen them
-            <lb/>carried off three dead persons they were sew<seg type="softhyphen">-
+            <lb/><choice><sic>carried</sic><corr>carry</corr></choice> off three dead persons they were sew<seg type="softhyphen">-
             <lb/></seg>ed up in Canvass <ptr type="noteAnchor" target="canvassburial"/>
-            <note resp="ed" xml:id="canvassburial">Although <name type="ship" ref="#GoldenGate">the Golden Gate</name> was docked in a harbor, it appears they followed certain traditions that seem typical for a burial at sea, specifically the use of a canvas in place of a coffin. According to one account, corpses <q>"were wrapped in coarse sacks, laden with stones, and roughly sewed close about the stiffended limbs"</q> before a burial service that ended with the bodies being thrown into the sea.
-               <bibl><ref target="#EmigrantBurial">"The Emigrants Burial at Sea"</ref></bibl></note>
+                     <note resp="ed" xml:id="canvassburial">Although the <name type="ship"
+                           ref="#GoldenGate">Golden Gate</name> was docked in a harbor, it
+                        appears they followed traditions typical for a burial at
+                        sea, specifically the use of a canvas in place of a coffin. According to one
+                        account, corpses "were wrapped in coarse sacks, laden with stones, and
+                           roughly sewed close about the stiffended limbs" before a burial
+                        service that ended with the bodies being thrown into the sea <bibl><ref
+                              target="#EmigrantBurial">"The Emigrants Burial at
+                        Sea"</ref></bibl>.</note>
             put them in a boat
             <lb/>cover the signals over them and <choice><sic>carryed</sic><corr>carried</corr></choice>
             <lb/>them off and buried them and a great
@@ -5833,12 +5866,12 @@
             <lb/>to get some boards to make 2 Coffins for
             <lb/>some of the Cabin passengers she has the
             <lb/><choice><sic>Cholara</sic><corr>Cholera</corr></choice><ptr type="noteAnchor"
-               target="Cholara"/><note resp="ed" xml:id="Cholara">Cholara, or cholera, was a sweeping epidemic
-                        in the 19th century. The appearance of Cholera on the captains ship
+               target="Cholara"/><note resp="ed" xml:id="Cholara">Cholera was epidemic
+                        in the 19th century. The appearance of cholera on the captain's ship
                         indicates that they likely embarked from a port that was infected, as it
-                        rarely developed on ships that sailed from uninfected ports.<bibl><ref
-                              target="#RECh">Reports on Epidemic Cholera
-                     (152)</ref></bibl></note> also <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> White</persName> has been on
+                        rarely developed on ships that sailed from uninfected ports <bibl><ref
+                              target="#RECh">Baly and Gull
+                     152</ref></bibl>.</note> also <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> White</persName> has been on
             <lb/>board and spent the day with us, after
             <lb/>dinner the Cook came to <rs ref="#END">father</rs> and wanted
             <lb/>to go on shore <rs ref="#END">father</rs> told him he could go
@@ -6007,10 +6040,25 @@
                 <lb/>Fair wind <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> <rs ref="#ATD">Mother</rs> has
                 <lb/>passed a very restless night had the Fever quite
                 <lb/><choice><sic>quite</sic><corr></corr></choice> severe this morning when it was off
-                <lb/>gave her some more <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Q"/><note resp="ed" xml:id="Q">Quinine is an alkaloid found the bark of the Cinchona
-                     tree. Belonging to a class of medicines called antimalarials, Quinine was
-                     manufactured as a drug to treat malaria.<bibl><ref target="#OED">Oxford English
-                           Dictionary definition for Quinine</ref></bibl></note> the same as which
+                <lb/>gave her some more <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Quinine"/>
+                  <note resp="ed" xml:id="Quinine">In <title level="m">A Treatise on the
+                        Physiological and Therapeutic Action of the Sulphate of Quinine</title>
+                     (1882), Otis Frederick Manson, M.D., professor of physiology at the Medical
+                     College of Virginia, describes in detail the history and uses of quinine. The
+                     medicine was made from a bitter alkaloid found in cinchona bark. In the 19th
+                     century, quinine was used to not only dispel fever, but also to treat pain and
+                     swelling caused by malarial infections. Manson describes in detail the
+                     effects of quinine on a patient: "I gave him twenty grains of quinine . . . and
+                     next morning, on awaking, the pain had vanished, and the inflammation of the
+                     muscles of the jaw and general swelling of the face had diminished to such a
+                     degree that he could eat his breakfast" <bibl><ref target="#Manson"
+                        >41</ref></bibl>
+                     <figure rend="link">
+                        <head>Quinine cartoon</head>
+                        <graphic url="http://www.loc.gov/pictures/item/2006679195/"/>
+                        <figDesc>Cartoon satirizing the price of quinine</figDesc>
+                     </figure>
+                  </note> the same as which
       <!-- Ken Angel's section ends here -->
       
       <!-- Lindsay Kelly's section starts here -->
@@ -6129,17 +6177,26 @@
                                   <placeName ref="#Callao">Callao</placeName>
                                   <lb/>the <choice><sic>1th</sic><corr>1st</corr></choice> of November is now Bound to the <placeName ref="#Marquesas">Marquesas 
                                      <lb/>Island</placeName><ptr type="noteAnchor" target="MarqIles"/>
-                                  <note resp="ed" xml:id="MarqIles">In <title level="m">Typee: A Peep at Polynesian Life During a Four Months' Residence in the Valley of the Marquesas</title> (1847),
-                                     Herman Melville writes about his life in the Marquesas. He describes the islands in a very detailed manner, so readers can get a sense of what the islands were like in
-                                     Louisa Doane's time. Melville writes: "The Marquesas! What strange visions of outlandish things does the very name spirit up! Lovely [women]--cannibal banquets--groves of cocoa-nuts--coral reefs--tatooed chiefs..."<bibl><ref target="#Melville">3</ref></bibl>
-                                     Though the islands were beautiful and exotic, people of the 19th century feared them. "Within the last few years American and English vessels engaged in the extensive whale fisheries of the Pacific
-                                     have...put into the commodious harbor which there is in one of the islands; but a fear of the natives, founded on the recollection of the dreadful fate which many white men have received at their hands,
-                                     has deterred their crews from intermixing with the population sufficiently to gain any insight in their peculiar customs and manners"<bibl><ref target="#Melville">4</ref></bibl>.
-                                     In his narrative, Melville hoped to discover more about the Marquesas in order to "withdraw the veil from regions so romantic and beautiful"<bibl><ref target="#Melville">4</ref></bibl><figure rend="link">
-                                        <head>19th Century Map</head>
-                                        <graphic url="http://www.loc.gov/pictures/item/2005692073/"></graphic>
-                                        <figDesc>Map of Islands in Herman Melville's narrative</figDesc>
-                                     </figure></note>
+                  <note resp="ed" xml:id="MarqIles">In <title level="m">Typee: A Peep at Polynesian
+                        Life During a Four Months' Residence in the Valley of the Marquesas</title>
+                     (1847), Herman Melville writes, "The Marquesas! What strange visions of
+                     outlandish things does the very name spirit up! Lovely [women]—cannibal
+                     banquets—groves of cocoa-nuts—coral reefs—tatooed chiefs . . ."<bibl><ref
+                           target="#Melville">3</ref></bibl> Though the islands were beautiful and
+                     exotic, Melville reports that people feared them: "Within the last few years
+                     American and English vessels engaged in the extensive whale fisheries of the
+                     Pacific have . . . put into the commodious harbor which there is in one of the
+                     islands; but a fear of the natives, founded on the recollection of the dreadful
+                     fate which many white men have received at their hands, has deterred their
+                     crews from intermixing with the population sufficiently to gain any insight in
+                     their peculiar customs and manners" <bibl><ref target="#Melville"
+                     >4</ref></bibl>. Melville hoped to discover more about the
+                     Marquesas in order to "withdraw the veil from regions so romantic and
+                           beautiful" <bibl><ref target="#Melville">4</ref></bibl> <figure rend="link">
+                        <head>19th Century Map</head>
+                        <graphic url="http://www.loc.gov/pictures/item/2005692073/"/>
+                        <figDesc>Map of Islands in Herman Melville's narrative</figDesc>
+                     </figure></note>
                                   to recruit and get water he caught a
                                   <lb/>Porpoise while coming to us which he gave us
                                   <lb/>he stopped to tea with us and then returned on 
@@ -6170,18 +6227,7 @@
           <pb facs="G226_D6_A3_1852-054a"/>
              <lb/><rs ref="#ATD">mother</rs> is quite sick has a severe <choice><sic>Caught</sic><corr>Cough</corr></choice> which
              <lb/>has brought on a Fever, This morning have
-             <lb/>given her some more <choice><sic>quine</sic><corr>quinine</corr></choice><ptr type="noteAnchor" target="Quinine"/>
-             <note resp="ed" xml:id="Quinine"><title level="m">A Treatise on the Physiological and Therapeutic Action of the Sulphate of Quinine</title> (1882), written by Otis Frederick Manson, M.D., 
-                a professor of physiology at the Medical College of Virginia, describes in detail the history and uses of quinine. The medicine was made from a bitter alkaloid found in cinchona bark.
-                In the 19th century, Quinine was known to not only dispel fever, but it also cured pain and swelling caused from malarial infections. Manson describes in detail the effects of quinine on a patient:
-                "I gave him twenty grains of quinine...and next morning, on awaking, the pain had vanished, and the inflammation of the muscles of the jaw 
-                and general swelling of the face had diminished to such a degree that he could eat his breakfast"
-                <bibl><ref target="#Manson">41</ref></bibl>
-                <figure rend="link">
-                   <head>Quinine</head>
-                   <graphic url="http://www.loc.gov/pictures/item/2006679195/"></graphic>
-                   <figDesc>Cartoon satirizing the price of quinine</figDesc>
-                </figure> </note>to keep it <choice><sic>offt</sic><corr>off</corr></choice>
+             <lb/>given her some more <choice><sic>quine</sic><corr>quinine</corr></choice> to keep it <choice><sic>offt</sic><corr>off</corr></choice>
              <lb/>It has got into <choice><sic>Systum</sic><corr>System</corr></choice> and it is hard to throw
              <lb/>it <choice><sic>offt</sic><corr>off</corr></choice>
           </p></div>      
@@ -6203,13 +6249,18 @@
                 <lb/><rs ref="#ATD">Mother</rs> is quite smart again, This morning
                 <lb/>the <rs ref="#FirstOfficer">first Officer</rs> passed up a Barrel of Pilot
                 <lb/>bread<ptr type="noteAnchor" target="PilotBread"/>
-                <note resp="ed" xml:id="PilotBread">In <title level="m">The Complete Bread, Cake and Cracker Baker</title> (1881) written by J. Thompson Gill,
-                   Gill describes the ingredients and cooking practices of Pilot Bread: "Sea-biscuits, pilot bread and plain crackers, those without 'shortening' of butter or lard, are simply 
-                   flour and water worked into a tough dough and baked instead of being air or sun dried as macaroni and vermicelli are. They are usually made of northern grown wheat, containing more
-                   starch and less gluten than macaroni"<bibl><ref target="#Gill">55</ref></bibl>. Pilot Bread is also described in terms of seafaring in the <title level="m">Appletons' Journal of Literature,
-                      Science and Art</title>, on January 14 of 1871. In a seemingly fictional story entitled "At Sea" by A. Jones, Pilot bread is used not only as a diet staple but also as a remedy for seasickness. "Snedicor
-                   intends you to be sea-sick. Now, if you will just nibble pilot's-bread for a day, and sip champagne--a table-spoonful at a dose--you will probably escape. Seasickness is all a notion anyhow" <bibl><ref target="#Appletons">44</ref></bibl>.
-                </note>
+                  <note resp="ed" xml:id="PilotBread">In <title level="m">The Complete Bread, Cake
+                        and Cracker Baker</title> (1881), J. Thompson Gill describes the ingredients
+                     and cooking of Pilot Bread: "Sea-biscuits, pilot bread and plain crackers,
+                     those without 'shortening' of butter or lard, are simply flour and water worked
+                     into a tough dough and baked instead of being air or sun dried as macaroni and
+                     vermicelli are. They are usually made of northern grown wheat, containing more
+                     starch and less gluten than macaroni" <bibl><ref target="#Gill"
+                     >55</ref></bibl>. In a seemingly fictional story entitled "At Sea" by A. Jones,
+                     Pilot bread is used not only as a diet staple but also as a remedy for
+                     seasickness: "Now, if you will just nibble pilot's-bread for a day, and sip
+                     champagne—a table-spoonful at a dose—you will probably escape. Seasickness is
+                     all a notion anyhow" <bibl><ref target="#Appletons">44</ref></bibl>. </note>
                 
                 come to open it found it was <distinct type="archaicorthography"><choice><orig>halfe</orig><reg>half</reg></choice></distinct>
                 <lb/>gone It <choice><sic>sits</sic><corr>sat</corr></choice> near one of the Prison and
@@ -6307,10 +6358,13 @@
                 <lb/>3 miles from the Shore. <rs ref="#END">Father</rs> has gone on shore
                 <lb/>and when he returned he informed us that
                 <lb/><persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Miller</persName> of the Clipper ship
-                <ptr type="noteAnchor" target="CSX"/><note resp="ed" xml:id="CSX">A type of ship built by Americans beginning in the late 1840's.  Clipper ships were built for speed.
-                   They could deliver cargo in better condition than other ships because they labored and strained less.  
-                   Clipper ships gained popularity with the California gold rush of the 1850's because they could sail faster.
-                   <bibl><ref target="#clipperShip">"The Clipper Ship Era"</ref></bibl></note> <name type="ship">Dauntless</name>
+                <ptr type="noteAnchor" target="CSX"/>
+                  <note resp="ed" xml:id="CSX">Clipper ships, built beginning in the
+                     late 1840's, were designed for speed. They could deliver cargo in
+                     better condition than other ships because they labored and strained less.
+                     Clipper ships gained popularity with the California gold rush of the 1850's
+                     because they could sail faster <bibl><ref target="#clipperShip">"The Clipper
+                           Ship Era"</ref></bibl>.</note> <name type="ship">Dauntless</name>
                 <lb/>an old acquaintance of his had his Wife and
                 <lb/>Daughter with him and they were coming on
                 <lb/>board to see us <rs ref="#ATD">Mother</rs> is still gaining
@@ -6377,7 +6431,11 @@
                 <lb/>and found they all were at <choice><sic>liberaty</sic><corr>liberty</corr></choice> and had
                 <lb/>thrown <choice><sic>theirs</sic><corr>their</corr></choice> Irons overboard <rs ref="#END">Father</rs> came off
                 <lb/>with an armed Force and had their hands
-                <lb/>and feet tied to a ring bolt <ptr type="noteAnchor" target="RingBolt"/><note resp="ed" xml:id="RingBolt">According to the OED, a ring bolt is "a bolt with an eye at one end, to which a ring is attached".  They fastened into the ship's deck and were used for a variety of purposes.<bibl><ref target="OED">(OED)</ref></bibl></note> in the deck
+                <lb/>and feet tied to a ring bolt <ptr type="noteAnchor" target="RingBolt"/>
+                  <note resp="ed" xml:id="RingBolt">A ring bolt—"a bolt
+                     with an eye at one end, to which a ring is attached"—were fastened to the
+                     ship's deck and were used for a variety of purposes <bibl><ref target="OED"
+                           >(OED)</ref><title level="m">Oxford English Dictionary</title></bibl></note> in the deck
                 <lb/>after Breakfast <rs ref="#END">he</rs> went on shore to see what
                 <lb/>would be done with them an American ship
                 <lb/>has just came in and anchored closed to us
@@ -6419,11 +6477,11 @@
                 <pb facs="G226_D6_A3_1852-057b"/>
                 <lb/>you could mention from there <rs ref="#END">Father</rs> went to the
                 <lb/>American Ship Chandlery<ptr type="noteAnchor" target="ShipChand"/>
-                  <note resp="ed" xml:id="ShipChand"> In the text "Mobile, Her Trade, Commerce and
-                     Industries, 1883-4", John Land describes the duties of a ship chandler, a port
-                     retailer boat captains relied upon for anything from tools and equipment to
+                  <note resp="ed" xml:id="ShipChand"> In "Mobile, Her Trade, Commerce and
+                     Industries, 1883-4", John Land describes a ship chandler as a port
+                     retailer that boat captains relied upon for anything from tools and equipment to
                      food supplies and paper goods <bibl><ref target="JEL"
-                     >(101)</ref></bibl>.</note> and I <choice><sic>stop</sic><corr>stopped</corr></choice> there <distinct type="archaicorthography" time="18-19"><choice><orig>untill</orig><reg source="OED">until</reg></choice></distinct>
+                     >101</ref></bibl>.</note> and I <choice><sic>stop</sic><corr>stopped</corr></choice> there <distinct type="archaicorthography" time="18-19"><choice><orig>untill</orig><reg source="OED">until</reg></choice></distinct>
                 <lb/><rs ref="END">he</rs> had <choice><sic>order</sic><corr>ordered</corr></choice> what <rs ref="END">he</rs> wished and we then 
                 <lb/>returned by the way of the Ship <name type="ship">California Packet</name>
                 <lb/><persName ref="#Gardner"><choice><sic>Captian</sic><corr>Captain</corr></choice> Gardner</persName> the one that has his Wife on 
@@ -6453,8 +6511,13 @@
       <!-- Beau Peiffer's section starts here. -->
                 <pb facs="G226_D6_A3_1852-058a"/>
                 <lb/> I went along of the Ship <name type="ship">California Packet</name>
-                <ptr type="noteAnchor" target="Packet"/><note resp="ed" xml:id="Packet">The Oxford English Dictionary defines a packet ship as a boat or ship travelling at regular intervals between two ports, originally for the conveyance of mail, later also of goods and passengers; a mailboat. In Doane's case, the packet ships could have been the only means of communication to the mainland.
-                   <bibl><ref target="Packet">OED</ref></bibl></note>
+                <ptr type="noteAnchor" target="Packet"/>
+                  <note resp="ed" xml:id="Packet">A packet
+                     ship travels "at regular intervals between two ports,
+                     originally for the conveyance of mail, and later also of goods and passengers; a
+                     mailboat." In Doane's case, the packet ships could have been the chief means of
+                     communication with the mainland <bibl><ref target="Packet"
+                     ><title level="m">Oxford English Dictionary</title></ref></bibl>.</note>
                 <lb/> and <persName>Mrs Gardener</persName> <choice><sic>accompanayed</sic><corr>accompanied</corr></choice> us on Shore
                 <lb/> we went to the Market bought a number little
                 <lb/> Stores then went to the American Hotel stop there
@@ -6524,14 +6587,18 @@
              <lb/><dateline><date when= "1853-04-28"></date> Thursday April 28th</dateline>
              <p> 
                 <lb/> The <rs ref="#ChinchaI">Island</rs> is a Solid Rock
-                <lb/> about 150 High and the Guano<ptr type="noteAnchor" target="Guano"/><note resp="ed" xml:id="Guano">The June, 1920 issue of National Geographic Magazine describes guano (bird or bat droppings) as an international commodity for fertilization purposes.  The high quantity of nitrates created larger crop yields for farmers.  During the height of Peru's golden age of guano, around 1840
-                   to 1880, it has been estimated that the Peruvians excavated over 20,000,000 tons of guano for export, creating around $2 billion in profits.<bibl><ref target="Guano">537-566</ref></bibl></note> is upon the top
+                <lb/> about 150 High and the Guano is upon the top
                 <lb/> The way they load the ships is The Ship close
                 <lb/> in and the <rs ref="#ChinchaI">Island</rs> and they have a <choice><sic>shoot</sic><corr>chute</corr></choice>
                 <lb/> made of <choice><sic>Canvass</sic><corr>Canvas</corr></choice> which leads from the top of
                 <lb/> <rs ref="#ChinchaI">Island</rs> into the Ships Hole a distance of 100 feet
                 <lb/> and they <choice><sic>pore</sic><corr>poured</corr></choice> the Guano through it. then they
-                <lb/> have small <choice><sic>Shoot</sic><corr>chute</corr></choice> for boats to Ballast<ptr type="noteAnchor" target="ballast"/><note resp="ed" xml:id="ballast">The Oxford English dictionary defines a ballast as any heavy material, such as gravel, sand, metal, water, etc., placed in the hold of a ship to weigh it down in the water and prevent it from capsizing when under sail or in motion. In Doane's case, the crew used guano as their ballast.<bibl><ref target="ballast">OED</ref></bibl></note> Ships
+                <lb/> have small <choice><sic>Shoot</sic><corr>chute</corr></choice> for boats to Ballast<ptr type="noteAnchor" target="ballast"/>
+                     <note resp="ed" xml:id="ballast">Ballast consists of any heavy material, such
+                        as gravel, sand, metal, water, etc., placed in the hold of a ship to weigh
+                        it down in the water and prevent it from capsizing when under sail or in
+                        motion. For its trip home from Peru, the <name type="ship"
+                           >Commonwealth</name> used guano as ballast.</note> Ships
                 <lb/> The Guano smells something like <unclear/>
                 <lb/> there is nothing to be seen <choice><sic>olny</sic><corr>only</corr></choice> a few Huts on
                 <lb/> the <rs ref="#ChinchaI">Island</rs> where the laborers that work on
@@ -6541,8 +6608,7 @@
       <!-- Krysta Ruley's section starts here. -->
                 <pb facs="G226_D6_A3_1852-059b"/>
                 <lb/>to <choice><sic>lett</sic><corr>let</corr></choice>them know we are ready to take in and
-                <lb/>to get a Lighter<ptr type="noteAnchor" target="LighterKR"/>
-                <note resp="ed" xml:id="LighterKR">A boat or vessel used to carry goods from a ship to the shore or from the shore to a ship<bibl><ref target="Lighter">Lighter</ref></bibl></note> to Ballast with They gave him
+                <lb/>to get a Lighter to Ballast with They gave him
                 <lb/>a 20 Ton Lighter and told him he would have
                 <lb/>to load with Lighters, when he returned he
                 <lb/>brought the Doctor off with him to see <rs ref="ATD">Mother</rs>
@@ -6587,8 +6653,8 @@
                 <lb/>on board of the Ship <name type="ship"><unclear>Souter Johny</unclear></name> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
                    <lb/>Small</persName> and <rs ref="LAD">I</rs> went with <rs ref="END">him</rs> as <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Cam<seg type="softhyphen">-
                       <lb/></seg>el</persName> of the Bark <name type="ship">Royal <choice><sic>Saxton</sic><corr>Saxon</corr></choice></name><ptr type="noteAnchor" target="BRS"/>
-                <note resp="ed" xml:id="BRS">probably the Royal Saxon that arrived at Baltimore on
-                   March 16, 1854<bibl><ref target="BRS">NYT3</ref></bibl></note> who has his Wi<seg type="softhyphen">-
+                <note resp="ed" xml:id="BRS">Probably the <name type="ship">Royal Saxon</name> that arrived at Baltimore on
+                   March 16, 1854 <bibl><ref target="BRS"><title level="a">Shipping Intelligence</title></ref></bibl>.</note> who has his Wi<seg type="softhyphen">-
                    <lb/></seg>fe was stopping on board of the <name type="ship"><unclear>Soutter Johny</unclear></name>
                 <lb/>as his Bark was under the <choice><sic>Shoot</sic><corr>chute</corr></choice> loading
                 <lb/>They have a little Daughter 3 weeks old
@@ -6629,7 +6695,10 @@
                 <lb/>This morning we went up close
                 <lb/>to the Island and then went on board the
                 <lb/><name type="ship">California Packet</name><ptr type="noteAnchor" target="CP"/>
-                <note resp="ed" xml:id="CP">probably the California Packet that cleared the New York Harbor on April 17, 1852<bibl><ref target="Packet">NYT</ref></bibl></note> she has a large Cabin
+                     <note resp="ed" xml:id="CP">Probably the <name type="ship">California
+                           Packet</name> that cleared New York Harbor on April 17, 1852<bibl><ref
+                              target="Packet">NYT</ref><title level="a">Marine
+                           Intelligence</title></bibl>.</note> she has a large Cabin
       <!-- Krista Ruley's section ends here -->
       
       <!-- Cory Sheetz's section starts here -->
@@ -6686,10 +6755,7 @@
              <lb/><dateline><date when="1853-05-10"><choice><sic>Tusday</sic><corr>Tuesday</corr></choice> May 10th</date></dateline>
              <p>
                 <lb/><distinct type="archaicorthography" time="17-17"><choice><orig>Pleasent</orig><reg source="OED">Pleasant</reg></choice></distinct> day have been on
-                <lb/>board of the <name type="ship" ref="#CPacket">Packet</name><ptr
-                   type="noteAnchor" target="CPacket"/>
-                <note resp="ed" xml:id="CPacket">More than likely the same California Packet that cleared the New York Harbor on April 17, 1852
-                   <bibl><ref target="#CPacket">New York Times</ref></bibl></note> and spent the day and
+                <lb/>board of the <name type="ship" ref="#CPacket">Packet</name> and spent the day and
                 <lb/>while there <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Corner</persName> came on board
                 <lb/>and invited us on board of <name type="ship">James Corner</name>
                 <lb/>the next day to dine
@@ -6711,15 +6777,18 @@
                 <lb/>her Dessert was Fruit after Dinner we went
                 <lb/>up on the Quarter Deck and the <choice><sic>Captians</sic><corr>Captains</corr></choice>
                 <lb/>went out to Pilot in the Ship <name type="ship">General Wa<seg type="softhyphen">-
-                   <lb/></seg>shington</name> was coming in and also the Bark<ptr type="noteAnchor"/>
-                <note resp="ed" xml:id="Bark">A barque or bark is a term given to any three-masted sailing vessel with a specific sail-plan,
-                   typically referring to ships with a square-rigged fore- and main-mast and fore-and-aft-rigged mizenmast <bibl><ref target="#Bark">OED</ref></bibl>
-                   <figure rend="link">
-                      <head>Bark Ship</head>
-                      <graphic url="http://lcweb2.loc.gov/service/pnp/cph/3a10000/3a15000/3a15100/3a15114r.jpg"></graphic>
-                      <figDesc>Picture of a bark ship, ca. 1870</figDesc>
-                   </figure>
-                </note> <name type="ship">
+                   <lb/></seg>shington</name> was coming in and also the Bark<ptr type="noteAnchor" target="Bark"/>
+                     <note resp="ed" xml:id="Bark">A barque or bark is "a three-masted vessel with
+                        fore- and main-masts square-rigged, and mizenmast ‘fore-and-aft’ rigged"
+                              <bibl><ref target="#Bark"><title level="m">Oxford English
+                                 Dictionary</title></ref></bibl>
+                        <figure rend="link">
+                           <head>Illustration of a Bark, ca. 1870</head>
+                           <graphic
+                              url="http://lcweb2.loc.gov/service/pnp/cph/3a10000/3a15000/3a15100/3a15114r.jpg"/>
+                           <figDesc>Picture of a bark ship, ca. 1870</figDesc>
+                        </figure>
+                     </note> <name type="ship">
                    <lb/><unclear>Lochlibo</unclear></name> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Baird</persName> which we left in
                 <lb/><placeName ref="#Acapulco">Acapulco</placeName> <persName><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> was his Pilot
                 <lb/>returned on board at 5 oclock
@@ -6788,9 +6857,15 @@
                 <lb/>found them all very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> and agreeable
                 <lb/>after Dinner the <choice><sic>Captian</sic><corr>Captain</corr></choice> went out sailing
                 <lb/>we played on the <choice><sic>Accordan</sic><corr>Accordion</corr></choice>and sung today
-                <lb/>have finished Ballasting <ptr type="noteAnchor" target="Ballasting"/><note resp="ed" xml:id="Ballasting">A 'Ballast' is any heavy material, such as gravel, sand, metal, water, etc., placed in the hold of a ship to weigh it down in the water and prevent it from capsizing when under sail or in motion. The OED gives the example from 1887 by Charles Kingley of ballasting a ship with pebbles. Doane does not specificly say what is used in this situation.<bibl><ref target="OxfordEnglishDictionary">Oxford English Dictionary</ref></bibl></note> and they have taken
-                <lb/>the Lighter <ptr type="noteAnchor" target="LighterLS"/><note resp="ed"
-                   xml:id="LighterLS">A Lighter is a type of boat or vessel, usually a flat-bottomed barge, used in lightening or unloading (sometimes loading) ships that cannot be discharged (or loaded) at a wharf, and for transporting goods of any kind, usually in a harbour. Doane had just mentioned that the crew had been weighing down the ship, which must be in preparation for the Lighter's arrival.<bibl><ref target="OxfordEnglishDictionary">Oxford English Dictionary</ref></bibl></note> away saying we cannot load
+                <lb/>have finished Ballasting <ptr type="noteAnchor" target="Ballasting"/>
+                     <note resp="ed" xml:id="Ballasting">A 'Ballast' is any heavy material, such as
+                        gravel, sand, metal, water, etc., placed in the hold of a ship to weigh it
+                        down in the water and prevent it from capsizing when under sail or in
+                        motion. The OED gives the example from 1887 by Charles Kingley of ballasting
+                        a ship with pebbles. Doane does not specificly say what is used in this
+                              situation.<bibl><ref target="OxfordEnglishDictionary">Oxford English
+                              Dictionary</ref></bibl></note> and they have taken
+                <lb/>the Lighter away saying we cannot load
                 <lb/>in boats shall have to wait <choice><sic>untill</sic><corr>until</corr></choice>our
                 <lb/>turns comes and go under the Ships <choice><sic>Shoot</sic><corr>chute</corr></choice>,
              </p>
@@ -6832,8 +6907,10 @@
                <pb facs="G226_D6_A3_1852-064a"/>      
                <lb/><geogName>Middle Island</geogName>. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice></persName>and <persName>Mrs Gardner</persName> have
                <lb/>come on board to go around with us to the other
-               <lb/><geogName>Island</geogName> after dinner we <choice><sic>sot</sic><corr>set</corr></choice> our Ensign <ptr type="noteAnchor" target="Ensign"/><note resp="ed" xml:id="Ensign">
-                  On 18th century ships, the flag of a ship was sometimes lowered as a salute or sign of respect to other ships.<bibl><ref target="DK">"Kemp 534"</ref></bibl></note> which is
+               <lb/><geogName>Island</geogName> after dinner we <choice><sic>sot</sic><corr>set</corr></choice> our Ensign <ptr type="noteAnchor" target="Ensign"/>
+                     <note resp="ed" xml:id="Ensign"> On 18th century ships, the flag (or "colors") was
+                        sometimes lowered as a salute or sign of respect to other ships.<bibl><ref
+                              target="DK">"Kemp 534"</ref></bibl>.</note> which is
                <lb/>a signal for the <choice><sic>Captians</sic><corr>Captains</corr></choice>to come on board if
                <lb/>they choose to do so and then we began to heave
                <lb/>the Anchor and before it was hove up there
@@ -6870,8 +6947,7 @@
                    <lb/></seg>dle Island</geogName> as <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Gardner</persName> is coming 
                 <choice><sic>across<seg
                    type="softhyphen"><lb/>d</seg></sic><corr>across<lb/></corr></choice> to this
-                <geogName>Island</geogName> we <choice><sic>sot</sic><corr>set</corr></choice> our Ensign <ptr type="noteAnchor" target="EnsignES"/>
-                <note resp="ed" xml:id="EnsignES">On 18th century ships, the flag of a ship was sometimes lowered as a salute or sign of respect to other ships.<bibl><ref target="DK">"Kemp 534"</ref></bibl></note>to welcome
+                <geogName>Island</geogName> we <choice><sic>sot</sic><corr>set</corr></choice> our Ensign to welcome
                 <lb/>them around she came at an Anchor about 12
                 <lb/>oclock <rs ref="#END">Father</rs> was Pilot she was towed as
                 <lb/>there were no wind.
@@ -6881,8 +6957,10 @@
              <lb/><dateline><date when="1853-06-18">Saturday June 18th</date></dateline>
              <p>
                 <lb/><rs ref="#END">Father</rs> took the Gig boat <ptr type="noteAnchor"
-                   target="GBES"/><note resp="ed" xml:id="GBES">A gig boat would have
-                   been carried on the boat that Louisa Doane was on. Captain Doane would have used a gig boat to travel back and forth between shore and his ship.<bibl><ref target="HCF">"Folkard 82</ref></bibl></note> in
+                   target="GBES"/>
+                     <note resp="ed" xml:id="GBES">Captains used a gig boats to travel
+                        back and forth between shore and their ships.<bibl><ref target="HCF"></ref>Folkard
+                              82</bibl>.</note> in
                 <lb/>yesterday and has had her all cleaned and painted
                 <lb/>inside and out and <rs ref="#ATD">mother</rs> and <choice><sic>myselfe</sic><corr>myself</corr></choice>have
                 <lb/>been making her some cushions and washing
@@ -6912,7 +6990,10 @@
                 <lb/>White and Gilt - The after one Black Walnut
                 <lb/><choice><sic>Mahogny</sic><corr>Mahogany</corr></choice>Satin Wood The Furniture was a Sofa
                 <lb/>a <choice><sic>Ottaman</sic><corr>ottoman</corr></choice> a <choice><sic>Easey</sic><corr>Easy</corr></choice>Chair and <choice><sic>Gentlmans</sic><corr>Gentleman's</corr></choice>chair <ptr type="noteAnchor" target="GC"/>
-                <note resp="ed" xml:id="GC">Similar to a modern day recliner, a gentleman's chair would have been a chair that extended to the comfort of the sitter. A desk is able to be attached to the arm.<bibl><ref target="JW">"Whiting 48"</ref></bibl></note>
+                     <note resp="ed" xml:id="GC">Similar to a modern day recliner, a gentleman's
+                        chair would have extended for the comfort of the sitter. A
+                        desk might be attached to the arm.<bibl><ref target="JW"></ref>Whiting
+                              48</bibl>.</note>
                 <lb/> and a marble top Center Table cover with Velvet
                 <lb/>Plush stop untill 9 <choice><sic>oclock</sic><corr>o'clock</corr></choice>in the evening after
                 <lb/>tea <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Dunbar</persName> and <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>Sears</persName> came
@@ -7025,20 +7106,32 @@
                 <lb/>I will now tell you what we had. Soups
                 <lb/>Roast Pig Roast Turkey Roast Chicken
                 <lb/>Roast Beef Roast Lamb.
-             </p><p><lb/>Boiled Ham Boiled Tongue<ptr type="noteAnchor" target="BT"/> <note resp="ed" xml:id="BT">Tongue was a common animal part eaten at this time.
-                It is unclear from what animal the tongue Doane is talking about was from but most likely it is from lamb or beef. Boiled tongue is prepared by boiling it
-                for 5 to 6 hours and letting it sit over night.  Then the skin of the tongue is peeled off and the tongue is cut in thin slices.<bibl><ref target="#BoiledTongue">"The Country Cook cook book"</ref></bibl></note> Boiled Chickens
+             </p><p><lb/>Boiled Ham Boiled Tongue<ptr type="noteAnchor" target="BT"/> 
+                     <note resp="ed" xml:id="BT">Tongue was a common animal part eaten at this time.
+                        It is unclear to what sort of tongue Doane refers,
+                        but most likely it is lamb or beef. Boiled tongue was prepared by
+                        boiling it for 5 to 6 hours and letting it sit over night. Then the skin of
+                        the tongue was peeled off and the tongue cut in thin slices.<bibl><ref
+                              target="#BoiledTongue"><title level="m">The Country Cook Cook
+                        Book</title></ref></bibl>.</note> Boiled Chickens
                 <lb/>Boiled Mutton and all kinds of Green Vegatable.
                 <lb/>which was mostly preserved <choice><sic>Dersert</sic><corr>Dessert</corr></choice>. Plum
                 <lb/>Puddings Mince Apple Gooseberry Current
-                <lb/>Orange Pies. <choice><sic>Calfes</sic><corr>calf's</corr></choice> foot Jelly<ptr type="noteAnchor" target="CFJ"/> <note resp="ed" xml:id="CFJ">Calf's foot jelly was commonly made to accompany other foods.  
-                   It was made by boiling the calf's feet, draining the well done feet through a double silksieve, 
-                   adding sugars and spices, and then strained until it is transparent. <bibl><ref target="#CalfsFeetJelly">"The French Cook"</ref></bibl></note>Blanche Man<seg type="softhyphen">-
-                      <lb/></seg>ge<ptr type="noteAnchor" target="BM"/><note resp="ed" xml:id="BM">Blanche-Mange is made by boiling Carrageen (also known as Irish Moss) then adding milk, lemon, white wine, or anything sweet. This mixture was recommended as a breakfast food for
-                         patients with consumption as well as children with scrofulous or "rickety dieases."<bibl><ref target="#BlancheMange">"Arcana of Science and Art"</ref></bibl></note>. Fruits, Oranges Apples <choice><sic>Banaha</sic><corr>Banana</corr></choice> <unclear cert="medium" reason="spelling?">Cherries</unclear>
+                <lb/>Orange Pies. <choice><sic>Calfes</sic><corr>calf's</corr></choice> foot Jelly<ptr type="noteAnchor" target="CFJ"/> 
+                     <note resp="ed" xml:id="CFJ">Calf's foot jelly, commonly made to accompany
+                        other foods, was made by boiling the calf's feet, draining the well-done
+                        feet through a double silk sieve, adding sugars and spices, and then straining it
+                        until transparent. <bibl><ref target="#CalfsFeetJelly"></ref>Ude</bibl>.</note>Blanche Man<seg type="softhyphen">-
+                      <lb/></seg>ge.<ptr type="noteAnchor" target="BM"/>
+                     <note resp="ed" xml:id="BM">Blanche-Mange is made by boiling Carrageen (also
+                        known as Irish Moss) then adding milk, lemon, white wine, or anything sweet.
+                        This mixture was recommended as a breakfast food for patients with
+                        consumption as well as children with scrofulous or "rickety
+                              dieases" <bibl><ref target="#BlancheMange"></ref>"Arcana of Science and
+                              Art"</bibl>.</note> Fruits, Oranges Apples <choice><sic>Banaha</sic><corr>Banana</corr></choice> <unclear cert="medium" reason="spelling?">Cherries</unclear>
                 <lb/>Almonds and <choice><sic>Raisens</sic><corr>raisins</corr></choice> Lemon Ade <choice><sic>Champeign</sic><corr>Champagne</corr></choice>
                 <lb/><add place="above">&amp; <rs>Waiters</rs>, </add>and Wines. Then we returned on Deck
-                <lb/><choice><sic>proanade</sic><corr>promenade</corr></choice><ptr type="noteAnchor" target="Promenade"/><note resp="ed" xml:id="Promenade">The OED defines promenade as a leisurely walk especially in a public place so as to be seen by others.<bibl><ref target="#OED">"The Oxford English Dictionary"</ref></bibl></note> and Danced at 2 oclock. Lemon
+                <lb/><choice><sic>proanade</sic><corr>promenade</corr></choice> and Danced at 2 oclock. Lemon
                 <lb/>Ade, 4 <choice><sic>differince</sic><corr>different</corr></choice> kinds of Cake Cheese and
                 <pb facs="G226_D6_A3_1852-067b"/>
                 <lb/><unclear cert="high" reason="foreign word?">Mottois</unclear>. So after this we left in the <name type="ship">St Patrick</name>
@@ -7141,8 +7234,9 @@
              </p>
           </div>
           <div type="Entry" xml:id="Doane18530708a">
-             <lb/><dateline><date when="1853-07-08">Saturday July 8th<ptr type="noteAnchor" target="july8"/><note resp="ed" xml:id="july8">At this point,
-                Doane's dates drift out of sync with the calendar until Saturday, July 16.</note></date></dateline>
+             <lb/><dateline><date when="1853-07-08">Saturday July 8th<ptr type="noteAnchor" target="july8"/>
+                        <note resp="ed" xml:id="july8">At this point, Doane's dates drift out of
+                           sync with the calendar until Saturday, July 16.</note></date></dateline>
              <p>
                 <lb/>This is a very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct>
                 <lb/>day have been washing out a few things after
@@ -7157,7 +7251,7 @@
              <p>
                 <lb/>Today we have been on board
                 <lb/>of the Ship <name type="ship">Berlin</name> and spent the day it is a 
-                <lb/>fine Ship <choice><sic>altho</sic><corr>although</corr></choice> not a Clipper,<ptr type="noteAnchor" target="clip"/><note resp="ed" xml:id="clip">This was a new kind of merchant vessel that came about in the late 1840s. It was made to carry profitable cargo at much higher speeds than older ships. With this new kind of ship Doane's father(and other captains) could travel much faster(150 miles a day versus 250 miles a day) and therefore make more profit on their cargo.<bibl><ref target="TCSNVTFS">"The Clipper-Ship Nightingale vs. The Flying Scud"</ref></bibl></note> <name type="ship">The James Comer</name>
+                <lb/>fine Ship <choice><sic>altho</sic><corr>although</corr></choice> not a Clipper, <name type="ship">The James Corner</name>
                 <lb/>is under the <choice><sic>Shoot</sic><corr>chute</corr></choice> <choice><sic>loding</sic><corr>loading</corr></choice> fast. after Dinner
                 <lb/><persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice> Lowell</persName> and Wife and <choice><sic>Captian</sic><corr>Captain</corr></choice>
                 <pb facs="G226_D6_A3_1852-069b"/>
@@ -7184,7 +7278,11 @@
                    <lb/></seg>ner</name> as she was Loaded we ran down and 
                 <lb/>all the <choice><sic>Ladyes</sic><corr>ladies</corr></choice> gave her 3 Cheers. <persName><choice><sic>Captian</sic><corr>Captain</corr></choice>
                    <lb/>Corner</persName> looked up and <choice><sic>Wafed</sic><corr>Waved</corr></choice> his Hand<seg type="softhyphen">-
-                      <lb/></seg>Kerchief. We went unto the dry Good Store<ptr type="noteAnchor" target="DGS"/><note resp="ed" xml:id="DGS">Stores available at ship ports. These stores provided goods that were most likely very appealling to women, like Louisa Doane, who have been on board a ship with mostly male company. These stores sold china, silk, patterns for clothing, and many other items that would be appealling to females far from home.<bibl><ref target="TSB">"The Sewing Bird"</ref></bibl></note>
+                      <lb/></seg>Kerchief. We went unto the dry Good Store<ptr type="noteAnchor" target="DGS"/>
+                     <note resp="ed" xml:id="DGS">Typically available at ports, dry goods stores
+                        provided goods "textile fabrics and related things; articles of drapery,
+                        mercery, and haberdashery (as opposed to groceries)" <bibl><title level="m"
+                              >Oxford English Dictionary</title></bibl>.</note>
                 <lb/>where there were a few Boots Shoes and etc.
                 <lb/>they Gave us some very nice Wine
       <!-- Keisha Trott's section ends here -->
@@ -7316,8 +7414,7 @@
                    <lb/>to the <rs>Hotel</rs> and dined, We have a
                    <lb/>private Dining by ourselves, We stopped
                    <lb/>at the best <rs>Hotel</rs> at <placeName ref="#CallaoAV"><choice><sic>Calloa</sic><corr>Callao</corr></choice></placeName> and have
-                   <lb/>the best room Floor brick Cot Bedstead<ptr type="noteAnchor" target="CB"/>
-                   <note resp="ed" xml:id="CB"> A portable cot bedstead has been patented, designed to be used as a camp bedstead. It is of simple and cheap construction.<bibl><ref target="CB"></ref></bibl></note>
+                   <lb/>the best room Floor brick Cot Bedstead
                    <lb/>with a old Bed covered with a common
                    <lb/>bed Spread Wash Stand Cheap Look<seg type="softhyphen">-
                       <lb/></seg>ing Glass and a few Wooden Chairs

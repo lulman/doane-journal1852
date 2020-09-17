@@ -705,11 +705,11 @@
       <xsl:apply-templates/>
    </xsl:template>
    <xsl:template match="tei:note/tei:name[@type='ship']">
-      <em>
+      <xsl:element name="span"><xsl:attribute name="style">font-style:italic;</xsl:attribute>
          <xsl:apply-templates/>
-      </em>
+      </xsl:element>
    </xsl:template>
-   <xsl:template match="tei:person/tei:name[@type='ship']">
+      <xsl:template match="tei:person/tei:name[@type='ship']">
       <em>
          <xsl:apply-templates/>
       </em>
