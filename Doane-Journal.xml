@@ -2771,19 +2771,21 @@
          
          <pb facs="G226_D6_A3_1852-001a"/>
          <div type="endpaper">
-            <figure rend="link">               
+            <p>
+               <lb/><figure rend="link">               
                <head>Stationer's label affixed to paste-down endpaper.</head>
-               <graphic url="G226_D6_A3_1852-001a"/>
+               <graphic url="G226_D6_A3_1852-001a.jpg"/>
                <figDesc>[Within an oval border] SOLD by LAMBERT &amp; LANE, | Stationers, | 69 WALL St. | N.Y.</figDesc>               
             </figure>
-            <p><handShift new="#H2"/><add place="margin">5/-</add></p>
+            <handShift new="#H2"/><add place="margin">5/-</add>
+            </p>
          </div>
          <pb facs="G226_D6_A3_1852-001b"/>
          <div type="titlepage">
-            <p>
+            <p><lb/>
                <add place="margin">1E22</add> 
-               <add place="margin">RMT | 173</add> 
-               <add place="margin">$5000—</add>
+               <add place="margin">RMT 173</add> 
+               <add place="margin">$5000—</add><ptr type="noteAnchor" target="pencilnote"/><note resp="ed" xml:id="pencilnote">Penciled text in an unknown hand.</note>
             </p>
             <p>
                <lb/><handShift new="#LADHand"/><persName ref="#LAD">Miss Louisa A Doane</persName>

@@ -382,6 +382,7 @@
             <xsl:element name="div">
                <xsl:attribute name="id">maintext</xsl:attribute>
                <xsl:element name="div"><xsl:attribute name="id">maincontent</xsl:attribute></xsl:element>
+               <xsl:apply-templates select="/tei:TEI/tei:text/tei:front"/>
                <xsl:apply-templates select="/tei:TEI/tei:text/tei:body"/>
                
             <!-- Insert, count, encode by cardinal position, and link the explanatory annotations. -->
@@ -391,13 +392,13 @@
                
                <h2>Explanatory Annotations</h2>
                <hr/>
-            <xsl:for-each select="//tei:body//tei:note[@resp='ed']">
+            <xsl:for-each select="//tei:text//tei:note[@resp='ed']">
                <xsl:choose>
                   <xsl:when test="position()>=100">
                      <p class="hang35"><a>
                         <xsl:attribute name="id">n<xsl:value-of select="@xml:id"/></xsl:attribute>
                         </a>
-                        <xsl:number count="//tei:body//tei:note[@resp='ed']" level="any"
+                        <xsl:number count="//tei:text//tei:note[@resp='ed']" level="any"
                         />.&#xA0;<xsl:apply-templates/>
                         <a>
                            <xsl:attribute name="href">#p<xsl:value-of select="@xml:id"/></xsl:attribute>
@@ -410,7 +411,7 @@
                      <p class="hang25"><a>
                         <xsl:attribute name="id">n<xsl:value-of select="@xml:id"/></xsl:attribute>
                         </a>
-                        <xsl:number count="//tei:body//tei:note[@resp='ed']" level="any"
+                        <xsl:number count="//tei:text//tei:note[@resp='ed']" level="any"
                         />.&#xA0;<xsl:apply-templates/>
                         <a>
                            <xsl:attribute name="href">#p<xsl:value-of select="@xml:id"/></xsl:attribute>
@@ -423,7 +424,7 @@
                      <p class="hang15"><a>
                            <xsl:attribute name="id">n<xsl:value-of select="@xml:id"/></xsl:attribute>
                         </a>
-                        <xsl:number count="//tei:body//tei:note[@resp='ed']" level="any"/>.&#xA0;<xsl:apply-templates/>
+                        <xsl:number count="//tei:text//tei:note[@resp='ed']" level="any"/>.&#xA0;<xsl:apply-templates/>
                         <a>
                            <xsl:attribute name="href">#p<xsl:value-of select="@xml:id"/></xsl:attribute>
                            <xsl:attribute name="class">annotation</xsl:attribute>
