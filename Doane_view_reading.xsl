@@ -15,21 +15,22 @@
    <!-- Declare variables that will "localize" references to them in Stephens-Common.xsl -->
    
    <xsl:variable name="View">Reading Text</xsl:variable>
-   <xsl:variable name="aboutView"> This presentation of the Dane journal derives from the project's
+   <xsl:variable name="aboutView"> This presentation of the Doane journal derives from the project's
       main XML file, Doane-Journal.xml, transformed with Doane_view_common.xsl and
       Doane_view_reading.xsl. In this "view" of the Doane journal, the text of the journal is
       organized by daily entries. The single horizontal line between daily entries has been added to
       the text to aid scanning the text; it does not appear in the manuscript. Line breaks in the
       manuscript are not reported; rather, lines wrap in the browser's window. Page breaks are not
       reported. Paragraph breaks follow those in the manuscript. Spelling, punctuation,
-      capitalization, and abbreviations are reported as they appear in the manuscript. Text
-      highlighted by Doane with an underscore is underscored in this view. Text canceled by Doane is
-      suppressed. Text added by Doane between lines or in the margins is silently incorporated into
-      the text. All material added by the editor is surrounded by square brackets: uncertain
-      readings are enclosed in square brackets and followed by a question mark, and text supplied by
-      the editor for clarity is set in italics and surrounded by square brackets. Gaps in the
-      manuscript (e.g., from tears) are indicated by elipses enclosed by square brackets. Links to
-      notes and external materials are colored and underlined. </xsl:variable>
+      capitalization, and abbreviations are reported as they appear in the manuscript (see the
+      Markup Guidelines appendix for more information about the treatment of Doane's orthography).
+      Text highlighted by Doane with an underscore is underscored in this view. Text canceled by
+      Doane is suppressed. Text added by Doane between lines or in the margins is silently
+      incorporated into the text. All material added by the editor is surrounded by square brackets:
+      uncertain readings are enclosed in square brackets and followed by a question mark, and text
+      supplied by the editor for clarity is set in italics and surrounded by square brackets. Gaps
+      in the manuscript (e.g., from tears or unrecoverable cancelations) are indicated by elipses
+      enclosed by square brackets. Links to notes are colored and superscripted. </xsl:variable>
    <xsl:variable name="bodyRule">
       body {
       font-family: 'Fanwood Text',georgia, serif;
