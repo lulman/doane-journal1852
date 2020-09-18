@@ -116,6 +116,9 @@
          <hr/><xsl:apply-templates/>
       </div>
    </xsl:template>
+   <xsl:template match="tei:div[@type='section']">
+         <xsl:apply-templates/>
+   </xsl:template>
    
    <xsl:template match="tei:opener/tei:lb">
       <br/><xsl:apply-templates/>

@@ -670,7 +670,7 @@
    </xsl:template>
    <xsl:template match="tei:choice/tei:expan"/>
    <!-- SUPPRESS sic AFTER CERTAIN WORDS -->
-   <xsl:template match="tei:choice/tei:sic[ not(.='Captian' or .='sot' or .='Colars' or .='colars')]">
+   <xsl:template match="tei:choice/tei:sic[ not(.='Captian' or .='Captians' or .='sot' or .='Colars' or .='colars' or .='Shoot')]">
       <xsl:apply-templates/> [<xsl:element name="span"><xsl:attribute name="style">font-style: italic;</xsl:attribute>sic</xsl:element>]
    </xsl:template>
       
