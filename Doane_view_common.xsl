@@ -739,7 +739,7 @@
          <xsl:attribute name="title"><xsl:value-of select="tei:figDesc"/> </xsl:attribute>
          <xsl:attribute name="target">_blank</xsl:attribute>
          <xsl:value-of select="tei:head"/>
-      </a>].
+      </a>]
    </xsl:template>
    
    <xsl:template match="tei:figure[@rend='namedanchor']">
