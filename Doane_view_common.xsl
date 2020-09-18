@@ -609,8 +609,9 @@
    <xsl:template match="tei:distinct/tei:choice/tei:reg"/>
    
    <!-- Editorial emendations -->
-   <xsl:template match="tei:supplied">[<xsl:apply-templates/>] </xsl:template>
-
+   <xsl:template match="tei:supplied">[<xsl:element name="span">
+      <xsl:attribute name="style" >font-style:italic;</xsl:attribute><xsl:apply-templates/></xsl:element>]
+   </xsl:template>
    <!-- Additions by the author or another hand. -->
    <xsl:template match="tei:add">
       <xsl:apply-templates/>
