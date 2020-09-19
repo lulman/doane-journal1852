@@ -2195,7 +2195,7 @@
                   <bibl><ref target="#NYGBR">NYGBR</ref>374</bibl>
                </person>
                <person xml:id="ATD">
-                  <persName>Thatcher, Almira</persName>
+                  <persName>Doane (née Thatcher), Almira</persName>
                   <birth when="1810-05-16">
                      <placeName>Dartmouth, MA</placeName>
                   </birth>
@@ -3908,20 +3908,22 @@
                <lb/>went to fishing caught one cod fish but be<seg type="softhyphen">-
                <lb/>fore</seg> they got him on <choice><sic>on</sic><corr></corr></choice> board they lost
                <lb/>him this morning saw three ships bound
-               <lb/>to <add place="above" rend="caret">the</add><choice><sic>Westard</sic><corr>Westward</corr></choice>
+               <lb/>to <add place="above" rend="caret">the</add> <choice><sic>Westard</sic><corr>Westward</corr></choice>
                </p>
             </div>
                <div type="Entry" xml:id="Doane18520620a">
-                <lb/><dateline><date when="1852-06-20">Sunday 20</date>,</dateline><p> This morning there was a thick
+                <lb/><dateline><date when="1852-06-20">Sunday 20</date>,</dateline>
+               <p>
+                <lb/>This morning there was a thick
                 <lb/><choice><sic>fogg</sic><corr>fog</corr></choice> and very wet <del rend="overwritten">t</del>and calm at twelve
                 <lb/>oclock the wind breeze up fair for us and
                 <lb/>the <choice><sic>fogg</sic><corr>fog</corr></choice> cleared <del
                    rend="overwritten">it</del>up at two oclock set studdi<seg type="softhyphen">
                 <lb/>ng</seg> sails with a fine little breeze yesterday we
-                   <lb/>lay becalm and the weather very <distinct type="archaicorthography"><orig><sic>unpleasent</sic><reg>unpleasant</reg></orig></distinct>
+                   <lb/>lay becalm and the weather very <distinct type="archaicorthography"><orig>unpleasent</orig><reg>unpleasant</reg></distinct> 
                 <lb/>and foggy, there are two ship in <choice><sic>sigh</sic><corr>sight</corr></choice> bound 
                    to <add place="below"><choice><sic>Westard</sic><corr>Westward</corr></choice></add>
-                </p>
+               </p>
               </div>
 </div>
     <!-- New York to Marseille voyage ends here. -->
