@@ -2815,7 +2815,7 @@
      <head>
         <handShift new="#LADHand"/>
         <lb/>A Journal from <placeName ref="#NYC">New York</placeName> towards <placeName
-     ref="#Marseille">Marseilles</placeName></head>
+     ref="#Marseille"><choice><sic>Marseilles</sic><corr>Marseille</corr></choice></placeName></head>
          <div type="Entry" xml:id="Doane18520206a">
             <lb/><dateline><date when="1852-02-06">Feb. friday 6</date></dateline>
             <p>At eleven p m the steam boat <lb/>made fast to us and in a few moments we 
@@ -3313,7 +3313,7 @@
                   <!-- Could she have meant "salve" here? -->
                  <lb/>carried it forward, and put it in <supplied reason="omitted" cert="medium">the</supplied>forecastle,
                  <lb/>and when he went to get it, it was gone,
-                 <lb/>some of the sailors had taken it, the <rs ref="#END"><choice><sic>Captian </sic><corr>Captain </corr></choice></rs>
+                 <lb/>some of the sailors had taken it, the <rs ref="#END"><choice><sic>Captian</sic><corr>Captain</corr></choice></rs>
                  <lb/>called the sailors and asked them, but they
                  <lb/>all deny it,
               </p>
@@ -3321,7 +3321,7 @@
            <div type="Entry" xml:id="Doane18520320a">
               
                  <lb/><dateline><date when="1852-03-20">Saturday 20</date>. </dateline><p>This is another calm day, this
-                 <lb/>morning the <rs ref="#END"><choice><sic>Captian </sic><corr>Captain </corr></choice></rs>called me very early, as
+                 <lb/>morning the <rs ref="#END"><choice><sic>Captian</sic><corr>Captain</corr></choice></rs> called me very early, as
                  <lb/>there was a boat coming along side, they
                  <lb/>wanted to know if we wanted some <choice><sic>fisk</sic><corr>fish</corr></choice>,
                  <lb/>then asked for some tobacco, and bread, <choice><sic>whick </sic><corr>which </corr></choice>
@@ -3345,7 +3345,7 @@
                  <lb/><choice><sic>to</sic><corr></corr></choice> us, as we have been out forty three days, and
                  <lb/>have seen nothing but sky and water, and a
                  <lb/>great deal of <distinct type="archaicorthography"><choice><orig>ruff </orig><reg>rough </reg></choice></distinct>weather, the wind is increasin<seg type="softhyphen">
-                 <lb/></seg>g, the <rs ref="#END"><choice><sic>Captian </sic><corr>Captain </corr></choice></rs><choice><sic>say </sic><corr>says </corr></choice><said aloud="true" direct="false">we shall have a <choice><sic>windey </sic><corr>windy </corr></choice>
+                 <lb/></seg>g, the <rs ref="#END"><choice><sic>Captian</sic><corr>Captain</corr></choice></rs> <choice><sic>say</sic><corr>says</corr></choice> <said aloud="true" direct="false">we shall have a <choice><sic>windey </sic><corr>windy </corr></choice>
                  <lb/>night,</said>
               </p>
            </div>
@@ -3449,7 +3449,7 @@
                  <lb/>came back and several Gentlemen with him,
                  <lb/>to get the manifest of the cargo and stores, then
                  <lb/><add place="above" rend="caret">the </add>sailors rowed the pilot on shore, at half past six
-                 <lb/>the <rs ref="#END"><choice><sic>Captian </sic><corr>Captain </corr></choice></rs>went on shore to see about a cook
+                 <lb/>the <rs ref="#END"><choice><sic>Captian</sic><corr>Captain</corr></choice></rs> went on shore to see about a cook
                  <lb/>house, as we are not allowed to have any fire
                  <lb/>or light, and the steward carried some coffee
                  <lb/>with him for breakfast, they charge four <choice><sic>frances </sic><corr>francs </corr></choice>
@@ -3461,8 +3461,8 @@
            <div type="Entry" xml:id="Doane18520401a">
                  <lb/><dateline><date when="1852-04-01">Thursday. April 1</date>. </dateline><p>This morning, we came on shore
                  <lb/>to board to American hotel. it is kept by a widow
-                 <lb/>lady, she is french. <choice><abbr>altho </abbr><expan>although </expan></choice> she had been in New<choice><sic><seg type="softhyphen">-
-                 <lb/></seg></sic><corr><lb/></corr></choice> York a number of years and could speak very
+                 <lb/>lady, she is french. <choice><abbr>altho </abbr><expan>although </expan></choice> she had been in New<seg type="softhyphen"><choice><sic>-</sic><corr> </corr></choice>
+                 <lb/></seg> York a number of years and could speak very
                  <lb/>good <choice><sic>english </sic><corr>English </corr></choice>.<ptr type="noteAnchor" target="AH"/>
                   <note resp="ed" xml:id="AH">It is hardly surprising that Doane's family chose to
                      stay in a hotel catering specifically for Americans if they held beliefs such as
@@ -3474,11 +3474,11 @@
                         excitement, on sudden impulses, to the committal of murders, assassinations,
                         and other acts of violence unknown in the North" <bibl><ref target="#Murray">430</ref></bibl>.</note>
                     It happened we <choice><sic>feel </sic><corr cert="high">fell </corr></choice> in with a
-                 <lb/><persName ref="#Eliott"><choice><sic>Captian </sic><corr>Captain </corr></choice>Eliott</persName> and his family an old acquaintan<seg type="softhyphen">
+                 <lb/><persName ref="#Eliott"><choice><sic>Captian</sic><corr>Captain</corr></choice> Eliott</persName> and his family an old acquaintan<seg type="softhyphen">
                     <lb/></seg>ce of ours which makes it very <distinct type="archaicorthography"><choice><orig>pleasent</orig><reg>pleasant</reg></choice></distinct> for
                  <lb/>us, the house is stone and all the floors and
-                 <lb/>stairs. there is no one here but <persName ref="#Eliott"><choice><sic>Captian </sic><corr>Captain </corr></choice>Eliott</persName>
-                 <lb/>besides ourselves, a <choice><sic>Captian </sic><corr>Captain</corr></choice>and three ladys—
+                 <lb/>stairs. there is no one here but <persName ref="#Eliott"><choice><sic>Captian</sic><corr>Captain</corr></choice> Eliott</persName>
+                 <lb/>besides ourselves, a <choice><sic>Captian</sic><corr>Captain</corr></choice> and three <choice><sic>ladys</sic><corr>ladies</corr></choice>—
                  <lb/>passengers left yesterday morning, I will now
                  <pb facs="G226_D6_A3_1852-012a"/>
                  <lb/>tell you what we had for dinner, beef soup
