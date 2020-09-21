@@ -133,16 +133,12 @@
                   <ul class="nav">
                      <li class="link"><a class="main"  href="./doane_journal.html#introduction">Historical Introduction</a>
                         <ul class="sub">
-                           <li><a href="./doane_journal.html#crossing">Shipboard Discipline</a></li>
-                           <li><a href="./doane_journal.html#julyfourth">4th of July Abroad</a></li>
-                           <li><a href="./doane_journal.html#epidemics">Epimenics at Sea</a></li>
-                           <li><a href="./doane_journal.html#merchantships">19th Century Merchant Vessels</a></li>
-                           <li><a href="./doane_journal.html#burialatsea">Burial at Sea</a></li>
-                           <li><a href="./doane_journal.html#medical">Medicine Aboard Ships</a></li>
-                           <li><a href="./doane_journal.html#food">Diet Aboard Ships</a></li>
-                           <li><a href="./doane_journal.html#gender">Gender and Class</a></li>
-                           <li><a href="./doane_journal.html#capehorn">Cape Horn</a></li>
-                           <li><a href="./doane_journal.html#discipline">Violence Aboard Ships</a></li>
+                           <li><a href="./doane_journal.html#MaritimeMarine">The Merchant Marine</a></li>
+                           <li><a href="./doane_journal.html#CapeHorn">Cape Horn</a></li>
+                           <li><a href="./doane_journal.html#GuanoMining">Guano Mining</a></li>
+                           <li><a href="./doane_journal.html#NothingButMen">Gender Aboard Ship</a></li>
+                           <li><a href="./doane_journal.html#Discipline">Discipline Aboard Ship</a></li>
+                           <li><a href="./doane_journal.html#Sickness">Sickness at Sea</a></li>
                         </ul>
                      </li>
                      <li class="link"><a class="main"  href="./sscox_journal.html#projectDescription">Editorial Introduction</a>
@@ -493,7 +489,7 @@
    <!-- Format the introductory notes. -->
       
    <xsl:template match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:notesStmt/tei:note[@type='introductory']">
-      <h2 id="introduction">Introduction</h2>
+      <h2 id="introduction">“Whatever Occurs on Board Worthy of Note”</h2>
       <hr/>
       <xsl:apply-templates/>
    </xsl:template>
@@ -688,7 +684,7 @@
       
    <xsl:template match="tei:TEI/tei:teiHeader/tei:revisionDesc">
        <hr style="border: 2px solid crimson;"/>
-         <h2 id="revision">Revision History</h2>
+         <h2 id="revHistory">Revision History</h2>
       <table style="width:90%; padding:5px">
          <tr>
             <td>
@@ -737,18 +733,21 @@
          <xsl:apply-templates/>
       </xsl:element>
    </xsl:template>
-   
-   <xsl:template match="//tei:p[not(@xml:id='CreativeCommons') and not(@rend='h3') and not(@class='epigraph') and not(@rend='epigraph')]">
+   <xsl:template match="//tei:p[not(@xml:id='CreativeCommons') and not(@rend='h3') and not(@class='epigraph') and not(@rend='epigraph') and not(@rend='extraSpace')]">
       <p>
          <xsl:apply-templates/>
       </p>
    </xsl:template>
+   <xsl:template match="tei:p[@rend='extraSpace']">
+      <p style="margin-top:2em">
+         <xsl:apply-templates/>
+      </p>
+   </xsl:template>
+   
    
    <xsl:template match="tei:q[@rend='block']">
       <div class="blockquote">
-        <br/>
          <xsl:apply-templates/>
-       <br/>
        <br/>
       </div>
    </xsl:template>
@@ -791,15 +790,15 @@
          <xsl:apply-templates/>
       </strong>
    </xsl:template>
-   <xsl:template match="emph[@rend='italics']">
-      <I>
+      <xsl:template match="tei:emph[@rend='italic']">
+         <span style="font-style:italic">
+            <xsl:apply-templates/>
+         </span>
+      </xsl:template>
+   <xsl:template match="tei:emph[@rend='italics']">
+      <span style="font-style:italic">
          <xsl:apply-templates/>
-      </I>
-   </xsl:template>
-   <xsl:template match="emph[@rend='italic']">
-      <I>
-         <xsl:apply-templates/>
-      </I>
+      </span>
    </xsl:template>
    <xsl:template match="emph[@rend='underline']">
       <U>
