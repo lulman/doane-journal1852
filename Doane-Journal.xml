@@ -5601,7 +5601,7 @@
             <lb/>inch long out of his nose thinks he cannot
             <lb/>live long from there we went sailing with
             <lb/><persName
-               ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice>Crawford</persName>
+               ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName>
             in his large sail boat went
             <lb/>out side of <rs ref="#END">the Harbor</rs> went on the beach
             <lb/>picked up a few shells then we came back
@@ -5652,7 +5652,7 @@
       <div type="Entry" xml:id="Doane18530124">
          <lb/><dateline><date when="1853-01-24"></date>Monday 24</dateline>
          <p>
-            <lb/>This morning the <persName><choice><sic>Captian</sic><corr>Captain</corr></choice></persName>of the Port
+            <lb/>This morning the <persName><choice><sic>Captian</sic><corr>Captain</corr></choice></persName> of the Port
             <lb/>came on board to look at the Piano he has
             <lb/>one but they time the Earthquake it was broken
             <lb/>has some thought of Buying it after dinner we
@@ -5819,7 +5819,7 @@
                <choice><sic>Fransisco</sic><corr>Francisco</corr></choice></placeName> with
             <lb/>over 11 hundred passengers on board which
             <lb/>is a great many 6 died last night The
-            <lb/>sickness is mostly among the Cabin pas<seg>
+            <lb/>sickness is mostly among the Cabin pas<seg type="softhyphen">
             <lb/></seg>sengers will not allow any of the passenger
             <lb/>to go on shore, A Doctor is on board all
             <lb/>the time from Shore to see that no one
@@ -6415,10 +6415,10 @@
                 <lb/>sick again with the Fever with a severe cough,
                 <lb/>Do not think I shall have an opportunity of
                 <lb/>going <placeName>Lima</placeName> as <rs ref="#ATD">mother</rs> is not able to go, The
-                <lb/>ship <name type="ship">Ottawa</name> <persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice>Crawford</persName> arrived on Thur<seg type="softhyphen">-
-                   <lb/></seg>sday beat us 2 days <persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice>Crawford</persName> has
+                <lb/>ship <name type="ship">Ottawa</name> <persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> arrived on Thur<seg type="softhyphen">-
+                   <lb/></seg>sday beat us 2 days <persName ref="#Crawford"><choice><sic>Captian</sic><corr>Captain</corr></choice> Crawford</persName> has
                 <lb/>been on board to see us, when <rs ref="#END">Father</rs> returned
-                <lb/><persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice>Lowell</persName> of the Ship <name type="ship">Monteria</name> came
+                <lb/><persName ref="#Lowell"><choice><sic>Captian</sic><corr>Captain</corr></choice> Lowell</persName> of the Ship <name type="ship">Monteria</name> came
                 <lb/>on board with him he has his Wife with
                 <lb/>him he had a letter of introduction from
                 <lb/>our Friends in <placeName>California</placeName> They are bound to 
