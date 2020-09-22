@@ -380,18 +380,18 @@
                            >Golden Gate</name>, for their voyage occurs during the long transition
                         from sail to steam and (later) diesel.</p>
                      <p>Speed aside, the primary concern for the master of any maritime vessel was
-                        his responsibility for the ship and the ship's cargo (The American
-                        Ship-Master's Daily Assistant 1). According to maritime laws, the master of
-                        the vessel remained responsible for all damages occurring to cargo once
-                        aboard except for damages attributed to "an act of God" or theft by piracy
-                        at sea. Any damage occurring due to poor ship maintenance, theft occurring
-                        while at port, damage by the crew or sailors, and even damage by rats was
-                        deemed the legal responsibility of the captain. This responsibility shapes
-                        all aspects of life onboard, including ship maintenance, crew discipline,
-                        and record-keeping, and is reflected in Doane's repeated references to the
-                        ship's official documents (logs and manifests), her notations of weather and
-                        conditions at sea, and her documentation of port agents’ repeated
-                        embarkation and debarkation.</p>
+                        his responsibility for the ship and the ship's cargo (<title level="m">The
+                           American Ship-Master's Daily Assistant</title> 1). According to maritime
+                        laws, the master of the vessel remained responsible for all damages
+                        occurring to cargo once aboard except for damages attributed to "an act of
+                        God" or theft by piracy at sea. Any damage occurring due to poor ship
+                        maintenance, theft occurring while at port, damage by the crew or sailors,
+                        and even damage by rats was deemed the legal responsibility of the captain.
+                        This responsibility shapes all aspects of life onboard, including ship
+                        maintenance, crew discipline, and record-keeping, and is reflected in
+                        Doane's repeated references to the ship's official documents (logs and
+                        manifests), her notations of weather and conditions at sea, and her
+                        documentation of port agents’ repeated embarkation and debarkation.</p>
                      <p rend="h3" xml:id="CapeHorn">“The long dreaded Place”</p>
                      <p>The <name type="ship">Commonwealth</name>’s voyage followed a particularly
                         storied route: Cape Horn holds a unique place in the lore and ritual of sea
@@ -1205,18 +1205,16 @@
 
             <listBibl>
                <head>Works Cited</head>
-               <bibl xml:id="Hittel" n="Hitte">Hittel, John Shertzer. <title level="m"> "A history
-                     of the City of San Francisco"</title>San Francisco: A.L. Bancroft and Company,
+               <bibl xml:id="Hittel" n="Hitte">Hittel, John Shertzer. <title level="m">A History
+                     of the City of San Francisco</title>. San Francisco: A.L. Bancroft and Company,
                   1878.</bibl>
-               <bibl xml:id="Clipper" n="Clipp"><title level="m">"Clipper Ships"</title>Funk and
-                  Wagnall's Corporation, 1996.</bibl>
                <bibl xml:id="MCG" n="Glenn">Glenn, Myra C. <title level="a">The Naval Reform
                      Campaign Against Flogging: A Case Study in Changing Attitudes Toward Corporal
-                     Punishment, 1830-1850</title> American Quarterly. 35.4 (1983):408-425.</bibl>
+                     Punishment, 1830-1850.</title> <title level="j">American Quarterly</title>, 35.4 (1983): 408-425.</bibl>
                <bibl xml:id="Springer" n="Springer">Springer, Haskell. <title level="a">The
-                     Captain's Wife at Sea.</title><title level="m">Iron Men, Wooden Women: Gender
-                     and seafaring in the Atlantic world, 1700-1920</title>. Ed. Margaret S.
-                  Creighton and Linda Norling. Baltimore: The Johns Hopkins University Press, 1996.
+                     Captain's Wife at Sea.</title> <title level="m">Iron Men, Wooden Women: Gender
+                     and seafaring in the Atlantic world, 1700-1920</title>, ed. Margaret S.
+                  Creighton and Linda Norling, Baltimore: The Johns Hopkins University Press, 1996,
                   92-117.</bibl>
                <bibl xml:id="Druett" n="Druett">Druett, Joan. <title level="m">Hen Frigates: Passion
                      and Peril, Nineteenth Century Women at Sea</title>. New York: Simon and
@@ -1226,18 +1224,18 @@
                   Wives</title>. New York: Random House, 2007.</bibl>
                <bibl xml:id="Falconers" n="Falconer">Falconer, William. <title level="m">William
                      Falconer's Dictionary of the Marine</title>. London: Thomas Caddell, 1790.
-                     <title level="j">South Seas, National Library of Australia</title>. 21
+                     <title level="m">South Seas, National Library of Australia</title>. 21
                   Feb, 2010. </bibl>
                <bibl xml:id="Scurvy" n="King"> King, Frederick J., Harry Leach and John Picthall.
-                     <title level="a">Scurvy: To the Editor of the Times. </title>
-                  <title level="m"> The Times. </title> 12 January 1866: 7, col: F. PDF File.</bibl>
+                     <title level="a">Scurvy: To the Editor of the Times.</title>
+                  <title level="m">The Times.</title> 12 January 1866: 7, col: F.</bibl>
                <bibl xml:id="TGN" n="Getty">
                   <title level="m">Getty Thesaurus of Geographical Names</title>
                </bibl>
-               <bibl xml:id="Quarantine" n="Barring"> "Barring Out Epidemics: How Dreaded Diseases
-                  are Met and Driven Away." <title level="m">The New York Times</title>. 28 July
+               <bibl xml:id="Quarantine" n="Barring"><title level="a">Barring Out Epidemics: How Dreaded Diseases
+                  are Met and Driven Away.</title> <title level="m">The New York Times</title>. 28 July
                   1879: 5. <title level="m">The New York Times Archives</title>. 6 Feb. 2010.</bibl>
-               <bibl xml:id="Schriber" n="Schriber"> Schriber, Mary Suzanne. <title level="m">Writing
+               <bibl xml:id="Schriber" n="Schriber">chriber, Mary Suzanne. <title level="m">Writing
                      Home: American Women Abroad, 1830-1920</title>. Charlottesville, VA: UP of
                   Virginia, 1997.</bibl>
                <bibl xml:id="Stowe" n="Stowe"> Stowe, William W. <title level="m">Going Abroad:
@@ -1247,40 +1245,40 @@
                      Travellers in France</title>. London: John Murray, 1867. <title level="m"
                      >Google Books</title>. 28 Feb. 2010.</bibl>
                <bibl xml:id="ASMDA" n="American">
-                  <title level="m"> The American Ship-Master's Daily Assistant; or a Compendium of
-                     marine law and mercantile regulations being a correct and useful guide to all
-                     men in business, especially those employed in the merchant service explaining
-                     by judicial decisions, the duty, authority, and responsibility of ship-masters,
-                     and the liability of ship-owners for supercargoes, and masters of vessels the
-                     whole carefully compiled from undoubted sources</title> Portland, ME: Daniel
-                  Johnson, 1807.</bibl>
+                  <title level="m"> The American Ship-Master's Daily Assistant; or, A Compendium of
+                     Marine Law and Mercantile Regulations Being a Correct and Useful Guide to All
+                     Men in Business, Especially Those Employed in the Merchant Service Explaining
+                     by Judicial Decisions, the Duty, Authority, and Responsibility of Ship-Masters,
+                     and the Liability of Ship-Owners for Supercargoes, and Masters of Vessels the
+                     Whole Carefully Compiled from Undoubted Sources</title>. Portland ME: Daniel Johnson, 1807.
+                  </bibl>
                <bibl xml:id="GuanoAct" n="Chap">
                   <title level="a">Chap. CLXIV.-An Act to Authorize Protection to be given to
                      Citizens of the United States who may Discover Deposits of Guano.</title>
                   <title level="m">The Statutes at Large and Treatises of the United States of
-                     America Vol 34</title> George Minot, ed. Boston: Little Brown and Company,
-                  1856. 119.</bibl>
+                     America Vol 34</title>. Edited by George Minot, Boston: Little Brown and Company,
+                  1856: 119.</bibl>
                <bibl xml:id="PanamaFever" n="Buel">Buel, William P. <title level="a">On 'Chagres
                      Fever' and some of the other Diseases to which California Emigrants are
                      liable.</title>
                   <title level="m">The American Journal of the Medical Sciences</title>. April 1856:
                   319-326.</bibl>
                <bibl xml:id="PlantersMariners" n="Ewell">Ewell, James. <title level="m">The Planters
-                     and Mariners Medical Companion</title> . Philadelphia : Printed by John Bioren,
-                  1807. American Antiquarian Society and NewsBank, Inc. 2004. 6 March 2010. </bibl>
+                     and Mariners Medical Companion</title>. Philadelphia: John Bioren,
+                  1807. American Antiquarian Society and NewsBank, Inc., 2004. 6 March 2010.</bibl>
                <bibl xml:id="Observations" n="Blane">Blane, Gilbert. <title level="a">Observations
-                     on the Disease of Seamen</title>. <title level="m">The Health of Seamen:
+                     on the Disease of Seamen.</title> <title level="m">The Health of Seamen:
                      Selections from the Works of Dr. James Lind, Sir Gilbert Blane and Dr. Thomas
-                     Trotter</title>. Ed. Christopher Lloyd. London: Navy Records Society, 1965.
+                     Trotter</title>. Ed. Christopher Lloyd, London: Navy Records Society, 1965,
                   136-174.</bibl>
                <bibl xml:id="HistoryMed" n="Langley">Langley, Harold D. <title level="m">A History
                      of Medicine in the Early U.S. Navy</title>. Baltimore: Johns Hopkins University
                   Press, 1995.</bibl>
                <bibl xml:id="OxfordEnglishDictionary" n="Oxford">
                   <title level="m">Oxford English Dictionary</title> Oxford English Dictionary
-                  Online. March 2011. Oxford University Press. 17 May 2011. </bibl>
-               <bibl xml:id="Scrofula" n="Scrof"><title level="m">Scrofula</title>. PubMed Health.
-                  Date of visit: 16 May. 2011 </bibl>
+                  Online, March 2011, Oxford University Press, accessed 17 May 2011.</bibl>
+               <bibl xml:id="Scrofula" n="Scrof"><title level="a">Scrofula</title>. <title level="m">PubMed Health</title>,
+                  Accessed 16 May, 2011 </bibl>
                <bibl xml:id="Manson" n="Manson">Manson, Otis Frederick. <title level="m">A Treatise
                      on the Physiological and Therapeutic Action of the Sulphate of Quinine</title>.
                   Philadelphia: J. B. Lippincott, 1882. <title level="m">Google Books</title>.
@@ -1303,11 +1301,11 @@
                   <title level="m">The Country Cook Cook Book</title> The Associated College Women
                   Workers, 1st ed., Chicago, IL: Mabel E.Sturtevant, 1912.</bibl>
                <bibl xml:id="BlancheMange" n="Arcana">
-                  <title level="m">Arcana of Science and Art: or,an Annual Register of Useful
+                  <title level="m">Arcana of Science and Art: or, an Annual Register of Useful
                      Inventions and Improvements, Discoveries and New Facts in Mechanics, Chemistry,
                      Natural History, and Social Economy; Abridged from the Transactions of Publics
                      Socities, and from Other Scientific Journals, British ad Foreign, of the Past
-                     Year.</title> 1st ed. London, England: John Limbard, 1835.</bibl>
+                     Year.</title> 1st ed., John Limbard, 1835, London.</bibl>
                <bibl xml:id="HCF" n="Folkard"> Folkard, Henry Coleman <title level="m"> The Sailing
                      Boat: A Treatise on English and Foreign Boats, Descriptive of the Various Forms
                      of Boats and Sails of Every Nation; With Practical Directions for Sailing,
