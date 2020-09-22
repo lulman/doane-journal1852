@@ -1206,46 +1206,10 @@
             <listBibl>
                <head>Works Cited</head>
                <!-- Cara Laviola and Garrett Harmon's Works Cited begins here -->
-               <bibl xml:id="THL" n="Theal">Theal, George McCall. <title level="m">Records of the
-                     Cape Colony. </title>London: William Clowes and Sons, Stamford Street and
-                  Charing Cross, 1898. Web.</bibl>
-               <bibl xml:id="SEN" n="Armst">Armstrong, Robert. <title>Executive Documents Printed By
-                     Order of the Senate of the United States. </title>Unites States. Congress,
-                  Senate. 1853. Web.</bibl>
                <!-- Cara Laviola and Garrett Harmon's Works Cited ends here -->
                <!-- Devan and Krysta's works cited starts here -->
-               <bibl xml:id="NYT1" n="Fourt">
-                  <title level="a">The Fourth Abroad</title><title level="m">New York Times</title>
-                  6 July 1872. Print. </bibl>
-               <bibl xml:id="NYT2" n="Indep"><title level="a">Independence Day in the British
-                     Capital</title><title level="m">New York Times</title> 26 July 1858. Print. </bibl>
-               <bibl xml:id="Sprague" n="Celeb">
-                  <title level="m">"Celebration of the seventy-third anniversary of the Declaration
-                     of Independence of the United States on board the Barque "Hannah Sprague," at
-                     sea, July 4th, 1849."</title>. New York: Joseph H. Jennings and Co., 1849.
-                     <title level="m">Google Books</title>. Web. 31 May. 2011 </bibl>
-               <bibl xml:id="Sumner" n="Sumne">Sumner, George. <title level="m">"An oration
-                     delivered before the municipal authorities of the City of Boston, July 4,
-                     1859."</title>. Boston: Geo. C, Rand and Averty, 1859. <title level="m">Google
-                     Books</title>. Web. 31 May. 2011 </bibl>
-               <bibl xml:id="Overton" n="Overt">Overton Choules, John. <title level="m">"The cruise
-                     of the steam yacth North Star."</title>. Boston: Gould and Lincoln, 1854. 159.
-                     <title level="m">Google Books</title>. Web. 31 May. 2011 </bibl>
                <!-- Devan and Krysta's works cited ends here -->
                <!-- Alex Veeley, Rachel Cross, and Beau Peiffer's Works Cited start here -->
-               <bibl xml:id="Thor" n="Thori">Thorington, James. <title level="j"> Cocaine in the
-                     Treatment of Yellow Fever</title> The American Journal of the Medical Sciences,
-                  Vol. 99. 1890: 150-154 PDF File</bibl>
-               <bibl xml:id="Overland" n="Panam"><title level="j"> The Panama Fever</title> Overland
-                  Monthly and Out West Magazine, Vol. 1. 1868: 553-562 PDF File</bibl>
-               <bibl xml:id="Bird" n="Birdj"> Bird, James. <title level="j">Contributions to the
-                     Pathology and Treatment of Cholera</title> The London Journal of Medicine, Vol.
-                  1. 1849: 313-321. Print</bibl>
-               <bibl xml:id="NorthAmerRevi" n="Onthe"><title level="j"> On the Cholera</title> The
-                  North American Review, Vol. 35. 1832:92-118. Print</bibl>
-               <bibl xml:id="Graham" n="Graha"> Graham, Thomas. <title level="j"> An Assistant Ship
-                     Surgeon's Acoount of Cholera at Sea</title> Journal of Public Health, Vol. 30.
-                  1850: 332-338. Print</bibl>
                <!-- Alex Veeley, Rachel Cross, and Beau Peiffer's Works Cited end here -->
                <!-- Megan Maxwell, Cory Sheetz, and Kenneth Angel's citations citations start here -->
                <bibl xml:id="Hittel" n="Hitte">Hittel, John Shertzer. <title level="m"> "A history
@@ -1253,80 +1217,16 @@
                   1878. Online.</bibl>
                <bibl xml:id="Clipper" n="Clipp"><title level="m">"Clipper Ships"</title>Funk and
                   Wagnall's Corporation, 1996. Online.</bibl>
-               <bibl xml:id="DOS" n="Doomo">
-                  <title level="m">The Doom of the Slaver</title>Harper's Magazine, Volume 1. June
-                  1850. Harper and Brothers publishers. 28 May 2011 </bibl>
-               <bibl xml:id="Journ" n="Journal">
-                  <title level="m">Journal of a Cruise of the United States Schooner Dolphin, Among
-                     the Islands of the Pacific Ocean; And a Visit to the Mulgrave Islands, In
-                     Pursuit of the Mutineers of the Whale Ship Globe.</title> 1878.Ludwig and
-                  Tolfree Printers. 28 May 2011 </bibl>
-               <bibl xml:id="Rigof" n="Rigof">
-                  <title level="m">The Rig of Yachts</title>Hunt's Yachting Magazine, Volume 5. 20
-                  April 1877. Hunt and Co. 28 May 2011 </bibl>
-               <bibl xml:id="Duham" n="Dunham"> Dunham, Captain Jacob<title level="m">Journal of
-                     Voyages</title> Captain Jacob Dunham. 1850. 28 May 2011. </bibl>
-               <bibl xml:id="STS" n="Quill"> Quiller-Couch Arthur Thomas. <title level="m">The story
-                     of the sea, Volume 1</title>. London, Paris and Melbourne: Cassell and Co.,
-                  1895. 18-21. <title level="m">Google Books</title>. Date of visit: 24 May 2011.
-                  Web. </bibl>
-               <bibl xml:id="MTO" n="Ballan"> Ballantyne, R. M. <title level="m">Man on the
-                     Ocean</title>. London: T. Nelson and Sons, 1863. 214-15. <title level="m"
-                     >Google Books</title>. Date of visit: 22 May 2011. Web. </bibl>
                <!-- Megan Maxwell, Cory Sheetz, and Kenneth Angel's citations end here -->
                <!--Chloe Goodhart, Lauren Sheridan, and Keisha Trott's Works Cited start here -->
-               <bibl xml:id="ABurial" n="Buria"><title level="a">A Burial at Sea.</title> Editorial.
-                     <title level="m">Maryland Gazette</title> 31 July 1829, 31st ed. Print.</bibl>
-               <bibl xml:id="BurialatSea" n="Stewa">Stewart, David. <title level="a">Burial at Sea:
-                     Separating and Placing the Dead during the Age of Sail.</title>
-                  <title level="m">Mortality</title> 10.4(2005):276-85. <title level="m"
-                     >JSTOR</title> Web. 21 May 2011.</bibl>
-               <bibl xml:id="BurialLeaf" n="Irvin">Irving, Robert. <title level="a">Burial at Sea: A
-                     Stray Leaf from a Log Book.</title>
-                  <title level="m">The Metropolitan Magazine</title> L (1847):237-42. Google Books.
-                  Web. 20 May 2011.</bibl>
-               <bibl xml:id="Adventures" n="Coult">Coultor, John. <title level="m">Adventures on the
-                     Western Coast of South America, and the Interior of California: including a
-                     Narrative of Incidents at the Kingsmill Islands, New Ireland, New Britain, New
-                     Guinea, and Other Islands in the Pacific Ocean.</title> Vol.1. London: Longman,
-                  Brown, Green, and Longmans, 1847. Google Books, 24 March 2006. Web. 20 May
-                  2011.</bibl>
                <!--Chloe Goodhart, Lauren Sheridan, and Keisha Trott's Works Cited end here -->
                <!-- Elizabeth Snowden and Alecia Mouhanna's Works Cited Starts Here -->
-               <bibl xml:id="TH" n="Hodgs">Hodgskin, Thomas <title level="m"> An Essay on Naval
-                     Discipline, Shewing Part of Its Evil Effects on The Minds of the Officers, On
-                     the Mind of the Men, and on the Community; With An Amended System, By Which
-                     Pressing May Be Immediately Abolished</title> London: C. Squire,
-                  Furnival's-Inn-Court, 1813. <title level="m">Google Books</title>Web. 30 May 2011. </bibl>
-               <bibl xml:id="AWAP" n="Polloc">Pollock, Arthur William Alsager <title level="a">"The
-                     Cat and The Cord"</title>The United Service Magazine, 1850: 23-24. <title
-                     level="a">Google Books</title>Web. 30 May 2011. </bibl>
                <bibl xml:id="MCG" n="Glenn">Glenn, Myra C. <title level="a">The Naval Reform
                      Campaign Against Flogging: A Case Study in Changing Attitudes Toward Corporal
                      Punishment, 1830-1850</title> American Quarterly. 35.4 (1983):408-425. Print. </bibl>
                <!-- Elizabeth Snowden and Alecia Mouhanna's Works Cited Ends Here -->
                <!-- Lindsay Kelly's Works Cited begin here -->
-               <bibl xml:id="Panda" n="Humbo"><title level="a"> Humboldt Current</title> World
-                  Wildlife Fund.
-                  http://wwf.panda.org/about_our_earth/ecoregions/humboldt_current.cfm </bibl>
-               <bibl xml:id="IncaPeru" n="Sayer">Sayer, Chloe. <title level="m">The
-                  Incas</title>London, UK. Wayland Publishers Ltd, 1998. Print.</bibl>
-               <bibl xml:id="Acquisition" n="McDer">McDermott, Joseph. <title level="a">Acquisition
-                     Process of Insular Areas</title> OIA 2003. Office of Insular Affairs,
-                  Washington, DC. </bibl>
-               <bibl xml:id="GuanoT" n="Guano"><title level="a">Guano Trade</title>Trade and
-                  Enviornment Database, 1997.</bibl>
                <!-- Lindsay Kelly's Works Cited end here -->
-               <bibl xml:id="Manual" n="Wilson">Wilson, Robert, Lieutenant. <title level="m">"The
-                     seaman's manual, Containing all the technical words and phrases used at sea and
-                     belonging to a ship; including all those introduced in later years, and not to
-                     be met with in any work of the kind; alphabetically arranged. Together with
-                     instructions to young men, entering on a seafaring life; with the duty og a
-                     midshipman; By Robert Wilson, a lieutenant in His Majesty's Navy, and teacher
-                     at the Marine-Academy at Chelsea. Necessary for every young, who, without such
-                     help as this book affords, will be an age in learning all the terms, &amp;c.
-                  </title> London: 1790. <title level="j">Eighteenth Century Collections
-                     Online</title>. Gale. Ohio State Univ Libraries/Columbus. Web. 22 Feb. 2010. </bibl>
                <bibl xml:id="Springer" n="Springer">Springer, Haskell. <title level="a">The
                      Captain's Wife at Sea.</title><title level="m">Iron Men, Wooden Women: Gender
                      and seafaring in the Atlantic world, 1700-1920</title>. Ed. Margaret S.
@@ -1349,20 +1249,8 @@
                <bibl xml:id="Scurvy" n="King"> King, Frederick J., Harry Leach and John Picthall.
                      <title level="a">Scurvy: To the Editor of the Times. </title>
                   <title level="m"> The Times. </title> 12 January 1866: 7, col: F. PDF File. </bibl>
-               <bibl xml:id="FamSearch" n="Family">
-                  <title level="m">Family Search</title>. N.p.: The Church of Jesus Christ of
-                  Latter-day Saints, 2008. 25 Feb. 2009. Web. </bibl>
-               <bibl xml:id="Queens" n="Cutler"> Cutler, Carl. C. <title level="m">Queens of the
-                     Western Ocean: The Story of America's Mail and Passenger Sailing Lines</title>.
-                  Annapolis, MD: United States Naval Institute, 1961. Print. </bibl>
-               <bibl xml:id="NYGBR" n="New York">
-                  <title level="m">The New York Genealogical and Biographical Record</title>. Vol.
-                  46. New York: New York Geneological and Biographical Society, 1915. Print. </bibl>
                <bibl xml:id="TGN" n="Getty">
                   <title level="m">Getty Thesaurus of Geographical Names</title>
-               </bibl>
-               <bibl xml:id="GNS" n="GEOnet">
-                  <title level="m">GEOnet Names Server</title>
                </bibl>
                <bibl xml:id="Quarantine" n="Barring"> "Barring Out Epidemics: How Dreaded Diseases
                   are Met and Driven Away." <title level="m">The New York Times</title>. 28 July
@@ -1373,21 +1261,9 @@
                <bibl xml:id="Stowe" n="Stowe"> Stowe, William W. <title level="m">Going Abroad:
                      European Travel in Nineteenth-Century American Culture</title>. Princeton, NJ:
                   Princeton UP, 1994. Print. </bibl>
-               <bibl xml:id="Cox" n="Ulman"> Ulman, H. Lewis. et al, eds. <title level="m">Samuel
-                     Sullivan Cox's </title>"Journal of a Tour to Europe" <title level="m"
-                     >(1851)</title>. The Ohio State University College of Humanities, 2007. Web. 4
-                  Mar. 2010. </bibl>
-               <bibl xml:id="Kirkland" n="Kirkland"> Kirkland, Joseph. "These Foreigners Again."
-                     <title level="m">The Western Monthly</title>. 1-2 (1869): 248-54. <title
-                     level="m">Google Books</title>. Web. 3 Mar. 2010 </bibl>
-               <bibl xml:id="Siddons" n="Siddons"> Siddons, J. H. <title level="m">Norton's
-                     Hand-Book to Europe; or, How to Travel in the Old World</title>. New York, NY:
-                  Charles B. Norton, 1860. <title level="m">Google Books</title>. Web. 24 Feb. 2010. </bibl>
                <bibl xml:id="Murray" n="Murray"> Murray, John. <title level="m">A Handbook for
                      Travellers in France</title>. London: John Murray, 1867. <title level="m"
                      >Google Books</title>. Web. 28 Feb. 2010. </bibl>
-               <bibl xml:id="Rolfe" n="Rolfe"> Rolfe, William J. <title level="m">A Satchel Guide to
-                     Europe</title>. Cambridge, MA: Riverside Press, 1924. Print. </bibl>
                <bibl xml:id="ASMDA" n="American">
                   <title level="m"> The American Ship-Master's Daily Assistant; or a Compendium of
                      marine law and mercantile regulations being a correct and useful guide to all
@@ -1411,10 +1287,6 @@
                      liable.</title>
                   <title level="m">The American Journal of the Medical Sciences</title>. April 1856:
                   319-326.</bibl>
-               <bibl xml:id="BMSS" n="Physi"><title level="a">Physician for Ships.</title>
-                  <title level="m">Boston Medical and Surgical Service</title>. <title level="m">The
-                     Friend: A Religious and Literary Journal</title>. Ed. Robert Smith. 14.14
-                  (1842): 107.</bibl>
                <bibl xml:id="PlantersMariners" n="Ewell">Ewell, James. <title level="m">The Planters
                      and Mariners Medical Companion</title> . Philadelphia : Printed by John Bioren,
                   1807. American Antiquarian Society and NewsBank, Inc. 2004. Web. 6 March 2010. </bibl>
@@ -1426,22 +1298,12 @@
                <bibl xml:id="HistoryMed" n="Langley">Langley, Harold D. <title level="m">A History
                      of Medicine in the Early U.S. Navy</title>. Baltimore: Johns Hopkins University
                   Press, 1995. Print. </bibl>
-               <bibl xml:id="MedGrowth" n="Cassedy">Cassedy, James H. <title level="m">Medicine and
-                     American Growth, 1800-1860</title>. Madison, Wis: University of Wisconsin
-                  Press, 1986. Print. </bibl>
-               <bibl xml:id="ScurvyBrit" n="Cook">Cook, G.C. <title level="a">Scurvy in the British
-                     Mercantile Marine in the 19th century, and the contribution of the Seamen’s
-                     Hospital Society</title>. <title level="j">Postgraduate Medical Journal
-                     (Online)</title>. 80.942 (2004): 225-229. PDF File. </bibl>
                <!-- Ken Angel's Works Cited begin here -->
                <bibl xml:id="OED" n="Oxford">
                   <title level="m">Oxford English Dictionary online</title> OED Online. March 2011.
                   Oxford University Press. 5 May 2011 </bibl>
                <!-- Ken Angel's Works Cited end here -->
                <!-- Lauren Sheridan's Works Cited begin here -->
-               <bibl xml:id="SHC" n="Woodward">Woodward, Arthur. <title level="m">The Old
-                     Side-Wheeler Senator.</title> San Diego History Center. University of San
-                  Diego. Web. 2 May 2011. </bibl>
                <bibl xml:id="OxfordEnglishDictionary" n="Oxford">
                   <title level="m">Oxford English Dictionary</title> Oxford English Dictionary
                   Online. March 2011. Oxford University Press. 17 May 2011. </bibl>
@@ -1449,8 +1311,6 @@
                <!-- Rachel Cross's Works Cited begin here -->
                <bibl xml:id="Scrofula" n="Scrof"><title level="m">Scrofula</title>. PubMed Health.
                   Date of visit: 16 May. 2011 </bibl>
-               <bibl xml:id="PATD" n="Aitken">Aitken, Peter. Davison, Tim. <title>The Science Bit:
-                     Basic Sailing Theory</title> Wiley Nautical. Date of visit: 16 May 2011. </bibl>
                <!-- Rachel Cross's Works Cited end here -->
                <!-- Cara Laviola's Work Cited begins here -->
                <bibl xml:id="Manson" n="Manson">Manson, Otis Frederick. <title level="m">A Treatise
@@ -1498,10 +1358,6 @@
                      Books</title> Web. 16 May 2011. </bibl>
                <!-- Elizabeth Snowden's Works Cited Ends Here -->
                <!-- Chloe Goodhart's Work Cited begin here -->
-               <bibl xml:id="MHP" n="Maritim">The Maritime Heritage Project. <title level="m"
-                     >Passengers arriving in San Francisco, California by Ship During the
-                     1800s</title> The Maritime Heritage Project with News of Captains, Ships and
-                  Passengers in 1800s San Francisco. Web. 3 May 2011. </bibl>
                <bibl xml:id="EmigrantBurial" n="Emigrants"><title level="a">The Emigrant's Burial at
                      Sea</title>
                   <title level="m">The Advocate of Moral Reform and Family Guardian.</title> 19
@@ -1521,21 +1377,13 @@
                   <title level="j">The New York Times</title>. April 19, 1852. Online. 19 May 2011 </bibl>
                <bibl xml:id="NYT3" n="Shipping"><title level="a">Shipping Intelligence.</title>
                   <title level="j">The New York Times</title>. March 30, 1854. Online. 19 May 2011 </bibl>
-               <bibl xml:id="TLC">Addison, C. G. <title level="m">A Treatise on the Law of
-                     Contract</title>.Jersey City, NJ: Frederick D. Linn and Co., Law Publishers,
-                  1881. 688. Web. 19 May 2011</bibl>
                <!-- Krysta Ruley's Works Cited end here -->
                <!-- Keisha Trott's Works Cited begin here -->
                <bibl xml:id="TSB" n="Sewing">
                   <title level="m">The Sewing Bird.</title>Harper's New Monthly Magazine, Vol. 21.
                   1860: 488. Print.</bibl>
-               <bibl xml:id="TCSNVTFS" n="Clipper"><title level="m">The Clipper-Ship Nightingale vs.
-                     The Flying Scud</title>Monthly Nautical Magazine, and quarterly rview, Vol. 2.
-                  1855: 267. Print</bibl>
                <!-- Keisha Trott's Works Cited end here -->
                <!-- Alexandria Veeley's Works Cited begin here -->
-               <bibl xml:id="GB" n="Congressional"><title level="m">Congressional Edition</title>.
-                  California: 1893. <title level="m">Google Books</title>. Web. 19 May. 2011.</bibl>
                <!-- Alexandria Veeley's Works Cited end here -->
                <!-- Garrett Harmon's Works Cited begin here -->
                <bibl xml:id="HOC" n="House">House of Commons. <title level="m">Report From the
@@ -1550,7 +1398,7 @@
                      Which Nest on Her Barren, Rainless Coast</title>. <title level="j">National
                      Geographic Magazine</title>. 37(June 1920): 537-566).
                   https://www.biodiversitylibrary.org/item/125383#page/565/mode/1up </bibl>
-               <bibl xml:id="atsea" n="FAMIL">
+               <bibl xml:id="atsea" n="Famil">
                   <title level="a">Families at Sea: the Captain's Wife.</title> <title level="m">Life at Sea</title>.
                   Penobscot Bay History Online. Penobscot Marine Museum Education. 2012
                </bibl>
@@ -1558,8 +1406,12 @@
                      Being the Story of Williwaws and Windjammers, Drake, Darwin, Murdered
                      Missionaries and Naked Natives—A Deck’s-Eye View of Cape Horn</title>. Basic
                   Books, 2004. </bibl>
-               
-               
+               <bibl xml:id="Delgado" n="Delga"> Delgado, James P. <title level="a">Aspinwall,
+                     William Henry (1807-1875), merchant.</title>
+                  <title level="m">American National Biography</title>. February, 2000. Oxford
+                  University Press. Date of access 22 Sep. 2020,
+                  https://doi.org/10.1093/anb/9780198606697.article.1000053.
+               </bibl>
                
             </listBibl>
 
