@@ -377,7 +377,7 @@ p.aboutView {
     margin-left:25px;
 }
 
-a.notePointer:before {
+a.notePointer::before {
 display: inline-block;
 content: " ";
 margin-top: -180px;
