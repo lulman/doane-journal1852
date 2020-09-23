@@ -620,7 +620,7 @@
                   <placeName>Chincha Islands</placeName>
                   <country>Peru</country>
                   <desc>The <name type="ship">Commonwealth</name> arrives at the Chincha Islands on
-                     27 April 1853 to take on a load of guano.</desc>
+                     27 April 1853 to take on a load of guano, where it remains until 26 July 1853, when it is finally "headed towards Home."</desc>
                   <location>
                      <geo>-13.633333, -76.383333</geo>
                   </location>
@@ -768,8 +768,18 @@
                      <geo>16.8500 -99.9167</geo>
                   </location>
                </place>
+ 
+               <place type="city" xml:id="Acapulco" source="#TGN">
+                  <event when="1853-02-18" source="#Doane18530218a"><p>18 Feb 1853</p></event>
+                  <placeName xml:lang="spa">Acapulco de Juárez</placeName>
+                  <desc>The <name type="ship">Commonwealth</name> leaves <emph rend="bold">Acapulco</emph>.</desc>
+                  <country>Mexico</country>
+                  <location>
+                     <geo>16.8500 -99.9167</geo>
+                  </location>
+               </place>
                
-               <place type="neighborhood" xml:id="Tompkinsville" source="#TGN">
+<!--               <place type="neighborhood" xml:id="Tompkinsville" source="#TGN">
                   <event when="1852-02-06" source="#Doane18520206a"><p>6 Feb 1852</p></event>
                   <placeName>Tompkinsville</placeName>
                   <country>United States</country>
@@ -779,17 +789,28 @@
                      <geo>40.5833 -74.1500</geo>
                   </location>
                </place>
-               
+-->               
                <place type="landmark" xml:id="StVincent" source="#TGN">
                   <event when="1852-03-07" source="#Doane18520307a"><p>7 Mar 1852</p></event>
                   <placeName xml:lang="por">São Vicente, Cabo de</placeName>
                   <placeName xml:lang="eng">Cape St. Vincent</placeName>
                   <country>Portugal</country>
-                  <desc><emph rend="bold">Cape St. Vincent, Portugal sighted.</emph></desc>
+                  <desc><emph rend="bold">Cape St. Vincent</emph>, Portugal sighted.</desc>
                   <location>
                      <geo>37.0167 -9.0000</geo>
                   </location>
                </place>
+               
+               <place xml:id="Cadiz">
+                  <event when="1852-03-11" source="#Doane18520311a"><p>11 Mar 1852</p></event>
+                  <placeName>Cadiz</placeName>
+                  <country>Spain</country>
+                  <desc><emph rend="bold">Cadiz</emph>, Spain sighted.</desc>
+                  <location>
+                     <geo>36.5336 -6.2994</geo>
+                  </location>
+                </place>
+               
                
 <!--               <place type="city" xml:id="Canton" source="#TGN">
                   <placeName xml:lang="chi">Guangzhou</placeName>
@@ -819,6 +840,17 @@
                   <placeName xml:lang="por">Açores, Ilhas dos</placeName>
                   <placeName xml:lang="eng">Azores</placeName>
                   <desc>Doane's ship passes the <emph rend="bold">Azores</emph>, an island group located 800 miles off coast of Portugal.</desc>
+                  <country>Portugal</country>
+                  <location>
+                     <geo>38.5000 -28.0000</geo>
+                  </location>
+               </place>
+               
+               <place type="island-group" xml:id="Azores" source="#TGN">
+                  <event when="1852-05-25" source="#Doane18520525a"><p>15 May 1852</p></event>
+                  <placeName xml:lang="por">Açores, Ilhas dos</placeName>
+                  <placeName xml:lang="eng">Azores</placeName>
+                  <desc>Doane's ship passes the <emph rend="bold">Azores</emph> on their voyage home.</desc>
                   <country>Portugal</country>
                   <location>
                      <geo>38.5000 -28.0000</geo>
@@ -869,7 +901,20 @@
                      <geo>-55.9833 -67.2667</geo>
                   </location>
                </place>
+
+               <place type="landmark" xml:id="CHorn" source="#TGN">
+                  <event when="1853-09-07" source="#Doane18530907a"><p>7 Sep 1853</p></event>
+                  <geogName xml:lang="spa">Hornos, Cabo de</geogName>
+                  <geogName xml:lang="eng">Cape Horn</geogName>
+                  <country>Chile</country>
+                  <region>Magallanes-Antártica</region>
+                  <desc>The <name type="ship">Commonwealth</name> has rounded <emph rend="bold">Cape Horn</emph> on its eastward passage home.</desc>
+                  <location>
+                     <geo>-55.9833 -67.2667</geo>
+                  </location>
+               </place>
                
+
                <place type="city" xml:id="Marseille" source="#TGN">
                   <event when="1852-03-31" source="#Doane18520331a">
                      <p>31 Mar 1852</p>
@@ -894,6 +939,16 @@
                   </location>
                </place>
                
+               <place type="landmark" xml:id="NewYork">
+                  <event when="1852-08-05" source="#Doane18520805a"><p>5 Aug 1852</p></event>
+                  <placeName>New York</placeName>
+                  <country>USA</country>
+                  <desc>The <name type="ship">Commonwealth</name> departs <emph rend="bold">New York</emph> for Acapulco and the Chincha Islands via Cape Horn.</desc>
+                  <location>
+                     <geo>40.7000 -74.0000</geo>
+                  </location>
+               </place>
+               
 <!--               <place type="strait" xml:id="SGib">
                   <placeName>Gibraltar, Strait of</placeName>
                   <location>
@@ -913,6 +968,16 @@
                      <geo>36.0167 -5.6000</geo>
                   </location>
                </place>
+               
+               <place xml:id="Rock">
+                  <event when="1852-05-13" source="#Doane18520513a"><p>13 May 1852</p></event>
+                  <placeName>Rock of Gibraltar</placeName>
+                  <desc><emph rend="bold">Rock of Gibraltar</emph> sighted on their voyage home from France.</desc>
+                  <location>
+                     <geo>35.9500 -5.6000</geo>
+                  </location>   
+               </place>
+               
                
                <place type="island" xml:id="Mallorca" source="#TGN">
                   <event when="1852-03-27" source="#Doane18520327a"><p>27 Mar 1852</p></event>
@@ -1002,18 +1067,29 @@
                      <geo>-12.8 -76.6333</geo>
                   </location>
                </place>
-               
+                              
                <place type="city" xml:id="CallaoBP" source="#TGN">
-                  <event when="1853-07-19" source="#Doane18530719a"><p>19 Jul 1853</p></event>
+                  <event when="1853-04-15" source="#Doane18530415a"><p>15 Apr 1853</p></event>
                   <placeName>Callao</placeName>
                   <country>Peru</country>
-                  <desc>Arrival in <emph rend="bold">Callao, Peru</emph>. Founded by Spanish colonists in 1537, Callao quickly became the main port
+                  <desc>The <name type="ship">Commonwealth</name> arrives in <emph rend="bold">Callao, Peru</emph>. Founded by Spanish colonists in 1537, Callao quickly became the main port
                      for the Spanish in the Pacific.</desc>
                   <location>
                      <geo>-12.0333 -77.1333</geo>
                   </location>
                </place>
+
+               <place type="city" xml:id="CallaoBP" source="#TGN">
+                  <event when="1853-04-23" source="#Doane18530423a"><p>23 Apr 1853</p></event>
+                  <placeName>Callao</placeName>
+                  <country>Peru</country>
+                  <desc>The <name type="ship">Commonwealth</name> departs <emph rend="bold">Callao, Peru</emph>, bound for the <placeName>Chinca Islands</placeName>.</desc>
+                  <location>
+                     <geo>-12.0333 -77.1333</geo>
+                  </location>
+               </place>
                
+
                <!-- Beau Peiffer's places end here -->
                <!-- Lauren Sheridan's places begin here -->
                
