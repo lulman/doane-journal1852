@@ -647,13 +647,43 @@
       </xsl:for-each>
    </xsl:template>   
    
-   <xsl:template match="tei:listPerson[@type='editors']"/>    
-   
+   <xsl:template match="tei:listPerson[@type='editors']"/> 
+
+<!-- LIST OF PLACES VISITED/SIGHTED -->
+
+   <xsl:template match="tei:listPlace">
+      <hr/>
+      <h3 id="placesMentioned">List of Places Visited and Sighted During Doane's Voyages</h3>
+      <xsl:apply-templates select="tei:head"/>
+      <table style="width:610px; padding:5px; border:none;">
+         <tr>
+            <td style="white-space: nowrap; border:none;">
+               <h2>Date</h2>
+            </td>
+            <td style="border:none;">
+               <h2>Port of Call / Sighting</h2>
+            </td>
+         </tr>
+         <xsl:for-each select="tei:place">
+            <xsl:sort select="tei:event/@when"/>
+            <tr style="vertical-align:top">
+               <td style="white-space: nowrap; border:none;">
+                  <xsl:element name="a"><xsl:attribute name="target">blank</xsl:attribute><xsl:attribute name="href">./doane_reading.html<xsl:value-of select="tei:event/@source"/></xsl:attribute><xsl:value-of select="tei:event"/></xsl:element>
+               </td>
+               <td style="border:none;">
+                  <xsl:apply-templates select="tei:desc"/>
+               </td>
+            </tr>
+         </xsl:for-each>
+      </table>
+   </xsl:template>
+      
+<!-- HANDLED DIFFERENTLY IN THIS EDITION  
       <xsl:template match="tei:listPlace">
          <hr/>
       <h3 id="placesMentioned">List of Places Mentioned in Louisa Doane's Diary</h3>
       <xsl:for-each select="tei:place">
-         <!--<xsl:sort select="tei:geogName"/>-->
+         <!-\-<xsl:sort select="tei:geogName"/>-\->
          <xsl:sort select="tei:placeName[1]"/>
          <p>
             <xsl:if test="tei:geogName[1]"><strong><xsl:value-of select="tei:geogName[1]"/></strong></xsl:if>
@@ -668,7 +698,8 @@
          </p>
       </xsl:for-each>
    </xsl:template>
-
+-->
+      
 <!--  NOT USED IN THIS EDITION
       <xsl:template match="tei:listEvent">
       <h3 id="OrganizationsMentioned">List of Notable Events Mentioned in Lucius Smith's Diary</h3>

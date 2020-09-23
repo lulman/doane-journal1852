@@ -611,26 +611,12 @@
             </biblFull>
 
             <listPlace>
-               <head>Places Mentioned in the Text</head>
-               <place type="city" xml:id="Cardiff">
-                  <placeName>Cardiff</placeName>
-                  <country>United Kingdom</country>
-                  <desc>Doane mentions that the English ship <name type="ship">David</name> arrived
-                     in Acapulco on Thursday, January 13, 1853 after a 180-day passage from
-                     Cardiff.</desc>
-                  <location>
-                     <geo>51.5000 -3.1667</geo>
-                  </location>
-               </place>
-               <place type="coordinates" xml:id="NCHorn">
-                  <placeName>[Ship's position on 20 Nov. 1852]</placeName>
-                  <desc>Doane records this position on the outbound leg of the voyage from New York
-                     to Peru during a period of fair winds after three weeks of gale.</desc>
-                  <location>
-                     <geo>-50.32 -79.21</geo>
-                  </location>
-               </place>
+               <head>The following itinery provides links to the entries in which Doane's party
+                  first visits major stops or sights important landmarks on their voyages (click on
+                  the date to view the corresponding entry).</head>
+               
                <place type="island" xml:id="ChinchaI">
+                  <event when="1853-04-27" source="#Doane18530427"><p>27 Apr 1853</p></event>
                   <placeName>Chincha Islands</placeName>
                   <country>Peru</country>
                   <desc>The <name type="ship">Commonwealth</name> arrives at the Chincha Islands on
@@ -639,30 +625,19 @@
                      <geo>-13.633333, -76.383333</geo>
                   </location>
                </place>
-               <place type="city" xml:id="NB">
-                  <placeName>New Bedford</placeName>
-                  <country>United States of America</country>
-                  <region>Massachusetts</region>
-                  <desc>Home port of the ship <name type="ship">Thomas Dickerson</name>, which the
-                        <name type="ship">Commonwealth</name> met at sea on 3 October 1852.</desc>
-                  <location>
-                     <geo>41.6667 -70.9167</geo>
-                  </location>
-               </place>
+               
                <place type="island" xml:id="Staten" source="#TGN">
+                  <event when="1852-10-29" source="#Doane18521029a"><p>29 Oct 1852</p></event>
                   <placeName xml:lang="English">Staten Island</placeName>
                   <placeName xml:lang="Spanish">Isla de los Estados</placeName>
-                  <desc>Sighted Isla des los Estados during the night of October 28-29, 1852.</desc>
-                  <country>Argentine</country>
+                  <desc><emph rend="bold">Isla des los Estados</emph>, off the coast of Argentina, sighted during the night of October 28-29, 1852.</desc>
+                  <country>Argentina</country>
                   <location>
                      <geo>-54.7833 -64.2500</geo>
                   </location>
-                  <event type="sighted" when="1852-10-29">
-                     <desc>Approached Isla des los Estados during the night.</desc>
-                  </event>
                </place>
 
-               <place type="nation" xml:id="CV">
+<!--           <place type="nation" xml:id="CV">
                   <placeName>Cape Verdes</placeName>
                   <country>Cape Verdes</country>
                   <region>Africa</region>
@@ -674,7 +649,8 @@
                      <geo>16.0000 -24.0000</geo>
                   </location>
                </place>
-               <place type="inhabited-place" xml:id="Provincetown" source="#TGN">
+-->               
+<!--           <place type="inhabited-place" xml:id="Provincetown" source="#TGN">
                   <placeName xml:lang="eng">Provincetown</placeName>
                   <desc>The <name type="ship">Commonwealth</name> meets the schooner <name
                         type="ship">Antarctic</name> of Provincetown off the coast of Spain on 26
@@ -683,7 +659,8 @@
                      <geo>42.0500 -70.1667</geo>
                   </location>
                </place>
-               <place type="inhabited-place" xml:id="Baltimore" source="#TGN">
+               
+              <place type="inhabited-place" xml:id="Baltimore" source="#TGN">
                   <placeName>Baltimore</placeName>
                   <country>United States</country>
                   <region>Maryland</region>
@@ -695,7 +672,8 @@
                      <geo>39.2833 -76.6000</geo>
                   </location>
                </place>
-               <place type="inhabited-place" xml:id="Callas" source="#TGN">
+-->
+<!--           <place type="inhabited-place" xml:id="Callas" source="#TGN">
                   <placeName>Callas</placeName>
                   <country>France</country>
                   <region>Provence-Alpes-Côte d'Azur</region>
@@ -704,6 +682,7 @@
                      <geo>43.5833 6.5500</geo>
                   </location>
                </place>
+               
                <place type="city" xml:id="London" source="#TGN">
                   <placeName xml:lang="eng">City of London</placeName>
                   <country>United Kingdom</country>
@@ -713,45 +692,43 @@
                      <geo>51.5000 -0.0833</geo>
                   </location>
                </place>
+-->               
                <place type="landform" xml:id="Gata" source="#TGN">
+                  <event when="1852-05-07" source="#Doane18520507a"><p>7 May 1852</p></event>
                   <placeName xml:lang="spa">Gata, Cabo de</placeName>
                   <country>Spain</country>
-                  <region>Andalusia</region>
-                  <region>Almeria</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc><emph rend="bold">Cabo de Gata</emph>, Spain sighted.</desc>
                   <location>
                      <geo>37.63 -0.69</geo>
                   </location>
                </place>
+               
                <place type="landform" xml:id="Palos" source="#TGN">
+                  <event when="1852-05-05" source="#Doane18520507a"><p>5 May 1852</p></event>
                   <placeName xml:lang="spa">Palos, Cabo de</placeName>
                   <country>Spain</country>
                   <region>Región de Murcia</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc><emph rend="bold">Cabo de Palos</emph>, Spain sighted.</desc>
                   <location>
                      <geo>37.63 -0.69</geo>
                   </location>
                </place>
+               
                <place type="city" xml:id="Talcahuano" source="#TGN">
+                  <event when="1852-11-27" source="#Doane18521127a">
+                     <p>27 Nov 1852</p>
+                  </event>
                   <placeName xml:lang="spa">Talcahuano</placeName>
                   <country>Chile</country>
-                  <region>Región del Biobío</region>
-                  <desc>Located in the Región del Biobío, a rural area that stretches from the
-                     Argentine border to the Pacific Ocean.</desc>
+                  <desc><emph rend="bold">Talcahuano</emph> sighted. Talcahuano is located in the Región del
+                     Biobío, a rural area that stretches from the Argentine border to the Pacific
+                     Ocean.</desc>
                   <location>
                      <geo>-37.0000 -72.5000</geo>
                   </location>
                </place>
-               <place type="city" xml:id="Boston" source="#TGN">
-                  <placeName xml:lang="eng">Boston</placeName>
-                  <country>United States of America</country>
-                  <region>Massachusetts</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>42.3500 -71.0500</geo>
-                  </location>
-               </place>
-               <place type="city" xml:id="Valparaiso" source="#TGN">
+
+<!--               <place type="city" xml:id="Valparaiso" source="#TGN">
                   <placeName xml:lang="spa">Valparaiso</placeName>
                   <country>Chile</country>
                   <region>Valparaiso</region>
@@ -761,7 +738,8 @@
                      <geo>-33.0833 -71.6667</geo>
                   </location>
                </place>
-               <place type="city" xml:id="SF" source="#TGN">
+-->  
+<!--               <place type="city" xml:id="SF" source="#TGN">
                   <placeName xml:lang="spa">San Francisco</placeName>
                   <country>United States of America</country>
                   <region>California</region>
@@ -770,7 +748,8 @@
                      <geo>37.7667 -122.4167</geo>
                   </location>
                </place>
-               <place type="city" xml:id="Salem" source="#TGN">
+-->
+<!--               <place type="city" xml:id="Salem" source="#TGN">
                   <placeName xml:lang="eng">Salem</placeName>
                   <country>United States of America</country>
                   <region>Massachusetts</region>
@@ -779,38 +758,40 @@
                      <geo>42.5167 -70.8833</geo>
                   </location>
                </place>
+-->               
                <place type="city" xml:id="Acapulco" source="#TGN">
+                  <event when="1853-01-10" source="#Doane18530110a"><p>10 Jan 1853</p></event>
                   <placeName xml:lang="spa">Acapulco de Juárez</placeName>
-                  <desc>The Commonwealth carried coal from New York to Acapulco on the outward leg
-                     of its voyage, arriving in Acapulco on 10 January 1853.</desc>
+                  <desc>Arrival in <emph rend="bold">Acapulco</emph> on 10 January 1853.</desc>
                   <country>Mexico</country>
-                  <region>Guerrero</region>
                   <location>
                      <geo>16.8500 -99.9167</geo>
                   </location>
                </place>
+               
                <place type="neighborhood" xml:id="Tompkinsville" source="#TGN">
+                  <event when="1852-02-06" source="#Doane18520206a"><p>6 Feb 1852</p></event>
                   <placeName>Tompkinsville</placeName>
                   <country>United States</country>
-                  <region type="state">New York</region>
-                  <region type="city">New York</region>
-                  <region type="borough">Staten Island</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                 <desc>Doane's vessel anchors in the <emph rend="bold">quarantine ground</emph>
+                 off Tompinksville, Staten Island, New York.</desc>
                   <location>
                      <geo>40.5833 -74.1500</geo>
                   </location>
                </place>
+               
                <place type="landmark" xml:id="StVincent" source="#TGN">
+                  <event when="1852-03-07" source="#Doane18520307a"><p>7 Mar 1852</p></event>
                   <placeName xml:lang="por">São Vicente, Cabo de</placeName>
                   <placeName xml:lang="eng">Cape St. Vincent</placeName>
                   <country>Portugal</country>
-                  <region>Faro, Distrito de</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc><emph rend="bold">Cape St. Vincent, Portugal sighted.</emph></desc>
                   <location>
                      <geo>37.0167 -9.0000</geo>
                   </location>
                </place>
-               <place type="city" xml:id="Canton" source="#TGN">
+               
+<!--               <place type="city" xml:id="Canton" source="#TGN">
                   <placeName xml:lang="chi">Guangzhou</placeName>
                   <placeName xml:lang="eng">Canton</placeName>
                   <country>China</country>
@@ -822,7 +803,8 @@
                      <geo>23.1333 113.3333</geo>
                   </location>
                </place>
-               <place type="landmark" xml:id="LobosIslands" source="#TGN">
+-->               
+<!--               <place type="landmark" xml:id="LobosIslands" source="#TGN">
                   <geogName xml:lang="eng">Lobos Islands</geogName>
                   <geogName xml:lang="spa">Islas Lobos de Afuera</geogName>
                   <country>Peru</country>
@@ -831,27 +813,28 @@
                      <geo>-6.9500 -80.700</geo>
                   </location>
                </place>
+-->               
                <place type="island-group" xml:id="Azores" source="#TGN">
+                  <event when="1852-02-28" source="#Doane18520228a"><p>28 Feb 1852</p></event>
                   <placeName xml:lang="por">Açores, Ilhas dos</placeName>
                   <placeName xml:lang="eng">Azores</placeName>
-                  <desc>Island group located 800 miles off coast of Portugal; constitutes an
-                     autonomous region of Portugal</desc>
+                  <desc>Doane's ship passes the <emph rend="bold">Azores</emph>, an island group located 800 miles off coast of Portugal.</desc>
                   <country>Portugal</country>
                   <location>
                      <geo>38.5000 -28.0000</geo>
                   </location>
                </place>
+               
                <place type="dependent-state" xml:id="Gibraltar" source="#TGN">
+                  <event when="1852-03-13" source="#Doane18520313a"><p>13 Mar 1852</p></event>
                   <placeName>Gibraltar</placeName>
-                  <desc>Rocky, narrow peninsula of strategic importance, coextensive with British
-                     crown colony; was known to the Greeks &amp; others as one of the Pillars of
-                     Hercules; fortified by Tariq the Moor in 711; retaken by Spanish in 1462, &amp;
-                     conquered by Britain in 1704</desc>
+                  <desc>Passes eastward through the <emph rend="bold">Strait of Gibraltar</emph>.</desc>
                   <location>
-                     <geo>36.1333 -5.3500</geo>
+                     <geo>35.9500 -5.6000</geo>
                   </location>
                </place>
-               <place type="island" xml:id="Flores" source="#TGN">
+               
+<!--               <place type="island" xml:id="Flores" source="#TGN">                
                   <placeName>Flores</placeName>
                   <country>Portugal</country>
                   <region>Azores</region>
@@ -860,60 +843,58 @@
                      <geo>39.5000 -31.2167</geo>
                   </location>
                </place>
+-->               
                <place type="UF" xml:id="GBank" source="#GNS">
+                  <event when="1852-02-18" source="#Doane18520218a">
+                     <p>18 Feb 1852</p>
+                  </event>
                   <geogName>Grand Bank</geogName>
                   <country>Canada</country>
                   <region>Newfoundland</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc>Doane's ship cruising one hundred miles south of Canada's <emph rend="bold"
+                        >Grand Bank</emph> off the coast of Newfoundland.</desc>
                   <location>
                      <geo>45 -50</geo>
                   </location>
                </place>
+               
                <place type="landmark" xml:id="CHorn" source="#TGN">
+                  <event when="1852-11-01" source="#Doane18521101a"><p>1 Nov 1852</p></event>
                   <geogName xml:lang="spa">Hornos, Cabo de</geogName>
                   <geogName xml:lang="eng">Cape Horn</geogName>
                   <country>Chile</country>
                   <region>Magallanes-Antártica</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc>Doane's ship sights <emph rend="bold">Cape Horn</emph> on its westward passage.</desc>
                   <location>
                      <geo>-55.9833 -67.2667</geo>
                   </location>
                </place>
-               <place type="ship-position" xml:id="OCHorn">
-                  <geogName>[Ship's position]</geogName>
-                  <desc>Note when she mentions this position off Cape Horn.</desc>
-                  <location>
-                     <geo>-58.716667 -68.5</geo>
-                  </location>
-               </place>
+               
                <place type="city" xml:id="Marseille" source="#TGN">
+                  <event when="1852-03-31" source="#Doane18520331a">
+                     <p>31 Mar 1852</p>
+                  </event>
                   <placeName>Marseille</placeName>
                   <country>France</country>
                   <region>Provence-Alpes-Côte d'Azur</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc>Doane's vessel arrives in the harbor of <emph rend="bold"
+                     >Marseille</emph>, France, where they will remain until 30 April.</desc>
                   <location>
                      <geo>43.3000 5.3667</geo>
                   </location>
                </place>
-               <place type="city" xml:id="NYC" source="#TGN">
+               
+               <place type="landmark" xml:id="P6NR">
+                  <event when="1852-02-06" source="#Doane18520206a"><p>6 Feb 1852</p></event>
                   <placeName>New York</placeName>
-                  <country>United States of America</country>
-                  <region>New York</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <country>USA</country>
+                  <desc>The Doane's depart from Pier 6, North River, <emph rend="bold">New York</emph>.</desc>
                   <location>
                      <geo>40.7000 -74.0000</geo>
                   </location>
                </place>
-               <place type="landmark" xml:id="P6NR">
-                  <placeName>Pier 6, North River</placeName>
-                  <country>United States of America</country>
-                  <region>New York, NY</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>40.710983 -74.016058</geo>
-                  </location>
-               </place>
-               <place type="strait" xml:id="SGib">
+               
+<!--               <place type="strait" xml:id="SGib">
                   <placeName>Gibraltar, Strait of</placeName>
                   <location>
                      <geo>35.9500 -5.6000</geo>
@@ -922,47 +903,42 @@
                      Atlantic Ocean; the constant current flowing E balances evaporation from the
                      Mediterranean.</desc>
                </place>
+-->               
                <place type="town" xml:id="Tarifa">
+                  <event when="1852-03-12" source="#Doane18520312a"><p>12 Mar 1852</p></event>
                   <placeName>Tarifa</placeName>
                   <country>Spain</country>
-                  <region>Cadiz</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc>Doane's vessel abreast the town of <emph rend="bold">Tarifa</emph>, Spain.</desc>
                   <location>
                      <geo>36.0167 -5.6000</geo>
                   </location>
                </place>
+               
                <place type="island" xml:id="Mallorca" source="#TGN">
+                  <event when="1852-03-27" source="#Doane18520327a"><p>27 Mar 1852</p></event>
                   <placeName>Mallorca</placeName>
                   <country>Spain</country>
-                  <region>Illes Balears</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc>Doane's vessel sights the island of <emph rend="bold">Mallorca</emph>.</desc>
                   <location>
                      <geo>39.6361 2.9982</geo>
                   </location>
                </place>
+               
                <place type="island-group" xml:id="Falkland" source="#TGN">
+                  <event when="1852-10-25" source="#Doane18521025a">
+                     <p>25 Oct 1852</p>
+                  </event>
                   <placeName>Falkland Islands</placeName>
                   <country>Argentina</country>
-                  <region>South Atlantic Ocean</region>
+                  <desc>Doane places the <name type="ship">Commonwealth</name> 160 miles from the
+                        <emph rend="bold">Falkland Islands</emph>.</desc>
                   <location>
                      <geo>-51.7500 -59.1667</geo>
-                     <desc>Comprises over 200 islands of strategic importance in S Atlantic; sighted
-                        by British John Davis 1592, though Spanish claimed Magellan had sighted them
-                        in 1520; as Spain's successor, Argentina has tried to claim the islands,
-                        most recently in 1982.</desc>
                   </location>
                </place>
-               <place type="country" xml:id="Peru">
-                  <placeName>Per&#xfa;</placeName>
-                  <country>Per&#xfa;</country>
-                  <region>South America</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>-10.0000 -76.0000</geo>
-                  </location>
-               </place>
+                              
                <!-- Rachel Cross's places begin here -->
-               <place type="inhabited-place" xml:id="PanamaRC" source="#TGN">
+<!--               <place type="inhabited-place" xml:id="PanamaRC" source="#TGN">
                   <placeName>Panama</placeName>
                   <country>Panama</country>
                   <desc>The previous location of the steamer Heavens Golden Gate before it journeys
@@ -971,9 +947,10 @@
                      <geo>8.9500 -79.5000 </geo>
                   </location>
                </place>
+--> 
                <!-- Rachel Cross's places end here -->
                <!-- Chloe Goodhart's places begin here -->
-               <place type="country" xml:id="PanamaCG" source="#TGN">
+<!--               <place type="country" xml:id="PanamaCG" source="#TGN">
                   <placeName>Panama</placeName>
                   <country>Panama</country>
                   <region>North and Central America</region>
@@ -983,9 +960,10 @@
                      <geo>9.0000 -80.0000</geo>
                   </location>
                </place>
+-->
                <!-- Chloe Goodhart's places end here -->
                <!-- Cara Laviola's places begin here -->
-               <place type="island-group" xml:id="Marquesas" source="#TGN">
+<!--               <place type="island-group" xml:id="Marquesas" source="#TGN">
                   <placeName>Marquesas Islands</placeName>
                   <country>French Polynesia</country>
                   <bloc>Oceania</bloc>
@@ -999,7 +977,8 @@
                      <geo>-9.0000 -139.5000</geo>
                   </location>
                </place>
-               <place type="city" xml:id="Bordeaux" source="#TGN">
+--> 
+<!--               <place type="city" xml:id="Bordeaux" source="#TGN">
                   <placeName>Bordeaux</placeName>
                   <country>France</country>
                   <region>Aquitaine</region>
@@ -1009,38 +988,36 @@
                      <geo>44.8333 -0.5667</geo>
                   </location>
                </place>
-               <place type="coordinates" xml:id="SETradeWinds" source="#TGN">
-                  <placeName>Ship's position on 16 March 1853</placeName>
-                  <desc>Doane records these coordinates when the ship is in the Southeast Trade
-                     Winds, right after the prisoners steal half a barrel of Pilot Bread</desc>
-                  <location>
-                     <geo>4.24 -98.25</geo>
-                  </location>
-               </place>
+-->  
+               
                <!-- Cara Laviola's places end here -->
                <!-- Beau Peiffer's places begin here -->
                <place type="island" xml:id="IslaAsia">
+                  <event when="1853-04-26" source="#Doane18530426"><p>26 Apr 1853</p></event>
                   <placeName>Asia Island</placeName>
                   <country>Peru</country>
-                  <desc>A small tract of land known in the 19th century for its Guano
+                  <desc><emph rend="bold">Asia Island</emph> is a small island known in the 19th century for its Guano
                      deposits.</desc>
                   <location>
                      <geo>-12.8 -76.6333</geo>
                   </location>
                </place>
+               
                <place type="city" xml:id="CallaoBP" source="#TGN">
+                  <event when="1853-07-19" source="#Doane18530719a"><p>19 Jul 1853</p></event>
                   <placeName>Callao</placeName>
                   <country>Peru</country>
-                  <region>Callao Reigon</region>
-                  <desc>Founded by Spanish colonists in 1537, Callao quickly became the main port
+                  <desc>Arrival in <emph rend="bold">Callao, Peru</emph>. Founded by Spanish colonists in 1537, Callao quickly became the main port
                      for the Spanish in the Pacific.</desc>
                   <location>
                      <geo>-12.0333 -77.1333</geo>
                   </location>
                </place>
+               
                <!-- Beau Peiffer's places end here -->
                <!-- Lauren Sheridan's places begin here -->
-               <place type="city" xml:id="Sauteurs" source="TGN">
+               
+<!--           <place type="city" xml:id="Sauteurs" source="TGN">
                   <placeName>Sauteurs</placeName>
                   <desc>Located in North Grenada; trade center for coconuts and cacao. Captain
                      Gening's cabin reminded Doane of this city.</desc>
@@ -1049,28 +1026,22 @@
                      <geo>12.2333 -61.6333</geo>
                   </location>
                </place>
+--> 
                <!-- Lauren Sheridan's places end here -->
                <!-- Alexandria Veeley's places begin here. -->
-               <place type="province" xml:id="CallaoAV">
-                  <placeName>Callao</placeName>
-                  <country>Peru</country>
-                  <region>South America</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
-                  <location>
-                     <geo>-12.0667 -77.1500</geo>
-                  </location>
-               </place>
                <place type="province" xml:id="Lima">
+                  <event when="1853-04-18" source="#Doane18530418a"><p>18 Apr 1853</p></event>
                   <placeName>Lima</placeName>
                   <country>Peru</country>
                   <region>South America</region>
-                  <desc>Describe this place's relevance to Doane's journal.</desc>
+                  <desc>Captain Doane heads to <emph rend="bold">Lima</emph> from the Callao harbor to procure provisions.</desc>
                   <location>
                      <geo>-12.0500 -77.0500</geo>
                   </location>
                </place>
+               
                <!-- Alexandria Veeley's places end here. -->
-               <place type="city" xml:id="Pisco">
+<!--               <place type="city" xml:id="Pisco">
                   <placeName>Pisco</placeName>
                   <country>Peru</country>
                   <region>South America</region>
@@ -1080,20 +1051,19 @@
                      <geo>-13.7000 -76.2167 </geo>
                   </location>
                </place>
-               <place>
-                  <placeName>San Juan</placeName>
-                  <region>South America</region>
-                  <desc>The bark Laurens arrives in Chincha Harbor from San Juan.</desc>
-               </place>
+-->               
                <place type="city" xml:id="Rio">
+                  <event when="1853-09-27" source="#Doane18530927a"><p>27 Sep 1853</p></event>
                   <placeName>Rio de Janiero</placeName>
                   <country>Brazil</country>
                   <region>South America</region>
-                  <desc>The ship is "a short distance North" of here on September 27, 1853.</desc>
+                  <desc>Doane's ship is "a short distance North" of <emph rend="bold">Rio de Janiero</emph> on its homeward leg of the voyage.</desc>
                </place>
             </listPlace>
 
-            <listOrg>
+<!-- NO LONGER USED IN THIS EDITION
+               
+               <listOrg>
                <head>List of Organizations</head>
                <org xml:id="FN">
                   <orgName>Fosters and Nickerson</orgName>
@@ -1117,7 +1087,7 @@
                   </state>
                </org>
             </listOrg>
-
+--> 
             <list type="ships">
                <head>List of Ships Mentioned in Doane's Journal</head>
                <item xml:id="WScott">

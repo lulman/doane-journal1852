@@ -479,10 +479,9 @@
          </div>
    </xsl:template>
 -->   
-   <xsl:template match="tei:div[@type='Entry']/tei:dateline">
-      <strong>
-         <xsl:apply-templates/>
-      </strong>
+   <xsl:template match="tei:dateline">
+      <xsl:element name="a"><xsl:attribute name="class">entrylink</xsl:attribute><xsl:attribute name="id"><xsl:value-of select="ancestor::tei:div[1]/@xml:id"/></xsl:attribute></xsl:element>
+      <xsl:apply-templates/>
    </xsl:template>
    
 

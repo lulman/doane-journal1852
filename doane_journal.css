@@ -298,6 +298,14 @@ a.annotation {
 	text-decoration: none;
 }
 
+a.entrylink::before {
+display: inline-block;
+content: " ";
+margin-top: -180px;
+height: 180px;
+visibility: hidden;	    
+}
+
 em {
     font-style: normal;
     text-decoration: underline;
