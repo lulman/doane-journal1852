@@ -164,7 +164,6 @@
                            <li><a href="./doane_appendices_maps.html">Maps</a></li>
                            <li><a href="./doane_journal.html#peopleMentioned">People Mentioned</a></li>
                            <li><a href="./doane_journal.html#placesMentioned">Places Mentioned</a></li>
-                           <li><a href="./doane_journal.html#organizationsMentioned">Organizations Mentioned</a></li>
                            <li><a href="./doane_journal.html#shipsMentioned">Ships Mentioned</a></li>
                            <li><a href="./doane_journal.html#worksCited">Works Cited</a></li>
                            <li><a href="./doane_appendices_acknowledgements.html">Acknowledgements</a></li>
@@ -461,7 +460,9 @@
       
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPerson"/>
-            <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listOrg"></xsl:apply-templates>
+<!--            
+         <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listOrg"></xsl:apply-templates>
+-->            
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPlace"/>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:list[@type='ships']"></xsl:apply-templates>
@@ -472,7 +473,7 @@
       <h2 id="view">About this Editorial Introduction</h2>
             <p>Text on this page is derived from the
                edition's XML source document, <a href="Doane-Journal.xml">Doane-Journal.xml</a>,
-               transformed with the XSL stylsheet Doane_view_edintro.xsl.</p>
+               transformed with the XSL stylsheet <a href="Doane_view_edintro.xsl">Doane_view_edintro.xsl</a>.</p>
             <hr/>
       <p>&#x2192; <a href="./doane_reading.html">Link to the text of the journal</a>.
             </p>
