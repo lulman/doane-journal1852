@@ -252,7 +252,7 @@
                         sightings of other ships.</p>
                      <p>Unlike the thousands of Americans who made the trip across the Atlantic in
                         the nineteenth century, bent on exploring fashionable European destinations
-                        (Scriber 13, Stowe 3-15 ), Louisa Doane, accompanying her parents on a
+                        (Schriber 13, Stowe 3-15 ), Louisa Doane, accompanying her parents on a
                         commercial venture, was one of a number of women who were, as Mary Suzanne
                         Schriber puts it, "accidental tourists" (13). After a trying 54 days at sea,
                         Doane and her family spent just 23 days on the continent, throughout which
@@ -363,11 +363,11 @@
                         other ships against clipper ships (once saying of the <name type="ship"
                            >Berlin</name>, “it is a fine Ship altho [<emph rend="italic">sic</emph>]
                         not a Clipper”), for she is sailing at the height of the American clipper
-                        ship era, which extended roughly from 1845 to 1859 ("Clipper Ships"). The
+                        ship era, which extended roughly from 1820 to 1870 ("The Great Clippers"). The
                         range of clipper ship designs was so diverse that it is impossible to make
                         easy generalizations about their appearance—the term "clipper ship" was
                         applied to diverse ships designed to be very fast, and they often carried
-                        very valuable items ("A History of the City of San Francisco”). The
+                        very valuable items (Hittel). The
                         <name type="ship">Commonwealth</name> encounters several clipper ships—including the <name
                            type="ship">Whirlwind</name>, <name type="ship">Alboni</name>, <name
                            type="ship">Louisa</name>, and <name type="ship">Malay</name>—as they
@@ -459,7 +459,7 @@
                         for a new dress, oversee the making of pancakes, "current [<emph
                            rend="italic">sic</emph>] jelly," mince pies, sausages and donuts, and
                         the washing of socks and handkerchiefs. As Haskell Springer suggests in
-                           <title level="a">The Captains Wife at Sea,</title> "even as they broke
+                           <title level="a">The Captain's Wife at Sea,</title> "even as they broke
                         with maritime tradition and went to sea, [captain's wives] found their lives
                         more closely approximating the prescribed strictures of separate male and
                         female spheres than did the women remaining ashore” (95). Doane and her
@@ -491,7 +491,7 @@
                            and men, and to discountenance all dissolute, immoral, and disorderly
                            practices, and such as are contrary to the rules of discipline and
                            subordination, as well as to correct those who are guilty of such
-                           offences, as are punishable according to the usage of the sea ("Captain")</q></p>
+                           offences, as are punishable according to the usage of the sea. (Falconer,"Captain")</q></p>
                       <p>And, indeed, Louisa's father regularly enforces strict discipline: drunken sailors are
                         sent below decks; Captain Doane is called to quell a fight between the First
                         Mate and a sailor; having insulted the Captain with much "loud talk" after
@@ -538,10 +538,10 @@
                         merchant marine sailors. As one contemporary commentator argued: "Money
                         would avail nothing to the public defence without a sufficient number of
                         able and healthy men, which are the real resources of a state, and the true
-                        sinews of war" (Lloyd 151). By contrast, merchant mariners were seen as
+                        sinews of war" (Blane 151). By contrast, merchant mariners were seen as
                         replaceable, and therefore commercial ship owners experienced less economic
                         and moral pressure to maintain quality healthcare on board their ships. In
-                        his examination of 19th century British merchant ships, G.C. Cook highlights
+                        his examination of 19th century British merchant ships, G. C. Cook highlights
                         the perceived expendability of these sailors: "merchant seamen . . . lived a
                         most erratic existence—often being employed (frequently by ship owners who
                         were often unscrupulous) for a single voyage only" (225).</p>
@@ -1337,7 +1337,7 @@
                   <title level="j">The New York Times</title>, March 30, 1854.</bibl>
                <bibl xml:id="TSB" n="Sewing">
                   <title level="a">The Sewing Bird.</title> <title level="j">Harper's New Monthly Magazine</title>, vol. 21, 1860, 488.</bibl>
-               <bibl xml:id="HOC" n="House"><title level="m">Report From the
+               <bibl xml:id="HOC" n="Report"><title level="m">Report From the
                      Select Committe on Copyright of Designs</title>. House of Commons,
                   1840.</bibl>
                <bibl xml:id="RECh" n="Baly">Baly, William, and Eilliam Gull. <title level="m">Reports
@@ -1361,6 +1361,13 @@
                   University Press, February, 2000, accessed 22 Sep. 2020,
                   https://doi.org/10.1093/anb/9780198606697.article.1000053.
                </bibl>
+               <bibl xml:id="clipper" n="Great">
+                  <title level="a">The Great Clippers (1820-1870).</title> <title level="m">Naval Encyclopedia</title>, accessed 23 Sept. 2020.
+               </bibl>
+               <bibl xml:id="ScurvyBrit" n="Cook">Cook, G. C. <title level="a">Scurvy in the British
+                  Mercantile Marine in the 19th century, and the contribution of the Seamen’s
+                  Hospital Society.</title> <title level="j">Postgraduate Medical Journal
+                     (Online)</title>, 80.942, (2004), 225-229.</bibl>
                
             </listBibl>
 
@@ -3548,7 +3555,7 @@
                      alternative preventives proposed by many doctors; significantly, "fresh
                      succulent vegetables" as well as potatoes and "preserved potatoes" were thought
                      to be a successful alternative that presented an easier pill for sailors to
-                     swallow <bibl><ref target="#Scurvy">"Scurvy"</ref></bibl>
+                     swallow <bibl><ref target="#Scurvy">King</ref></bibl>
                      <figure rend="link">
                         <head>Click Here to Read the Letters to the Editor</head>
                         <graphic url="image_scurvy_letters.jpg"/>
@@ -6378,7 +6385,7 @@
                         "fasting has a great power over diseases of this kind. We have cured many a
                         case of bad dysentery at sea, depending principally upon entire abstinence
                         from all food and drink other than pure water" <bibl><ref target="#WCJ"
-                              >79</ref></bibl>.</note> and <lb/>for the want of <distinct
+                              ></ref>Rogers 79</bibl>.</note> and <lb/>for the want of <distinct
                         type="archaicorthography" time="15-17"><choice>
                            <orig>norishment</orig>
                            <reg source="OED">nourishment</reg>
@@ -6416,7 +6423,7 @@
                         of a canvas in place of a coffin. According to one account, corpses "were
                         wrapped in coarse sacks, laden with stones, and roughly sewed close about
                         the stiffended limbs" before a burial service that ended with the bodies
-                        being thrown into the sea <bibl><ref target="#EmigrantBurial">"The Emigrants
+                        being thrown into the sea <bibl><ref target="#EmigrantBurial">"The Emigrant's
                               Burial at Sea"</ref></bibl>.</note> put them in a boat <lb/>cover the
                      signals over them and <choice>
                         <sic>carryed</sic>
@@ -6538,8 +6545,8 @@
                         weather and rough wear. It was also used to patch and repair sails on ships
                         due to its strong tension. Around the time of this journal, the House of
                         Commons reported that the cost of engraved or dyed Calico was 50 percent
-                        more expensive outside of England <bibl><ref target="#HOC"/>House of Commons
-                           509</bibl>.</note> is 31 cents per yard <lb/>which we could get at home
+                        more expensive outside of England <bibl><ref target="#HOC"/>
+                           <title level="a">Report from the Select Committee</title> 509</bibl>.</note> is 31 cents per yard <lb/>which we could get at home
                      for 10 cents we <lb/>stopped there sometime from there we went to <lb/>our <choice>
                         <sic>Consingnee</sic>
                         <corr>Consignee</corr>
@@ -7185,12 +7192,11 @@
                         <corr>Captain</corr>
                      </choice>Miller</persName> of the Clipper ship <ptr type="noteAnchor"
                      target="CSX"/>
-                  <note resp="ed" xml:id="CSX">Clipper ships, built beginning in the late 1840's,
+                  <note resp="ed" xml:id="CSX">Clipper ships
                      were designed for speed. They could deliver cargo in better condition than
                      other ships because they labored and strained less. Clipper ships gained
                      popularity with the California gold rush of the 1850's because they could sail
-                     faster <bibl><ref target="#clipperShip">"The Clipper Ship
-                     Era"</ref></bibl>.</note>
+                     faster <bibl><ref target="#clipperShip"></ref>"The Great Clippers (1820-1870)"</bibl>.</note>
                   <name type="ship">Dauntless</name>
                   <lb/>an old acquaintance of his had his Wife and <lb/>Daughter with him and they
                   were coming on <lb/>board to see us <rs ref="#ATD">Mother</rs> is still gaining
