@@ -369,8 +369,8 @@
                         applied to diverse ships designed to be very fast, and they often carried
                         very valuable items (Hittel). The
                         <name type="ship">Commonwealth</name> encounters several clipper ships—including the <name
-                           type="ship">Whirlwind</name>, <name type="ship">Alboni</name>, <name
-                           type="ship">Louisa</name>, and <name type="ship">Malay</name>—as they
+                           type="ship">Whirlwind</name>, <name type="ship">Alboni</name>, and <name
+                           type="ship">Louisa</name>—as they
                         were often used in their heyday on the long Cape Horn route linking the east
                         and west coasts of North America. Doane also records encounters with
                         schooners, barques, and brigs, whose different sail-plans and rigging she
@@ -1172,71 +1172,49 @@
             </listOrg>
 --> 
             <list type="ships">
-               <head>List of Ships Mentioned in Doane's Journal</head>
-               <item xml:id="WScott">
-                  <name type="passenger" subtype="steamer">Winfield Scott</name>
-                  <country>USA</country>
-                  <date type="launched" when="1850-10-22"/>
-                  <date type="wrecked" when="1853-12-01"/>
-                  <persName type="Captain" notAfter="1853-12-01">Simon F. Blunt</persName>
-                  <orgName type="owner" notBefore="1852-01-01" notAfter="1853-05-18">New York and
-                     San Francisco Steamship Company Line</orgName>
-                  <desc/>
-                  <bibl><ref target="#BOEMRE #CINMS"/></bibl>
-               </item>
-               <!-- Rachel Cross's ships begin here -->
-               <!-- Rachel Cross's ships end here -->
-               <!-- Chloe Goodhart's ships begin here -->
-               <item xml:id="GoldenGate">
-                  <name type="steamer">SS Golden Gate</name>
-                  <country>USA</country>
-                  <date type="launched" when="1851-09"/>
-                  <date type="wrecked" when="1862-07-27"/>
-                  <persName type="Captain" notAfter="1862-07-27">W.W. Hudson</persName>
-                  <orgName type="owner" notBefore="1850-07-01" notAfter="1862-07-27">The Pacific
-                     Mail Steamship Company</orgName>
-                  <desc>According to Doane, The Golden Gate, enroute from Panama, arrived in
-                     Acapulco on Friday, Februay 11, 1853. The ship was on its way to San Francisco
-                     with over 1100 passengers. 6 had died of Panama Fever when Doane sees the
-                     ship.</desc>
-                  <bibl><ref target="#MHP"/></bibl>
-               </item>
-               <!-- Chloe Goodhart's ships end here -->
-               <!-- Ken Angel's ships begin here. -->
-               <item xml:id="Commonwealth">
-                  <name type="Ship">Commonwealth</name>
-                  <country>USA</country>
-                  <persName type="Captain">Edmund N. Doane</persName>
-               </item>
-               <!-- Ken Angel's ships end here -->
-               <!-- Lauren Sheridans' ships begin here. -->
-               <item xml:id="SNTR">
-                  <name type="steamer">Senator</name>
-                  <country>USA</country>
-                  <date type="launched" notBefore="1849-01">January 1849</date>
-                  <date type="retired" when="1882">1882</date>
-                  <persName type="Captain">Captain Coffin</persName>
-                  <bibl><ref target="#SDHC">Woodward</ref></bibl>
-               </item>
-               <!-- Lauren Sheridans' ships end here. -->
-               <!-- Elizabeth Snowden's ships begin here. -->
-               <item xml:id="Whirlwind">
-                  <name type="Clipper">Whirlwind</name>
-                  <persName type="Captain">Burgess</persName>
-               </item>
-               <item xml:id="Alboir">
-                  <name type="Clipper">Alboir</name>
-               </item>
-               <!-- Elizabeth Snowden's ships end here. -->
-               <!-- Devan Toncler's ships begin here. -->
-               <item xml:id="Monteria">
-                  <name type="ship">Monteria</name>
-                  <persName type="Captain">Captain Lowell</persName>
-               </item>
-               <!-- Devan Toncler's ships end here. -->
+               <head>While Louisa Doane for the most part refers to people by their roles—second mate, corker, pilot, etc.—rather
+               than by name, she names thirty-five ships encountered on her voyages and often includes their captain's name and their type,
+               perhpas reflecting her sense that her journal is, in part, a ship's log.</head>
+               <item><name type="ship">A.M. Lawrence</name><persName></persName><desc>Ship</desc></item>
+               <item><name type="ship">Abbelino</name><persName></persName><desc>Ship</desc></item>
+               <item><name type="ship">Alboni</name><persName>Littlefield</persName><desc></desc></item>
+               <item><name type="ship">Arcoal</name><persName>Genings</persName><desc>Ship</desc></item>
+               <item><name type="ship">Berlin</name><persName>Bearse</persName><desc>Ship</desc></item>
+               <item><name type="ship">Blanchard</name><persName></persName><desc>Ship</desc></item>
+               <item><name type="ship">California Packet</name><persName>Gardner</persName><desc>Ship</desc></item>
+               <item><name type="ship">Charlage</name><persName>Davis</persName><desc>Ship</desc></item>
+               <item><name type="ship">Colchis</name><persName>Higgins</persName><desc>Ship</desc></item>
+               <item><name type="ship">Commonwealth</name><persName>Edmund N. Doane</persName><desc>Ship</desc></item>
+               <item><name type="ship">Congree</name><persName></persName><desc>Ship</desc></item>
+               <item><name type="ship">Croton</name><persName></persName><desc>Bark</desc></item>
+               <item><name type="ship">Damascus</name><persName></persName><desc>Ship</desc></item>
+               <item><name type="ship">Dauntless</name><persName>Miller</persName><desc>Clipper Ship</desc></item>
+               <item><name type="ship">David</name><persName>Frost</persName><desc>Ship</desc></item>
+               <item><name type="ship">General Washington</name><persName></persName><desc>Ship</desc></item>
+               <item><name type="ship">Golden Gate</name><persName></persName><desc>Steamer</desc></item>
+               <item><name type="ship">Hampden</name><persName></persName><desc>Ship</desc></item>
+               <item><name type="ship">James Corner</name><persName>Corner</persName><desc></desc></item>
+               <item><name type="ship">James Ward</name><persName></persName><desc></desc></item>
+               <item><name type="ship">Laurens</name><persName></persName><desc>Bark</desc></item>
+               <item><name type="ship">Loch Libo</name><persName>Baird</persName><desc>Bark</desc></item>
+               <item><name type="ship">Louisa</name><persName></persName><desc>Ship</desc></item>
+               <item><name type="ship">Louisa</name><persName></persName><desc>Brig</desc></item>
+               <item><name type="ship">Maylay</name><persName></persName><desc>Clipper Ship</desc></item>
+               <item><name type="ship">Monteria</name><persName>Lowell</persName><desc>Ship</desc></item>
+               <item><name type="ship">Ottawa</name><persName>Crawford</persName><desc>Ship</desc></item>
+               <item><name type="ship">Royal Saxon</name><persName>Camel</persName><desc>Bark</desc></item>
+               <item><name type="ship">Saint Patrick</name><persName>Portman</persName><desc></desc></item>
+               <item><name type="ship">Senator</name><persName>Coffin</persName><desc>Ship</desc></item>
+               <item><name type="ship">Souter Johnnie</name><persName>Small</persName><desc>Ship</desc></item>
+               <item><name type="ship">SS Golden Gate</name><persName></persName><desc>Steamer</desc></item>
+               <item><name type="ship">Thomas Dickerson</name><persName>Taber</persName><desc>Ship</desc></item>
+               <item><name type="ship">Whirlwind</name><persName>Burgess</persName><desc>Clipper Ship</desc></item>
+               <item><name type="ship">Winfield Scott</name><persName>Simon F. Blunt</persName><desc>Steamer</desc></item>
             </list>
 
-            <list type="gloss">
+<!--  NOTE USED IN THIS EDITION
+               
+               <list type="gloss">
                <head>List of Nautical Terms</head>
                <item xml:id="Mate">
                   <term>Mate</term>
@@ -1245,7 +1223,7 @@
                      company</gloss>
                   <bibl><ref target="#Falconers">Falconer's</ref></bibl>
                </item>
-               <!-- Ken Angel's terms begin here -->
+               <!-\- Ken Angel's terms begin here -\->
                <item xml:id="PCP">
                   <term>Port Consul Pilot</term>
                   <gloss>A person who steers or directs the course of a ship; a helmsman or
@@ -1253,9 +1231,10 @@
                      steer a ship into or out of a port, through a channel, etc.</gloss>
                   <bibl><ref target="OED">Oxford English Dictionary</ref></bibl>
                </item>
-               <!-- Ken Angel's terms end here -->
+               <!-\- Ken Angel's terms end here -\->
             </list>
 
+-->
             <listBibl>
                <head>Works Cited</head>
                <bibl xml:id="Hittel" n="Hitte">Hittel, John Shertzer. <title level="m">A History of
@@ -1425,7 +1404,9 @@
             </listBibl>
 
 
-            <listPerson type="mentioned">
+<!--  NOT USED IN THIS EDITION
+               
+               <listPerson type="mentioned">
                <person xml:id="LAD">
                   <persName>Doane, Louisa A.</persName>
                   <birth when="1835-06-11">
@@ -1474,9 +1455,6 @@
                      <placeName>Dartmouth, MA</placeName>
                   </birth>
                </person>
-               <person xml:id="FirstOfficer">
-                  <occupation>First Officer</occupation>
-               </person>
                <person xml:id="Sparrow">
                   <persName>Sparrow Nickerson</persName>
                   <occupation>Sailor</occupation>
@@ -1496,69 +1474,8 @@
                   <occupation notBefore="1848" notAfter="1856">President; Panama Railroad
                      Company</occupation>
                </person>
-               <person xml:id="Bennet">
-                  <persName>Mr.Bennet</persName>
-                  <occupation>Merchant</occupation>
-               </person>
-               <person xml:id="FrederickNickerson">
-                  <persName>Frederick Nickerson</persName>
-                  <occupation>Merchant</occupation>
-               </person>
-               <person xml:id="WHF">
-                  <persName>W.H. Foster</persName>
-                  <occupation>Ship Builder</occupation>
-               </person>
-               <person xml:id="Crawford">
-                  <persName>Captain Crawford</persName>
-                  <occupation>Ship's Captain</occupation>
-               </person>
-               <person xml:id="White">
-                  <persName>Captain White</persName>
-                  <occupation>Ship's Captain</occupation>
-               </person>
-               <person xml:id="Portman">
-                  <persName>Captain Portman</persName>
-                  <occupation>Ship's Captain</occupation>
-               </person>
-               <!-- Lauren Sheridan's items begin here. -->
-               <person xml:id="SDHC">
-                  <persName>Captain Coffin</persName>
-                  <occupation>Captain of the ship "Senator"</occupation>
-               </person>
-               <!-- Keisha Trott's items begin here. -->
-               <person xml:id="Logan">
-                  <persName> Mrs. Logan</persName>
-               </person>
-               <person xml:id="Gardner">
-                  <persName>Mrs. Gardner</persName>
-               </person>
-               <person xml:id="Littlefield">
-                  <persName>Mrs. Littlefield</persName>
-               </person>
-               <person xml:id="Bearse">
-                  <persName>Mrs. Bearse</persName>
-               </person>
-               <person xml:id="Comer">
-                  <persName>Mrs. Comer</persName>
-               </person>
-               <person xml:id="Burgess">
-                  <persName>Captain Burgess</persName>
-                  <occupation>Ship's Captain</occupation>
-               </person>
-               <person xml:id="Hollis">
-                  <persName>Captain Hollis</persName>
-                  <occupation>Ship's Captain</occupation>
-               </person>
-               <person xml:id="Lowell">
-                  <persName>Captain Lowell</persName>
-                  <occupation>Ship's Captain</occupation>
-               </person>
-               <person xml:id="Cavenagh">
-                  <persName>Mr. Cavenagh</persName>
-                  <occupation>Second Mate</occupation>
-               </person>
-            </listPerson>
-
+           </listPerson>
+-->
             <listPerson type="editors">
                <person xml:id="HLU">
                   <persName>Ulman, H. Lewis</persName>
@@ -7678,7 +7595,7 @@
                         </choice></date></dateline>
                   <p>
                      <lb/>This morning <rs ref="#END">Father</rs> was going <lb/>on board of the
-                     Ship <name type="ship"><unclear>Souter Johny</unclear></name>
+                     Ship <name type="ship">Souter <choice><sic>Johny</sic><corr>Johnnie</corr></choice></name>
                      <persName><choice>
                            <sic>Captian</sic>
                            <corr>Captain</corr>
@@ -7908,7 +7825,7 @@
                         </figure>
                      </note>
                      <name type="ship">
-                        <lb/><unclear>Lochlibo</unclear></name>
+                        <lb/><choice><sic>Lochlibo</sic><corr>Loch Libo</corr></choice></name>
                      <persName><choice>
                            <sic>Captian</sic>
                            <corr>Captain</corr>
@@ -8564,7 +8481,7 @@
                      <lb/>Dinner. <persName>Mrs Littlefield</persName>
                      <persName>Mrs Logan</persName> and our <lb/>selves went around to the other
                      Island to call <lb/>on <persName>Mrs Bearse</persName> of the <name type="ship"
-                        >Ship Beslin</name> who arrived <lb/>last Saturday and was to stop for the
+                        >Ship <choice><sic>Beslin</sic><corr>Berlin</corr></choice></name> who arrived <lb/>last Saturday and was to stop for the
                      other La<seg type="softhyphen">
                         <lb/></seg>dies, The James Corner is to the Buoy <persName>Mrs
                         <lb/>Comer</persName> informed us that <persName>Mrs Bearse</persName> had

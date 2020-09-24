@@ -161,9 +161,9 @@
                            <li><a href="./doane_appendices_markup.html">Markup Guidelines</a></li>
                            <li><a href="./doane_appendices_hand.html">Guide to Doane's Hand</a></li>
                            <li><a href="./doane_appendices_zoomindex.html">Images of the MS Pages</a></li>
-                           <li><a href="./doane_appendices_maps.html">Maps</a></li>
-                           <li><a href="./doane_journal.html#placesMentioned">Ports and Landmarks</a></li>
                            <li><a href="./doane_journal.html#shipsMentioned">Ships Mentioned</a></li>
+                           <li><a href="./doane_journal.html#placesMentioned">Ports and Landmarks</a></li>
+                           <li><a href="./doane_appendices_maps.html">Maps</a></li>
                            <li><a href="./doane_journal.html#worksCited">Works Cited</a></li>
                            <li><a href="./doane_appendices_acknowledgements.html">Acknowledgements</a></li>
                            <li><a href="./doane_appendices_editors.html">About the Editors</a></li>
@@ -452,7 +452,7 @@
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:editorialDecl"/>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:refsDecl"/>
       <hr style="border: 2px solid crimson;"/>
-      <h2 id="worksCited">List of Works Cited</h2>
+      <h2 id="worksCited">Works Cited</h2>
       <hr/>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl"/>
@@ -594,19 +594,40 @@
    
    <xsl:template match="tei:list[@type='ships']">
       <hr/>
-      <h3 id="shipsMentioned">List of Ships Mentioned in Louisa Doane's Diary</h3>
-      <xsl:for-each select="tei:item">
-         <xsl:sort select="tei:name[1]"/>
-            <p>
-               <strong><xsl:value-of select="tei:name"/></strong>. 
-               <xsl:if test="tei:persName[@type='Captain']">
-                  Captain: <xsl:value-of select="tei:persName"/>
-               </xsl:if>
-            </p>
-      </xsl:for-each>
-   </xsl:template>
+      <h3 id="shipsMentioned">Ships Mentioned in Louisa Doane's Diary</h3>
+      <xsl:apply-templates select="tei:head"/>
+      <br/><br/>
+      <table style="width:90%; padding:5px">
+         <tr>
+            <td>
+               <h2>Ship</h2>
+            </td>
+            <td>
+               <h2>Captain</h2>
+            </td>
+            <td>
+               <h2>Type</h2>
+            </td>
+         </tr>
+         <xsl:for-each select="tei:item">
+            <tr class="revTable" style="vertical-align:top">
+               <td style="white-space: nowrap; font-style:italic;">
+                  <xsl:value-of select="tei:name"/>
+               </td>
+               <td style="white-space: nowrap">
+                  <xsl:value-of select="tei:persName"/>
+               </td>
+               <td>
+                  <xsl:value-of select="tei:desc"/>
+               </td>
+            </tr>
+         </xsl:for-each>
+      </table>
+  </xsl:template>
    
-   <xsl:template match="tei:listPerson[@type='mentioned']">
+<!--  NOTE USED IN THIS EDITION
+      
+      <xsl:template match="tei:listPerson[@type='mentioned']">
       <hr style="border: 2px solid crimson;"/>
       <h2>Appendices</h2> 
       <hr/>
@@ -633,7 +654,9 @@
          </p>
       </xsl:for-each>
    </xsl:template>
-   
+-->   
+<!--  NOT USED IN THIS EDITION
+      
       <xsl:template match="tei:listOrg">
          <hr/>
       <h3 id="organizationsMentioned">List of Organizations Mentioned in Louisa Doane's Diary</h3>
@@ -645,14 +668,14 @@
          </p>
       </xsl:for-each>
    </xsl:template>   
-   
+-->   
    <xsl:template match="tei:listPerson[@type='editors']"/> 
 
 <!-- LIST OF PLACES VISITED/SIGHTED -->
 
    <xsl:template match="tei:listPlace">
       <hr/>
-      <h3 id="placesMentioned">List of Places Visited and Sighted During Doane's Voyages</h3>
+      <h3 id="placesMentioned">Places Visited and Sighted During Doane's Voyages</h3>
       <xsl:apply-templates select="tei:head"/>
       <table style="width:610px; padding:5px; border:none;">
          <tr>
@@ -719,13 +742,13 @@
       <table style="width:90%; padding:5px">
          <tr>
             <td>
-               <h3>Date</h3>
+               <h2>Date</h2>
             </td>
             <td>
-               <h3>Name</h3>
+               <h2>Name</h2>
             </td>
             <td>
-               <h3>Change</h3>
+               <h2>Change</h2>
             </td>
          </tr>
          <xsl:for-each select="tei:change">
@@ -799,7 +822,9 @@
       <xsl:apply-templates/>
    </xsl:template>
    <xsl:template match="tei:name[@type='ship']">
-      <i><xsl:apply-templates/></i>
+      <span style="font-style:italic">
+         <xsl:apply-templates/>
+      </span>
    </xsl:template>
    <xsl:template match="tei:foreign">
       <i>

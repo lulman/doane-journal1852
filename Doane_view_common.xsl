@@ -119,9 +119,9 @@
                         <li><a href="./doane_appendices_markup.html">Markup Guidelines</a></li>
                         <li><a href="./doane_appendices_hand.html">Guide to Doane's Hand</a></li>
                         <li><a href="./doane_appendices_zoomindex.html">Images of the MS Pages</a></li>
-                        <li><a href="./doane_appendices_maps.html">Maps</a></li>
-                        <li><a href="./doane_journal.html#placesMentioned">Ports and Landmarks</a></li>
                         <li><a href="./doane_journal.html#shipsMentioned">Ships Mentioned</a></li>
+                        <li><a href="./doane_journal.html#placesMentioned">Ports and Landmarks</a></li>
+                        <li><a href="./doane_appendices_maps.html">Maps</a></li>
                         <li><a href="./doane_journal.html#worksCited">Works Cited</a></li>
                         <li><a href="./doane_appendices_acknowledgements.html">Acknowledgements</a></li>
                         <li><a href="./doane_appendices_editors.html">About the Editors</a></li>
@@ -708,10 +708,10 @@
          <xsl:apply-templates/>
       </xsl:element>
    </xsl:template>
-      <xsl:template match="tei:person/tei:name[@type='ship']">
-      <em>
-         <xsl:apply-templates/>
-      </em>
+   <xsl:template match="tei:name[@type='ship']">
+         <xsl:element name="span"><xsl:attribute name="style">font-style:italic;</xsl:attribute>
+            <xsl:apply-templates/>
+         </xsl:element>
    </xsl:template>
 
    <!-- Text highlighted in the source document -->
