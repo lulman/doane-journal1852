@@ -611,9 +611,16 @@
             </biblFull>
 
             <listPlace>
-               <head>The following itinery provides links to the entries in which Doane's party
-                  first visits major stops or sights important landmarks on their voyages (click on
-                  the date to view the corresponding entry).</head>
+               <head>The following table provides links to the entries in which Doane's party
+                  first visits major stops, or sights important landmarks, on their voyages (click on
+                  a date to view the corresponding entry). For a visual overview of the voyages,
+                  see the 
+                  <figure rend="link">
+                     <head>"Maps" appendix.</head>
+                     <graphic url="doane_appendices_maps.html"/>
+                     <figDesc>Link to "Maps" appendix.</figDesc>
+                  </figure>                  
+               </head>
                
                <place type="island" xml:id="ChinchaI">
                   <event when="1853-04-27" source="#Doane18530427"><p>27 Apr 1853</p></event>
@@ -769,7 +776,7 @@
                   </location>
                </place>
  
-               <place type="city" xml:id="Acapulco" source="#TGN">
+               <place type="city" xml:id="Acapulco2" source="#TGN">
                   <event when="1853-02-18" source="#Doane18530218a"><p>18 Feb 1853</p></event>
                   <placeName xml:lang="spa">Acapulco de Juárez</placeName>
                   <desc>The <name type="ship">Commonwealth</name> leaves <emph rend="bold">Acapulco</emph>.</desc>
@@ -846,7 +853,7 @@
                   </location>
                </place>
                
-               <place type="island-group" xml:id="Azores" source="#TGN">
+               <place type="island-group" xml:id="Azores2" source="#TGN">
                   <event when="1852-05-25" source="#Doane18520525a"><p>15 May 1852</p></event>
                   <placeName xml:lang="por">Açores, Ilhas dos</placeName>
                   <placeName xml:lang="eng">Azores</placeName>
@@ -902,7 +909,7 @@
                   </location>
                </place>
 
-               <place type="landmark" xml:id="CHorn" source="#TGN">
+               <place type="landmark" xml:id="CHorn2" source="#TGN">
                   <event when="1853-09-07" source="#Doane18530907a"><p>7 Sep 1853</p></event>
                   <geogName xml:lang="spa">Hornos, Cabo de</geogName>
                   <geogName xml:lang="eng">Cape Horn</geogName>
@@ -1079,7 +1086,7 @@
                   </location>
                </place>
 
-               <place type="city" xml:id="CallaoBP" source="#TGN">
+               <place type="city" xml:id="CallaoBP2" source="#TGN">
                   <event when="1853-04-23" source="#Doane18530423a"><p>23 Apr 1853</p></event>
                   <placeName>Callao</placeName>
                   <country>Peru</country>
