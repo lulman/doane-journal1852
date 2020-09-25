@@ -18,21 +18,20 @@
    <xsl:variable name="aboutView">This presentation of the Doane journal derives from the project's
       main XML file, Doane-Journal.xml, transformed with Doane_view_common.xsl and
       Doane_view_splitview.xsl. Facsimiles of pages appear next to the edited text, and clicking on
-      a page image will open a full-sized view of that page in a new window.
-      is organized by manuscript pages. Line
-      breaks and page breaks reflect those in the manuscript; paragraph breaks are not reported.
-      Spelling, punctuation, capitalization, and abbreviations are reported as they appear in the
-      manuscript. Text highlighted by Doane with an underscore is underscored in this view.
-      Recoverable text canceled by Doane is reported in square brackets; unrecoverable text
-      canceled by Cox is reported with an ellipsis between square brackets. Text added by Cox
-      between lines is reported between arrows (↑ ↓) indicating the position of the addition; text
-      added in the margin is reported between pipes (|). All material added by the editor is
-      surrounded by square brackets: uncertain readings are followed
-      by a question mark, errors in the manuscript are indicated by sic, and text supplied by the
-      editors for clarity is set in italics. Gaps in the manuscript (e.g., tears and unrecoverable cancelations) are noted by
-      ellipses within square brackets. Links to explanatory notes are numbered, colored, and
-      superscripted.
-   </xsl:variable>
+      a page image will open a full-sized view of that page in a new window. is organized by
+      manuscript pages. Line breaks and page breaks reflect those in the manuscript; paragraph
+      breaks are not reported. Spelling, punctuation, capitalization, and abbreviations are reported
+      as they appear in the manuscript (see the Markup Guidelines appendix for more information
+      about the treatment of Doane's orthography). Text highlighted by Doane with an underscore is
+      underscored in this view. Recoverable text canceled by Doane is reported in square brackets;
+      unrecoverable text canceled by Cox is reported with an ellipsis between square brackets. Text
+      added by Cox between lines is reported between arrows (↑ ↓) indicating the position of the
+      addition; text added in the margin is reported between pipes (|). All material added by the
+      editor is surrounded by square brackets: uncertain readings are followed by a question mark,
+      errors in the manuscript are indicated by sic, and text supplied by the editors for clarity is
+      set in italics. Gaps in the manuscript (e.g., tears and unrecoverable cancelations) are noted
+      by ellipses within square brackets. Links to explanatory notes are numbered, colored, and
+      superscripted. </xsl:variable>
    <xsl:variable name="bodyRule">
       body {
       font-family: 'Fanwood Text',georgia, serif;

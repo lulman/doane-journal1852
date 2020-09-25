@@ -2000,7 +2000,6 @@
          <!-- New York to Marseille voyage begins here. -->
          <div type="voyage" xml:id="NY2Marseille">
             <pb facs="G226_D6_A3_1852-003b"/>
-            <fw><handShift new="#H2"/>1<handShift new="#LADHand"/></fw>
             <head>
                <handShift new="#LADHand"/>
                <lb/>A Journal from <placeName ref="#NYC">New York</placeName> towards <placeName
@@ -2111,7 +2110,6 @@
             </div>
             <!-- Proofread to here 03 October 2011. -->
             <pb facs="G226_D6_A3_1852-004b"/>
-            <fw><handShift new="#H2"/>2<handShift new="#LADHand"/></fw>
             <div type="Entry" xml:id="Doane18520214a">
                <lb/>
                <dateline><date when="1852-02-14">Saturday 14</date>.</dateline>
@@ -2226,7 +2224,6 @@
                         <orig>Brigg</orig>
                         <reg>brig</reg>
                      </choice></distinct> standing <pb facs="G226_D6_A3_1852-005b"/>
-                  <fw><handShift new="#H2"/>3<handShift new="#LADHand"/></fw>
                   <lb/>north, I have just been <choice>
                      <sic>makeing</sic>
                      <corr>making</corr>
@@ -3610,7 +3607,7 @@
                <dateline><date when="1852-06-18">Friday 1<del rend="overwritten">8</del>7
                   </date></dateline>
                <p> Today it has been a foggy wet <lb/>and <distinct type="archaicorthography"
-                           ><orig><sic>unpleasent</sic><reg>unpleasant</reg></orig></distinct> day
+                           ><orig>unpleasent<reg>unpleasant</reg></orig></distinct> day
                   the wind ahead this <lb/>morning come on soundings and the <choice>
                      <sic>Captian</sic>
                      <corr>Captain</corr>
@@ -3871,7 +3868,7 @@
                <p>
                   <lb/>We have a fair wind blowing <lb/>quite and <distinct
                      type="archaicorthography"
-                        ><orig><sic>unpleasent</sic><reg>unpleasant</reg></orig></distinct> weather
+                        ><orig>unpleasent<reg>unpleasant</reg></orig></distinct> weather
                   squally the last <lb/>day it has been calm no wind, there are <lb/>two vessel in
                   sight bound to <del rend="overwritten">W</del>Eastward <!-- Proofread to this point 24 January 2012. HLU and CG. -->
                   <pb facs="G226_D6_A3_1852-021b"/>
@@ -4147,7 +4144,7 @@
                   <lb/>Today the wind has been change<seg type="softhyphen">
                      <lb/></seg>able in no particular point long at a time <lb/><distinct
                      type="archaicorthography"
-                        ><orig><sic>unpleasent</sic><reg>unpleasant</reg></orig></distinct> weather
+                        ><orig>unpleasent<reg>unpleasant</reg></orig></distinct> weather
                   have had a rain shower <lb/>and now it is entirely calm sails flapping <lb/>have
                   passed a Schooner bound North </p>
             </div>
@@ -4905,10 +4902,10 @@
                      </choice></add> since it is very <choice>
                      <sic>painfull</sic>
                      <corr>painful</corr>
-                  </choice> have <choice>
-                     <sic>sot</sic>
-                     <corr>set</corr>
-                  </choice> up the Stove <lb/>in the Cabin, as it is very cold. This morning <lb/>at
+                     </choice> have <distinct type="archaicorthography"><choice>
+                     <orig>sot</orig>
+                     <reg>set</reg>
+                  </choice></distinct> up the Stove <lb/>in the Cabin, as it is very cold. This morning <lb/>at
                   4 oclock it blew very hard so <choice>
                      <sic>thy</sic>
                      <corr>they</corr>
@@ -6210,12 +6207,15 @@
                   <lb/>
                   <dateline><date when="1853-01-28">Friday 28</date></dateline>
                   <p>
-                     <lb/>This morning at one o'clock the <lb/>wind <choice>
+                     <lb/>This morning at one o'clock the <lb/>wind 
+                     <choice>
                         <sic>commeced</sic>
                         <corr>commenced</corr>
-                     </choice> blowing and it increased <lb/>to a perfect gale the <name type="ship"
-                        >Ship Ottawa Bark <pb facs="G226_D6_A3_1852-046b"/>
-                        <lb/>Lochibo</name>
+                     </choice> blowing and it increased 
+                     <lb/>to a perfect gale the Ship <name type="ship">Ottawa</name> Bark 
+                        <pb facs="G226_D6_A3_1852-046b"/>
+                        <lb/><name type="ship"><choice><sic>Lochibo</sic><corr>Loch Libo</corr></choice>
+                        </name>
                      <choice>
                         <sic>draged</sic>
                         <corr>dragged</corr>
@@ -6502,10 +6502,10 @@
                      house was all crushed to pieces <lb/>the time of the <choice>
                         <sic>eathquake</sic>
                         <corr>earthquake</corr>
-                     </choice> and they were <lb/>rebuilding it had the Piano <choice>
-                        <sic>sot</sic>
-                        <corr>set</corr>
-                     </choice> up and <lb/>were playing on it and from there we went <lb/>to the dry
+                     </choice> and they were <lb/>rebuilding it had the Piano <distinct type="archaicorthography"><choice>
+                        <orig>sot</orig>
+                        <reg>set</reg>
+                     </choice></distinct> up and <lb/>were playing on it and from there we went <lb/>to the dry
                      good store The Gentleman that <lb/>keep it could speak good English things
                      <lb/>are very dear Calico<ptr type="noteAnchor" target="calico"/>
                      <note resp="ed" xml:id="calico">Calico is a coarse form of cotton cloth that
@@ -6702,10 +6702,10 @@
                      </choice>
                      <lb/>1 Chicken and some shells when we returned <lb/>the <rs ref="#PCP"
                         >American Counsul</rs> was on board and <lb/>all ready to go to sea the
-                     Signal <choice>
-                        <sic>sot</sic>
-                        <corr>set</corr>
-                     </choice> for a <lb/><rs ref="#PCP">Pilot</rs>, <persName ref="#Crawford"><choice>
+                     Signal <distinct type="archaicorthography"><choice>
+                        <orig>sot</orig>
+                        <reg>set</reg>
+                     </choice></distinct> for a <lb/><rs ref="#PCP">Pilot</rs>, <persName ref="#Crawford"><choice>
                            <sic>Captian</sic>
                            <corr>Captain</corr>
                         </choice> Crawford</persName> came on Board with <lb/>his men and helped us
@@ -6869,7 +6869,6 @@
                   </choice> came on board It was the <!-- Linsay Kelly's section ends here -->
                   <!-- Cara Laviola's section starts here -->
                   <pb facs="G226_D6_A3_1852-053b"/>
-                  <handShift new="H2"/><add place="margin">50/-</add><handShift new="#LADHand"/>
                   <lb/>Ship <name type="ship">Congree</name> of <placeName ref="#NB">New
                      Bedford</placeName> been out 22 months <lb/>with 600 Sperm, on a 4 <choice>
                      <sic>years</sic>
@@ -7091,10 +7090,10 @@
                   sight bound <!-- Cara Laviola's section ends here -->
                   <!-- Megan Maxwell's section begins-->
                   <pb facs="G226_D6_A3_1852-055a"/>
-                  <lb/>the other way has <choice>
-                     <sic>sot</sic>
-                     <corr>set</corr>
-                  </choice> her <choice>
+                  <lb/>the other way has <distinct type="archaicorthography"><choice>
+                     <orig>sot</orig>
+                     <reg>set</reg>
+                  </choice></distinct> her <choice>
                      <sic>Colars</sic>
                      <corr>Colors</corr>
                   </choice> English the <lb/>men are still confined in Irons the Sailors are
@@ -7413,10 +7412,10 @@
                   several Sails in sight bound to <lb/>
                   <placeName ref="#Callao">Callao</placeName> 1 Ship and Bark in sight standing the
                   <lb/> same way came up with the Ship It was <lb/> the <name type="ship"
-                     >Ottawa</name> which left last Wednesday <choice>
-                     <sic>sot</sic>
-                     <corr>set</corr>
-                  </choice> sig<seg type="softhyphen">
+                     >Ottawa</name> which left last Wednesday <distinct type="archaicorthography"><choice>
+                        <orig>sot</orig>
+                        <reg>set</reg>
+                     </choice></distinct> sig<seg type="softhyphen">
                      <lb/></seg>nals The Bark is Obit which left the same <lb/> day <persName
                      ref="#mom">Mother</persName> is confined to her bed with the Fever <lb/> again
                </p>
@@ -7857,8 +7856,6 @@
                         >father</rs> came to tea he <!-- Cory Sheetz's section ends here -->
                      <!-- Lauren Sheridan's section starts here -->
                      <pb facs="G226_D6_A3_1852-062b"/>
-                     <handShift new="#H2"/><add place="margin">59</add>
-                     <handShift new="LADHand"/>
                      <lb/>informed us the Ship <name type="ship">David</name> had arrived <lb/>he
                      had been on board of her <persName><choice>
                            <sic>Captian</sic>
@@ -8008,10 +8005,10 @@
                            <corr>Captain</corr>
                         </choice></persName> and <persName>Mrs Gardner</persName> have <lb/>come on
                      board to go around with us to the other <lb/><geogName>Island</geogName> after
-                     dinner we <choice>
-                        <sic>sot</sic>
-                        <corr>set</corr>
-                     </choice> our Ensign <ptr type="noteAnchor" target="Ensign"/>
+                     dinner we <distinct type="archaicorthography"><choice>
+                        <orig>sot</orig>
+                        <reg>set</reg>
+                     </choice></distinct> our Ensign <ptr type="noteAnchor" target="Ensign"/>
                      <note resp="ed" xml:id="Ensign"> On 18th century ships, the flag (or "colors")
                         was sometimes lowered as a salute or sign of respect to other ships
                               <bibl><ref target="DK"/>Kemp 534</bibl>.</note> which is <lb/>a signal
@@ -8080,10 +8077,10 @@
                         </choice> Gardner</persName> is coming <choice>
                         <sic>across<seg type="softhyphen"><lb/>d</seg></sic>
                         <corr>across<lb/></corr>
-                     </choice> to this <geogName>Island</geogName> we <choice>
-                        <sic>sot</sic>
-                        <corr>set</corr>
-                     </choice> our Ensign to welcome <lb/>them around she came at an Anchor about 12
+                        </choice> to this <geogName>Island</geogName> we <distinct type="archaicorthography"><choice>
+                           <orig>sot</orig>
+                           <reg>set</reg>
+                        </choice></distinct> our Ensign to welcome <lb/>them around she came at an Anchor about 12
                      <lb/>oclock <rs ref="#END">Father</rs> was Pilot she was towed as <lb/>there
                      were no wind. </p>
                </div>
@@ -8992,10 +8989,10 @@
                      <lb/>We have a fair Wind <lb/><choice>
                         <abbr>althou</abbr>
                         <expan>although</expan>
-                     </choice> very little Studding <choice>
-                        <sic>sot</sic>
-                        <corr>set</corr>
-                     </choice>
+                     </choice> very little Studding <distinct type="archaicorthography"><choice>
+                        <orig>sot</orig>
+                        <reg>set</reg>
+                     </choice></distinct>
                      <name type="ship">The <unclear cert="medium" reason="Possibly Colehus"
                            >Colchus</unclear></name>
                      <lb/>is in sight astern have caught a num<seg type="softhyphen">-
@@ -9231,10 +9228,10 @@
                            <corr>nd</corr>
                         </choice></date></dateline>
                   <p>
-                     <lb/>Fair Wind blowing F<supplied>r</supplied>esh <lb/>Studding <choice>
-                        <sic>sot</sic>
-                        <corr>set</corr>
-                     </choice> in both <rs ref="#END">Father</rs> is busy making <lb/>a canvass
+                     <lb/>Fair Wind blowing F<supplied>r</supplied>esh <lb/>Studding <distinct type="archaicorthography"><choice>
+                        <orig>sot</orig>
+                        <reg>set</reg>
+                     </choice></distinct> in both <rs ref="#END">Father</rs> is busy making <lb/>a canvass
                      trunk evening <rs ref="#ATD">Mother</rs> and <distinct
                         type="archaicorthography" time="16"><choice>
                            <orig>myselfe</orig>
