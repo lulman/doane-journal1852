@@ -93,6 +93,9 @@
       -moz-border-radius: 10 px;
       border-radius: 10px;	
       }
+      span.linenumber {
+        font-family:monospace;
+      }
    </xsl:variable>
    
    <!-- Include common style sheet for Smith diaries. -->
@@ -117,7 +120,7 @@
       <!--<br/>-->
    </xsl:template>    
    <xsl:template match="tei:lb"><br/><a><xsl:attribute name="id"><xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/></xsl:attribute>
-   </a><xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+   </a><span class="linenumber"><xsl:number  count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/></span>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
    </xsl:template>
    <xsl:template match="tei:fileDesc/tei:titleStmt/tei:title/tei:lb">
       <br/><xsl:apply-templates/>

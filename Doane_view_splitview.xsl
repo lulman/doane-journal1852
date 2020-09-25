@@ -133,6 +133,9 @@
       -moz-border-radius: 10 px;
       border-radius: 10px;	
       }
+      span.linenumber {
+      font-family:monospace;
+      }      
    </xsl:variable>
    
    
@@ -175,7 +178,7 @@
             <xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>
          </xsl:attribute>
       </a>
-      &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+      &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<span class="linenumber"><xsl:number  count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/></span>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
    </xsl:template>
    <xsl:template match="tei:fileDesc/tei:titleStmt/tei:title/tei:lb">
       <br/><xsl:apply-templates/>
