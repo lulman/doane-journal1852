@@ -3960,10 +3960,7 @@
                <dateline>Saturday 12. oclock M. <date when="1852-08-21"><choice>
                         <abbr>Augt</abbr>
                         <expan>August</expan>
-                     </choice> 21.<choice>
-                        <sic>th</sic>
-                        <corr>st</corr>
-                     </choice></date></dateline>
+                     </choice> 21.th</date></dateline>
                <p>
                   <lb/>Fine weather fair wind what <lb/>there is but nearly Calm. This morning <rs
                      type="person" ref="END">father</rs>
@@ -3976,10 +3973,7 @@
                <dateline>Monday 12. oclock M <date when="1852-08-23"><choice>
                         <abbr>Augt</abbr>
                         <expan>August</expan>
-                     </choice> 23.<choice>
-                        <sic>th</sic>
-                        <corr>rd</corr>
-                     </choice></date></dateline>
+                     </choice> 23.th</date></dateline>
                <p>
                   <lb/>Head wind and <choice>
                      <sic>Clam</sic>
@@ -4121,10 +4115,9 @@
                      </choice>12 oclock <choice>
                         <abbr>Augt</abbr>
                         <expan>August</expan>
-                     </choice> 31<choice>
-                        <sic>th</sic>
-                        <corr>st</corr>
-                     </choice></date></dateline>
+                     </choice> 31th</date><ptr type="noteAnchor" target="ordinals"/><note resp="ed" xml:id="ordinals">Doane employs a superscripted
+                        "th" for all ordinal numbers. For the sake of readability, we do not report usage such as
+                     "2th" or "3th" as errors, nor do we superscript these ordinal markers.</note></dateline>
                <p>
                   <lb/>The wind has subsided and it <lb/>has become quite smooth, <rs ref="#ATD"
                      >mother</rs> and <lb/><distinct type="archaicorthography"><choice>
@@ -4136,10 +4129,7 @@
             </div>
             <div type="Entry" xml:id="Doane18520902a">
                <lb/>
-               <dateline><date when="1852-09-02">Thursday 12 oclock Sept <choice>
-                        <sic>2th</sic>
-                        <corr>2nd</corr>
-                     </choice></date></dateline>
+               <dateline><date when="1852-09-02">Thursday 12 oclock Sept 2th</date></dateline>
                <p>
                   <lb/>Today the wind has been change<seg type="softhyphen">
                      <lb/></seg>able in no particular point long at a time <lb/><distinct
@@ -5032,10 +5022,7 @@
             </div>
             <div type="Entry" xml:id="Doane18521031a">
                <lb/>
-               <dateline><date when="1852-10-31">Sunday 12 oclock M Oct 31. <choice>
-                        <sic>th</sic>
-                        <corr>st</corr>
-                     </choice></date></dateline>
+               <dateline><date when="1852-10-31">Sunday 12 oclock M Oct 31.th</date></dateline>
                <p>
                   <lb/>It is still <distinct type="archaicorthography"><choice>
                         <orig>pleasent</orig>
@@ -6772,10 +6759,7 @@
             </div>
             <div type="Entry" xml:id="Doane18530223">
                <lb/>
-               <dateline><date when="1853-02-23">Wednesday 12 oclock M Feb 23<choice>
-                        <sic>th</sic>
-                        <corr>rd</corr>
-                     </choice></date></dateline>
+               <dateline><date when="1853-02-23">Wednesday 12 oclock M Feb 23th</date></dateline>
                <p>
                   <lb/>Fair wind but quite mod<seg type="softhyphen">- <lb/></seg>erate, Father is
                   quite unwell with severe pains in <!-- How to encode the revision sequence here? -->
@@ -6836,10 +6820,7 @@
             </div>
             <div type="Entry" xml:id="Doane18530303">
                <lb/>
-               <dateline><date when="1853-03-03">Thursday 12 oclock M Ma 3<choice>
-                        <sic>th</sic>
-                        <corr>rd</corr>
-                     </choice></date></dateline>
+               <dateline><date when="1853-03-03">Thursday 12 oclock M Ma<supplied>r</supplied> 3th</date></dateline>
                <p>
                   <lb/>Calm and very warm indeed <lb/>have made but very little progress the last 2
                   <lb/>days as it has been calm and there is a <lb/>Westerly C<del
@@ -7308,10 +7289,7 @@
             </div>
             <div type="Entry" xml:id="Doane18530422a">
                <lb/>
-               <dateline><date when="1853-04-22">Friday April 22<choice>
-                        <sic>th</sic>
-                        <corr>nd</corr>
-                     </choice></date></dateline>
+               <dateline><date when="1853-04-22">Friday April 22th</date></dateline>
                <p>
                   <lb/>This morning I arose very <lb/>early and <choice>
                      <sic>accompanayed</sic>
@@ -7370,10 +7348,7 @@
             </div>
             <div type="Entry" xml:id="Doane18530428a">
                <lb/>
-               <dateline><date when="1853-04-28">Saturday April 23<choice>
-                        <sic>th</sic>
-                        <corr>rd</corr>
-                     </choice></date></dateline>
+               <dateline><date when="1853-04-28">Saturday April 23th</date></dateline>
                <p>
                   <lb/> This morning after Breakfast <!-- Alecia Mouhanna's section ends here -->
                   <!-- Beau Peiffer's section starts here. -->
@@ -7590,10 +7565,7 @@
                </div>
                <div type="Entry" xml:id="Doane18530501a">
                   <lb/>
-                  <dateline><date when="1853-05-01">Sunday May 1<choice>
-                           <sic>th</sic>
-                           <corr>st</corr>
-                        </choice></date></dateline>
+                  <dateline><date when="1853-05-01">Sunday May 1th</date></dateline>
                   <p>
                      <lb/>This morning <rs ref="#END">Father</rs> was going <lb/>on board of the
                      Ship <name type="ship">Souter <choice><sic>Johny</sic><corr>Johnnie</corr></choice></name>
@@ -7622,10 +7594,7 @@
                </div>
                <div type="Entry" xml:id="Doane18530502a">
                   <lb/>
-                  <dateline><date when="1853-05-02">Monday May 3<choice>
-                           <sic>th</sic>
-                           <corr>nd</corr>
-                        </choice><ptr type="noteAnchor" target="may3"/><note resp="ed" xml:id="may3"
+                  <dateline><date when="1853-05-02">Monday May 3th<ptr type="noteAnchor" target="may3"/><note resp="ed" xml:id="may3"
                            >May 3 fell on a Tuesday in 1853. From the context, it is not clear
                            whether Doane has mistaken the day of the week or the
                      date.</note></date></dateline>
@@ -7959,10 +7928,7 @@
                <pb facs="G226_D6_A3_1852-063b"/>
                <div type="Entry" xml:id="Doane18530602a">
                   <lb/>
-                  <dateline><date when="1853-06-02">Thursday June 2<choice>
-                           <sic>th</sic>
-                           <corr>nd</corr>
-                        </choice></date></dateline>
+                  <dateline><date when="1853-06-02">Thursday June 2th</date></dateline>
                   <p>
                      <lb/>This afternoon <persName>Mrs Gardner</persName>
                      <lb/>came along side for us to go on board the <lb/><name type="ship">James
@@ -8383,10 +8349,7 @@
                </div>
                <div type="Entry" xml:id="Doane18530702a">
                   <lb/>
-                  <dateline><date when="1853-07-02"> Saturday July 2<choice>
-                           <sic>th</sic>
-                           <corr>nd</corr>
-                        </choice></date></dateline>
+                  <dateline><date when="1853-07-02"> Saturday July 2th</date></dateline>
                   <p>
                      <lb/>This morning Bright and <lb/>early <persName><choice>
                            <sic>Captian</sic>
@@ -8844,10 +8807,7 @@
                </div>
                <div type="Entry" xml:id="Doane18530722a">
                   <lb/>
-                  <dateline><date when="1853-07-22">Friday 22<choice>
-                           <sic>th</sic>
-                           <corr>nd</corr>
-                        </choice></date></dateline>
+                  <dateline><date when="1853-07-22">Friday 22th</date></dateline>
                   <p>
                      <lb/>This is a pleasant day <lb/>have been on Shore done some <choice>
                         <sic>shoping</sic>
@@ -9223,10 +9183,7 @@
                   <dateline><date when="1853-09-22">Thursday <choice>
                            <abbr>Sept</abbr>
                            <expan>September</expan>
-                        </choice> 22<choice>
-                           <sic>th</sic>
-                           <corr>nd</corr>
-                        </choice></date></dateline>
+                        </choice> 22th</date></dateline>
                   <p>
                      <lb/>Fair Wind blowing F<supplied>r</supplied>esh <lb/>Studding <distinct type="archaicorthography"><choice>
                         <orig>sot</orig>
@@ -9319,10 +9276,7 @@
                   <dateline><date when="1853-10-01">Saturday <choice>
                            <abbr>Oct</abbr>
                            <expan>October</expan>
-                        </choice> 1<choice>
-                           <sic>th</sic>
-                           <corr>st</corr>
-                        </choice></date></dateline>
+                        </choice> 1th</date></dateline>
                   <p>
                      <lb/>This is the first day of <pb facs="G226_D6_A3_1852-078a"/><!-- 78a -->
                      <lb/>the month and comes in with a <choice>
