@@ -2041,7 +2041,9 @@
                   the <choice>
                      <sic>Westard</sic>
                      <corr>Westward</corr>
-                  </choice> which is fair for us The <lb/>Pilot left at eleven oclock, I took my
+                  </choice><ptr type="noteAnchor" target="spelling"/><note resp="ed" xml:id="spelling">See the appendix "Markup Guidelines"
+                     for information about how this edition treats Doane's spelling, which includes consistent use of
+                     idiosyncratic and archaic spellings, as well as outright errors.</note> which is fair for us The <lb/>Pilot left at eleven oclock, I took my
                   <lb/>book and lead <distinct type="archaicorthography"><choice>
                         <orig>pincel</orig>
                         <reg>pencil</reg>
