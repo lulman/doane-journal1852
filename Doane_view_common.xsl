@@ -703,11 +703,6 @@
    <xsl:template match="tei:rs">
       <xsl:apply-templates/>
    </xsl:template>
-   <xsl:template match="tei:note/tei:name[@type='ship']">
-      <xsl:element name="span"><xsl:attribute name="style">font-style:italic;</xsl:attribute>
-         <xsl:apply-templates/>
-      </xsl:element>
-   </xsl:template>
    <xsl:template match="tei:name[@type='ship']">
          <xsl:element name="span"><xsl:attribute name="style">font-style:italic;</xsl:attribute>
             <xsl:apply-templates/>
