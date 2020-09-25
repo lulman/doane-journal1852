@@ -34,8 +34,8 @@
       superscripted. </xsl:variable>
    <xsl:variable name="bodyRule">
       body {
-      font-family: 'Fanwood Text',georgia, serif;
-      font-size: 1em;
+      font-family: Georgia, serif;
+      font-size: .85em;
       <!-- Expand body width to 1050 -->
       width: 1050px;
       margin-left: 50px;

@@ -33,7 +33,7 @@
       enclosed by square brackets. Links to notes are colored and superscripted. </xsl:variable>
    <xsl:variable name="bodyRule">
       body {
-      font-family: 'Fanwood Text',georgia, serif;
+      font-family: Georgia, serif;
       font-size: 1em;
       width: 800px;
       margin-left: 50px;
