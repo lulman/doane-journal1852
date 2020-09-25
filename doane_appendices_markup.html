@@ -320,7 +320,6 @@
 
             </div> <!-- End div id NavBar -->
       <div id="viewMenu">
-         <p class="aboutView"><a href="./sscox_journal.html#view">About this page.</a></p>
          <div class="container">
             <p class="font-size-label">Font Size <button id="up">+</button><button id="down">-</button></p>
             <p style="font-size:smaller"><strong>Edited by</strong><br/>
@@ -381,7 +380,7 @@
          encoded by the empty page break or &lt;pb/&gt; element, are the primary
          physical structures represented in the markup. Each &lt;pb&gt; element
          includes a @facs attribute containing a link to a facsimile of that page. <strong>Line
-         breaks</strong> (i.e.,
+         breaks</strong> (in this case, most often
          lineation determined or influenced by the physical constraints
          of the  page rather than compositional choices by the author) are encoded
          with the empty &lt;lb/&gt; element.
@@ -389,15 +388,14 @@
       <p><strong>Markup of Textual Structure.</strong> The <strong>journal
             entry</strong> constitutes the primary textual
          structure represented in the markup. It is encoded
-         by a &lt;div1&gt; element with the attribute-value pair "type='Entry,'"         an
+         by a &lt;div&gt; element with the attribute-value pair "type='Entry,'"         an
          &quot;id&quot; attribute with the unique value &quot;DoaneYYYYMMDDa&quot; (where
          the date corresponds to the date of the entry and the trailing letter
-         allows for multiple entries on a given day). Each entry contains an &lt;opener&gt; element&mdash;which
-         in turn contains a &lt;dateline&gt; element&mdash;and
+         allows for multiple entries on a given day). Each entry contains a &lt;dateline&gt; element and
          one or more paragraphs. Each dateline may include a &lt;name&gt; element
          with (optionally) a "type" attribute
          containing one of the following values: city, region; and a &lt;date&gt; element
-         with a "value" attribute whose value is in the form YYYY-MM-DD.  </p>
+         with a "when" attribute whose value is in the form YYYY-MM-DD.  </p>
    <p>Entries consist of a series of paragraphs. Where indicated
          by indentation of a line from the left margin of a page, line breaks
          part-way across a page, or additional white space between lines, <strong>paragraphs</strong> are
@@ -408,7 +406,7 @@
          If present, any prefatory text preceding the dateline may be encoded
            as a &lt;head&gt;
          element at the beginning of the entry (i.e., within the &lt;div&gt;element
-         and before the &lt;opener&gt;).
+         and before the &lt;dateline&gt;).
          
       </p>
       <p><strong>Level of Transcription/Encoding.</strong> This  markup
@@ -417,56 +415,90 @@
          Various manuscript features (e.g., cancellations, interlinear or marginal
          additions, tears in pages) are encoded, as are regularized versions
         of proper names and dates and standard versions of nonstandard spellings
-         and expansions of abbreviations.      </p>
+         as well as expansions of abbreviations.      </p>
       <p><strong>Other Editorial Apparatus.</strong> Links to scans of manuscript pages
          and other rich media, textual variants, explanatory annotations, and
          bibliographic information about works cited in annotations are all encoded
          in the XML file. 
       </p>
+      <p>
+         <strong>Presentation of the Encoded Files.</strong> Each of the three "views" of the
+         journal—By Journal Entry, By MS Page, and Facsimile/Text—present the encoded text
+         differently, and explanations of those presentations can be accessed via an "About this View"
+         link at the top of each view.
+      </p>
    <h2>Note about Markup of Doane's Orthography</h2>
-   <ul>
-      <li>barrell</li>
-      <li>beem</li>
-      <li>ben</li>
-      <li>brigg</li>
-      <li>carryed</li>
-      <li>costom</li>
-      <li>eat </li>
-      <li>enought</li>
-      <li>fell</li>
-      <li>fogg</li>
-      <li>halfe</li>
-      <li>himselfe</li>
-      <li>layed</li>
-      <li>looke</li>
-      <li>loss</li>
-      <li>minuts</li>
-      <li>mischiefous</li>
-      <li>myselfe</li>
-      <li>norishment</li>
-      <li>oblidge</li>
-      <li>pigions</li>
-      <li>pincel</li>
-      <li>pleasent</li>
-      <li>pleasently</li>
-      <li>preperation</li>
-      <li>raisens</li>
-      <li>remaine</li>
-      <li>revengefull</li>
-      <li>rost</li>
-      <li>ruff</li>
-      <li>sammon</li>
-      <li>sence</li>
-      <li>sot</li>
-      <li>spoilt</li>
-      <li>stronge</li>
-      <li>tacke</li>
-      <li>thankfull</li>
-      <li>there</li>
-      <li>troble</li>
-      <li>unpleasent</li>
-      <li>untill</li>
-   </ul>
-   </div>
+         <p> Louisa Doane's orthography posed some interesting challenges for the editors. She
+            employs various archaic spellings and idiosyncratic spellings consistently, and to mark
+            those departures from conventional spelling with a trailing [<span
+               style="font-style:italic;">sic</span>] would yield an unreadable text. The editors
+            have chosen to <span style="font-style:italic;">encode</span> archaic spellings (i.e.,
+            spellings recognized by the <cite>Oxford English Dictionary</cite> as spellings seen in
+            periods earlier than the nineteenth century) but not to report them in the current text.
+            They are, however, listed below for readers' reference.
+         </p>
+   <p>Similarly, Doane's idiosyncratic but consistent spellings of several often-used words (e.g., "Captian") are encoded
+   in the XML file but not reported here for the sake of readability. Those words, too, are listed below.</p>
+  <table style="width:90%;text-align:left;font-size:1em;">
+     <tr>
+        <th style="text-align:center;font-size:.75em;">Doane's Archaic Spellings</th>
+        <th style="text-align:center;font-size:.75em;">Doanes Idiosyncratic Spellings</th>
+     </tr>
+     <tr>
+<td style="vertical-align:top;">
+       <ul>
+          <li>barrell</li>
+          <li>beem</li>
+          <li>ben</li>
+          <li>brigg</li>
+          <li>carryed</li>
+          <li>costom</li>
+          <li>eat </li>
+          <li>enought</li>
+          <li>fell</li>
+          <li>fogg</li>
+          <li>halfe</li>
+          <li>himselfe</li>
+          <li>layed</li>
+          <li>looke</li>
+          <li>loss</li>
+          <li>minuts</li>
+          <li>mischiefous</li>
+          <li>myselfe</li>
+          <li>norishment</li>
+          <li>oblidge</li>
+          <li>pigions</li>
+          <li>pincel</li>
+          <li>pleasent</li>
+          <li>pleasently</li>
+          <li>preperation</li>
+          <li>raisens</li>
+          <li>remaine</li>
+          <li>revengefull</li>
+          <li>rost</li>
+          <li>ruff</li>
+          <li>sammon</li>
+          <li>sence</li>
+          <li>spoilt</li>
+          <li>stronge</li>
+          <li>tacke</li>
+          <li>thankfull</li>
+          <li>there</li>
+          <li>troble</li>
+          <li>unpleasent</li>
+          <li>untill</li>          
+       </ul>
+      </td>
+        <td style="vertical-align:top;">
+           <ul>
+              <li>captian(s) - captain</li> 
+              <li>sot - set</li>
+              <li>colars - colors</li>
+              <li>shoot - chute</li>
+           </ul>
+      </td>
+</tr>
+  </table>
+    </div>
    </body>
 </html>
