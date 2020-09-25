@@ -293,7 +293,7 @@
                            type="ship">Commonwealth</name>, bound to Acapulco, Mexico and the
                         Chincha Islands off the coast of Peru, sailing south along the eastern coast
                         of South America, around Cape Horn, north to Acapulco, Mexico, back south to
-                        Callao/Lima and the Chinca Islands off the coast of Pisco, Peru, then back
+                        Callao/Lima and the Chincha Islands off the coast of Pisco, Peru, then back
                         around Cape Horn to home, the entire voyage lasting over 14 months. For this
                         voyage, Louisa Doane adopts somewhat broader goals for her journal. She
                         begins by providing detailed information about the business arrangements for
@@ -1090,7 +1090,7 @@
                   <event when="1853-04-23" source="#Doane18530423a"><p>23 Apr 1853</p></event>
                   <placeName>Callao</placeName>
                   <country>Peru</country>
-                  <desc>The <name type="ship">Commonwealth</name> departs <emph rend="bold">Callao, Peru</emph>, bound for the <placeName>Chinca Islands</placeName>.</desc>
+                  <desc>The <name type="ship">Commonwealth</name> departs <emph rend="bold">Callao, Peru</emph>, bound for the <placeName>Chincha Islands</placeName>.</desc>
                   <location>
                      <geo>-12.0333 -77.1333</geo>
                   </location>
