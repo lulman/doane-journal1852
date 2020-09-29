@@ -450,8 +450,8 @@
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt"/>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt"/>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:editorialDecl"/>
-            <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:refsDecl"/>
-      <hr style="border: 2px solid crimson;"/>
+<!--            <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:refsDecl"/>
+-->      <hr style="border: 2px solid crimson;"/>
       <h2 id="worksCited">Works Cited</h2>
       <hr/>
             <xsl:apply-templates
@@ -507,11 +507,11 @@
          <xsl:apply-templates/>
    </xsl:template>
    
-   <xsl:template match="/tei:teiCorpus/tei:teiHeader/tei:encodingDesc/refsDecl">
+<!--   <xsl:template match="/tei:teiCorpus/tei:teiHeader/tei:encodingDesc/refsDecl">
       <h3>Encoding Conventions</h3>
       <xsl:apply-templates/>
    </xsl:template>
-   
+-->   
 <!--   
    <xsl:template match="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:refsDecl">
 <hr/>

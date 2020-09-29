@@ -1807,7 +1807,7 @@
 
          <refsDecl>
             <p>
-               <!--         SEE APPENDIX FOR THIS INFO      
+                        SEE APPENDIX FOR THIS INFO      
                <emph rend="bold">Markup of Physical Structure and Page Layout</emph>. The manuscript
                   <emph rend="bold">pages</emph>, encoded by the empty page break or &lt;pb/&gt;
                element, are the primary physical structures represented in the markup. Each
@@ -1851,7 +1851,7 @@
                   <head>http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneJournalMarkup.cfm</head>
                   <graphic url="http://people.cohums.ohio-state.edu/ulman1/LADoaneJournal/DoaneJournalMarkup.cfm"/>
                   <figDesc>Link to the Doane journal markup guidelines.</figDesc>
-               </figure>.-->
+               </figure>.
             </p>
          </refsDecl>
 
