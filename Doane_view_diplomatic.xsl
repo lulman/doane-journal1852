@@ -94,7 +94,7 @@
       border-radius: 10px;	
       }
       span.linenumber {
-        font-family:monospace;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
       }
    </xsl:variable>
    
@@ -118,7 +118,8 @@
             name="href"><xsl:value-of select="@facs"/>.jpg</xsl:attribute>
             <xsl:attribute name="target">_blank</xsl:attribute>click to open page image in a new window</a>)]</span>
       <!--<br/>-->
-   </xsl:template>    
+   </xsl:template>  
+   
    <xsl:template match="tei:lb"><br/><a><xsl:attribute name="id"><xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/></xsl:attribute>
    </a><span class="linenumber"><xsl:number  count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/></span>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
    </xsl:template>
