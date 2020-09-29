@@ -95,6 +95,7 @@
       }
       span.linenumber {
       font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: .80em;
       }
    </xsl:variable>
    
