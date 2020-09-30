@@ -23,7 +23,7 @@
       manuscript (see the Markup Guidelines appendix for more information about the treatment of
       Doane's orthography). Text highlighted by Doane with an underscore is underscored in this
       view. Recoverable text canceled by Doane is reported in square brackets; unrecoverable text
-      canceled by Cox is reported with an ellipsis between square brackets. Text added by Cox
+      canceled by Doane is reported with an ellipsis between square brackets. Text added by Doane
       between lines is reported between arrows (↑ ↓) indicating the position of the addition; text
       added in the margin is reported between pipes (|). All material added by the editor is
       surrounded by square brackets: uncertain readings are followed by a question mark, errors in
