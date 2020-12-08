@@ -29,7 +29,7 @@
       incorporated into the text. All material added by the editor is surrounded by square brackets:
       uncertain readings are enclosed in square brackets and followed by a question mark, and text
       supplied by the editor for clarity is set in italics and surrounded by square brackets. Gaps
-      in the manuscript (e.g., from tears or unrecoverable cancelations) are indicated by elipses
+      in the manuscript (e.g., from tears or unrecoverable cancelations) are indicated by ellipses
       enclosed by square brackets. Links to notes are colored and superscripted. </xsl:variable>
    <xsl:variable name="bodyRule">
       body {

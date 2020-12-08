@@ -276,7 +276,7 @@
                            had at dinner think. we shall like [it] very much.</q>
                      <p>The extent to which she documents these details suggest the sense of joy
                         that must have accompanied her arrival on dry land, where food was varied
-                        and plentiful, and her accomodation was, as she notes, made of "stone"!</p>
+                        and plentiful, and her accommodation was, as she notes, made of "stone"!</p>
                      <p>Later, taking advantage of medical care unavailable at sea, her father seeks
                         treatment for gout, and she sees a dentist</p>
                      <q rend="block">to have my teeth filled, he first claned [sic] my teeth,
@@ -1174,7 +1174,7 @@
             <list type="ships">
                <head>While Louisa Doane for the most part refers to people by their roles—second mate, corker, pilot, etc.—rather
                than by name, she names thirty-five ships encountered on her voyages and often includes their captain's name and their type,
-               perhpas reflecting her sense that her journal is, in part, a ship's log.</head>
+               perhaps reflecting her sense that her journal is, in part, a ship's log.</head>
                <item><name type="ship">A.M. Lawrence</name><persName></persName><desc>Ship</desc></item>
                <item><name type="ship">Abbelino</name><persName></persName><desc>Ship</desc></item>
                <item><name type="ship">Alboni</name><persName>Littlefield</persName><desc></desc></item>
@@ -1370,7 +1370,7 @@
                <bibl xml:id="TSB" n="Sewing">
                   <title level="a">The Sewing Bird.</title> <title level="j">Harper's New Monthly Magazine</title>, vol. 21, 1860, 488.</bibl>
                <bibl xml:id="HOC" n="Report"><title level="m">Report From the
-                     Select Committe on Copyright of Designs</title>. House of Commons,
+                     Select Committee on Copyright of Designs</title>. House of Commons,
                   1840.</bibl>
                <bibl xml:id="RECh" n="Baly">Baly, William, and Eilliam Gull. <title level="m">Reports
                      on Epidemic Cholera</title>. London: John Churchill, 1854.</bibl>
@@ -2022,7 +2022,7 @@
                   come to an anchor <lb/>on quarantine ground<ptr type="noteAnchor" target="QG"/>
                   <note resp="ed" xml:id="QG">Probably the "Old Quarantine" off <placeName
                         ref="#Tompkinsville">Tompkinsville</placeName>, Staten Island, which was the
-                     site of New York Harbor's quaratine station prior to 1855, when the residents
+                     site of New York Harbor's quarantine station prior to 1855, when the residents
                      of Tompkinsville burned the quarantine hospitals to the ground in protest
                            <bibl><ref target="#Quarantine"><title level="a">Barring Out
                               Epidemics</title></ref></bibl>.</note> It has commenced <lb/>raining
@@ -6377,7 +6377,7 @@
                         they followed traditions typical for a burial at sea, specifically the use
                         of a canvas in place of a coffin. According to one account, corpses "were
                         wrapped in coarse sacks, laden with stones, and roughly sewed close about
-                        the stiffended limbs" before a burial service that ended with the bodies
+                        the stiffened limbs" before a burial service that ended with the bodies
                         being thrown into the sea <bibl><ref target="#EmigrantBurial">"The Emigrant's
                               Burial at Sea"</ref></bibl>.</note> put them in a boat <lb/>cover the
                      signals over them and <choice>
@@ -8293,7 +8293,7 @@
                      <note resp="ed" xml:id="BM">Blanche-Mange is made by boiling Carrageen (also
                         known as Irish Moss) then adding milk, lemon, white wine, or anything sweet.
                         This mixture was recommended as a breakfast food for patients with
-                        consumption as well as children with scrofulous or "rickety dieases"
+                        consumption as well as children with scrofulous or "rickety diseases"
                               <bibl><ref target="#BlancheMange"/>"Arcana of Science and
                         Art"</bibl>.</note> Fruits, Oranges Apples <choice>
                         <sic>Banaha</sic>
