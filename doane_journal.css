@@ -360,7 +360,7 @@ a:link {
   text-decoration: none;
 }
 
-p.hang15 a:before, p.hang25 a:before, p.hang35 a:before {
+p.hang15 > a[id^="n"], p.hang25 > a[id^="n"] {
 display: inline-block;
 content: " ";
 margin-top: -180px;
@@ -377,7 +377,7 @@ p.aboutView {
     margin-left:25px;
 }
 
-a.notePointer::before {
+a.notePointer {
 display: inline-block;
 content: " ";
 margin-top: -180px;
