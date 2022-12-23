@@ -46,12 +46,12 @@
             <editor><persName ref="#MER">Megan Elizabeth Reid</persName></editor>
             <editor><persName ref="#KNR">Krysta N. Ruley</persName></editor>
             <editor><persName ref="#CS">Catherine Sacchi</persName></editor>
-            <editor><persName ref="CAS">Cory A. Sheetz</persName></editor>
+            <editor><persName ref="#CAS">Cory A. Sheetz</persName></editor>
             <editor><persName ref="#LAS">Lauren A. Sheridan</persName></editor>
             <editor><persName ref="#EAS">Elizabeth Ann Snowden</persName></editor>
             <editor><persName ref="#ECS">Erika Claire Strandjord</persName></editor>
             <editor><persName ref="#DRT">Devan Toncler</persName></editor>
-            <editor><persName ref="KMT">Keisha M. Trott</persName></editor>
+            <editor><persName ref="#KMT">Keisha M. Trott</persName></editor>
             <editor role="principal-editor"><persName ref="#HLU">H. Lewis Ulman</persName></editor>
             <editor><persName ref="#ACV">Alexandria C. Veeley</persName></editor>
 
@@ -83,12 +83,12 @@
                <persName ref="#MER">Megan Elizabeth Reid</persName>
                <persName ref="#KNR">Krysta N. Ruley</persName>
                <persName ref="#CS">Catherine Sacchi</persName>
-               <persName ref="CAS">Cory A. Sheetz</persName>
+               <persName ref="#CAS">Cory A. Sheetz</persName>
                <persName ref="#LAS">Lauren A. Sheridan</persName>
                <persName ref="#EAS">Elizabeth Ann Snowden</persName>
                <persName ref="#ECS">Erika Claire Strandjord</persName>
                <persName ref="#DRT">Devan Toncler</persName>
-               <persName ref="KMT">Keisha M. Trott</persName>
+               <persName ref="#KMT">Keisha M. Trott</persName>
                <persName ref="#HLU">H. Lewis Ulman</persName>
                <persName ref="#ACV">Alexandria C. Veeley</persName>
             </respStmt>
@@ -109,12 +109,12 @@
                <persName ref="#MER">Megan Elizabeth Reid</persName>
                <persName ref="#KNR">Krysta N. Ruley</persName>
                <persName ref="#CS">Catherine Sacchi</persName>
-               <persName ref="CAS">Cory A. Sheetz</persName>
+               <persName ref="#CAS">Cory A. Sheetz</persName>
                <persName ref="#LAS">Lauren A. Sheridan</persName>
                <persName ref="#EAS">Elizabeth Ann Snowden</persName>
                <persName ref="#ECS">Erika Claire Strandjord</persName>
                <persName ref="#DRT">Devan Toncler</persName>
-               <persName ref="KMT">Keisha M. Trott</persName>
+               <persName ref="#KMT">Keisha M. Trott</persName>
                <persName ref="#HLU">H. Lewis Ulman</persName>
                <persName ref="#ACV">Alexandria C. Veeley</persName>
             </respStmt>
