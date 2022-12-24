@@ -613,8 +613,9 @@
             <listPlace>
                <head>The following table provides links to the entries in which Doane's party
                   first visits major stops, or sights important landmarks, on their voyages (click on
-                  a date to view the corresponding entry). For a visual overview of the voyages,
-                  see the 
+                  a date to view the corresponding entry). The list also includes a few ports of call visited
+                  by ships they encountered.
+                  For a visual overview of the voyages, see the 
                   <figure rend="link">
                      <head>"Maps" appendix.</head>
                      <graphic url="doane_appendices_maps.html"/>
@@ -644,19 +645,20 @@
                   </location>
                </place>
 
-<!--           <place type="nation" xml:id="CV">
+           <place type="nation" xml:id="CV">
+                  <event when="1852-10-03" source="#Doane18521003a"><p>3 Oct 1852</p></event>
                   <placeName>Cape Verdes</placeName>
                   <country>Cape Verdes</country>
                   <region>Africa</region>
                   <desc>One of the ports of call of the ship <name type="ship">Thomas
-                        Dickerson</name>, which the <name type="ship">Commonwealth</name> at sea on
+                        Dickerson</name>, which the <name type="ship">Commonwealth</name> encountered at sea on
                      3 Oct. 1852. The Cape Verde islands lie about 450 km. off the west coast of
                      Africa in the mid-Atlantic Ocean.</desc>
                   <location>
                      <geo>16.0000 -24.0000</geo>
                   </location>
                </place>
--->               
+               
 <!--           <place type="inhabited-place" xml:id="Provincetown" source="#TGN">
                   <placeName xml:lang="eng">Provincetown</placeName>
                   <desc>The <name type="ship">Commonwealth</name> meets the schooner <name
@@ -786,7 +788,7 @@
                   </location>
                </place>
                
-<!--               <place type="neighborhood" xml:id="Tompkinsville" source="#TGN">
+<!--           <place type="neighborhood" xml:id="Tompkinsville" source="#TGN">
                   <event when="1852-02-06" source="#Doane18520206a"><p>6 Feb 1852</p></event>
                   <placeName>Tompkinsville</placeName>
                   <country>United States</country>
