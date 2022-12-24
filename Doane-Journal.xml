@@ -291,9 +291,9 @@
                      <p>A little over a month after their return, on August 5, 1852, the family
                         departs New York again on a second voyage, this time on the ship <name
                            type="ship">Commonwealth</name>, bound to Acapulco, Mexico and the
-                        Chincha Islands off the coast of Peru, sailing south along the eastern coast
+                        <placeName ref="#ChinchaI">Chincha Islands</placeName> off the coast of Peru, sailing south along the eastern coast
                         of South America, around Cape Horn, north to Acapulco, Mexico, back south to
-                        Callao/Lima and the Chincha Islands off the coast of Pisco, Peru, then back
+                        Callao/Lima and the <placeName ref="#ChinchaI">Chincha Islands</placeName> off the coast of Pisco, Peru, then back
                         around Cape Horn to home, the entire voyage lasting over 14 months. For this
                         voyage, Louisa Doane adopts somewhat broader goals for her journal. She
                         begins by providing detailed information about the business arrangements for
@@ -418,17 +418,17 @@
                         through the Drake Passage, Doane marks their approach to “The long dreaded
                         Place,” and, in company with several other ships, they round the Horn in
                         rough weather on their way to deliver coal in Acapulco before loading Guano
-                        in the Chincha Islands of Peru.</p>
+                        in the <placeName ref="#ChinchaI">Chincha Islands</placeName> of Peru.</p>
                      <p rend="h3" xml:id="GuanoMining">“The Island is a Solid Rock about 150 High
                         and the Guano is upon the top”</p>
                      <p>The Humboldt Current brings nutrient-rich water to the shores of Peru,
                         attracting anchovies and other fish, which in turn attract birds like
                         white-breasted cormorants, gray pelicans, and piqueros. The bird droppings,
                         rich in nitrate, collected in the vast deposits of guano that were mined in
-                        the Chincha Islands for use as fertilizer. At its peak from around
+                        the <placeName ref="#ChinchaI">Chincha Islands</placeName> for use as fertilizer. At its peak from around
                         1840-1880, the guano industry shipped upwards of 20 million tons, earning
                         Peru around two billion dollars in profits. However, the heyday of the
-                        Chincha Islands guano industry did not last long. Resource depletion, wars,
+                        <placeName ref="#ChinchaI">Chincha Islands</placeName> guano industry did not last long. Resource depletion, wars,
                         and the development of alternative fertilizers would lead to a sharp decline
                         by the early decades of the twentieth century.</p>
                      <p rend="h3" xml:id="NothingButMen">“out 84 days and seeing nothing but
@@ -595,7 +595,7 @@
                         six people had already died from Panama Fever, and the <name type="ship"
                            >Winfield Scott</name> had lost fifteen passengers to illness. However,
                         the danger of infection does not prevent the captains of the ships anchored
-                        at the Chincha Islands—and their families—from enjoy a seemingly daily round
+                        at the <placeName ref="#ChinchaI">Chincha Islands</placeName>—and their families—from enjoy a seemingly daily round
                         of visits and dinners.</p>
                      <p rend="extraSpace">As noted above, Doane’s journal ends abruptly soon after
                         the <name type="ship">Commonwealth</name> “crossed the line” on its homeward
