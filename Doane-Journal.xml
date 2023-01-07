@@ -1214,7 +1214,7 @@
                <item><name type="ship">Winfield Scott</name><persName>Simon F. Blunt</persName><desc>Steamer</desc></item>
             </list>
 
-<!--  NOT USED IN THIS EDITION
+<!-- NOT USED IN THIS EDITION
                
                <list type="gloss">
                <head>List of Nautical Terms</head>
@@ -3683,7 +3683,7 @@
                      valuable commodity used as fertilizer. The high quantity of nitrates created
                      larger crop yields. During the height of Peru's golden age of guano, ca. 1840
                      to 1880, Peruvians excavated over 20,000,000 tons of guano for export, creating
-                     around $2 billion in profits <bibl><ref target="Guano">Coker
+                     around $2 billion in profits <bibl><ref target="#GUA">Coker
                         537-566</ref></bibl>.</note> and return to <placeName ref="#HamptonRoads"><choice>
                         <sic>Hampden Roads</sic>
                         <corr cert="high">Hampton Roads</corr>
@@ -4752,7 +4752,7 @@
                      (generally, alcohol-based) medicine or tonic. In Doane's time, it was probably
                      "an alcoholic solution of soap . . . and camphor with some added essential
                      oils," which could be ingested or rubbed on the site of injury <bibl><ref
-                           target="#Opodeldoc"><title level="m">Oxford English
+                        target="#OxfordEnglishDictionary"><title level="m">Oxford English
                            Dictionary</title></ref></bibl>.</note> and the Mate <lb/>came in and
                   bath his foot and told him <lb/>to <said aloud="true" direct="false">get up and
                      stand on his foot</said> but he <lb/>would not in a few minutes we saw he was
@@ -5889,7 +5889,7 @@
                      <note resp="ed" xml:id="LighterLS">"A boat or vessel, usually a flat-bottomed
                         barge, used in lightening or unloading (sometimes loading) ships that cannot
                         be discharged (or loaded) at a wharf, etc., and for transporting goods of
-                        any kind, usually in a harbour" <bibl><ref target="OxfordEnglishDictionary"
+                        any kind, usually in a harbour" <bibl><ref target="#OxfordEnglishDictionary"
                               /><title level="m">Oxford English Dictionary</title></bibl>.</note> at
                      4 oclock saw the <lb/>man that is in Irons out on deck <rs ref="#END"
                         >father</rs> asked <lb/>him <said aloud="true" direct="false">if came out
@@ -6082,7 +6082,7 @@
                      then we came back <lb/>had to beat<ptr type="noteAnchor" target="PATDRC"/>
                      <note resp="ed" xml:id="PATDRC">"Beating" here refers to striving "against
                         contrary winds or currents at sea; to make way in any direction against the
-                        wind," often by tacking or zig-zagging <bibl><title level="m">Oxford English
+                        wind," often by tacking or zig-zagging <bibl><ref target="#OxfordEnglishDictionary"></ref><title level="m">Oxford English
                               Dictionary</title></bibl>.</note> which made it quite <distinct
                         type="archaicorthography" time="16-18"><choice>
                            <orig>ruff</orig>
@@ -7248,7 +7248,7 @@
                      target="RingBolt"/>
                   <note resp="ed" xml:id="RingBolt">A ring bolt—"a bolt with an eye at one end, to
                      which a ring is attached"—were fastened to the ship's deck and were used for a
-                     variety of purposes <bibl><ref target="OED"/><title level="m">Oxford English
+                     variety of purposes <bibl><ref target="#OxfordEnglishDictionary"/><title level="m">Oxford English
                            Dictionary</title></bibl>.</note> in the deck <lb/>after Breakfast <rs
                      ref="#END">he</rs> went on shore to see what <lb/>would be done with them an
                   American ship <lb/>has just came in and anchored closed to us <lb/>have seen a
@@ -7307,7 +7307,7 @@
                   <note resp="ed" xml:id="ShipChand"> In "Mobile, Her Trade, Commerce and
                      Industries, 1883-4," John Land describes a ship chandler as a port retailer
                      that boat captains relied upon for anything from tools and equipment to food
-                     supplies and paper goods <bibl><ref target="JEL">101</ref></bibl>.</note> and I <choice>
+                     supplies and paper goods <bibl><ref target="#JEL">101</ref></bibl>.</note> and I <choice>
                      <sic>stop</sic>
                      <corr>stopped</corr>
                   </choice> there <distinct type="archaicorthography" time="18-19"><choice>
@@ -7361,7 +7361,7 @@
                      between two ports, originally for the conveyance of mail, and later also of
                      goods and passengers; a mailboat." In Doane's case, the packet ships could have
                      been the chief means of communication with the mainland <bibl><ref
-                           target="Packet"><title level="m">Oxford English
+                           target="#OxfordEnglishDictionary"><title level="m">Oxford English
                         Dictionary</title></ref></bibl>.</note>
                   <lb/> and <persName>Mrs Gardener</persName>
                   <choice>
@@ -7585,7 +7585,7 @@
                            <corr>Saxon</corr>
                         </choice></name><ptr type="noteAnchor" target="BRS"/>
                      <note resp="ed" xml:id="BRS">Probably the <name type="ship">Royal Saxon</name>
-                        that arrived at Baltimore on March 16, 1854 <bibl><ref target="BRS"><title
+                        that arrived at Baltimore on March 16, 1854 <bibl><ref target="#NYT3"><title
                                  level="a">Shipping Intelligence</title></ref></bibl>.</note> who
                      has his Wi<seg type="softhyphen">- <lb/></seg>fe was stopping on board of the
                         <name type="ship"><unclear>Soutter Johny</unclear></name>
@@ -7655,7 +7655,7 @@
                         target="CP"/>
                      <note resp="ed" xml:id="CP">Probably the <name type="ship">California
                            Packet</name> that cleared New York Harbor on April 17, 1852 <bibl><ref
-                              target="Packet"/><title level="a">Marine
+                              target="#NYT"/><title level="a">Marine
                         Intelligence</title></bibl>.</note> she has a large Cabin <!-- Krista Ruley's section ends here -->
                      <!-- Cory Sheetz's section starts here -->
                      <pb facs="G226_D6_A3_1852-061a"/>
@@ -7787,7 +7787,7 @@
                         Bark<ptr type="noteAnchor" target="Bark"/>
                      <note resp="ed" xml:id="Bark">A barque or bark is "a three-masted vessel with
                         fore- and main-masts square-rigged, and mizenmast ‘fore-and-aft’ rigged"
-                              <bibl><ref target="#Bark"><title level="m">Oxford English
+                              <bibl><ref target="#OxfordEnglishDictionary"><title level="m">Oxford English
                                  Dictionary</title></ref></bibl>
                         <figure rend="link">
                            <head>Illustration of a Bark, ca. 1870</head>
@@ -7979,7 +7979,7 @@
                      </choice></distinct> our Ensign <ptr type="noteAnchor" target="Ensign"/>
                      <note resp="ed" xml:id="Ensign"> On 18th century ships, the flag (or "colors")
                         was sometimes lowered as a salute or sign of respect to other ships
-                              <bibl><ref target="DK"/>Kemp 534</bibl>.</note> which is <lb/>a signal
+                              <bibl><ref target="#DK"/>Kemp 534</bibl>.</note> which is <lb/>a signal
                      for the <choice>
                         <sic>Captians</sic>
                         <corr>Captains</corr>
@@ -8059,7 +8059,7 @@
                      <lb/><rs ref="#END">Father</rs> took the Gig boat <ptr type="noteAnchor"
                         target="GBES"/>
                      <note resp="ed" xml:id="GBES">Captains used gig boats to travel back and forth
-                        between shore and their ships <bibl><ref target="HCF"/>Folkard
+                        between shore and their ships <bibl><ref target="#HCF"/>Folkard
                         82</bibl>.</note> in <lb/>yesterday and has had her all cleaned and painted
                      <lb/>inside and out and <rs ref="#ATD">mother</rs> and <choice>
                         <sic>myselfe</sic>
@@ -8119,7 +8119,7 @@
                      </choice>chair <ptr type="noteAnchor" target="GC"/>
                      <note resp="ed" xml:id="GC">Similar to a modern day recliner, a gentleman's
                         chair would have extended for the comfort of the sitter. A desk might be
-                        attached to the arm <bibl><ref target="JW"/>Whiting 48</bibl>.</note>
+                        attached to the arm <bibl><ref target="#JW"/>Whiting 48</bibl>.</note>
                      <lb/> and a marble top Center Table cover with Velvet <lb/>Plush stop untill 9 <choice>
                         <sic>oclock</sic>
                         <corr>o'clock</corr>
@@ -8551,7 +8551,7 @@
                      the dry Good Store<ptr type="noteAnchor" target="DGS"/>
                      <note resp="ed" xml:id="DGS">Typically available at ports, dry goods stores
                         provided goods such as "textile fabrics and related things; articles of
-                        drapery, mercery, and haberdashery (as opposed to groceries)" <bibl><title
+                        drapery, mercery, and haberdashery (as opposed to groceries)" <bibl><ref target="#OxfordEnglishDictionary"></ref><title
                               level="m">Oxford English Dictionary</title></bibl>.</note>
                      <lb/>where there were a few Boots Shoes and etc. <lb/>they Gave us some very
                      nice Wine <!-- Keisha Trott's section ends here -->
