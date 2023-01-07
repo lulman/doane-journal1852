@@ -1196,7 +1196,7 @@
                <item><name type="ship" xml:id="GeneralWashington">General Washington</name><persName></persName><desc>Ship</desc></item>
                <item><name type="ship" xml:id="GoldenGate">Golden Gate</name><persName></persName><desc>Steamer</desc></item>
                <item><name type="ship" xml:id="Hampden">Hampden</name><persName></persName><desc>Ship</desc></item>
-               <item><name type="ship" xml:id="JamesConner">James Conner</name><persName>Corner</persName><desc></desc></item>
+               <item><name type="ship" xml:id="JamesCorner">James Corner</name><persName>Corner</persName><desc></desc></item>
                <item><name type="ship" xml:id="JamesWard">James Ward</name><persName></persName><desc></desc></item>
                <item><name type="ship" xml:id="Laurens">Laurens</name><persName></persName><desc>Bark</desc></item>
                <item><name type="ship" xml:id="LochLibo">Loch Libo</name><persName>Baird</persName><desc>Bark</desc></item>
@@ -6656,7 +6656,7 @@
                            <sic>Captian</sic>
                            <corr>Captain</corr>
                         </choice> Crawford</persName> brought on the <lb/>painting of the Ship <name
-                        type="Ship" ref="#Commonwealth">Commonnwealth</name> which his <lb/>Painter
+                        type="Ship" ref="#Commonwealth">Commonwealth</name> which his <lb/>Painter
                      has been painting at 5 oclock they <lb/>came <choice>
                         <sic>offt</sic>
                         <corr>off</corr>
@@ -7898,7 +7898,7 @@
                         </choice> Genings</persName> we were whip right <lb/>up on the Quarter Deck
                      his Cabin was <lb/>very much like the <name ref="#Senator" type="ship">Senators</name> from
                      these <lb/>we went along side of the <name ref="#JamesWard" type="ship">James Ward</name>
-                     <lb/><name ref="#JamesCorner" type="ship">James Conner</name> and <name ref="#Monteria" type="ship"
+                     <lb/><name ref="#JamesCorner" type="ship">James Corner</name> and <name ref="#Monteria" type="ship"
                         >Monterey</name> and invited <lb/>them on board of us the next day to dine
                   </p>
                </div>
@@ -7934,8 +7934,8 @@
                   <dateline><date when="1853-06-02">Thursday June 2th</date></dateline>
                   <p>
                      <lb/>This afternoon <persName>Mrs Gardner</persName>
-                     <lb/>came along side for us to go on board the <lb/><name ref="#JamesConner" type="ship">James
-                        Conner</name> as <persName>Mrs Corner</persName> was quite sick <lb/>with a <choice>
+                     <lb/>came along side for us to go on board the <lb/><name ref="#JamesCorner" type="ship">James
+                        Corner</name> as <persName>Mrs Corner</persName> was quite sick <lb/>with a <choice>
                         <sic>servere</sic>
                         <corr>severe</corr>
                      </choice> cough I went with them but <lb/><rs ref="#ATD">mother</rs> prefer
@@ -8487,7 +8487,7 @@
                         >Berlin</name> and spent the day it is a <lb/>fine Ship <choice>
                         <sic>altho</sic>
                         <corr>although</corr>
-                     </choice> not a Clipper, <name ref="#JamesConner" type="ship">The James Conner</name>
+                     </choice> not a Clipper, <name ref="#JamesCorner" type="ship">The James Corner</name>
                      <lb/>is under the <choice>
                         <sic>Shoot</sic>
                         <corr>chute</corr>
@@ -8536,7 +8536,7 @@
                         <sic>haulled</sic>
                         <corr>hauled</corr>
                      </choice>
-                     <lb/>up the ensign on board of the <name ref="#JamesConner" type="ship">James Con<seg
+                     <lb/>up the ensign on board of the <name ref="#JamesCorner" type="ship">James Con<seg
                            type="softhyphen">
                            <lb/></seg>ner</name> as she was Loaded we ran down and <lb/>all the <choice>
                         <sic>Ladyes</sic>
@@ -8644,7 +8644,7 @@
                      the Ladies were there Dine on <lb/>fresh Pork which was very nice. at 4 oclock
                      <lb/>we went around to the Middle Island to <lb/>called on <persName>Mrs
                         Bearse</persName> as she was not there <lb/>and from there along side of the
-                        <name ref="#JamesConner" type="ship">James <lb/>Conner</name>. and left <persName>Mrs
+                        <name ref="#JamesCorner" type="ship">James <lb/>Corner</name>. and left <persName>Mrs
                         Corner</persName>
                      <persName>Mrs Lowell</persName>
                      <lb/>and <rs ref="#ATD"><choice>
@@ -8669,8 +8669,8 @@
                            <sic>Captian</sic>
                            <corr>Captain</corr>
                         </choice> Puttman</persName> came along <lb/>side with <persName>Mrs
-                        Logan</persName> to take us on board <lb/>of the <name ref="#JamesConner" type="ship">James
-                        Conner</name> to see them <choice>
+                        Logan</persName> to take us on board <lb/>of the <name ref="#JamesCorner" type="ship">James
+                        Corner</name> to see them <choice>
                         <sic>offt</sic>
                         <corr>off</corr>
                      </choice> We <lb/>stopped on board untill she was ready to <lb/>let go of the
@@ -8756,7 +8756,7 @@
                   <p>
                      <lb/>This is a Wet foggy morn<seg type="softhyphen">- <lb/></seg>ing and not
                      much Wind can see <placeName ref="#CallaoAV">Callao</placeName>
-                     <lb/>and Shipping Plain. The <name ref="#JamesConner" type="ship">James Conner</name> and <lb/>the
+                     <lb/>and Shipping Plain. The <name ref="#JamesCorner" type="ship">James Corner</name> and <lb/>the
                         <name ref="#Monteria" type="ship">Monteria</name> are there <time>6 oclock</time> came at an
                      <lb/>anchor before our Sails were furled <persName><choice>
                            <sic>Captian</sic>
@@ -8783,7 +8783,7 @@
                            <corr>Callao</corr>
                         </choice></placeName> was <lb/>discharged at <time>9 oclock</time> We all
                      meet <pb facs="G226_D6_A3_1852-072a"/>
-                     <lb/>on board of the <name ref="#JamesConner" type="ship">James Conner</name> and all <lb/>started
+                     <lb/>on board of the <name ref="#JamesCorner" type="ship">James Corner</name> and all <lb/>started
                      from there on Shore stopped at the <lb/><placeName>Golden Ball
                         Hotel</placeName> at <placeName ref="#CallaoAV">Callao</placeName>
                      <choice>
@@ -8816,7 +8816,7 @@
                         <sic>shoping</sic>
                         <corr>shopping</corr>
                      </choice>
-                     <lb/>The <name ref="#JamesConner" type="ship">James Conner</name>
+                     <lb/>The <name ref="#JamesCorner" type="ship">James Corner</name>
                      <choice>
                         <sic>sailes</sic>
                         <corr>sails</corr>
