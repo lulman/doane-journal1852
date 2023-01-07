@@ -238,7 +238,7 @@
                         Almira, set sail from New York in a merchant ship bound for Marseille,
                         France and commanded by her father, Edmund N. Doane. It was not unusual for
                         captains’ wives and children to accompany them on long voyages (“Families at
-                        Sea: the Captain’s Wife”; Druett 90), and judging from Louisa Doane’s familiarity with
+                        Sea: the Captain’s Wife”; <ref target="#Druett">Druett</ref> 90), and judging from Louisa Doane’s familiarity with
                         ships’ rigging, winds at sea, measurements of latitude and longitude, ships’
                         maneuvers, ships’ crew, and various types of sailing vessels, this trip was
                         probably not her first. The five-month voyage to and from Marseille followed
@@ -3197,7 +3197,7 @@
                      <sic>getle<seg type="softhyphen">
                            <lb/>men</seg></sic>
                      <corr>gentle<seg type="softhyphen"><lb/></seg>men</corr>
-                  </choice>, <persName><choice>
+                  </choice>, <persName ref="#Eliott"><choice>
                         <sic>Captian</sic>
                         <corr>Captain</corr>
                      </choice> Eliott</persName> has gone shore to clear will <lb/>get away tomorrow
@@ -3222,7 +3222,7 @@
             <div type="Entry" xml:id="Doane18520422a">
                <lb/>
                <dateline><date when="1852-04-22">Thursday 22</date>.</dateline>
-               <p> Today we go back to our boarding <lb/>house, <persName><choice>
+               <p> Today we go back to our boarding <lb/>house, <persName ref="#Elliot"><choice>
                         <sic>Captian</sic>
                         <corr>Captain</corr>
                      </choice> Eliott</persName> sailed yesterday, this <lb/>afternoon we have been
@@ -3708,11 +3708,11 @@
                   the others of the Ships company is Stran<seg type="softhyphen">&#x2014;
                      <lb/></seg>gers </p>
                <p>
-                  <lb/>My <rs type="person" ref="END">Father</rs> and <persName ref="Sparrow">Uncle
+                  <lb/>My <rs type="person" ref="END">Father</rs> and <persName ref="#Sparrow">Uncle
                      S M Nickerson</persName> has <lb/>bought a Piano which cost $289, with the <pb
                      facs="G226_D6_A3_1852-019b"/>
                   <lb/>Stool and Cover my <rs type="person" ref="END">Father</rs> pays for one half
-                  <lb/>and <rs type="person" ref="Sparrow">Uncle</rs> the other and they have set it
+                  <lb/>and <rs type="person" ref="#Sparrow">Uncle</rs> the other and they have set it
                   up <lb/>in the Cabin and they say I shall be welcome <lb/>to the use of it on the
                   passage out to <placeName ref="#Acapulco">Acapulco</placeName> or <lb/>to the <choice>
                      <sic><placeName ref="#LobosIslands">Lobes Island</placeName></sic>
