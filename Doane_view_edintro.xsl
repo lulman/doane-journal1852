@@ -141,11 +141,14 @@
                            <li><a href="./doane_journal.html#Sickness">Sickness at Sea</a></li>
                         </ul>
                      </li>
-                     <li class="link"><a class="main"  href="./sscox_journal.html#projectDescription">Editorial Introduction</a>
+                     <li class="link"><a class="main"  href="./doane_journal.html#projectDescription">Editorial Introduction</a>
                         <ul class="sub">
                            <li><a href="./doane_journal.html#projectDescription">Project Description</a></li>
                            <li><a href="./doane_journal.html#source">The Source Document</a></li>
                            <li><a href="./doane_journal.html#edition">The Electronic Edition</a></li>
+                           <li><a href="./doane_journal.html#worksCited">Works Cited</a></li>
+                           <li><a href="./doane_journal.html#placesMentioned">Ports and Landmarks</a></li>
+                           <li><a href="./doane_journal.html#shipsMentioned">Ships Mentioned</a></li>
                            <li><a href="./doane_journal.html#revHistory">Revision History</a></li>
                         </ul>
                      </li>
@@ -161,10 +164,7 @@
                            <li><a href="./doane_appendices_markup.html">Markup Guidelines</a></li>
                            <li><a href="./doane_appendices_hand.html">Guide to Doane's Hand</a></li>
                            <li><a href="./doane_appendices_zoomindex.html">Images of the MS Pages</a></li>
-                           <li><a href="./doane_journal.html#shipsMentioned">Ships Mentioned</a></li>
-                           <li><a href="./doane_journal.html#placesMentioned">Ports and Landmarks</a></li>
                            <li><a href="./doane_appendices_maps.html">Maps</a></li>
-                           <li><a href="./doane_journal.html#worksCited">Works Cited</a></li>
                            <li><a href="./doane_appendices_acknowledgements.html">Acknowledgements</a></li>
                            <li><a href="./doane_appendices_editors.html">About the Editors</a></li>
                         </ul>
@@ -550,7 +550,7 @@
       <hr style="border: 2px solid crimson;"/>
       <h2 id="edition">About the Electronic Edition</h2>
       <hr/>
-      <p><strong>Title</strong>: <xsl:value-of select="tei:title"/></p>
+      <p><strong>Preferred Citation</strong>: <xsl:value-of select="tei:title"/></p>
          <p><strong>Editors</strong>: <xsl:for-each select="tei:editor">
             <xsl:choose>
                <xsl:when test="current()=//tei:editor[1]">
